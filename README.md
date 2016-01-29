@@ -6,15 +6,20 @@ Ideally, we would want `MJD, Band, Instrument, Magnitude, Error, Upper limit` in
 
 Here's an example file for SN1937A:
 
-```Python
-# 1937PASP...49..204Z
-# JD Band Magnitude Instrument "Upper limit"
-2428521 mp 17.5 "18-inch Schmidt" true
-2428524 mp 17.5 "18-inch Schmidt" true
-2428581 mp 16.2 "18-inch Schmidt" false
-2428599 mp 16.7 "18-inch Schmidt" false
-2428600 mp 16.5 "18-inch Schmidt" false
-2428635 mp 16.9 "18-inch Schmidt" false
-2428636 mp 17.2 "18-inch Schmidt" false
-2428664 mp 17.5 "18-inch Schmidt" true
-2428667 mp 19.3 "18-inch Schmidt" false
+```JSON
+{
+  "SN1937A":{
+    "sources":[ { "bibcode":"1937PASP...49..204Z" } ],
+    "photometry":[
+      { "timeunit":"JD", "time":"2428521", "band":"Mp", "abmag":"17.5", "instrument":"18-inch Schmidt", "upperlimit":true },
+      { "timeunit":"JD", "time":"2428524", "band":"Mp", "abmag":"17.5", "instrument":"18-inch Schmidt", "upperlimit":true },
+      { "timeunit":"JD", "time":"2428581", "band":"Mp", "abmag":"16.2", "instrument":"18-inch Schmidt" },
+      { "timeunit":"JD", "time":"2428599", "band":"Mp", "abmag":"16.7", "instrument":"18-inch Schmidt" },
+      { "timeunit":"JD", "time":"2428600", "band":"Mp", "abmag":"16.5", "instrument":"18-inch Schmidt" },
+      { "timeunit":"JD", "time":"2428635", "band":"Mp", "abmag":"16.9", "instrument":"18-inch Schmidt" },
+      { "timeunit":"JD", "time":"2428636", "band":"Mp", "abmag":"17.2", "instrument":"18-inch Schmidt" },
+      { "timeunit":"JD", "time":"2428664", "band":"Mp", "abmag":"17.5", "instrument":"18-inch Schmidt", "upperlimit":true },
+      { "timeunit":"JD", "time":"2428667", "band":"Mp", "abmag":"19.3", "instrument":"18-inch Schmidt" }
+    ]
+  }
+}
