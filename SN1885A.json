@@ -1,0 +1,30 @@
+{
+	"SN1885A":{
+		"sources":[{"bibcode":"1885AN....113...21H"}],
+		"photometry":[
+			{"timeunit":"MJD","time":"9774","abmag":"11.3"},
+			{"timeunit":"MJD","time":"9775","abmag":"9.0"},
+			{"timeunit":"MJD","time":"9782","abmag":"9.0"},
+			{"timeunit":"MJD","time":"9784","abmag":"9.0"},
+			{"timeunit":"MJD","time":"9786","abmag":"9.2"},
+			{"timeunit":"MJD","time":"9787","abmag":"9.4"},
+			{"timeunit":"MJD","time":"9788","abmag":"9.5"},
+			{"timeunit":"MJD","time":"9790","abmag":"9.8"},
+			{"timeunit":"MJD","time":"9791","abmag":"9.9"},
+			{"timeunit":"MJD","time":"9792","abmag":"10.0"},
+			{"timeunit":"MJD","time":"9794","abmag":"10.1"},
+			{"timeunit":"MJD","time":"9800","abmag":"10.2"},
+			{"timeunit":"MJD","time":"9801","abmag":"10.3"},
+			{"timeunit":"MJD","time":"9802","abmag":"10.3"},
+			{"timeunit":"MJD","time":"9805","abmag":"10.5"},
+			{"timeunit":"MJD","time":"9810","abmag":"10.8"},
+			{"timeunit":"MJD","time":"9811","abmag":"10.9"},
+			{"timeunit":"MJD","time":"9813","abmag":"11.0"},
+			{"timeunit":"MJD","time":"9817","abmag":"11.3"},
+			{"timeunit":"MJD","time":"9827","abmag":"11.6"},
+			{"timeunit":"MJD","time":"9829","abmag":"11.7"},
+			{"timeunit":"MJD","time":"9831","abmag":"11.8"},
+			{"timeunit":"MJD","time":"9834","abmag":"11.9"}
+		]
+	}
+}
