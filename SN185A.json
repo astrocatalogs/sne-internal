@@ -1,0 +1,22 @@
+{
+  "SN185A":{
+    "name":"SN185A",
+    "aliases":[
+      "RCW 86"
+    ],
+    "sources":[
+      {
+        "name":"2011ApJ...741...96W",
+        "url":"http://adsabs.harvard.edu/abs/2011ApJ...741...96W",
+        "bibcode":"2011ApJ...741...96W",
+        "alias":"1"
+      }
+    ],
+    "host":[
+      {
+        "value":"Milky Way",
+        "source":"1"
+      }
+    ]
+  }
+}
