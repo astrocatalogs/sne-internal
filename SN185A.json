@@ -27,19 +27,19 @@
     ],
     "discoveryear":[
       {
-        "value":"185"
+        "value":"185",
         "source":"2"
       }
     ],
     "discovermonth":[
       {
-        "value":"12"
+        "value":"12",
         "source":"2"
       }
     ],
     "discoverday":[
       {
-        "value":"7"
+        "value":"7",
         "source":"2"
       }
     ]
