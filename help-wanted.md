@@ -10,6 +10,9 @@ Data that needs to be digitized:
 Books to check out:
 * http://adsabs.harvard.edu/abs/1965stst.conf..367Z
 
+This paper contains a ton of reference info for supernovae prior to 1980:
+* http://adsabs.harvard.edu/abs/1979AcC.....8....5F
+
 Metadata only (need to find light curve publication!):
 * SN1895B
 * SN1901A
