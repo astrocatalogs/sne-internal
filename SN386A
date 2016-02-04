@@ -1,0 +1,23 @@
+{
+  "SN386A":{
+    "name":"SN386A",
+    "aliases":[
+      "SN386A",
+      "G011.2-00.3"
+    ],
+    "sources":[
+      {
+        "name":"1966Sci...154..597Z",
+        "url":"http://adsabs.harvard.edu/abs/1966Sci...154..597Z",
+        "bibcode":"1966Sci...154..597Z",
+        "alias":"1"
+      }
+    ],
+    "host":[
+      {
+        "value":"Milky Way",
+        "source":"1"
+      }
+    ]
+  }
+}
