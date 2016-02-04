@@ -3,7 +3,8 @@
     "name":"SN393A",
     "aliases":[
       "SN393A",
-      "RX J1713.7-3946"
+      "RX J1713.7-3946",
+      "G347.3-0.5"
     ],
     "sources":[
       {
@@ -11,12 +12,36 @@
         "url":"http://adsabs.harvard.edu/abs/1966Sci...154..597Z",
         "bibcode":"1966Sci...154..597Z",
         "alias":"1"
+      },
+      {
+        "name":"2006Ap&SS.305..207W",
+        "url":"http://adsabs.harvard.edu/abs/2006Ap&SS.305..207W",
+        "bibcode":"2006Ap&SS.305..207W",
+        "alias":"2"
       }
     ],
     "host":[
       {
         "value":"Milky Way",
         "source":"1"
+      }
+    ],
+    "discoveryear":[
+      {
+        "value":"393",
+        "source":"2"
+      }
+    ],
+    "discovermonth":[
+      {
+        "value":"2",
+        "source":"2"
+      }
+    ],
+    "discoverday":[
+      {
+        "value":"27",
+        "source":"2"
       }
     ]
   }
