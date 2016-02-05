@@ -9,6 +9,7 @@ Tables that needs to be digitized:
 * A few data points for several more SN sprinkled throughout: http://adsabs.harvard.edu/abs/1938ApJ....88..285B
 
 Plots that need to be digitized:
+* SN1054A: http://adsabs.harvard.edu/abs/1999PASP..111..871C
 * Several SN: http://www.jstor.org/stable/984985?seq=1#page_scan_tab_contents
 
 Books to check out:
