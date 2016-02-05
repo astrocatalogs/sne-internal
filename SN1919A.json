@@ -1,1 +1,11 @@
+{
+  "SN1919A":{
+    "sources":[ { "bibcode":"1936PASP...48..226B" } ],
+    "photometry":[
+      { "timeunit":"MJD", "time":"22013", "magnitude":"11.5" },
+      { "timeunit":"MJD", "time":"22039", "magnitude":"12.2" },
+      { "timeunit":"MJD", "time":"22408", "magnitude":"11.0" }
+    ]
+  }
+}
 
