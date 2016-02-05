@@ -4,6 +4,31 @@
     "aliases":[
       "SN1604A",
       "Kepler"
+    ],
+    "sources":[
+      {
+        "name":"Discorso, nel quale si dimostra, che la nuova stella apparita l'Ottobre 1604 non e cometa, ne stella... creata di nuovo... ma una di quelle, che furono da principio nel cielo.",
+        "url":"https://books.google.com/books?id=ocdZAAAAcAAJ&ots=AtS1q4sGaV&dq=Discorso%20di%20Lodovico%20Delle%20Colombe%20nel%20quale%20si%20dimostra%20che%20la%20nuova%20Stella%20apparita%20l%E2%80%99Ottobre%20passato%201604%20nel%20Sagittario%20non%20%C3%A8%20Cometa%2C%20ne%20stella%20generata%2C%20%C3%B2%20creata%20di%20nuovo%2C%20ne%20apparente%3A%20ma%20una%20di%20quelle%20che%20furono%20da%20principio%20nel%20cielo%3B%20e%20ci%C3%B2%20es&lr&pg=PT4#v=onepage&q&f=false",
+        "alias":"1"
+      }
+    ],
+    "discoveryear":[
+      {
+        "value":"1604",
+        "source":"1"
+      }
+    ],
+    "discovermonth":[
+      {
+        "value":"10",
+        "source":"1"
+      }
+    ],
+    "discoverday":[
+      {
+        "value":"9",
+        "source":"1"
+      }
     ]
   }
 }
