@@ -1,0 +1,17 @@
+{
+  "SN1936A":{
+    "sources":[ { "bibcode":"1936PASP...48..226B" } ],
+    "photometry":[
+      { "timeunit":"MJD", "time":"28168", "magnitude":"17.0", "instrument":"10-inch" },
+      { "timeunit":"MJD", "time":"28189", "magnitude":"14.84", "instrument":"10-inch" },
+      { "timeunit":"MJD", "time":"28215", "magnitude":"15.87", "instrument":"100-inch" },
+      { "timeunit":"MJD", "time":"28223", "magnitude":"16.08", "instrument":"60-inch" },
+      { "timeunit":"MJD", "time":"28251", "magnitude":"16.76", "instrument":"60-inch" },
+      { "timeunit":"MJD", "time":"28274", "magnitude":"17.14", "instrument":"100-inch" },
+      { "timeunit":"MJD", "time":"28284", "magnitude":"17.79", "instrument":"60-inch" },
+      { "timeunit":"MJD", "time":"28302", "magnitude":"18.99", "instrument":"100-inch" },
+      { "timeunit":"MJD", "time":"28310", "magnitude":"18.97", "instrument":"100-inch" },
+      { "timeunit":"MJD", "time":"28311", "magnitude":"19.24", "instrument":"100-inch" }
+    ]
+  }
+}
