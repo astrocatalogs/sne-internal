@@ -4,6 +4,32 @@
     "aliases":[
       "SN1572A",
       "Tycho"
+    ],
+    "sources":[
+      {
+        "name":"2004ApJ...612..357R",
+        "url":"http://adsabs.harvard.edu/abs/2004ApJ...612..357R",
+        "bibcode":"2004ApJ...612..357R",
+        "alias":"1"
+      }
+    ],
+    "discoveryear":[
+      {
+        "value":"1572",
+        "source":"1"
+      }
+    ],
+    "discovermonth":[
+      {
+        "value":"11",
+        "source":"1"
+      }
+    ],
+    "discoverday":[
+      {
+        "value":"6",
+        "source":"1"
+      }
     ]
   }
 }
