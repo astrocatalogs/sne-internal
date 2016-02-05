@@ -1,7 +1,7 @@
 List of SNe, with publications within which light curve data is contained (if known). Please help us find this missing data!
 
 Tables that needs to be digitized:
-* SN1572A: http://adsabs.harvard.edu/abs/2004ApJ...612..357R (Table 2, note: use "timeerror" for date errors)
+* SN1572A: http://adsabs.harvard.edu/abs/2004ApJ...612..357R (Table 2, note: use "e_time" tag for date errors)
 * SN1919A: http://adsabs.harvard.edu/abs/1922AN....215..215B (German, three points only)
 * SN1969L: http://adsabs.harvard.edu/abs/1971MmSAI..42..163C (Table 6, spectra also available)
 * SN1978K: http://adsabs.harvard.edu/abs/1993ApJ...416..167R (Table 1)
