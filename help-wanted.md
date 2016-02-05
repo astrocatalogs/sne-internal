@@ -6,6 +6,7 @@ Tables that needs to be digitized:
 * A few data points for several more SN sprinkled throughout: http://adsabs.harvard.edu/abs/1938ApJ....88..285B
 * SN1604A: http://adsabs.harvard.edu/abs/1943ApJ....97..119B (Table 4)
 * SN1572A: http://adsabs.harvard.edu/abs/2004ApJ...612..357R (Table 2, note: use "e_time" tag for date errors)
+* Several supernovae here (some already in catalog): http://www.osti.gov/scitech/biblio/4231395
 
 Plots that need to be digitized:
 * Several SN: http://www.jstor.org/stable/984985?seq=1#page_scan_tab_contents
