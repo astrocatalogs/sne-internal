@@ -6,6 +6,7 @@ Tables that needs to be digitized:
 * SN1965L: http://adsabs.harvard.edu/abs/1971MmSAI..42..145C (Table 2)
 * SN1969L: http://adsabs.harvard.edu/abs/1971MmSAI..42..163C (Table 6, spectra also available)
 * SN1978K: http://adsabs.harvard.edu/abs/1993ApJ...416..167R (Table 1)
+* A few data points for several more SN sprinkled throughout: http://adsabs.harvard.edu/abs/1938ApJ....88..285B
 
 Plots that need to be digitized:
 * Several SN: http://www.jstor.org/stable/984985?seq=1#page_scan_tab_contents
