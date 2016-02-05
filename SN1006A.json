@@ -1,3 +1,35 @@
 {
-
+  "SN1006A":{
+    "name":"SN1006A",
+    "aliases":[
+      "SN1006A"
+    ],
+    "sources":[
+      {
+        "name":"2015AN....336..249R",
+        "url":"http://adsabs.harvard.edu/abs/2015AN....336..249R",
+        "bibcode":"2015AN....336..249R",
+        "alias":"1"
+      }
+    ]
+    "discoveryear":[
+      {
+        "value":1006,
+        "source":"1"
+      }
+    ]
+    "discovermonth":[
+      {
+        "value":"4",
+        "source":"1"
+      }
+    ]
+    "discoverday":[
+      {
+        "value":"17",
+        "error":"2",
+        "source":"1"
+      }
+    ]
+  }
 }
