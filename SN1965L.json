@@ -1,0 +1,15 @@
+{
+  "SN1965L":{
+    "sources":[ { "bibcode":"1971MmSAI..42..145C" } ],
+    "photometry":[
+      { "timeunit":"MJD", "time":"39037", "magnitude":"15.95" },
+      { "timeunit":"MJD", "time":"39038", "magnitude":"16.15" },
+      { "timeunit":"MJD", "time":"39055", "magnitude":"16.45" },
+      { "timeunit":"MJD", "time":"39062", "magnitude":"16.55" },
+      { "timeunit":"MJD", "time":"39093", "magnitude":"18.40" },
+      { "timeunit":"MJD", "time":"39125", "magnitude":"18.80" },
+      { "timeunit":"MJD", "time":"39205", "magnitude":"19.20" },
+      { "timeunit":"MJD", "time":"39206", "magnitude":"19.20" }
+    ]
+  }
+}
