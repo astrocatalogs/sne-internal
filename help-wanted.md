@@ -3,7 +3,7 @@ List of SNe, with publications within which light curve data is contained (if kn
 Tables that needs to be digitized:
 * SN1919A: http://adsabs.harvard.edu/abs/1922AN....215..215B (German, three points only)
 * SN1936A: http://adsabs.harvard.edu/abs/1936PASP...48..226B (Table 1) **DONE**
-* SN1965L: http://adsabs.harvard.edu/abs/1971MmSAI..42..145C (Table 2)
+* SN1965L: http://adsabs.harvard.edu/abs/1971MmSAI..42..145C (Table 2) **DONE**
 * SN1969L: http://adsabs.harvard.edu/abs/1971MmSAI..42..163C (Table 6, spectra also available)
 * SN1978K: http://adsabs.harvard.edu/abs/1993ApJ...416..167R (Table 1)
 * A few data points for several more SN sprinkled throughout: http://adsabs.harvard.edu/abs/1938ApJ....88..285B
