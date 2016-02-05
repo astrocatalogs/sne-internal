@@ -1,5 +1,5 @@
 {
-  "SN1965L.json": {
+  "SN1965L":{
     "sources":[ { "bibcode":"1971MmSAI..42..145C" } ],
     "photometry":[
       { "timeunit":"MJD", "time":"39037", "magnitude":"15.95" },
