@@ -13,21 +13,9 @@
         "alias":"1"
       }
     ],
-    "discoveryear":[
+    "discoverdate":[
       {
-        "value":"1572",
-        "source":"1"
-      }
-    ],
-    "discovermonth":[
-      {
-        "value":"11",
-        "source":"1"
-      }
-    ],
-    "discoverday":[
-      {
-        "value":"6",
+        "value":"1572/11/06",
         "source":"1"
       }
     ]

@@ -18,6 +18,12 @@
         "value":"Milky Way",
         "source":"1"
       }
+    ],
+    "discoverdate":[
+      {
+        "value":"386"
+        "source":"1"
+      }
     ]
   }
 }

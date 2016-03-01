@@ -25,21 +25,9 @@
         "source":"1"
       }
     ],
-    "discoveryear":[
+    "discoverdate":[
       {
-        "value":"185",
-        "source":"2"
-      }
-    ],
-    "discovermonth":[
-      {
-        "value":"12",
-        "source":"2"
-      }
-    ],
-    "discoverday":[
-      {
-        "value":"7",
+        "value":"185/12/07",
         "source":"2"
       }
     ]

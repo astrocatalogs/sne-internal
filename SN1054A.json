@@ -12,21 +12,9 @@
         "alias":"1"
       }
     ],
-    "discoveryear":[
+    "discoverdate":[
       {
-        "value":"1054",
-        "source":"1"
-      }
-    ],
-    "discovermonth":[
-      {
-        "value":"7",
-        "source":"1"
-      }
-    ],
-    "discoverday":[
-      {
-        "value":"4",
+        "value":"1054/07/04",
         "source":"1"
       }
     ]
