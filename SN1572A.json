@@ -26,6 +26,8 @@
         "band":"V",
         "magnitude":"5",
         "upperlimit":true,
+        "instrument":"By eye",
+        "observer":"Jerónimo Muñoz",
         "source":"1"
       },
       {
@@ -34,6 +36,8 @@
         "band":"V",
         "magnitude":"-3",
         "e_magnitude":"0.3",
+        "observer":"Jerónimo Muñoz",
+        "instrument":"By eye",
         "source":"1"
       },
       {
@@ -42,6 +46,8 @@
         "band":"V",
         "magnitude":"-3.2",
         "e_magnitude":"0.3",
+        "observer":"Tycho Brahe",
+        "instrument":"By eye",
         "source":"1"
       },
       {
@@ -51,6 +57,8 @@
         "band":"V",
         "magnitude":"-4.0",
         "e_magnitude":"0.3",
+        "observer":"Tycho Brahe",
+        "instrument":"By eye",
         "source":"1"
       },
       {
@@ -60,6 +68,7 @@
         "band":"B",
         "magnitude":"-3.18",
         "e_magnitude":"0.39",
+        "instrument":"By eye",
         "source":"1"
       },
       {
@@ -69,6 +78,7 @@
         "band":"B",
         "magnitude":"-2.2",
         "e_magnitude":"0.39",
+        "instrument":"By eye",
         "source":"1"
       },
       {
@@ -79,6 +89,7 @@
         "band":"B",
         "magnitude":"-2.0",
         "e_magnitude":"0.39",
+        "instrument":"By eye",
         "source":"1"
       },
       {
@@ -88,6 +99,8 @@
         "band":"V",
         "magnitude":"-2.4",
         "e_magnitude":"0.3",
+        "observer":"Tycho Brahe",
+        "instrument":"By eye",
         "source":"1"
       },
       {
@@ -97,6 +110,7 @@
         "band":"B",
         "magnitude":"-0.33",
         "e_magnitude":"0.43",
+        "instrument":"By eye",
         "source":"1"
       },
       {
@@ -105,6 +119,8 @@
         "band":"V",
         "magnitude":"-2",
         "upperlimit":true,
+        "instrument":"By eye",
+        "observer":"Jerónimo Muñoz",
         "source":"1"
       },
       {
@@ -114,6 +130,7 @@
         "band":"V",
         "magnitude":"-1.4",
         "e_magnitude":"0.4",
+        "instrument":"By eye",
         "source":"1"
       },
       {
@@ -123,6 +140,7 @@
         "band":"B",
         "magnitude":"-0.04",
         "e_magnitude":"0.45",
+        "instrument":"By eye",
         "source":"1"
       },
       {
@@ -132,6 +150,7 @@
         "band":"B",
         "magnitude":"1.12",
         "e_magnitude":"0.32",
+        "instrument":"By eye",
         "source":"1"
       },
       {
@@ -141,6 +160,7 @@
         "band":"V",
         "magnitude":"0.3",
         "e_magnitude":"0.2",
+        "instrument":"By eye",
         "source":"1"
       },
       {
@@ -150,6 +170,7 @@
         "band":"V",
         "magnitude":"1.6",
         "e_magnitude":"0.5",
+        "instrument":"By eye",
         "source":"1"
       },
       {
@@ -159,6 +180,7 @@
         "band":"B",
         "magnitude":"2.56",
         "e_magnitude":"0.54",
+        "instrument":"By eye",
         "source":"1"
       },
       {
@@ -168,6 +190,8 @@
         "band":"V",
         "magnitude":"2.5",
         "e_magnitude":"0.2",
+        "observer":"Tycho Brahe",
+        "instrument":"By eye",
         "source":"1"
       },
       {
@@ -177,6 +201,7 @@
         "band":"V",
         "magnitude":"4.0",
         "e_magnitude":"0.2",
+        "instrument":"By eye",
         "source":"1"
       },
       {
@@ -186,6 +211,7 @@
         "band":"V",
         "magnitude":"4.2",
         "e_magnitude":"0.2",
+        "instrument":"By eye",
         "source":"1"
       },
       {
@@ -195,6 +221,7 @@
         "band":"V",
         "magnitude":"4.7",
         "e_magnitude":"0.2",
+        "instrument":"By eye",
         "source":"1"
       },
       {
@@ -204,6 +231,7 @@
         "band":"V",
         "magnitude":"5.3",
         "e_magnitude":"0.4",
+        "instrument":"By eye",
         "source":"1"
       },
       {
@@ -213,6 +241,8 @@
         "band":"V",
         "magnitude":"6",
         "upperlimit":true,
+        "instrument":"By eye",
+        "observer":"Tycho Brahe",
         "source":"1"
       }
     ]
