@@ -26,8 +26,8 @@
         "band":"V",
         "magnitude":"5",
         "upperlimit":true,
-        "instrument":"By eye",
         "observer":"Jerónimo Muñoz",
+        "instrument":"By eye",
         "source":"1"
       },
       {
@@ -89,6 +89,7 @@
         "band":"B",
         "magnitude":"-2.0",
         "e_magnitude":"0.39",
+        "observer":"Jerónimo Muñoz",
         "instrument":"By eye",
         "source":"1"
       },
@@ -110,6 +111,7 @@
         "band":"B",
         "magnitude":"-0.33",
         "e_magnitude":"0.43",
+        "observer":"Tycho Brahe",
         "instrument":"By eye",
         "source":"1"
       },
@@ -119,8 +121,8 @@
         "band":"V",
         "magnitude":"-2",
         "upperlimit":true,
-        "instrument":"By eye",
         "observer":"Jerónimo Muñoz",
+        "instrument":"By eye",
         "source":"1"
       },
       {
@@ -140,6 +142,7 @@
         "band":"B",
         "magnitude":"-0.04",
         "e_magnitude":"0.45",
+        "observer":"Johannes Prātorius",
         "instrument":"By eye",
         "source":"1"
       },
@@ -150,6 +153,7 @@
         "band":"B",
         "magnitude":"1.12",
         "e_magnitude":"0.32",
+        "observer":"Michael Mästlin",
         "instrument":"By eye",
         "source":"1"
       },
@@ -180,6 +184,7 @@
         "band":"B",
         "magnitude":"2.56",
         "e_magnitude":"0.54",
+        "observer":"Tycho Brahe",
         "instrument":"By eye",
         "source":"1"
       },
