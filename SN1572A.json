@@ -55,11 +55,48 @@
       },
       {
         "timeunit":"JD",
+        "time":"2295555.5",
+        "e_time":"7",
+        "band":"B",
+        "magnitude":"-3.18",
+        "e_magnitude":"0.39",
+        "source":"1"
+      },
+      {
+        "timeunit":"JD",
+        "time":"2295565.5",
+        "e_time":"5",
+        "band":"B",
+        "magnitude":"-2.2",
+        "e_magnitude":"0.39",
+        "source":"1"
+      },
+      {
+        "timeunit":"JD",
+        "time":"2295566.5",
+        "e_lower_time":"22",
+        "e_upper_time":"7",
+        "band":"B",
+        "magnitude":"-2.0",
+        "e_magnitude":"0.39",
+        "source":"1"
+      },
+      {
+        "timeunit":"JD",
         "time":"2295579.5",
         "e_time":"7",
         "band":"V",
         "magnitude":"-2.4",
         "e_magnitude":"0.3",
+        "source":"1"
+      },
+      {
+        "timeunit":"JD",
+        "time":"2295596.5",
+        "e_time":"7",
+        "band":"B",
+        "magnitude":"-0.33",
+        "e_magnitude":"0.43",
         "source":"1"
       },
       {
@@ -81,7 +118,25 @@
       },
       {
         "timeunit":"JD",
-        "time":"2457451.5",
+        "time":"2295610.5",
+        "e_time":"7",
+        "band":"B",
+        "magnitude":"-0.04",
+        "e_magnitude":"0.45",
+        "source":"1"
+      },
+      {
+        "timeunit":"JD",
+        "time":"2295654.5",
+        "e_time":"7",
+        "band":"B",
+        "magnitude":"1.12",
+        "e_magnitude":"0.32",
+        "source":"1"
+      },
+      {
+        "timeunit":"JD",
+        "time":"2295656.5",
         "e_time":"14",
         "band":"V",
         "magnitude":"0.3",
@@ -90,11 +145,20 @@
       },
       {
         "timeunit":"JD",
-        "time":"2457451.5",
+        "time":"2295716.5",
         "e_time":"14",
         "band":"V",
         "magnitude":"1.6",
         "e_magnitude":"0.5",
+        "source":"1"
+      },
+      {
+        "timeunit":"JD",
+        "time":"2295730.5",
+        "e_time":"7",
+        "band":"B",
+        "magnitude":"2.56",
+        "e_magnitude":"0.54",
         "source":"1"
       },
       {
