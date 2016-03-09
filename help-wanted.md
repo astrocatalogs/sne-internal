@@ -10,5 +10,6 @@ Tables that needs to be digitized:
 
 Plots that need to be digitized:
 * Several SN: http://www.jstor.org/stable/984985?seq=1#page_scan_tab_contents
+* SN1604A: http://arxiv.org/abs/astro-ph/0301603
 
 This paper contains a ton of reference info for supernovae prior to 1980, look for references marked "l. c." to find publications with light curve data: http://adsabs.harvard.edu/abs/1979AcC.....8....5F
