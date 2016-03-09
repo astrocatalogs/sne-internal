@@ -6,6 +6,7 @@ Tables that needs to be digitized:
 * A few data points for several more SN sprinkled throughout: http://adsabs.harvard.edu/abs/1938ApJ....88..285B
 * SN1604A: http://adsabs.harvard.edu/abs/1943ApJ....97..119B (Table 4)
 * 2012MNRAS.425.1007B: http://mnras.oxfordjournals.org/content/425/2/1007/F1.expansion.html
+* PS1-10afx: http://adsabs.harvard.edu/abs/2013ApJ...767..162C
 
 Plots that need to be digitized:
 * Several SN: http://www.jstor.org/stable/984985?seq=1#page_scan_tab_contents
