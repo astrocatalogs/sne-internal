@@ -245,6 +245,146 @@
         "instrument":"By eye",
         "source":"2"
       },
+      {
+        "timeunit":"JD",
+        "time":"2307195.5",
+        "band":"V",
+        "magnitude":"-1.1",
+        "e_magnitude":"0.25",
+        "observer":"Korean astronomers",
+        "instrument":"By eye",
+        "source":"2"
+      },
+      {
+        "timeunit":"JD",
+        "time":"2307197.5",
+        "band":"V",
+        "magnitude":"-1.45",
+        "e_magnitude":"0.25",
+        "observer":"Korean astronomers",
+        "instrument":"By eye",
+        "source":"2"
+      },
+      {
+        "timeunit":"JD",
+        "time":"2307199.5",
+        "band":"V",
+        "magnitude":"-1.8",
+        "e_magnitude":"0.25",
+        "observer":"Korean astronomers",
+        "instrument":"By eye",
+        "source":"2"
+      },
+      {
+        "timeunit":"JD",
+        "time":"2307200.5",
+        "band":"V",
+        "magnitude":"-2.55",
+        "e_magnitude":"0.25",
+        "observer":"Korean astronomers",
+        "instrument":"By eye",
+        "source":"2"
+      },
+      {
+        "timeunit":"JD",
+        "time":"2307209.5",
+        "band":"V",
+        "magnitude":"-2.95",
+        "e_magnitude":"0.25",
+        "observer":"Korean astronomers",
+        "instrument":"By eye",
+        "source":"2"
+      },
+      {
+        "timeunit":"JD",
+        "time":"2307217.5",
+        "band":"V",
+        "magnitude":"-2.95",
+        "e_magnitude":"0.25",
+        "observer":"Korean astronomers",
+        "instrument":"By eye",
+        "source":"2"
+      },
+      {
+        "timeunit":"JD",
+        "time":"2307222.5",
+        "band":"V",
+        "magnitude":"-1.95",
+        "e_magnitude":"0.25",
+        "observer":"Korean astronomers",
+        "instrument":"By eye",
+        "source":"2"
+      },
+      {
+        "timeunit":"JD",
+        "time":"2307226.5",
+        "band":"V",
+        "magnitude":"-1.7",
+        "e_magnitude":"0.25",
+        "observer":"Korean astronomers",
+        "instrument":"By eye",
+        "source":"2"
+      },
+      {
+        "timeunit":"JD",
+        "time":"2307228.5",
+        "band":"V",
+        "magnitude":"-1.35",
+        "e_magnitude":"0.25",
+        "observer":"Korean astronomers",
+        "instrument":"By eye",
+        "source":"2"
+      },
+      {
+        "timeunit":"JD",
+        "time":"2307293.5",
+        "band":"V",
+        "magnitude":"0.8",
+        "e_magnitude":"0.25",
+        "observer":"Korean astronomers",
+        "instrument":"By eye",
+        "source":"2"
+      },
+      {
+        "timeunit":"JD",
+        "time":"2307308.5",
+        "band":"V",
+        "magnitude":"1.55",
+        "e_magnitude":"0.25",
+        "observer":"Korean astronomers",
+        "instrument":"By eye",
+        "source":"2"
+      },
+      {
+        "timeunit":"JD",
+        "time":"2307323.5",
+        "band":"V",
+        "magnitude":"1.95",
+        "e_magnitude":"0.25",
+        "observer":"Korean astronomers",
+        "instrument":"By eye",
+        "source":"2"
+      },
+      {
+        "timeunit":"JD",
+        "time":"2307327.5",
+        "band":"V",
+        "magnitude":"2.3",
+        "e_magnitude":"0.25",
+        "observer":"Korean astronomers",
+        "instrument":"By eye",
+        "source":"2"
+      },
+      {
+        "timeunit":"JD",
+        "time":"2307387.5",
+        "band":"V",
+        "magnitude":"2.9",
+        "e_magnitude":"0.25",
+        "observer":"Korean astronomers",
+        "instrument":"By eye",
+        "source":"2"
+      }
     ]
   }
 }
