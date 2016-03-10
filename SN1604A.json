@@ -16,12 +16,26 @@
         "bibcode":"1977hisu.book.....C",
         "url":"http://adsabs.harvard.edu/abs/1977hisu.book.....C",
         "alias":"2"
+      },
+      {
+        "name":"2016ApJ...817...36S",
+        "bibcode":"2016ApJ...817...36S",
+        "url":"http://adsabs.harvard.edu/abs/2016ApJ...817...36S",
+        "alias":"3"
       }
     ],
     "discoverdate":[
       {
         "value":"1604/10/09",
         "source":"1"
+      }
+    ],
+    "lumdist":[
+      {
+        "value":"0.0051",
+        "e_lower_value":"0.7",
+        "e_upper_value":"0.8",
+        "source":"3"
       }
     ],
     "photometry":[
