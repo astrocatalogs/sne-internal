@@ -12,9 +12,9 @@
         "alias":"1"
       },
       {
-        "name":"2003LNP...598....7G",
-        "bibcode":"2003LNP...598....7G",
-        "url":"http://adsabs.harvard.edu/abs/2003LNP...598....7G",
+        "name":"1977hisu.book.....C",
+        "bibcode":"1977hisu.book.....C",
+        "url":"http://adsabs.harvard.edu/abs/1977hisu.book.....C",
         "alias":"2"
       }
     ],
@@ -31,6 +31,216 @@
         "band":"V",
         "magnitude":"3",
         "upperlimit":true,
+        "observer":"European astronomers",
+        "instrument":"By eye",
+        "source":"2"
+      },
+      {
+        "timeunit":"JD",
+        "time":"2307190.5",
+        "band":"V",
+        "magnitude":"0.9",
+        "e_magnitude":"0.25",
+        "observer":"European astronomers",
+        "instrument":"By eye",
+        "source":"2"
+      },
+      {
+        "timeunit":"JD",
+        "time":"2307191.5",
+        "band":"V",
+        "magnitude":"0.5",
+        "e_magnitude":"0.25",
+        "observer":"European astronomers",
+        "instrument":"By eye",
+        "source":"2"
+      },
+      {
+        "timeunit":"JD",
+        "time":"2307192.5",
+        "band":"V",
+        "magnitude":"-0.7",
+        "e_magnitude":"0.25",
+        "observer":"European astronomers",
+        "instrument":"By eye",
+        "source":"2"
+      },
+      {
+        "timeunit":"JD",
+        "time":"2307193.5",
+        "band":"V",
+        "magnitude":"-1.5",
+        "e_magnitude":"0.25",
+        "observer":"European astronomers",
+        "instrument":"By eye",
+        "source":"2"
+      },
+      {
+        "timeunit":"JD",
+        "time":"2307196.5",
+        "band":"V",
+        "magnitude":"-2.2",
+        "e_magnitude":"0.25",
+        "observer":"European astronomers",
+        "instrument":"By eye",
+        "source":"2"
+      },
+      {
+        "timeunit":"JD",
+        "time":"2307198.5",
+        "band":"V",
+        "magnitude":"-2.6",
+        "e_magnitude":"0.25",
+        "observer":"European astronomers",
+        "instrument":"By eye",
+        "source":"2"
+      },
+      {
+        "timeunit":"JD",
+        "time":"2307276.5",
+        "band":"V",
+        "magnitude":"1.05",
+        "e_magnitude":"0.25",
+        "observer":"European astronomers",
+        "instrument":"By eye",
+        "source":"2"
+      },
+      {
+        "timeunit":"JD",
+        "time":"2307277.5",
+        "band":"V",
+        "magnitude":"0.0",
+        "e_magnitude":"0.25",
+        "observer":"European astronomers",
+        "instrument":"By eye",
+        "source":"2"
+      },
+      {
+        "timeunit":"JD",
+        "time":"2307285.5",
+        "band":"V",
+        "magnitude":"1.55",
+        "e_magnitude":"0.25",
+        "observer":"European astronomers",
+        "instrument":"By eye",
+        "source":"2"
+      },
+      {
+        "timeunit":"JD",
+        "time":"2307285.5",
+        "band":"V",
+        "magnitude":"0.5",
+        "e_magnitude":"0.25",
+        "observer":"European astronomers",
+        "instrument":"By eye",
+        "source":"2"
+      },
+      {
+        "timeunit":"JD",
+        "time":"2307294.5",
+        "band":"V",
+        "magnitude":"0.5",
+        "e_magnitude":"0.25",
+        "observer":"European astronomers",
+        "instrument":"By eye",
+        "source":"2"
+      },
+      {
+        "timeunit":"JD",
+        "time":"2307303.5",
+        "band":"V",
+        "magnitude":"1.2",
+        "e_magnitude":"0.25",
+        "observer":"European astronomers",
+        "instrument":"By eye",
+        "source":"2"
+      },
+      {
+        "timeunit":"JD",
+        "time":"2307353.5",
+        "band":"V",
+        "magnitude":"2.25",
+        "e_magnitude":"0.25",
+        "observer":"European astronomers",
+        "instrument":"By eye",
+        "source":"2"
+      },
+      {
+        "timeunit":"JD",
+        "time":"2307360.5",
+        "band":"V",
+        "magnitude":"2.25",
+        "e_magnitude":"0.25",
+        "observer":"European astronomers",
+        "instrument":"By eye",
+        "source":"2"
+      },
+      {
+        "timeunit":"JD",
+        "time":"2307361.5",
+        "band":"V",
+        "magnitude":"2.25",
+        "e_magnitude":"0.25",
+        "observer":"European astronomers",
+        "instrument":"By eye",
+        "source":"2"
+      },
+      {
+        "timeunit":"JD",
+        "time":"2307376.5",
+        "band":"V",
+        "magnitude":"2.40",
+        "e_magnitude":"0.25",
+        "observer":"European astronomers",
+        "instrument":"By eye",
+        "source":"2"
+      },
+      {
+        "timeunit":"JD",
+        "time":"2307385.5",
+        "band":"V",
+        "magnitude":"2.45",
+        "e_magnitude":"0.25",
+        "observer":"European astronomers",
+        "instrument":"By eye",
+        "source":"2"
+      },
+      {
+        "timeunit":"JD",
+        "time":"2307499.5",
+        "band":"V",
+        "magnitude":"4.45",
+        "e_magnitude":"0.25",
+        "observer":"European astronomers",
+        "instrument":"By eye",
+        "source":"2"
+      },
+      {
+        "timeunit":"JD",
+        "time":"2307515.5",
+        "band":"V",
+        "magnitude":"4.45",
+        "e_magnitude":"0.25",
+        "observer":"European astronomers",
+        "instrument":"By eye",
+        "source":"2"
+      },
+      {
+        "timeunit":"JD",
+        "time":"2307530.5",
+        "band":"V",
+        "magnitude":"4.95",
+        "e_magnitude":"0.25",
+        "observer":"European astronomers",
+        "instrument":"By eye",
+        "source":"2"
+      },
+      {
+        "timeunit":"JD",
+        "time":"2307545.5",
+        "band":"V",
+        "magnitude":"4.7",
+        "e_magnitude":"0.25",
         "observer":"European astronomers",
         "instrument":"By eye",
         "source":"2"
