@@ -10,11 +10,41 @@
         "url":"http://adsabs.harvard.edu/abs/2015AN....336..249R",
         "bibcode":"2015AN....336..249R",
         "alias":"1"
+      },
+      {
+        "name":"1996ApJ...459..438S",
+        "url":"http://adsabs.harvard.edu/abs/1996ApJ...459..438S",
+        "bibcode":"1996ApJ...459..438S",
+        "alias":"2"
       }
     ],
     "discoverdate":[
       {
         "value":"1006/04/17",
+        "source":"1"
+      }
+    ],
+    "photometry":[
+      {
+        "timeunit":"JD",
+        "time":"2088713.5",
+        "e_time":"5",
+        "band":"V",
+        "magnitude":"0.5",
+        "e_magnitude":"1.5",
+        "observer":"Iraqi astronomers",
+        "instrument":"By eye",
+        "source":"1"
+      },
+      {
+        "timeunit":"JD",
+        "time":"2088713.5",
+        "e_time":"5",
+        "band":"V",
+        "magnitude":"0.5",
+        "e_magnitude":"1.5",
+        "observer":"Iraqi astronomers",
+        "instrument":"By eye",
         "source":"1"
       }
     ]
