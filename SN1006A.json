@@ -34,18 +34,51 @@
         "e_magnitude":"1.5",
         "observer":"Iraqi astronomers",
         "instrument":"By eye",
-        "source":"1"
+        "source":"2"
       },
       {
         "timeunit":"JD",
-        "time":"2088713.5",
-        "e_time":"5",
+        "time":"2088751.5",
+        "e_time":"14",
         "band":"V",
-        "magnitude":"0.5",
-        "e_magnitude":"1.5",
-        "observer":"Iraqi astronomers",
+        "magnitude":"-6",
+        "e_magnitude":"2",
+        "upperlimit":true,
+        "observer":"Chinese astronomers",
         "instrument":"By eye",
-        "source":"1"
+        "source":"2"
+      },
+      {
+        "timeunit":"JD",
+        "time":"2088740.5",
+        "band":"V",
+        "magnitude":"-0.8",
+        "e_magnitude":"0.8",
+        "observer":"Egyptian astronomers",
+        "instrument":"By eye",
+        "source":"2"
+      },
+      {
+        "timeunit":"JD",
+        "time":"2088840.5",
+        "e_time":"14",
+        "band":"V",
+        "magnitude":"-0.3",
+        "e_magnitude":"1",
+        "lowerlimit":true,
+        "observer":"Chinese astronomers",
+        "instrument":"By eye",
+        "source":"2"
+      },
+      {
+        "timeunit":"JD",
+        "time":"2088828.5",
+        "band":"V",
+        "magnitude":"0.2",
+        "e_magnitude":"1",
+        "observer":"Chinese astronomers",
+        "instrument":"By eye",
+        "source":"2"
       }
     ]
   }
