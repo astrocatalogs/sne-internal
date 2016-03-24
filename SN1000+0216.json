@@ -1,0 +1,35 @@
+{
+	"SN1000+0216":{
+		"name":"SN1000+0216",
+		"aliases":[
+			"SN1000+0216"
+		],
+		"sources":[
+			{
+				"name":"Cooke et al. (2012)",
+				"url":"http://adsabs.harvard.edu/abs/2012Natur.491..228C",
+				"bibcode":"2012Natur.491..228C",
+				"alias":"1"
+			}
+		],
+		"ra":[
+			{
+				"value":"10:00:05.862",
+				"source":"1"
+			}
+		],
+		"dec":[
+			{
+				"value":"02:16:23.621",
+				"source":"1"
+			}
+		],
+		"redshift":[
+			{
+				"value":"3.8993",
+				"error":"0.0074",
+				"source":"1"
+			}
+		]
+	}
+}
