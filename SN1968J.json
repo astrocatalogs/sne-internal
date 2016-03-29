@@ -1,0 +1,22 @@
+{
+	"SN1968J":{
+		"name":"SN1968J",
+		"aliases":[
+			"SN1968J"
+		],
+		"sources":[
+			{
+				"name":"2013Ap.....56..153A",
+				"url":"http://adsabs.harvard.edu/abs/2013Ap.....56..153A",
+				"bibcode":"2013Ap.....56..153A",
+				"alias":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"Ia",
+				"source":"1"
+			}
+		]
+	}
+}
