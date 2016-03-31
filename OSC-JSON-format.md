@@ -21,6 +21,8 @@ To comply with the standard, the object should contain a "name" key and an "alia
 }
 ```
 
+As JSON is a serialized format, *field order does not matter*, but the OSC's import scripts will automatically organize the data in the output JSON files to make them more readable (for instance we sort photometry and spectra within each file by date, the data quanta fields by name, etc.).
+
 Sources are extremely important in the OSC, and every single piece of data added to an event JSON file **must have a source attribution**, with the sole exception of the supernova name, aliases, and the sources themselves. Published data sources are preferred over secondary sources (the OSC falls into a secondary source category), but if the data was collected by a secondary source intermediate to being added to the OSC, these sources should also be attributed in the source list.
 
 Sources of data contain five fields, three of which are optional:
@@ -89,8 +91,8 @@ Photometry and spectra are stored in a similar way, but have different and many 
 | `timeunit` | Unit for time | yes
 | `magnitude` | Apparent magnitude | no
 | `e_magnitude` | Error in the magnitude | yes
-| `band` | Photometric band filter | yes
-| `upperlimit` | Measurement is upper limit | yes
+| `band` | Photometric band filter used | yes
+| `upperlimit` | Measurement is an upper limit | yes
 | `system` | Photometric system used | yes
 | `instrument` | Instrument used for observation | yes
 | `telescope` | Telescope used for observation | yes
