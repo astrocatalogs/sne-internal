@@ -21,7 +21,7 @@ To comply with the standard, the object should contain a "name" key and an "alia
 }
 ```
 
-As JSON is a serialized format, *field order does not matter*, but the OSC's import scripts will automatically organize the data in the output JSON files to make them more readable (for instance we sort photometry and spectra within each file by date, the data quanta fields by name, etc.).
+As JSON is a serialized format, *field order does not matter*, but the OSC's import scripts will automatically organize the data in the output JSON files to make them more readable (for instance we sort photometry and spectra within each file by date, the data quantity fields by name, etc.).
 
 Sources are extremely important in the OSC, and every single piece of data added to an event JSON file **must have a source attribution**, with the sole exception of the supernova name, aliases, and the sources themselves. Published data sources are preferred over secondary sources (the OSC falls into a secondary source category), but if the data was collected by a secondary source intermediate to being added to the OSC, these sources should also be attributed in the source list.
 
@@ -54,7 +54,29 @@ The sources object contains an array of such objects:
 ]
 ```
 
-Data quanta are added to each event as arrays of objects, with each piece of datum being tagged with its associated sources' alias tags. An example tag might be an event's redshift,
+The OSC stores many different pieces of metadata for each event, the preferred names of these quantities are listed below:
+
+| Quantity | Description | Kinds
+| :--- | :--- | :---
+| `ra` | Right ascension in hours (`hh:mm:ss`) |
+| `dec` | Declination in degrees |
+| `discoverdate` | Date that the supernova was first detected or seen |
+| `maxdate` | Date of the supernova's maximum light |
+| `redshift` | Redshift of supernova or its host in various frames | `heliocentric`, `cmb`, `host`
+| `lumdist` | Luminosity distance to the supernova |
+| `comovingdist` | Comoving distance to the supernova |
+| `velocity` | Recessional velocity of supernova | `heliocentric`, `cmb`, `host`
+| `claimedtype` | Claimed type of the supernova |
+| `discoverer` | Person(s) who discovered the supernova |
+| `host` | Host galaxy of the supernova |
+| `galra` | Right ascension of the host galaxy in hours (`hh:mm:ss`) |
+| `galdec` | Declination of the host galaxy in degrees |
+| `maxappmag` | Maximum apparent magnitude |
+| `maxband` | Band that maximum was determined from |
+| `maxabsmag` | Maximum absolute magnitude |
+
+
+Data quantities are added to each event as arrays of objects, with each piece of datum being tagged with its associated sources' alias tags. An example tag might be an event's redshift,
 
 ```JSON
 "redshift":[
@@ -73,13 +95,14 @@ Data quanta are added to each event as arrays of objects, with each piece of dat
 
 where in this example we have two different redshift values quoted from three different sources, where two of the sources agree with one another. Note that all the numerical values are stored as strings instead of as numbers, our policy is to store the data with exactly the same number of significant digits as the sources that provide them, and storing the importing the data as floating point numbers can often introduce small floating-point errors that we wish to avoid.
 
-Data quanta have four standard fields:
+Data quantities have five standard fields:
 
 | Field | Value | Optional?
 | :--- | :--- | :---
-| `value` | The value of the quanta | no
+| `value` | The value of the quantity | no
 | `error` | The error associated with the value | yes
 | `unit` | The unit of the value | yes
+| `kind` | Variant of the quantity | yes
 | `source` | A list of integer aliases to sources for the data | no
 
 Photometry and spectra are stored in a similar way, but have different and many more standard field names. For photometry, the standard field names are:
