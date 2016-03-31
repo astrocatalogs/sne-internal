@@ -23,7 +23,7 @@ To comply with the standard, the object should contain a "name" key and an "alia
 
 Sources are extremely important in the OSC, and every single piece of data added to an event JSON file **must have a source attribution**, with the sole exception of the supernova name and aliases. Published data sources are preferred over secondary sources (the OSC falls into a secondary source category), but if the data was collected by a secondary source intermediate to being added to the OSC, these sources should also be attributed in the source list.
 
-Sources of data contain five fields, one of which is optional:
+Sources of data contain five fields, three of which are optional:
 
 | Field | Value | Optional?
 | :--- | :--- | :---
@@ -31,3 +31,31 @@ Sources of data contain five fields, one of which is optional:
 `alias` | Integer unique to this source to be used as an alias | no
 `url` | Web address of source | yes
 `bibcode` | 19 character NASA ADS bibcode | yes
+`secondary` | Boolean specifying if source collected rather than generated data | yes
+
+The sources object contains an array of such objects:
+
+```JSON
+{
+	"SN1987A":{
+		"name":"SN1987A",
+		"aliases":[
+			"SN1987A"
+		],
+		"sources":[
+			{
+				"name":"Catchpole et al. (1987)",
+				"url":"http://adsabs.harvard.edu/abs/1987MNRAS.229P..15C",
+				"bibcode":"1987MNRAS.229P..15C",
+				"alias":"1"
+			},
+			{
+				"name":"SUSPECT",
+				"url":"https://www.nhn.ou.edu/~suspect/",
+				"alias":"2",
+				"secondary":true
+			}
+		]
+	}
+}
+```
