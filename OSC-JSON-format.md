@@ -58,9 +58,9 @@ The OSC stores many different pieces of metadata for each event, the preferred n
 
 | Quantity | Description | Kinds
 | :--- | :--- | :---
-| `ra` | Right ascension in hours (`hh:mm:ss`) |
-| `dec` | Declination in degrees |
-| `discoverdate` | Date that the supernova was first detected or seen |
+| `ra` | Right ascension of supernova in hours (`hh:mm:ss`) |
+| `dec` | Declination of supernova in degrees |
+| `discoverdate` | Date that the supernova was first observed |
 | `maxdate` | Date of the supernova's maximum light |
 | `redshift` | Redshift of supernova or its host in various frames | `heliocentric`, `cmb`, `host`
 | `lumdist` | Luminosity distance to the supernova |
@@ -69,12 +69,11 @@ The OSC stores many different pieces of metadata for each event, the preferred n
 | `claimedtype` | Claimed type of the supernova |
 | `discoverer` | Person(s) who discovered the supernova |
 | `host` | Host galaxy of the supernova |
-| `galra` | Right ascension of the host galaxy in hours (`hh:mm:ss`) |
-| `galdec` | Declination of the host galaxy in degrees |
+| `hostra` | Right ascension of the host galaxy in hours (`hh:mm:ss`) |
+| `hostdec` | Declination of the host galaxy in degrees |
 | `maxappmag` | Maximum apparent magnitude |
 | `maxband` | Band that maximum was determined from |
 | `maxabsmag` | Maximum absolute magnitude |
-
 
 Data quantities are added to each event as arrays of objects, with each piece of datum being tagged with its associated sources' alias tags. An example tag might be an event's redshift,
 
