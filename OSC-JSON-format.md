@@ -36,28 +36,20 @@ Sources of data contain five fields, three of which are optional:
 The sources object contains an array of such objects:
 
 ```JSON
-{
-	"SN1987A":{
-		"name":"SN1987A",
-		"aliases":[
-			"SN1987A"
-		],
-		"sources":[
-			{
-				"name":"Catchpole et al. (1987)",
-				"url":"http://adsabs.harvard.edu/abs/1987MNRAS.229P..15C",
-				"bibcode":"1987MNRAS.229P..15C",
-				"alias":"1"
-			},
-			{
-				"name":"SUSPECT",
-				"url":"https://www.nhn.ou.edu/~suspect/",
-				"alias":"2",
-				"secondary":true
-			}
-		]
+"sources":[
+	{
+		"name":"Catchpole et al. (1987)",
+		"url":"http://adsabs.harvard.edu/abs/1987MNRAS.229P..15C",
+		"bibcode":"1987MNRAS.229P..15C",
+		"alias":"1"
+	},
+	{
+		"name":"SUSPECT",
+		"url":"https://www.nhn.ou.edu/~suspect/",
+		"alias":"2",
+		"secondary":true
 	}
-}
+]
 ```
 
 Data quanta are added to each event as arrays of objects, with each piece of datum being tagged with its associated sources' alias tags. An example tag might be an event's redshift,
@@ -85,5 +77,44 @@ Data quanta have four standard fields:
 | :--- | :--- | :---
 | `value` | The value of the quanta | no
 | `error` | The error associated with the value | yes
-| `source` | A list of integer aliases to sources for the data | no
 | `unit` | The unit of the value | yes
+| `source` | A list of integer aliases to sources for the data | no
+
+Photometry and spectra are stored in a similar way, but have different and many more standard field names. For photometry, the standard field names are:
+
+| Field | Value | Optional?
+| :--- | :--- | :---
+| `time` | Time of observation | yes
+| `e_time` | Error in the time | yes
+| `timeunit` | Unit for time | yes
+| `magnitude` | Apparent magnitude | no
+| `e_magnitude` | Error in the magnitude | yes
+| `band` | Photometric band filter | yes
+| `upperlimit` | Measurement is upper limit | yes
+| `system` | Photometric system used | yes
+| `instrument` | Instrument used for observation | yes
+| `telescope` | Telescope used for observation | yes
+| `observatory` | Observatory used for observation | yes
+| `observer` | Person(s) who conducted the observation | yes
+| `source` | A list of integer aliases to sources for the data | no
+
+For spectra:
+
+| Field | Value | Optional?
+| :--- | :--- | :---
+| `time` | Time of observation | yes
+| `e_time` | Error in the time | yes
+| `data` | Nx2 or Nx3 array of wavelengths, fluxes, and (optionally) errors | no
+| `timeunit` | Unit for time | yes
+| `waveunit` | Unit for wavelength | no
+| `fluxunit` | Unit for fluxes | no
+| `snr` | Signal to noise ratio | yes
+| `filename` | Name of file spectra was extracted from | yes
+| `deredshifted` | Data is known to have been deredshifted from observer frame | yes
+| `dereddened` | Data is known to have been dereddened | yes
+| `instrument` | Instrument used for observation | yes
+| `telescope` | Telescope used for observation | yes
+| `observatory` | Observatory used for observation | yes
+| `observer` | Person(s) who conducted the observation | yes
+| `reducer` | Person(s) who reduced the observation | yes
+| `source` | A list of integer aliases to sources for the data | no
