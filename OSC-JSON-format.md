@@ -54,7 +54,38 @@ The sources object contains an array of such objects:
 ]
 ```
 
-The OSC stores many different pieces of metadata for each event, the preferred names of these quantities are listed below:
+The OSC stores many different pieces of metadata for each event. Data quantities are added to each event as arrays of objects, with each piece of datum being tagged with its associated sources' alias tags. As an example a redshift object array may look like:
+
+```JSON
+"redshift":[
+	{
+		"value":"0.045",
+		"error":"0.001",
+		"source":"1,2",
+		"kind":"heliocentric"
+	},
+	{
+		"value":"0.043",
+		"error":"0.002",
+		"source":"3",
+		"kind":"host"
+	}
+]
+```
+
+where in this example we have two different redshift values quoted from three different sources, where two of the sources agree with one another, and the third source actually refers to the redshift of the host galaxy rather than the supernova. Note that all the numerical quantities are stored as strings instead of as numbers, the OSC's policy is to store the data with exactly the same number of significant digits as the sources that provide them, and storing the importing the data as floating point numbers can often introduce small floating-point errors that we wish to avoid.
+
+Data quantities have five standard fields:
+
+| Field | Value | Optional?
+| :--- | :--- | :---
+| `value` | The value of the quantity | no
+| `error` | The error associated with the value | yes
+| `unit` | The unit of the value | yes
+| `kind` | Variant of the quantity | yes
+| `source` | A list of integer aliases to sources for the data | no
+
+Currently, the OSC explicitly tracks the quantities for each event, if available:
 
 | Quantity | Description | Kinds
 | :--- | :--- | :---
@@ -74,35 +105,6 @@ The OSC stores many different pieces of metadata for each event, the preferred n
 | `maxappmag` | Maximum apparent magnitude |
 | `maxband` | Band that maximum was determined from |
 | `maxabsmag` | Maximum absolute magnitude |
-
-Data quantities are added to each event as arrays of objects, with each piece of datum being tagged with its associated sources' alias tags. An example tag might be an event's redshift,
-
-```JSON
-"redshift":[
-	{
-		"value":"0.045",
-		"error":"0.001",
-		"source":"1,2"
-	},
-	{
-		"value":"0.043",
-		"error":"0.002",
-		"source":"3"
-	}
-]
-```
-
-where in this example we have two different redshift values quoted from three different sources, where two of the sources agree with one another. Note that all the numerical values are stored as strings instead of as numbers, our policy is to store the data with exactly the same number of significant digits as the sources that provide them, and storing the importing the data as floating point numbers can often introduce small floating-point errors that we wish to avoid.
-
-Data quantities have five standard fields:
-
-| Field | Value | Optional?
-| :--- | :--- | :---
-| `value` | The value of the quantity | no
-| `error` | The error associated with the value | yes
-| `unit` | The unit of the value | yes
-| `kind` | Variant of the quantity | yes
-| `source` | A list of integer aliases to sources for the data | no
 
 Photometry and spectra are stored in a similar way, but have different and many more standard field names. For photometry, the standard field names are:
 
@@ -142,3 +144,5 @@ For spectra:
 | `observer` | Person(s) who conducted the observation | yes
 | `reducer` | Person(s) who reduced the observation | yes
 | `source` | A list of integer aliases to sources for the data | no
+
+So long as it is reasonable, the OSC is open to adding more field names should additional information need to be stored in an event file beyond the quantities and data we have chosen to track here, please contact us and let us know if you have any suggestions on how the standard format can be improved.
