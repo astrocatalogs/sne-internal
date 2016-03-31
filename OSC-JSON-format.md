@@ -13,10 +13,10 @@ To comply with the standard, the object should contain a "name" key and an "alia
 ```JSON
 {
 	"SN1987A":{
-  	"name":"SN1987A",
-  	"aliases":[
-  		"SN1987A"
-  	]
+		"name":"SN1987A",
+		"aliases":[
+			"SN1987A"
+		]
 	}
 }
 ```
