@@ -59,3 +59,31 @@ The sources object contains an array of such objects:
 	}
 }
 ```
+
+Data quanta are added to each event as arrays of objects, with each piece of datum being tagged with its associated sources' alias tags. An example tag might be an event's redshift,
+
+```JSON
+"redshift":[
+	{
+		"value":"0.045",
+		"error":"0.001",
+		"source":"1,2"
+	},
+	{
+		"value":"0.043",
+		"error":"0.002",
+		"source":"3"
+	}
+]
+```
+
+where in this example we have two different redshift values quoted from three different sources, where two of the sources agree with one another. Note that all the numerical values are stored as strings instead of as numbers, our policy is to store the data with exactly the same number of significant digits as the sources that provide them, and storing the importing the data as floating point numbers can often introduce small floating-point errors that we wish to avoid.
+
+Data quanta have four standard fields:
+
+| Field | Value | Optional?
+| :--- | :--- | :---
+| `value` | The value of the quanta | no
+| `error` | The error associated with the value | yes
+| `source` | A list of integer aliases to sources for the data | no
+| `unit` | The unit of the value | yes
