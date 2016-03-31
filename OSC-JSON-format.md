@@ -85,7 +85,7 @@ Data quantities have five standard fields:
 | `kind` | Variant of the quantity | yes
 | `source` | A list of integer aliases to sources for the data | no
 
-Currently, the OSC explicitly tracks the quantities for each event, if available:
+Currently, the OSC explicitly tracks the following quantities for each event, if available:
 
 | Quantity | Description | Kinds
 | :--- | :--- | :---
