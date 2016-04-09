@@ -11,6 +11,12 @@
 				"alias":"1"
 			}
 		],
+		"claimedtype":[
+			{
+				"value":"CC",
+				"source":"1"
+			}
+		],
 		"maxdate":[
 			{
 				"value":"-2450000",
