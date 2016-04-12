@@ -31,6 +31,12 @@
         "value":"185/12/07",
         "source":"2"
       }
+    ],
+    "claimedtype":[
+      {
+        "value":"Ia",
+        "source":"1"
+      }
     ]
   }
 }
