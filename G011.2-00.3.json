@@ -8,9 +8,11 @@
       {"bibcode":"2016ApJ...819..160B"}
     ],
     "maxdate":[
-      "value":"100",
-      "error":"500",
-      "unit":"yr"
+      {
+        "value":"100",
+        "error":"500",
+        "unit":"yr"
+      }
     ]
   }
 }
