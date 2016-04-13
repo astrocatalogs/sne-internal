@@ -1,0 +1,21 @@
+{
+	"ASASSN-14hj":{
+		"name":"ASASSN-14hj",
+		"aliases":[
+			"ASASSN-14hj"
+		],
+		"sources":[
+		  {
+		    "name":"ATel 6479",
+		    "url":"http://www.astronomerstelegram.org/?read=6479",
+		    "alias":"1"
+		  }
+		],
+		"claimedtype":[
+		  {
+		    "value":"CV",
+		    "source":"1"
+		  }
+		]
+	}
+}
