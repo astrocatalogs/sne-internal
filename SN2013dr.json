@@ -1,0 +1,23 @@
+{
+	"SN2013dr":{
+		"name":"SN2013dr",
+		"aliases":[
+		  "SN2013dr",
+			"ASASSN-13aw",
+			"PSN J17193026+4742046"
+		],
+		"sources":[
+		  {
+		    "name":"ATel 5245",
+		    "url":"http://www.astronomerstelegram.org/?read=5245",
+		    "alias":"1"
+		  }
+		],
+		"claimedtype":[
+		  {
+		    "value":"Ia",
+		    "source":"1"
+		  }
+		]
+	}
+}
