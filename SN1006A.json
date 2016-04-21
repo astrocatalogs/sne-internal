@@ -26,7 +26,7 @@
     ],
     "photometry":[
       {
-        "timeunit":"JD",
+        "u_time":"JD",
         "time":"2088713.5",
         "e_time":"5",
         "band":"V",
@@ -37,7 +37,7 @@
         "source":"2"
       },
       {
-        "timeunit":"JD",
+        "u_time":"JD",
         "time":"2088751.5",
         "e_time":"14",
         "band":"V",
@@ -49,7 +49,7 @@
         "source":"2"
       },
       {
-        "timeunit":"JD",
+        "u_time":"JD",
         "time":"2088740.5",
         "band":"V",
         "magnitude":"-0.8",
@@ -59,7 +59,7 @@
         "source":"2"
       },
       {
-        "timeunit":"JD",
+        "u_time":"JD",
         "time":"2088840.5",
         "e_time":"14",
         "band":"V",
@@ -71,7 +71,7 @@
         "source":"2"
       },
       {
-        "timeunit":"JD",
+        "u_time":"JD",
         "time":"2088828.5",
         "band":"V",
         "magnitude":"0.2",

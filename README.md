@@ -9,15 +9,15 @@ Here's an example file for SN1937A:
   "SN1937A":{
     "sources":[ { "bibcode":"1937PASP...49..204Z" } ],
     "photometry":[
-      { "timeunit":"JD", "time":"2428521", "band":"Mp", "magnitude":"17.5", "instrument":"18-inch Schmidt", "upperlimit":true },
-      { "timeunit":"JD", "time":"2428524", "band":"Mp", "magnitude":"17.5", "instrument":"18-inch Schmidt", "upperlimit":true },
-      { "timeunit":"JD", "time":"2428581", "band":"Mp", "magnitude":"16.2", "instrument":"18-inch Schmidt" },
-      { "timeunit":"JD", "time":"2428599", "band":"Mp", "magnitude":"16.7", "instrument":"18-inch Schmidt" },
-      { "timeunit":"JD", "time":"2428600", "band":"Mp", "magnitude":"16.5", "instrument":"18-inch Schmidt" },
-      { "timeunit":"JD", "time":"2428635", "band":"Mp", "magnitude":"16.9", "instrument":"18-inch Schmidt" },
-      { "timeunit":"JD", "time":"2428636", "band":"Mp", "magnitude":"17.2", "instrument":"18-inch Schmidt" },
-      { "timeunit":"JD", "time":"2428664", "band":"Mp", "magnitude":"17.5", "instrument":"18-inch Schmidt", "upperlimit":true },
-      { "timeunit":"JD", "time":"2428667", "band":"Mp", "magnitude":"19.3", "instrument":"60-inch" }
+      { "u_time":"JD", "time":"2428521", "band":"Mp", "magnitude":"17.5", "instrument":"18-inch Schmidt", "upperlimit":true },
+      { "u_time":"JD", "time":"2428524", "band":"Mp", "magnitude":"17.5", "instrument":"18-inch Schmidt", "upperlimit":true },
+      { "u_time":"JD", "time":"2428581", "band":"Mp", "magnitude":"16.2", "instrument":"18-inch Schmidt" },
+      { "u_time":"JD", "time":"2428599", "band":"Mp", "magnitude":"16.7", "instrument":"18-inch Schmidt" },
+      { "u_time":"JD", "time":"2428600", "band":"Mp", "magnitude":"16.5", "instrument":"18-inch Schmidt" },
+      { "u_time":"JD", "time":"2428635", "band":"Mp", "magnitude":"16.9", "instrument":"18-inch Schmidt" },
+      { "u_time":"JD", "time":"2428636", "band":"Mp", "magnitude":"17.2", "instrument":"18-inch Schmidt" },
+      { "u_time":"JD", "time":"2428664", "band":"Mp", "magnitude":"17.5", "instrument":"18-inch Schmidt", "upperlimit":true },
+      { "u_time":"JD", "time":"2428667", "band":"Mp", "magnitude":"19.3", "instrument":"60-inch" }
     ]
   }
 }
