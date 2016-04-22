@@ -1,0 +1,21 @@
+{
+	"PS1-12qh":{
+		"name":"PS1-12qh",
+		"aliases":[
+			"PS1-12qh"
+		],
+		"sources":[
+		  {
+		    "name":"ATel 3980",
+		    "url":"http://www.astronomerstelegram.org/?read=3980",
+		    "alias":"1"
+		  }
+		],
+		"claimedtype":[
+		  {
+		    "value":"QSO",
+		    "source":"1"
+		  }
+		]
+	}
+}
