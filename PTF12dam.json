@@ -1,0 +1,16 @@
+{
+	"PTF12dam":{
+		"name":"PTF12dam",
+		"aliases":[
+			"PTF12dam"
+		],
+		"sources":[
+		  {"bibcode":"2013Natur.502..346N"}
+		],
+		"claimedtype":[
+		  {
+		    "value":"SLSN-I"
+		  }
+		]
+	}
+}
