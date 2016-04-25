@@ -1,0 +1,18 @@
+{
+	"SN1667A":{
+		"name":"SN1667A",
+		"aliases":[
+			"SN1667A"
+		],
+		"sources":[
+			{
+				"bibcode":"http://adsabs.harvard.edu/abs/2008Sci...320.1195K"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"IIb"
+			}
+		]
+	}
+}
