@@ -8,11 +8,33 @@
     "spectra":[
       {
         "filename":"2011fe_20140623_MODS1.dat",
-        "display":["3320.","9910."]
+        "exclude":[
+          {
+            "range":[3320.],
+            "reason":"noise",
+            "cut":"below"
+          },
+          {
+            "range":[9910.],
+            "reason":"noise",
+            "cut":"above"
+          }
+        ]
       },
       {
         "filename":"PTF11kly.LRIS.20140501.ms.ReduxB.dat",
-        "display":["3400.","10000."]
+        "exclude":[
+          {
+            "range":[3400.],
+            "reason":"noise",
+            "cut":"below"
+          },
+          {
+            "range":[10000.],
+            "reason":"noise",
+            "cut":"above"
+          }
+        ]
       }
     ]
   }
