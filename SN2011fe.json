@@ -10,14 +10,12 @@
         "filename":"2011fe_20140623_MODS1.dat",
         "exclude":[
           {
-            "range":[3320.],
-            "reason":"noise",
-            "cut":"below"
+            "below":"3320",
+            "reason":"noise"
           },
           {
-            "range":[9910.],
-            "reason":"noise",
-            "cut":"above"
+            "above":"9910",
+            "reason":"noise"
           }
         ]
       },
@@ -25,14 +23,12 @@
         "filename":"PTF11kly.LRIS.20140501.ms.ReduxB.dat",
         "exclude":[
           {
-            "range":[3400.],
-            "reason":"noise",
-            "cut":"below"
+            "below":"3400",
+            "reason":"noise"
           },
           {
-            "range":[10000.],
-            "reason":"noise",
-            "cut":"above"
+            "above":"10000",
+            "reason":"noise"
           }
         ]
       }
