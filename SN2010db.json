@@ -1,0 +1,14 @@
+{
+	"SN2010db":{
+		"name":"SN2010db",
+		"aliases":[
+			"SN2010db"
+		],
+		"sources":[
+		  {"bibcode":"2010CBET.2312....1C"}
+		],
+		"claimedtype":[
+		  {"value":"star"}
+		]
+	}
+}
