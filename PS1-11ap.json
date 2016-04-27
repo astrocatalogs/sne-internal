@@ -1,0 +1,14 @@
+{
+	"PS1-11ap":{
+		"name":"PS1-11ap",
+		"aliases":[
+			"PS1-11ap"
+		],
+		"sources":[
+		  {"bibcode":"2014MNRAS.437..656M"}
+		],
+		"host":[
+		  {"value":"PSO J162.1155+57.1526"}
+		]
+	}
+}
