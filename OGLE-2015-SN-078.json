@@ -7,13 +7,13 @@
 		"sources":[
 		  {
 		    "name":"ATel 7318",
-		    "url":"http://www.astronomerstelegram.org/?read=7318"
+		    "url":"http://www.astronomerstelegram.org/?read=7318",
 		    "alias":"1"
 		  }
 		],
 		"ra":[
 		  {
-		    "value":"5:27:24.84"
+		    "value":"5:27:24.84",
 		    "source":"1"
 		  }
 		],
