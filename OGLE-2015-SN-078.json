@@ -1,0 +1,27 @@
+{
+	"OGLE-2015-SN-078":{
+		"name":"OGLE-2015-SN-078",
+		"aliases":[
+			"OGLE-2015-SN-078"
+		],
+		"sources":[
+		  {
+		    "name":"ATel 7318",
+		    "url":"http://www.astronomerstelegram.org/?read=7318"
+		    "alias":"1"
+		  }
+		],
+		"ra":[
+		  {
+		    "value":"5:27:24.84"
+		    "source":"1"
+		  }
+		],
+		"dec":[
+		  {
+		    "value":"-51:42:06.0",
+		    "source":"1"
+		  }
+		]
+	}
+}
