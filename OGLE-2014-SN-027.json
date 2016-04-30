@@ -1,0 +1,21 @@
+{
+	"OGLE-2014-SN-027":{
+		"name":"OGLE-2014-SN-027",
+		"aliases":[
+			"OGLE-2014-SN-027"
+		],
+		"sources":[
+		  {
+		    "name":"Atel 6514",
+		    "url":"http://www.astronomerstelegram.org/?read=6514",
+		    "alias":"1"
+		  }
+		],
+		"claimedtype":[
+		  {
+		    "value":"AGN?",
+		    "source":"1"
+		  }
+		]
+	}
+}
