@@ -1,0 +1,18 @@
+{
+	"SN1181A":{
+		"name":"SN1181A",
+		"aliases":[
+			"SN1181A"
+		],
+		"sources":[
+		  {
+		    "bibcode":"2013A&A...560A..18K"
+		  }
+		],
+		"claimedtype":[
+		  {
+		    "value":"CC?"
+		  }
+		]
+	}
+}

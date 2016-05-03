@@ -1,0 +1,22 @@
+{
+	"SN1953H":{
+		"name":"SN1953H",
+		"aliases":[
+			"SN1953H"
+		],
+		"sources":[
+			{
+				"name":"2013Ap.....56..153A",
+				"url":"http://adsabs.harvard.edu/abs/2013Ap.....56..153A",
+				"bibcode":"2013Ap.....56..153A",
+				"alias":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"II",
+				"source":"1"
+			}
+		]
+	}
+}

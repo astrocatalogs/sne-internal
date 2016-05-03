@@ -1,0 +1,21 @@
+{
+	"Gaia14aat":{
+		"name":"Gaia14aat",
+		"aliases":[
+			"Gaia14aat"
+		],
+		"sources":[
+		  {
+		    "name":"ATel 6581",
+		    "url":"http://www.astronomerstelegram.org/?read=6581",
+		    "alias":"1"
+		  }
+		],
+		"claimedtype":[
+		  {
+		    "value":"Dwarf Nova",
+		    "source":"1"
+		  }
+		]
+	}
+}

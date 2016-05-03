@@ -1,0 +1,17 @@
+{
+	"PSN K0304-001":{
+		"name":"PSN K0304-001",
+		"sources":[
+			{
+				"name":"CBET",
+				"url":"http://www.cbat.eps.harvard.edu/iauc/08900/08992.html",
+				"alias":"1"
+			}
+		],
+		"aliases":[
+			"PSN K0304-001",
+			"K0304-001",
+			"SN0304"
+		]
+	}
+}

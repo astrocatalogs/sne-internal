@@ -1,0 +1,29 @@
+{
+	"HSN2.45M":{
+		"name":"HSN2.45M",
+		"aliases":[
+			"HSN2.45M"
+		],
+		"sources":[
+			{
+				"name":"Wallner et al. 2016",
+				"url":"http://www.nature.com/nature/journal/v532/n7597/full/nature17196.html",
+				"alias":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"CC",
+				"source":"1"
+			}
+		],
+		"maxdate":[
+			{
+				"value":"-2450000",
+				"error":"750000",
+				"unit":"year",
+				"source":"1"
+			}
+		]
+	}
+}

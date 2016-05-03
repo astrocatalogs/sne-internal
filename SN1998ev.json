@@ -1,0 +1,24 @@
+{
+	"SN1998ev":{
+		"name":"SN1998ev",
+		"aliases":[
+			"SN1998ev"
+		],
+		"sources":[
+		  {
+		    "name":"IAUC 7055",
+		    "url":"http://www.cbat.eps.harvard.edu/iauc/07000/07055.html",
+		    "alias":"1"
+		  }
+		],
+		"photometry":[
+		  {
+		    "time":"51134",
+		    "u_time":"MJD",
+		    "magnitude":"21.3",
+		    "band":"R",
+		    "source":"1"
+		  }
+		]
+	}
+}

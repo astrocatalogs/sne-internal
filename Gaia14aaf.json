@@ -1,0 +1,21 @@
+{
+	"Gaia14aaf":{
+		"name":"Gaia14aaf",
+		"aliases":[
+			"Gaia14aaf"
+		],
+		"sources":[
+		  {
+		    "name":"ATel 6593",
+		    "url":"http://www.astronomerstelegram.org/?read=6593",
+		    "alias":"1"
+		  }
+		],
+		"claimedtype":[
+		  {
+		    "value":"CV",
+		    "source":"1"
+		  }
+		]
+	}
+}

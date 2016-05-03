@@ -1,0 +1,29 @@
+{
+	"HSN7.6M":{
+		"name":"HSN7.6M",
+		"aliases":[
+			"HSN7.6M"
+		],
+		"sources":[
+			{
+				"name":"Wallner et al. 2016",
+				"url":"http://www.nature.com/nature/journal/v532/n7597/full/nature17196.html",
+				"alias":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"CC",
+				"source":"1"
+			}
+		],
+		"maxdate":[
+			{
+				"value":"-7600000",
+				"error":"1100000",
+				"unit":"year",
+				"source":"1"
+			}
+		]
+	}
+}

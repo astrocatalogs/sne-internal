@@ -1,0 +1,26 @@
+{
+	"PS1-10bzj":{
+		"name":"PS1-10bzj",
+		"aliases":[
+			"PS1-10bzj"
+		],
+		"sources":[
+		  {"bibcode":"2013ApJ...771...97L"}
+		],
+		"claimedtype":[
+		  {"value":"SLSN-I"}
+		],
+		"redshift":[
+		  {
+		    "value":"0.650",
+		    "kind":"host"
+		  }
+		],
+		"ra":[
+		  {"value":"03:31:39.826"}
+		],
+		"dec":[
+		  {"value":"-27:47:42.17"}
+		]
+	}
+}

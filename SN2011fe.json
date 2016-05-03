@@ -4,6 +4,34 @@
     "aliases":[
       "SN2011fe",
       "PTF11kly"
+    ],
+    "spectra":[
+      {
+        "filename":"2011fe_20140623_MODS1.dat",
+        "exclude":[
+          {
+            "below":"3320",
+            "reason":"noise"
+          },
+          {
+            "above":"9910",
+            "reason":"noise"
+          }
+        ]
+      },
+      {
+        "filename":"PTF11kly.LRIS.20140501.ms.ReduxB.dat",
+        "exclude":[
+          {
+            "below":"3400",
+            "reason":"noise"
+          },
+          {
+            "above":"10000",
+            "reason":"noise"
+          }
+        ]
+      }
     ]
   }
 }

@@ -2,8 +2,7 @@
   "SN386A":{
     "name":"SN386A",
     "aliases":[
-      "SN386A",
-      "G011.2-00.3"
+      "SN386A"
     ],
     "sources":[
       {
@@ -11,6 +10,12 @@
         "url":"http://adsabs.harvard.edu/abs/1966Sci...154..597Z",
         "bibcode":"1966Sci...154..597Z",
         "alias":"1"
+      },
+      {
+        "name":"1997ApJ...489L.145T",
+        "url":"http://adsabs.harvard.edu/abs/1997ApJ...489L.145T",
+        "bibcode":"1997ApJ...489L.145T",
+        "alias":"2"
       }
     ],
     "host":[
@@ -23,6 +28,12 @@
       {
         "value":"386",
         "source":"1"
+      }
+    ],
+    "claimedtype":[
+      {
+        "value":"CC",
+        "source":"2"
       }
     ]
   }

@@ -10,6 +10,18 @@
         "url":"http://adsabs.harvard.edu/abs/1999PASP..111..871C",
         "bibcode":"1999PASP..111..871C",
         "alias":"1"
+      },
+      {
+        "name":"1969ApJ...157.1395O",
+        "url":"http://adsabs.harvard.edu/abs/1969ApJ...157.1395O",
+        "bibcode":"1969ApJ...157.1395O",
+        "alias":"2"
+      }
+    ],
+    "claimedtype":[
+      {
+        "value":"CC",
+        "source":"2"
       }
     ],
     "discoverdate":[

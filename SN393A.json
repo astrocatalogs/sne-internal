@@ -2,9 +2,7 @@
   "SN393A":{
     "name":"SN393A",
     "aliases":[
-      "SN393A",
-      "RX J1713.7-3946",
-      "G347.3-0.5"
+      "SN393A"
     ],
     "sources":[
       {
@@ -18,6 +16,12 @@
         "url":"http://adsabs.harvard.edu/abs/2006Ap&SS.305..207W",
         "bibcode":"2006Ap&SS.305..207W",
         "alias":"2"
+      },
+      {
+        "name":"2010A&A...511A..34B",
+        "url":"http://adsabs.harvard.edu/abs/2010A&A...511A..34B",
+        "bibcode":"2010A&A...511A..34B",
+        "alias":"3"
       }
     ],
     "host":[
@@ -30,6 +34,19 @@
       {
         "value":"393/02/27",
         "source":"2"
+      }
+    ],
+    "claimedtype":[
+      {
+        "value":"CC",
+        "source":"3"
+      }
+    ],
+    "lumdist":[
+      {
+        "value":"0.001",
+        "unit":"Mpc",
+        "source":"3"
       }
     ]
   }

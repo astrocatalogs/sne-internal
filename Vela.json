@@ -1,0 +1,24 @@
+{
+	"Vela":{
+		"name":"Vela",
+		"aliases":[
+			"Vela",
+			"G263.9-03.3",
+			"HSN11k"
+		],
+		"sources":[
+			{
+				"bibcode":"2001ApJ...561..930C",
+				"alias":"1"
+			}
+		],
+		"lumdist":[
+			{
+				"value":"0.000294",
+				"e_lower_value":"0.000050",
+				"e_upper_value":"0.000075",
+				"source":"1"
+			}
+		]
+	}
+}

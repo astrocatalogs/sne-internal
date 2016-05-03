@@ -1,0 +1,19 @@
+{
+	"SN1667A":{
+		"name":"SN1667A",
+		"aliases":[
+			"SN1667A",
+			"SNCasA"
+		],
+		"sources":[
+			{
+				"bibcode":"2008Sci...320.1195K"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"IIb"
+			}
+		]
+	}
+}

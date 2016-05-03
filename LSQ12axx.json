@@ -1,0 +1,22 @@
+{
+	"LSQ12axx":{
+		"name":"LSQ12axx",
+		"aliases":[
+			"LSQ12axx"
+		],
+		"sources":[
+		  {
+		    "name":"ATel 3974",
+		    "url":"http://www.astronomerstelegram.org/?read=3974",
+		    "alias":"1"
+		  }
+		],
+		"redshift":[
+		  {
+		    "value":"0.0399",
+		    "kind":"spectroscopic",
+		    "source":"1"
+		  }
+		]
+	}
+}

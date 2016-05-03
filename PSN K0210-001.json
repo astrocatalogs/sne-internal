@@ -1,0 +1,17 @@
+{
+	"PSN K0210-001":{
+		"sources":[
+			{
+				"name":"CBET",
+				"url":"http://www.cbat.eps.harvard.edu/iauc/08900/08992.html",
+				"alias":"1"
+			}
+		],
+		"name":"PSN K0210-001",
+		"aliases":[
+			"PSN K0210-001",
+			"K0210-001",
+			"SN0210"
+		]
+	}
+}

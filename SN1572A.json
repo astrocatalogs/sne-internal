@@ -3,7 +3,7 @@
     "name":"SN1572A",
     "aliases":[
       "SN1572A",
-      "Tycho"
+      "Tycho's supernova"
     ],
     "sources":[
       {
@@ -21,7 +21,7 @@
     ],
     "photometry":[
       {
-        "timeunit":"JD",
+        "u_time":"JD",
         "time":"2295536.5",
         "band":"V",
         "magnitude":"5",
@@ -31,7 +31,7 @@
         "source":"1"
       },
       {
-        "timeunit":"JD",
+        "u_time":"JD",
         "time":"2295545.5",
         "band":"V",
         "magnitude":"-3",
@@ -41,7 +41,7 @@
         "source":"1"
       },
       {
-        "timeunit":"JD",
+        "u_time":"JD",
         "time":"2295545.5",
         "band":"V",
         "magnitude":"-3.2",
@@ -51,7 +51,7 @@
         "source":"1"
       },
       {
-        "timeunit":"JD",
+        "u_time":"JD",
         "time":"2295550.5",
         "e_time":"1",
         "band":"V",
@@ -62,7 +62,7 @@
         "source":"1"
       },
       {
-        "timeunit":"JD",
+        "u_time":"JD",
         "time":"2295555.5",
         "e_time":"7",
         "band":"B",
@@ -72,7 +72,7 @@
         "source":"1"
       },
       {
-        "timeunit":"JD",
+        "u_time":"JD",
         "time":"2295565.5",
         "e_time":"5",
         "band":"B",
@@ -82,7 +82,7 @@
         "source":"1"
       },
       {
-        "timeunit":"JD",
+        "u_time":"JD",
         "time":"2295566.5",
         "e_lower_time":"22",
         "e_upper_time":"7",
@@ -94,7 +94,7 @@
         "source":"1"
       },
       {
-        "timeunit":"JD",
+        "u_time":"JD",
         "time":"2295579.5",
         "e_time":"7",
         "band":"V",
@@ -105,7 +105,7 @@
         "source":"1"
       },
       {
-        "timeunit":"JD",
+        "u_time":"JD",
         "time":"2295596.5",
         "e_time":"7",
         "band":"B",
@@ -116,7 +116,7 @@
         "source":"1"
       },
       {
-        "timeunit":"JD",
+        "u_time":"JD",
         "time":"2295602.5",
         "band":"V",
         "magnitude":"-2",
@@ -126,7 +126,7 @@
         "source":"1"
       },
       {
-        "timeunit":"JD",
+        "u_time":"JD",
         "time":"2295610.5",
         "e_time":"7",
         "band":"V",
@@ -136,7 +136,7 @@
         "source":"1"
       },
       {
-        "timeunit":"JD",
+        "u_time":"JD",
         "time":"2295610.5",
         "e_time":"7",
         "band":"B",
@@ -147,7 +147,7 @@
         "source":"1"
       },
       {
-        "timeunit":"JD",
+        "u_time":"JD",
         "time":"2295654.5",
         "e_time":"7",
         "band":"B",
@@ -158,7 +158,7 @@
         "source":"1"
       },
       {
-        "timeunit":"JD",
+        "u_time":"JD",
         "time":"2295656.5",
         "e_time":"14",
         "band":"V",
@@ -168,7 +168,7 @@
         "source":"1"
       },
       {
-        "timeunit":"JD",
+        "u_time":"JD",
         "time":"2295716.5",
         "e_time":"14",
         "band":"V",
@@ -178,7 +178,7 @@
         "source":"1"
       },
       {
-        "timeunit":"JD",
+        "u_time":"JD",
         "time":"2295730.5",
         "e_time":"7",
         "band":"B",
@@ -189,7 +189,7 @@
         "source":"1"
       },
       {
-        "timeunit":"JD",
+        "u_time":"JD",
         "time":"2295808.5",
         "e_time":"14",
         "band":"V",
@@ -200,7 +200,7 @@
         "source":"1"
       },
       {
-        "timeunit":"JD",
+        "u_time":"JD",
         "time":"2295900.5",
         "e_time":"14",
         "band":"V",
@@ -210,7 +210,7 @@
         "source":"1"
       },
       {
-        "timeunit":"JD",
+        "u_time":"JD",
         "time":"2295914.5",
         "e_time":"7",
         "band":"V",
@@ -220,7 +220,7 @@
         "source":"1"
       },
       {
-        "timeunit":"JD",
+        "u_time":"JD",
         "time":"2295961.5",
         "e_time":"14",
         "band":"V",
@@ -230,7 +230,7 @@
         "source":"1"
       },
       {
-        "timeunit":"JD",
+        "u_time":"JD",
         "time":"2296006.5",
         "e_time":"7",
         "band":"V",
@@ -240,7 +240,7 @@
         "source":"1"
       },
       {
-        "timeunit":"JD",
+        "u_time":"JD",
         "time":"2296034.5",
         "e_time":"7",
         "band":"V",

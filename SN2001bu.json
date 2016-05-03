@@ -1,0 +1,14 @@
+{
+	"SN2001bu":{
+		"name":"SN2001bu",
+		"aliases":[
+			"SN2001bu"
+		],
+		"claimedtype":[
+		  {
+		    "value":"QSO?",
+		    "source":"D"
+		  }
+		]
+	}
+}

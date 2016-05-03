@@ -3,7 +3,8 @@
     "name":"SN185A",
     "aliases":[
       "SN185A",
-      "RCW 86"
+      "RCW 86",
+      "G315.4-00.3"
     ],
     "sources":[
       {
@@ -17,6 +18,12 @@
         "url":"http://adsabs.harvard.edu/abs/2006Ap&SS.305..207W",
         "bibcode":"2006Ap&SS.305..207W",
         "alias":"2"
+      },
+      {
+        "name":"2003A&A...407..249S",
+        "url":"http://adsabs.harvard.edu/abs/2003A&A...407..249S",
+        "bibcode":"2003A&A...407..249S",
+        "alias":"3"
       }
     ],
     "host":[
@@ -29,6 +36,18 @@
       {
         "value":"185/12/07",
         "source":"2"
+      }
+    ],
+    "claimedtype":[
+      {
+        "value":"Ia",
+        "source":"1"
+      }
+    ],
+    "lumdist":[
+      {
+        "value":"0.0025",
+        "source":"3"
       }
     ]
   }

@@ -1,0 +1,14 @@
+{
+	"PTF10iya":{
+		"name":"PTF10iya",
+		"aliases":[
+			"PTF10iya"
+		],
+		"sources":[
+		  {"bibcode":"2012MNRAS.420.2684C"}
+		],
+		"claimedtype":[
+		  {"value":"TDE"}
+		]
+	}
+}

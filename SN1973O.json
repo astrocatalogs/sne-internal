@@ -1,0 +1,22 @@
+{
+	"SN1973O":{
+		"name":"SN1973O",
+		"aliases":[
+			"SN1973O"
+		],
+		"sources":[
+			{
+				"name":"2013Ap.....56..153A",
+				"url":"http://adsabs.harvard.edu/abs/2013Ap.....56..153A",
+				"bibcode":"2013Ap.....56..153A",
+				"alias":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"Impostor",
+				"source":"1"
+			}
+		]
+	}
+}
