@@ -1,0 +1,14 @@
+{
+	"SN2010gx":{
+		"name":"SN2010gx",
+		"aliases":[
+			"SN2010gx"
+		],
+		"sources":[
+		{"bibcode":"2010ApJ...724L..16P"}
+		],
+		"claimedtype":[
+		{"value":"SLSN-I"}
+		]
+	}
+}
