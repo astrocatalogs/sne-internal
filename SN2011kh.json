@@ -3,6 +3,13 @@
 		"name":"SN2011kh",
 		"aliases":[
 			"SN2011kh", "SNhunt65"
+		],
+		"errors":[
+			{
+				"sourcekind":"name",
+				"id":"Latest Supernovae",
+				"quantity":"dec"
+			}
 		]
 	}
 }
