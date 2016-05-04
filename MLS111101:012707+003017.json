@@ -1,0 +1,12 @@
+{
+	"MLS111101:012707+003017":{
+		"name":"MLS111101:012707+003017",
+		"errors":[
+			{
+				"sourcekind":"name",
+				"id":"Latest Supernovae",
+				"quantity":"dec"
+			}
+		]
+	}
+}
