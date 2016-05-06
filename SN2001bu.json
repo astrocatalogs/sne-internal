@@ -4,10 +4,14 @@
 		"aliases":[
 			"SN2001bu"
 		],
+		"sources":[
+			{
+				"bibcode":"2016arXiv160501054G"
+			}
+		],
 		"claimedtype":[
 		  {
-		    "value":"QSO?",
-		    "source":"D"
+		    "value":"QSO?"
 		  }
 		]
 	}
