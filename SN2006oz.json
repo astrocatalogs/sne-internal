@@ -1,0 +1,17 @@
+{
+	"SN2006oz":{
+		"name":"SN2006oz",
+		"errors":[
+			{
+				"value":"Latest Supernovae",
+				"kind":"name",
+				"extra":"dec"
+			},
+			{
+				"value":"2012A&A...538A.120L",
+				"kind":"bibcode",
+				"extra":"dec"
+			}
+		]
+	}
+}
