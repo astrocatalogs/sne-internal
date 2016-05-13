@@ -1,0 +1,22 @@
+{
+	"SN1999bg":{
+		"name":"SN1999bg",
+		"errors":[
+			{
+				"value":"2012A&A...538A.120L",
+				"kind":"bibcode",
+				"extra":"redshift"
+			},
+			{
+				"value":"1999IAUC.7135....3G",
+				"kind":"bibcode",
+				"extra":"redshift"
+			},
+			{
+				"value":"Latest Supernovae",
+				"kind":"name",
+				"extra":"redshift"
+			}
+		]
+	}
+}
