@@ -1,16 +1,34 @@
 {
 	"SN2006oz":{
 		"name":"SN2006oz",
+		"sources":[
+			{
+				"bibcode":"2012A&A...541A.129L",
+				"alias":"1"
+			},
+			{
+				"bibcode":"2016arXiv160501054G",
+				"alias":"2"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"SLSN-I",
+				"source":"1"
+			}
+		],
 		"errors":[
 			{
 				"value":"Latest Supernovae",
 				"kind":"name",
-				"extra":"dec"
+				"extra":"dec",
+				"source":"2"
 			},
 			{
 				"value":"2012A&A...538A.120L",
 				"kind":"bibcode",
-				"extra":"dec"
+				"extra":"dec",
+				"source":"2"
 			}
 		]
 	}
