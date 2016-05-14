@@ -1,8 +1,13 @@
 {
 	"SN2008cm":{
 		"name":"SN2008cm",
-		"aliases":[
-			"SN2008cm", "SNF20080514-002"
+		"alias":[
+			{
+				"value":"SN2008cm"
+			},
+			{
+				"value":"SNF20080514-002"
+			}
 		]
 	}
 }
