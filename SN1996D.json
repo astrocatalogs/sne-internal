@@ -1,0 +1,17 @@
+{
+	"SN1996D":{
+		"name":"SN1996D",
+		"errors":[
+			{
+				"value”:”Latest Supernovae“,
+				"kind”:”name”,
+				"extra":"ra"
+			},
+			{
+				"value”:”Latest Supernovae“,
+				"kind”:”name”,
+				"extra":"dec"
+			}
+		]
+	}
+}
