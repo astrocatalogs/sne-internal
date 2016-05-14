@@ -3,13 +3,13 @@
 		"name":"MASTER OT J095321.02+202721.2",
 		"errors":[
 			{
-				"value”:”Latest Supernovae“,
-				"kind”:”name”,
+				"value":"Latest Supernovae",
+				"kind":"name",
 				"extra":"ra"
 			},
 			{
-				"value”:”Latest Supernovae“,
-				"kind”:”name”,
+				"value":"Latest Supernovae",
+				"kind":"name",
 				"extra":"dec"
 			}
 		]

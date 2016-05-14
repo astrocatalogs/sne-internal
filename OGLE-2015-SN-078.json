@@ -31,14 +31,14 @@
 		],
 		"errors":[
 			{
-				"value”:”OGLE-IV Transient Detection System“,
-				"kind”:”name”,
+				"value":"OGLE-IV Transient Detection System",
+				"kind":"name",
 				"extra":"ra",
 				"source":"2"
 			},
 			{
-				"value”:”OGLE-IV Transient Detection System“,
-				"kind”:”name”,
+				"value":"OGLE-IV Transient Detection System",
+				"kind":"name",
 				"extra":"dec",
 				"source":"2"
 			}

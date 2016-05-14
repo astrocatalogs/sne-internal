@@ -3,13 +3,13 @@
 		"name":"SN1998ew",
 		"errors":[
 			{
-				"value”:”Latest Supernovae“,
-				"kind”:”name”,
+				"value":"Latest Supernovae",
+				"kind":"name",
 				"extra":"ra"
 			},
 			{
-				"value”:”Latest Supernovae“,
-				"kind”:”name”,
+				"value":"Latest Supernovae",
+				"kind":"name",
 				"extra":"dec"
 			}
 		]
