@@ -1,8 +1,10 @@
 {
   "SN1054A":{
     "name":"SN1054A",
-    "aliases":[
-      "SN1054A"
+    "alias":[
+      {
+        "value":"SN1054A"
+      }
     ],
     "sources":[
       {
@@ -16,6 +18,10 @@
         "url":"http://adsabs.harvard.edu/abs/1969ApJ...157.1395O",
         "bibcode":"1969ApJ...157.1395O",
         "alias":"2"
+      },
+      {
+        "bibcode":"2016arXiv160501054G",
+        "alias":"3"
       }
     ],
     "claimedtype":[
@@ -28,6 +34,13 @@
       {
         "value":"1054/07/04",
         "source":"1"
+      }
+    ],
+    "errors":[
+      {
+        "value":"Latest Supernovae",
+        "kind":"name",
+        "extra":"claimedtype"
       }
     ]
   }
