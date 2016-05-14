@@ -8,12 +8,13 @@
 		],
 		"sources":[
 		  {
-		    "name":"IAUC 7055",
-		    "url":"http://www.cbat.eps.harvard.edu/iauc/07000/07055.html",
-		    "alias":"1"
+		  	"name":"IAUC 7055",
+		  	"url":"http://www.cbat.eps.harvard.edu/iauc/07000/07055.html",
+		  	"alias":"1"
 		  },
 		  {
-		  	"bibcode":"2016arXiv160501054G"
+		  	"bibcode":"2016arXiv160501054G",
+		  	"alias":"2"
 		  }
 		],
 		"photometry":[
