@@ -1,0 +1,12 @@
+{
+	"LSQ12bgl":{
+		"name":"LSQ12bgl",
+		"errors":[
+			{
+				"value":"Latest Supernovae",
+				"kind":"name",
+				"extra":"redshift"
+			}
+		]
+	}
+}
