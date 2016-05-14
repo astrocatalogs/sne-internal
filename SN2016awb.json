@@ -3,9 +3,9 @@
 		"name":"SN2016awb",
 		"errors":[
 			{
-				"sourcekind":"name",
-				"id":"Latest Supernovae",
-				"quantity":"redshift"
+				"kind":"name",
+				"value":"Latest Supernovae",
+				"extra":"redshift"
 			}
 		]
 	}

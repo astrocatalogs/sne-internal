@@ -13,7 +13,8 @@
 		    "alias":"1"
 		  },
 		  {
-		  	"bibcode":"2016arXiv160501054G"
+		  	"bibcode":"2016arXiv160501054G",
+			"alias":"2"
 		  }
 		],
 		"redshift":[
@@ -27,7 +28,7 @@
 			{
 				"value":"Latest Supernovae",
 				"kind":"name",
-				"extra":"redshift"
+				"extra":"redshift",
 				"source":"2"
 			}
 		]
