@@ -1,14 +1,19 @@
 {
 	"SN1998ev":{
 		"name":"SN1998ev",
-		"aliases":[
-			"SN1998ev"
+		"alias":[
+			{
+				"value":"SN1998ev"
+			}
 		],
 		"sources":[
 		  {
 		    "name":"IAUC 7055",
 		    "url":"http://www.cbat.eps.harvard.edu/iauc/07000/07055.html",
 		    "alias":"1"
+		  },
+		  {
+		  	"bibcode":"2016arXiv160501054G"
 		  }
 		],
 		"photometry":[
@@ -19,6 +24,13 @@
 		    "band":"R",
 		    "source":"1"
 		  }
+		],
+		"errors":[
+			{
+				"value":"Latest Supernovae",
+				"kind":"name",
+				"extra":"photometry"
+			}
 		]
 	}
 }
