@@ -1,14 +1,20 @@
 {
 	"OGLE-2015-SN-078":{
 		"name":"OGLE-2015-SN-078",
-		"aliases":[
-			"OGLE-2015-SN-078"
+		"alias":[
+			{
+				"value":"OGLE-2015-SN-078"
+			}
 		],
 		"sources":[
 		  {
 		    "name":"ATel 7318",
 		    "url":"http://www.astronomerstelegram.org/?read=7318",
 		    "alias":"1"
+		  },
+		  {
+		  	"bibcode":"2016arXiv160501054G",
+		  	"alias":"2"
 		  }
 		],
 		"ra":[
@@ -22,6 +28,20 @@
 		    "value":"-51:42:06.0",
 		    "source":"1"
 		  }
+		],
+		"errors":[
+			{
+				"value”:”OGLE-IV Transient Detection System“,
+				"kind”:”name”,
+				"extra":"ra",
+				"source":"2"
+			},
+			{
+				"value”:”OGLE-IV Transient Detection System“,
+				"kind”:”name”,
+				"extra":"dec",
+				"source":"2"
+			}
 		]
 	}
 }
