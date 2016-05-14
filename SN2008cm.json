@@ -8,6 +8,13 @@
 			{
 				"value":"SNF20080514-002"
 			}
+		],
+		"errors":[
+			{
+				"value":"Latest Supernovae",
+				"kind":"name",
+				"extra":"photometry"
+			}
 		]
 	}
 }
