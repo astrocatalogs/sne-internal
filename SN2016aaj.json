@@ -1,8 +1,12 @@
 {
 	"SN2016aaj":{
 		"name":"SN2016aaj",
-		"aliases":[
-			"SN2016aaj", "Gaia16aca"
+		"alias":[
+			{"value":"SN2016aaj"},
+			{"value":"Gaia16aca"}
+		],
+		"distinctfrom":[
+			{"value":"SNhunt302"}
 		]
 	}
 }
