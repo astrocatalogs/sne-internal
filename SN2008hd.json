@@ -1,0 +1,17 @@
+{
+	"SN2008hd":{
+		"name":"SN2008hd",
+		"errors":[
+			{
+				"value":"Latest Supernovae",
+				"kind":"bibcode",
+				"extra":"ra"
+			},
+			{
+				"value":"Latest Supernovae",
+				"kind":"name",
+				"extra":"dec"
+			}
+		]
+	}
+}
