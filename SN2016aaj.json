@@ -5,8 +5,12 @@
 			{"value":"SN2016aaj"},
 			{"value":"Gaia16aca"}
 		],
-		"distinctfrom":[
-			{"value":"SNhunt302"}
+		"errors":[
+			{
+				"value":"Transient Name Server",
+				"kind":"name",
+				"extra":"alias"
+			},
 		]
 	}
 }
