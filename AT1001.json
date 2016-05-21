@@ -2,7 +2,7 @@
 	"AT1001":{
 		"name":"AT1001",
 		"alias":[
-			{"value:"AT1001"}
+			{"value":"AT1001"}
 		],
 		"claimedtype":[
 		  {"value":"fake"}
