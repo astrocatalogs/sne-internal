@@ -1,0 +1,12 @@
+{
+	"SN2003kb":{
+		"name":"SN2003kb",
+		"errors":[
+			{
+				"value":"2012A&A...538A.120L",
+				"kind":"bibcode",
+				"extra":"claimedtype"
+			}
+		]
+	}
+}
