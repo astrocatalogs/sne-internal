@@ -1,0 +1,27 @@
+{
+	"SN2002au":{
+		"name":"SN2002au",
+		"errors":[
+			{
+				"value":"Transient Name Server",
+				"kind":"name",
+				"extra":"claimedtype"
+			},
+			{
+				"value":"2002IAUC.7823....3J",
+				"kind":"bibcode",
+				"extra":"claimedtype"
+			},
+			{
+				"value":"Latest Supernovae",
+				"kind":"name",
+				"extra":"claimedtype"
+			},
+			{
+				"value":"2012A&A...538A.120L",
+				"kind":"bibcode",
+				"extra":"claimedtype"
+			}
+		]
+	}
+}
