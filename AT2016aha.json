@@ -1,6 +1,10 @@
 {
 	"AT2016aha":{
 		"name":"AT2016aha",
+		"alias":[
+			{"value":"AT2016aha"},
+			{"value":"SNhunt308"}
+		]
 		"errors":[
 			{
 				"value":"Transient Name Server",
