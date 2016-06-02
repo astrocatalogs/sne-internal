@@ -1,0 +1,37 @@
+### DELETE THIS LINE TO ENABLE COMMIT BUTTON
+{
+	"SN1954W":{
+		"name":"SN1954W",
+		"sources":[
+		  {"bibcode":"1974PASP...86..516K"}
+		],
+		"errors":[
+			{
+				"value":"2012A&A...538A.120L",
+				"kind":"bibcode",
+				"extra":"hostdec"
+			},
+			{
+				"value":"2012A&A...538A.120L",
+				"kind":"bibcode",
+				"extra":"dec"
+			},
+			{
+				"value":"PASP 86",
+				"kind":"name",
+				"extra":"dec"
+			},
+			{
+				"value":" 516",
+				"kind":"name",
+				"extra":"dec"
+			}
+		],
+		"ra":[
+		  {"value":"14:28:39.3"}
+		],
+		"dec":[
+		  {"value":"00:32:38"}
+		]
+	}
+}
