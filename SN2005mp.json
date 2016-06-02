@@ -1,0 +1,37 @@
+{
+	"SN2005mp":{
+		"name":"SN2005mp",
+		"errors":[
+			{
+				"value":"2012A&A...538A.120L",
+				"kind":"bibcode",
+				"extra":"hostdec"
+			},
+			{
+				"value":"2008AJ....136.2306H",
+				"kind":"bibcode",
+				"extra":"dec"
+			},
+			{
+				"value":"2005CBET..339....2G",
+				"kind":"bibcode",
+				"extra":"dec"
+			},
+			{
+				"value":"Latest Supernovae",
+				"kind":"name",
+				"extra":"dec"
+			},
+			{
+				"value":"2012A&A...538A.120L",
+				"kind":"bibcode",
+				"extra":"dec"
+			},
+			{
+				"value":"Transient Name Server",
+				"kind":"name",
+				"extra":"dec"
+			}
+		]
+	}
+}
