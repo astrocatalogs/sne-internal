@@ -1,0 +1,41 @@
+{
+	"SN2000fw":{
+		"name":"SN2000fw",
+		"sources":[
+		  {"bibcode":"2003IAUC.8218....1M"}
+		],
+		"errors":[
+			{
+				"value":"2012A&A...538A.120L",
+				"kind":"bibcode",
+				"extra":"hostdec"
+			},
+			{
+				"value":"2003IAUC.8218....1M",
+				"kind":"bibcode",
+				"extra":"dec"
+			},
+			{
+				"value":"Latest Supernovae",
+				"kind":"name",
+				"extra":"dec"
+			},
+			{
+				"value":"2012A&A...538A.120L",
+				"kind":"bibcode",
+				"extra":"dec"
+			},
+			{
+				"value":"Transient Name Server",
+				"kind":"name",
+				"extra":"dec"
+			}
+		],
+		"ra":[
+		  {"value":"14:30:14.07"}
+		],
+		"dec":[
+		  {"value":"00:30:35.4"}
+		]
+	}
+}
