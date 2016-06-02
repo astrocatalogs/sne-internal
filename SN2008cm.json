@@ -11,6 +11,16 @@
 				"value":"Latest Supernovae",
 				"kind":"name",
 				"extra":"photometry"
+			},
+			{
+				"value":"2012ApJS..200...12H",
+				"kind":"bibcode",
+				"extra":"dec"
+			},
+			{
+				"value":"2012ApJS..200...12H",
+				"kind":"bibcode",
+				"extra":"ra"
 			}
 		]
 	}
