@@ -1,0 +1,17 @@
+{
+	"SN2012gy":{
+		"name":"SN2012gy",
+		"errors":[
+			{
+				"value":"1989A&AS...81..421B",
+				"kind":"bibcode",
+				"extra":"host"
+			},
+			{
+				"value":"1989A&AS...81..421B",
+				"kind":"bibcode",
+				"extra":"hostra"
+			}
+		]
+	}
+}
