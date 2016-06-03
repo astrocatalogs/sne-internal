@@ -1,0 +1,16 @@
+{
+	"SN2001bn":{
+		"name":"SN2001bn",
+		"sources":[
+		  {"bibcode":"2001IAUC.7640....3P"}
+		],
+		"alias":[
+			{
+				"value":"SN2001bn"
+			},
+		],
+		"claimedtype":[
+		  {"value":"Star"}
+		]
+	}
+}
