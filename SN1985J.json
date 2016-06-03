@@ -1,0 +1,18 @@
+{
+	"SN1985J":{
+		"name":"SN1985J",
+		"sources":[
+			{"bibcode":"1985IAUC.4070....1K"}
+		],
+		"alias":[
+			{
+				"value":"SN1985J"
+			},
+		],
+		"claimedtype":[
+			{
+				"value":"CV?"
+			}
+		]
+	}
+}
