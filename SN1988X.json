@@ -1,0 +1,16 @@
+{
+	"SN1988X":{
+		"name":"SN1988X",
+		"sources":[
+		  {"bibcode":"1988IAUC.4685....2P"}
+		],
+		"alias":[
+			{
+				"value":"SN1988X"
+			},
+		],
+		"claimedtype":[
+		  {"value":"False Positive"}
+		]
+	}
+}
