@@ -1,0 +1,16 @@
+{
+	"SN1999db":{
+		"name":"SN1999db",
+		"sources":[
+		  {"bibcode":"1999IAUC.7228....2M"}
+		],
+		"alias":[
+			{
+				"value":"SN1999db"
+			},
+		],
+		"claimedtype":[
+		  {"value":"QSO"}
+		]
+	}
+}
