@@ -1,0 +1,16 @@
+{
+	"SN1998di":{
+		"name":"SN1998di",
+		"sources":[
+		  {"bibcode":"1998IAUC.6983....1J"}
+		],
+		"alias":[
+			{
+				"value":"SN1998di"
+			},
+		],
+		"claimedtype":[
+		  {"value":"Dwarf Nova"}
+		]
+	}
+}
