@@ -1,0 +1,16 @@
+{
+	"SN2006U":{
+		"name":"SN2006U",
+		"sources":[
+		  {"bibcode":"2006IAUC.8670....2G"}
+		],
+		"alias":[
+			{
+				"value":"SN2006U"
+			},
+		],
+		"claimedtype":[
+		  {"value":"AGN"}
+		]
+	}
+}
