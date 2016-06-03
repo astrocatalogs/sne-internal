@@ -1,0 +1,16 @@
+{
+	"SN1983H":{
+		"name":"SN1983H",
+		"sources":[
+			{"bibcode":"1983IAUC.3813....1A"}
+		],
+		"alias":[
+			{
+				"value":"SN1983H"
+			},
+		],
+		"claimedtype":[
+			{"value":"Star?"}
+		]
+	}
+}
