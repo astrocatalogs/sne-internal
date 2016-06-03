@@ -1,0 +1,18 @@
+{
+	"SN1987H":{
+		"name":"SN1987H",
+		"sources":[
+			{"bibcode":"1987IAUC.4379....1K"}
+		],
+		"alias":[
+			{
+				"value":"SN1987H"
+			},
+		],
+		"claimedtype":[
+			{
+				"value":"Star"
+			}
+		]
+	}
+}
