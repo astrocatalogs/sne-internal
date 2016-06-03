@@ -1,0 +1,16 @@
+{
+	"SN1999cu":{
+		"name":"SN1999cu",
+		"sources":[
+		  {"bibcode":"2003IAUC.8171....2G"}
+		],
+		"alias":[
+			{
+				"value":"SN1999cu"
+			},
+		],
+		"claimedtype":[
+		  {"value":"AGN"}
+		]
+	}
+}
