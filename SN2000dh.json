@@ -1,0 +1,16 @@
+{
+	"SN2000dh":{
+		"name":"SN2000dh",
+		"sources":[
+		  {"bibcode":"2000IAUC.7483....4F"}
+		],
+		"alias":[
+			{
+				"value":"SN2000dh"
+			},
+		],
+		"claimedtype":[
+		  {"value":"Star"}
+		]
+	}
+}
