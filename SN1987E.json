@@ -2,7 +2,14 @@
 	"SN1987E":{
 		"name":"SN1987E",
 		"sources":[
-		  {"bibcode":"1987IAUC.4373....2R"}
+			{
+				"bibcode":"1987IAUC.4373....1R",
+				"alias":"1"
+			}
+			{
+				"bibcode":"1987IAUC.4374....2R",
+				"alias":"2"
+			}
 		],
 		"alias":[
 			{
@@ -10,10 +17,22 @@
 			},
 		],
 		"ra":[
-		  {"value":"12:52:20.7"}
+			{
+				"value":"12:52:16.1",
+				"source":"2"
+			}
 		],
 		"dec":[
-		  {"value":"25:18:22"}
+			{
+				"value":"25:19:23",
+				"source":"2"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"I",
+				"source":"1"
+			}
 		]
 	}
 }
