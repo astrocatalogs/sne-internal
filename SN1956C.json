@@ -1,0 +1,16 @@
+{
+	"SN1956C":{
+		"name":"SN1956C",
+		"sources":[
+		  {"bibcode":"1996IAUC.6516....3W"}
+		],
+		"alias":[
+			{
+				"value":"SN1956C"
+			},
+		],
+		"claimedtype":[
+		  {"value":"Asteroid"}
+		]
+	}
+}
