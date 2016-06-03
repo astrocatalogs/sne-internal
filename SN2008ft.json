@@ -1,0 +1,16 @@
+{
+	"SN2008ft":{
+		"name":"SN2008ft",
+		"sources":[
+		  {"bibcode":"2008CBET.1516....1M"}
+		],
+		"alias":[
+			{
+				"value":"SN2008ft"
+			},
+		],
+		"claimedtype":[
+		  {"value":"False Positive"}
+		]
+	}
+}
