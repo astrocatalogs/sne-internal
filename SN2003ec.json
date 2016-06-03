@@ -1,0 +1,16 @@
+{
+	"SN2003ec":{
+		"name":"SN2003ec",
+		"sources":[
+		  {"bibcode":"2003IAUC.8130....5I"}
+		],
+		"alias":[
+			{
+				"value":"SN2003ec"
+			},
+		],
+		"claimedtype":[
+		  {"value":"Star"}
+		]
+	}
+}
