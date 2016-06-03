@@ -20,6 +20,33 @@
 		    "value":"Ic",
 		    "source":"1"
 		  }
+		],
+		"errors":[
+			{
+				"value":"1989A&AS...81..421B",
+				"kind":"bibcode",
+				"extra":"claimedtype"
+			},
+			{
+				"value":"Transient Name Server",
+				"kind":"name",
+				"extra":"claimedtype"
+			},
+			{
+				"value":"2003IAUC.8063....3C",
+				"kind":"bibcode",
+				"extra":"claimedtype"
+			},
+			{
+				"value":"Latest Supernovae",
+				"kind":"name",
+				"extra":"claimedtype"
+			},
+			{
+				"value":"2012A&A...538A.120L",
+				"kind":"bibcode",
+				"extra":"claimedtype"
+			}
 		]
 	}
 }
