@@ -1,37 +1,16 @@
 {
 	"SN1998ev":{
 		"name":"SN1998ev",
+		"sources":[
+		  {"bibcode":"2003IAUC.8171....2G"}
+		],
 		"alias":[
 			{
 				"value":"SN1998ev"
-			}
+			},
 		],
-		"sources":[
-		  {
-		  	"name":"IAUC 7055",
-		  	"url":"http://www.cbat.eps.harvard.edu/iauc/07000/07055.html",
-		  	"alias":"1"
-		  },
-		  {
-		  	"bibcode":"2016arXiv160501054G",
-		  	"alias":"2"
-		  }
-		],
-		"photometry":[
-		  {
-		    "time":"51134",
-		    "u_time":"MJD",
-		    "magnitude":"21.3",
-		    "band":"R",
-		    "source":"1"
-		  }
-		],
-		"errors":[
-			{
-				"value":"Latest Supernovae",
-				"kind":"name",
-				"extra":"photometry"
-			}
+		"claimedtype":[
+		  {"value":"False Positive"}
 		]
 	}
 }
