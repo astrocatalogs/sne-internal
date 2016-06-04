@@ -15,8 +15,11 @@
         "alias":"3"
       }
     ],
-    "aliases":[
-      {"value":"SN386A", "source":"3"}
+    "alias":[
+      {
+		"value":"SN386A",
+		"source":"3"
+	  }
     ],
     "host":[
       {
