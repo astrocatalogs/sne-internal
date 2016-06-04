@@ -1,0 +1,12 @@
+{
+	"AT1001A":{
+		"name":"AT1001A",
+		"alias":[
+			{"value":"AT1001"},
+			{"value":"AT1001A"}
+		],
+		"claimedtype":[
+		  {"value":"fake"}
+		]
+	}
+}
