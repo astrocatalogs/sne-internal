@@ -1,0 +1,32 @@
+{
+  "SN369A":{
+    "name":"SN369A",
+    "alias":[
+      {"value":"SN369A"},
+      {"value":"SN369"}
+    ],
+    "sources":[
+      {
+        "bibcode":"1977hisu.book.....C",
+        "alias":"1"
+      }
+    ],
+    "host":[
+      {
+        "value":"Milky Way",
+        "source":"1"
+      }
+    ],
+    "discoverdate":[
+      {
+        "value":"369",
+        "source":"1"
+      }
+    ],
+    "dec":[
+    	{
+    		"value":"+65"
+    	}
+    ]
+  }
+}
