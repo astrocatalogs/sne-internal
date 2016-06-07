@@ -1,0 +1,16 @@
+{
+	"SN2007if":{
+		"name":"SN2007if",
+		"sources":[
+		  {"bibcode":"2010ApJ...713.1073S"}
+		],
+		"alias":[
+			{
+				"value":"SN2007if"
+			},
+			{
+				"value":"SNF20070825-001"
+			}
+		]
+	}
+}
