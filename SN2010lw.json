@@ -1,0 +1,12 @@
+{
+	"SN2010lw":{
+		"name":"SN2010lw",
+		"errors":[
+			{
+				"value":"Latest Supernovae",
+				"kind":"name",
+				"extra":"dec"
+			}
+		]
+	}
+}
