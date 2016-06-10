@@ -1,9 +1,20 @@
 {
 	"SN1987A":{
 		"name":"SN1987A",
-		"aliases":[
-			"SN1987A",
-			"MCSNR J0535-6916"
+		"alias":[
+			{
+				"value":"SN1987A"
+			},
+			{
+				"value":"MCSNR J0535-6916"
+			}
+		],
+		"errors":[
+			{
+				"value":"2002ApJ...566..880G",
+				"kind":"bibcode",
+				"extra":"dec"
+			}
 		]
 	}
 }
