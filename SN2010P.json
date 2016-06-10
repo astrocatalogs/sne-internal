@@ -1,0 +1,17 @@
+{
+	"SN2010P":{
+		"name":"SN2010P",
+		"errors":[
+			{
+				"value":"2009ApJ...696..870D",
+				"kind":"bibcode",
+				"extra":"ra"
+			},
+			{
+				"value":"2009ApJ...696..870D",
+				"kind":"bibcode",
+				"extra":"dec"
+			}
+		]
+	}
+}
