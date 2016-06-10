@@ -1,0 +1,52 @@
+{
+	"SN1983N":{
+		"name":"SN1983N",
+		"errors":[
+			{
+				"value":"1989A&AS...81..421B",
+				"kind":"bibcode",
+				"extra":"ra"
+			},
+			{
+				"value":"Transient Name Server",
+				"kind":"name",
+				"extra":"ra"
+			},
+			{
+				"value":"1995IAUC.6170....2R",
+				"kind":"bibcode",
+				"extra":"ra"
+			},
+			{
+				"value":"Latest Supernovae",
+				"kind":"name",
+				"extra":"ra"
+			},
+			{
+				"value":"2012A&A...538A.120L",
+				"kind":"bibcode",
+				"extra":"ra"
+			},
+			{
+				"value":"1989A&AS...81..421B",
+				"kind":"bibcode",
+				"extra":"dec"
+			},
+			{
+				"value":"1995IAUC.6170....2R",
+				"kind":"bibcode",
+				"extra":"dec"
+			},
+			{
+				"value":"Latest Supernovae",
+				"kind":"name",
+				"extra":"dec"
+			},
+			{
+				"value":"2012A&A...538A.120L",
+				"kind":"bibcode",
+				"extra":"dec"
+			}
+		]
+	}
+}
