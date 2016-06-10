@@ -1,0 +1,17 @@
+{
+	"SNhunt84":{
+		"name":"SNhunt84",
+		"errors":[
+			{
+				"value":"Latest Supernovae",
+				"kind":"name",
+				"extra":"ra"
+			},
+			{
+				"value":"Latest Supernovae",
+				"kind":"name",
+				"extra":"dec"
+			}
+		]
+	}
+}
