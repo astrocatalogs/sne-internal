@@ -3,6 +3,11 @@
 		"name":"SN1983N",
 		"errors":[
 			{
+				"value":"2000A&AS..143....9W",
+				"kind":"bibcode",
+				"extra":"alias"
+			},
+			{
 				"value":"1989A&AS...81..421B",
 				"kind":"bibcode",
 				"extra":"ra"
