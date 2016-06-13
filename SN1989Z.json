@@ -1,0 +1,20 @@
+{
+	"SN1989Z":{
+		"name":"SN1989Z",
+		"sources":[
+			{
+				"bibcode":"1998IAUC.6920....2K"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN1989Z"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"CV"
+			}
+		]
+	}
+}
