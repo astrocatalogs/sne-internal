@@ -1,0 +1,12 @@
+{
+	"SN1963P":{
+		"name":"SN1963P",
+		"errors":[
+			{
+				"value":"2012A&A...538A.120L",
+				"kind":"bibcode",
+				"extra":"dec"
+			}
+		]
+	}
+}
