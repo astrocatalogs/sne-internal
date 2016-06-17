@@ -1,0 +1,12 @@
+{
+	"SN1998E":{
+		"name":"SN1998E",
+		"errors":[
+			{
+				"value":"Latest Supernovae",
+				"kind":"name",
+				"extra":"dec"
+			}
+		]
+	}
+}
