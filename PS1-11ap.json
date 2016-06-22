@@ -5,10 +5,16 @@
 			"PS1-11ap"
 		],
 		"sources":[
-		  {"bibcode":"2014MNRAS.437..656M"}
+			{"bibcode":"2014MNRAS.437..656M"}
 		],
 		"host":[
-		  {"value":"PSO J162.1155+57.1526"}
+			{"value":"PSO J162.1155+57.1526"}
+		],
+		"hostra":[
+			{"value":"10:48:27.72"}
+		],
+		"hostdec":[
+			{"value":"+57:09:09.36"}
 		]
 	}
 }
