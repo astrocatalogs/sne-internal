@@ -20,7 +20,7 @@
 				"filename":"2004S_20040222_3194_9050_00.dat",
 				"exclude":[
 					{
-						"below":"3250.0",
+						"below":"3400.0",
 						"reason":"noise"
 					}
 				]
@@ -29,7 +29,7 @@
 				"filename":"2004S_20040311_3202_9044_00.dat",
 				"exclude":[
 					{
-						"below":"3250.0",
+						"below":"3400.0",
 						"reason":"noise"
 					}
 				]
@@ -38,7 +38,7 @@
 				"filename":"2004S_20040317_3212_9064_00.dat",
 				"exclude":[
 					{
-						"below":"3250.0",
+						"below":"3400.0",
 						"reason":"noise"
 					}
 				]
