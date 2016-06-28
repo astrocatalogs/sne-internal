@@ -1,0 +1,12 @@
+{
+	"SN2011en":{
+		"name":"SN2011en",
+		"errors":[
+			{
+				"value":"Latest Supernovae",
+				"kind":"name",
+				"extra":"alias"
+			}
+		]
+	}
+}

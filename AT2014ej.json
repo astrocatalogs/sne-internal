@@ -1,0 +1,24 @@
+{
+	"AT2014ej":{
+		"name":"AT2014ej",
+		"alias":[
+			{
+				"value":"AT2014ej"
+			},
+			{
+				"value":"PSN J23160979-4234575"
+			}
+		],
+		"sources":[
+		  {
+		    "name":"ATel 6508",
+		    "url":"http://www.astronomerstelegram.org/?read=6508"
+		  }
+		],
+		"claimedtype":[
+		  {
+		    "value":"Impostor"
+		  }
+		]
+	}
+}

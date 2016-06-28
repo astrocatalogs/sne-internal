@@ -1,0 +1,16 @@
+{
+	"SN1986D":{
+		"name":"SN1986D",
+		"sources":[
+		  {"bibcode":"1986IAUC.4202....2G"}
+		],
+		"alias":[
+			{
+				"value":"SN1986D"
+			}
+		],
+		"claimedtype":[
+		  {"value":"False Positive"}
+		]
+	}
+}

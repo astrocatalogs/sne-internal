@@ -3,9 +3,9 @@
 		"name":"MLS110113:233254+005651",
 		"errors":[
 			{
-				"sourcekind":"name",
-				"id":"Latest Supernovae",
-				"quantity":"dec"
+				"kind":"name",
+				"value":"Latest Supernovae",
+				"extra":"dec"
 			}
 		]
 	}

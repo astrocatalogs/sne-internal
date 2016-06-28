@@ -1,0 +1,12 @@
+{
+	"SN2005eq":{
+		"name":"SN2005eq",
+		"errors":[
+			{
+				"value":"2012A&A...538A.120L",
+				"kind":"bibcode",
+				"extra":"maxdate"
+			}
+		]
+	}
+}

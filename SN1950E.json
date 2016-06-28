@@ -1,0 +1,16 @@
+{
+	"SN1950E":{
+		"name":"SN1950E",
+		"sources":[
+		  {"bibcode":"1990PASJ...42..597O"}
+		],
+		"alias":[
+			{
+				"value":"SN1950E"
+			}
+		],
+		"claimedtype":[
+		  {"value":"Asteroid"}
+		]
+	}
+}

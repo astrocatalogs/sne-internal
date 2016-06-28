@@ -1,0 +1,17 @@
+{
+	"SN2012ht":{
+		"name":"SN2012ht",
+		"errors":[
+			{
+				"value":"1989A&AS...81..421B",
+				"kind":"bibcode",
+				"extra":"maxdate"
+			},
+			{
+				"value":"1989A&AS...81..421B",
+				"kind":"bibcode",
+				"extra":"ra"
+			}
+		]
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"SN1986F":{
+		"name":"SN1986F",
+		"sources":[
+		  {"bibcode":"1986IAUC.4213....2F"}
+		],
+		"alias":[
+			{
+				"value":"SN1986F"
+			}
+		],
+		"claimedtype":[
+		  {"value":"HII Region"}
+		]
+	}
+}

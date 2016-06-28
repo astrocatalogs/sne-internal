@@ -1,0 +1,16 @@
+{
+	"SN1983U":{
+		"name":"SN1983U",
+		"sources":[
+		  {"bibcode":"1993IAUC.5829....1F"}
+		],
+		"alias":[
+			{
+				"value":"SN1983U"
+			}
+		],
+		"claimedtype":[
+		  {"value":"QSO"}
+		]
+	}
+}

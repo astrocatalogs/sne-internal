@@ -1,0 +1,12 @@
+{
+	"SN1999gp":{
+		"name":"SN1999gp",
+		"errors":[
+			{
+				"value":"1989A&AS...81..421B",
+				"kind":"bibcode",
+				"extra":"maxdate"
+			}
+		]
+	}
+}

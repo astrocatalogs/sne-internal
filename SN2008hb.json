@@ -1,0 +1,12 @@
+{
+	"SN2008hb":{
+		"name":"SN2008hb",
+		"errors":[
+			{
+				"value":"Latest Supernovae",
+				"kind":"name",
+				"extra":"ra"
+			}
+		]
+	}
+}

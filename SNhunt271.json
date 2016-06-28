@@ -3,6 +3,13 @@
 		"name":"SNhunt271",
 		"aliases":[
 			"SNhunt271", "PSN J02490078+1544058"
+		],
+		"errors":[
+			{
+				"value":"Asiago Supernova Catalogue",
+				"kind":"name",
+				"extra":"redshift"
+			}
 		]
 	}
 }

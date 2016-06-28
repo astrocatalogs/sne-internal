@@ -1,0 +1,17 @@
+{
+	"SN2012ac":{
+		"name":"SN2012ac",
+		"errors":[
+			{
+				"value":"1989A&AS...81..421B",
+				"kind":"bibcode",
+				"extra":"ra"
+			},
+			{
+				"value":"1989A&AS...81..421B",
+				"kind":"bibcode",
+				"extra":"dec"
+			}
+		]
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"SN1984H":{
+		"name":"SN1984H",
+		"errors":[
+			{
+				"value":"1984IAUC.3943....2W",
+				"kind":"bibcode",
+				"extra":"dec"
+			},
+			{
+				"value":"Latest Supernovae",
+				"kind":"name",
+				"extra":"dec"
+			}
+		]
+	}
+}

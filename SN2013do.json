@@ -1,0 +1,17 @@
+{
+	"SN2013do":{
+		"name":"SN2013do",
+		"errors":[
+			{
+				"value":"Transient Name Server",
+				"kind":"name",
+				"extra":"ra"
+			},
+			{
+				"value":"Transient Name Server",
+				"kind":"name",
+				"extra":"dec"
+			}
+		]
+	}
+}

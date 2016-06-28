@@ -1,0 +1,52 @@
+{
+	"SN2003aa":{
+		"name":"SN2003aa",
+		"alias":[
+			{
+				"value":"SN2003aa"
+			}
+		],
+		"sources":[
+		  {
+		    "name":"IAUC 8064",
+		    "url":"http://www.cbat.eps.harvard.edu/iauc/08000/08064.html#Item3",
+		    "bibcode":"2003IAUC.8064....3M",
+		    "alias":"1",
+		    "reference":"Matheson et al. (2003)"
+		  }
+		],
+		"claimedtype":[
+		  {
+		    "value":"Ic",
+		    "source":"1"
+		  }
+		],
+		"errors":[
+			{
+				"value":"1989A&AS...81..421B",
+				"kind":"bibcode",
+				"extra":"claimedtype"
+			},
+			{
+				"value":"Transient Name Server",
+				"kind":"name",
+				"extra":"claimedtype"
+			},
+			{
+				"value":"2003IAUC.8063....3C",
+				"kind":"bibcode",
+				"extra":"claimedtype"
+			},
+			{
+				"value":"Latest Supernovae",
+				"kind":"name",
+				"extra":"claimedtype"
+			},
+			{
+				"value":"2012A&A...538A.120L",
+				"kind":"bibcode",
+				"extra":"claimedtype"
+			}
+		]
+	}
+}

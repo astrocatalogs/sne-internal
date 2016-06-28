@@ -1,0 +1,42 @@
+{
+	"SN2005fz":{
+		"name":"SN2005fz",
+		"errors":[
+			{
+				"value":"2008AJ....136.2306H",
+				"kind":"bibcode",
+				"extra":"ra"
+			},
+			{
+				"value":"2008AJ....136.2306H",
+				"kind":"bibcode",
+				"extra":"ra"
+			},
+			{
+				"value":"Transient Name Server",
+				"kind":"name",
+				"extra":"dec"
+			},
+			{
+				"value":"2005IAUC.8616....3B",
+				"kind":"bibcode",
+				"extra":"dec"
+			},
+			{
+				"value":"Latest Supernovae",
+				"kind":"name",
+				"extra":"dec"
+			},
+			{
+				"value":"2012A&A...538A.120L",
+				"kind":"bibcode",
+				"extra":"dec"
+			},
+			{
+				"value":"2008AJ....136.2306H",
+				"kind":"bibcode",
+				"extra":"dec"
+			}
+		]
+	}
+}

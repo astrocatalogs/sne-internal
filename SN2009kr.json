@@ -1,0 +1,17 @@
+{
+	"SN2009kr":{
+		"name":"SN2009kr",
+		"errors":[
+			{
+				"value":"2000A&AS..143....9W",
+				"kind":"bibcode",
+				"extra":"ra"
+			},
+			{
+				"value":"2000A&AS..143....9W",
+				"kind":"bibcode",
+				"extra":"dec"
+			}
+		]
+	}
+}

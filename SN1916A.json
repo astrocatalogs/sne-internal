@@ -1,0 +1,16 @@
+{
+	"SN1916A":{
+		"name":"SN1916A",
+		"sources":[
+		  {"bibcode":"1923AN....219..283R"}
+		],
+		"alias":[
+			{
+				"value":"SN1916A"
+			}
+		],
+		"claimedtype":[
+		  {"value":"Variable Star"}
+		]
+	}
+}

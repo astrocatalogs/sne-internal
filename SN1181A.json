@@ -1,18 +1,31 @@
 {
 	"SN1181A":{
 		"name":"SN1181A",
-		"aliases":[
-			"SN1181A"
-		],
 		"sources":[
 		  {
-		    "bibcode":"2013A&A...560A..18K"
+		    "bibcode":"2013A&A...560A..18K",
+		    "alias":"1"
+		  },
+		  {
+		    "bibcode":"2002ISAA....5.....S",
+		    "alias":"2"
 		  }
 		],
+		"alias":[
+			{"value":"SN1181A", "source":"2"},
+			{"value":"SN1181", "source":"2"}
+		],
 		"claimedtype":[
-		  {
-		    "value":"CC?"
-		  }
+			{
+				"value":"CC?",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"1181/08/13",
+				"source":"2"
+			}
 		]
 	}
 }

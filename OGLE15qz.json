@@ -1,0 +1,12 @@
+{
+	"OGLE15qz":{
+		"name":"OGLE15qz",
+		"errors":[
+			{
+				"value":"Latest Supernovae",
+				"kind":"name",
+				"extra":"redshift"
+			}
+		]
+	}
+}

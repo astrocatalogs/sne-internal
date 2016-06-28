@@ -1,0 +1,16 @@
+{
+	"SN2005md":{
+		"name":"SN2005md",
+		"sources":[
+		  {"bibcode":"2010ATel.2750....1L"}
+		],
+		"alias":[
+			{
+				"value":"SN2005md"
+			}
+		],
+		"claimedtype":[
+		  {"value":"CV"}
+		]
+	}
+}

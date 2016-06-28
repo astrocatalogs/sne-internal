@@ -1,8 +1,10 @@
 {
 	"SN2015bp":{
 		"name":"SN2015bp",
-		"aliases":[
-			"SN2015bp", "CSS150325:150530+013802"
+		"alias":[
+			{"value":"SN2015bp"},
+			{"value":"CSS150325:150530+013802"},
+			{"value":"SNhunt281"}
 		]
 	}
 }

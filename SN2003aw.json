@@ -1,0 +1,16 @@
+{
+	"SN2003aw":{
+		"name":"SN2003aw",
+		"sources":[
+		  {"bibcode":"2003IAUC.8085....3W"}
+		],
+		"alias":[
+			{
+				"value":"SN2003aw"
+			}
+		],
+		"claimedtype":[
+		  {"value":"CV"}
+		]
+	}
+}

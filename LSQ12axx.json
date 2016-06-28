@@ -1,14 +1,20 @@
 {
 	"LSQ12axx":{
 		"name":"LSQ12axx",
-		"aliases":[
-			"LSQ12axx"
+		"alias":[
+			{
+				"value":"LSQ12axx"
+			}
 		],
 		"sources":[
 		  {
 		    "name":"ATel 3974",
 		    "url":"http://www.astronomerstelegram.org/?read=3974",
 		    "alias":"1"
+		  },
+		  {
+		  	"bibcode":"2016arXiv160501054G",
+			"alias":"2"
 		  }
 		],
 		"redshift":[
@@ -17,6 +23,14 @@
 		    "kind":"spectroscopic",
 		    "source":"1"
 		  }
+		],
+		"errors":[
+			{
+				"value":"Latest Supernovae",
+				"kind":"name",
+				"extra":"redshift",
+				"source":"2"
+			}
 		]
 	}
 }

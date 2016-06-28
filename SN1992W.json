@@ -1,0 +1,18 @@
+{
+	"SN1992W":{
+		"name":"SN1992W",
+		"sources":[
+			{
+				"bibcode":"2004yCat.2250....0S"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN1992W"
+			}
+		],
+		"claimedtype":[
+			{"value":"Star"}
+		]
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"SN1999cv":{
+		"name":"SN1999cv",
+		"sources":[
+		  {"bibcode":"2000IAUC.7356....2G"}
+		],
+		"alias":[
+			{
+				"value":"SN1999cv"
+			}
+		],
+		"claimedtype":[
+		  {"value":"AGN"}
+		]
+	}
+}

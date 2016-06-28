@@ -3,9 +3,9 @@
 		"name":"CSS100409:135312+002031",
 		"errors":[
 			{
-				"sourcekind":"name",
-				"id":"Latest Supernovae",
-				"quantity":"dec"
+				"kind":"name",
+				"value":"Latest Supernovae",
+				"extra":"dec"
 			}
 		]
 	}

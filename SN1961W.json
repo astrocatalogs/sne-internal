@@ -1,0 +1,22 @@
+{
+	"SN1961W":{
+		"name":"SN1961W",
+		"sources":[
+			{"bibcode":"2004yCat.2250....0S"}
+		],
+		"alias":[
+			{
+				"value":"SN1961W"
+			}
+		],
+		"ra":[
+			{"value":"12:32:26.0"}
+		],
+		"dec":[
+			{"value":"+14:20:46"}
+		],
+		"claimedtype":[
+			{"value":"Star"}
+		]
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"SN2011aq":{
+		"name":"SN2011aq",
+		"sources":[
+		  {"bibcode":"2006AJ....131.1163S"}
+		],
+		"errors":[
+			{
+				"value":"1989A&AS...81..421B",
+				"kind":"bibcode",
+				"extra":"hostdec"
+			}
+		],
+		"hostra":[
+		  {"value":"02:42:48.287"}
+		],
+		"hostdec":[
+		  {"value":"28:34:27.36"}
+		]
+	}
+}

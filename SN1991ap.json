@@ -1,0 +1,16 @@
+{
+	"SN1991ap":{
+		"name":"SN1991ap",
+		"sources":[
+		  {"bibcode":"1991IAUC.5328....1F"}
+		],
+		"alias":[
+			{
+				"value":"SN1991ap"
+			}
+		],
+		"claimedtype":[
+		  {"value":"QSO"}
+		]
+	}
+}

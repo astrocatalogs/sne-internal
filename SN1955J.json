@@ -1,0 +1,12 @@
+{
+	"SN1955J":{
+		"name":"SN1955J",
+		"errors":[
+			{
+				"value":"2012A&A...538A.120L",
+				"kind":"bibcode",
+				"extra":"hostdec"
+			}
+		]
+	}
+}

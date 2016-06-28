@@ -1,0 +1,13 @@
+{
+	"SN2011er":{
+		"name":"SN2011er",
+		"distinctfrom":[
+			{
+				"value":"SN2011eq"
+			},
+			{
+				"value":"CSS110429:211759-023723"
+			}
+		]
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"PTF10yni":{
+		"name":"PTF10yni",
+		"errors":[
+			{
+				"value":"Latest Supernovae",
+				"kind":"name",
+				"extra":"ra"
+			}
+		]
+	}
+}

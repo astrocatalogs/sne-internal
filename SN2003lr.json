@@ -1,0 +1,16 @@
+{
+	"SN2003lr":{
+		"name":"SN2003lr",
+		"sources":[
+		  {"bibcode":"2004IAUC.8288....4L"}
+		],
+		"alias":[
+			{
+				"value":"SN2003lr"
+			}
+		],
+		"claimedtype":[
+		  {"value":"Minor Planet"}
+		]
+	}
+}

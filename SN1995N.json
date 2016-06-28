@@ -1,0 +1,12 @@
+{
+	"SN1995N":{
+		"name":"SN1995N",
+		"errors":[
+			{
+				"value":"Sternberg Astronomical Institute Supernova Light Curve Catalogue",
+				"kind":"name",
+				"extra":"photometry"
+			}
+		]
+	}
+}

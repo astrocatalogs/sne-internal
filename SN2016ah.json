@@ -1,0 +1,12 @@
+{
+	"SN2016ah":{
+		"name":"SN2016ah",
+		"errors":[
+			{
+				"value":"Latest Supernovae",
+				"kind":"name",
+				"extra":"dec"
+			}
+		]
+	}
+}

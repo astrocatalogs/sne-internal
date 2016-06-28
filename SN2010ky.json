@@ -1,0 +1,12 @@
+{
+	"SN2010ky":{
+		"name":"SN2010ky",
+		"errors":[
+			{
+				"value":"Latest Supernovae",
+				"kind":"name",
+				"extra":"ra"
+			}
+		]
+	}
+}

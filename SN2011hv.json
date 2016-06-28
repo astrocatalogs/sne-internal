@@ -3,9 +3,9 @@
 		"name":"SN2011hv",
 		"errors":[
 			{
-				"sourcekind":"name",
-				"id":"Asiago Supernova Catalogue",
-				"quantity":"dec"
+				"kind":"name",
+				"value":"Asiago Supernova Catalogue",
+				"extra":"dec"
 			}
 		]
 	}

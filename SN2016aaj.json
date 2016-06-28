@@ -1,8 +1,17 @@
 {
 	"SN2016aaj":{
 		"name":"SN2016aaj",
-		"aliases":[
-			"SN2016aaj", "Gaia16aca"
+		"alias":[
+			{"value":"SN2016aaj"},
+			{"value":"Gaia16aca"},
+			{"value":"SNhunt303"}
+		],
+		"errors":[
+			{
+				"value":"Transient Name Server",
+				"kind":"name",
+				"extra":"alias"
+			}
 		]
 	}
 }

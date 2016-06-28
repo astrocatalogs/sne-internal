@@ -1,0 +1,52 @@
+{
+	"SN2005jz":{
+		"name":"SN2005jz",
+		"errors":[
+			{
+				"value":"1989A&AS...81..421B",
+				"kind":"bibcode",
+				"extra":"ra"
+			},
+			{
+				"value":"Transient Name Server",
+				"kind":"name",
+				"extra":"ra"
+			},
+			{
+				"value":"2005IAUC.8627....3F",
+				"kind":"bibcode",
+				"extra":"ra"
+			},
+			{
+				"value":"Latest Supernovae",
+				"kind":"name",
+				"extra":"ra"
+			},
+			{
+				"value":"2012A&A...538A.120L",
+				"kind":"bibcode",
+				"extra":"ra"
+			},
+			{
+				"value":"1989A&AS...81..421B",
+				"kind":"bibcode",
+				"extra":"dec"
+			},
+			{
+				"value":"2005IAUC.8627....3F",
+				"kind":"bibcode",
+				"extra":"dec"
+			},
+			{
+				"value":"Latest Supernovae",
+				"kind":"name",
+				"extra":"dec"
+			},
+			{
+				"value":"2012A&A...538A.120L",
+				"kind":"bibcode",
+				"extra":"dec"
+			}
+		]
+	}
+}
