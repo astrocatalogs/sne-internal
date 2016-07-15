@@ -28,7 +28,7 @@
 		"redshift":[
 			{
 				"value":"3.8993",
-				"error":"0.0074",
+				"e_value":"0.0074",
 				"source":"1"
 			}
 		]

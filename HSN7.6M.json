@@ -20,7 +20,7 @@
 		"maxdate":[
 			{
 				"value":"-7600000",
-				"error":"1100000",
+				"e_value":"1100000",
 				"unit":"year",
 				"source":"1"
 			}
