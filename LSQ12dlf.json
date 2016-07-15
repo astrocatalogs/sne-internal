@@ -1,0 +1,17 @@
+{
+	"LSQ12dlf":{
+		"name":"LSQ12dlf",
+		"errors":[
+			{
+				"value":"2000A&AS..143....9W",
+				"kind":"bibcode",
+				"extra":"claimedtype"
+			},
+			{
+				"value":"2014MNRAS.444.2096N",
+				"kind":"bibcode",
+				"extra":"claimedtype"
+			}
+		]
+	}
+}
