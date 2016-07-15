@@ -45,7 +45,7 @@
     "lumdist":[
       {
         "value":"0.001",
-        "unit":"Mpc",
+        "u_value":"Mpc",
         "source":"3"
       }
     ]
