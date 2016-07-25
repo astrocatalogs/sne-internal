@@ -1,0 +1,13 @@
+{
+	"PS16um":{
+		"name":"PS16um",
+		"alias":[
+			{
+				"value":"PS16um"
+			},
+			{
+				"value":"Gaia16amb"
+			}
+		]
+	}
+}
