@@ -1,0 +1,13 @@
+{
+	"AT2016csl":{
+		"name":"AT2016csl",
+		"alias":[
+			{
+				"value":"AT2016csl"
+			},
+			{
+				"value":"Gaia16arm"
+			}
+		]
+	}
+}
