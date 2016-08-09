@@ -1,0 +1,20 @@
+{
+	"SN2014dt":{
+		"name":"SN2014dt",
+		"sources":[
+			{
+				"arxivid":"1601.05955"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN2014dt"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"Ia-02cx"
+			}
+		]
+	}
+}
