@@ -1,0 +1,20 @@
+{
+	"SN2012il":{
+		"name":"SN2012il",
+		"sources":[
+			{
+				"bibcode":"2015MNRAS.452.3869N"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN2012il"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"SLSN-Ic"
+			}
+		]
+	}
+}
