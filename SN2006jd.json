@@ -1,0 +1,22 @@
+{
+	"SN2006jd":{
+		"name":"SN2006jd",
+		"errors":[
+			{
+				"value":"2006IAUC.8762....2Y",
+				"kind":"bibcode",
+				"extra":"claimedtype"
+			},
+			{
+				"value":"Transient Name Server",
+				"kind":"name",
+				"extra":"claimedtype"
+			},
+			{
+				"value":"Latest Supernovae",
+				"kind":"name",
+				"extra":"claimedtype"
+			}
+		]
+	}
+}
