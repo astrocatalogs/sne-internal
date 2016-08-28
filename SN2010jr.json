@@ -1,0 +1,20 @@
+{
+	"SN2010jr":{
+		"name":"SN2010jr",
+		"sources":[
+			"bibcode":"2010CBET.2548....1C"
+		],
+		"errors":[
+			{
+				"value":"Latest Supernovae",
+				"kind":"name",
+				"extra":"claimedtype"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"IIb"
+			}
+		]
+	}
+}
