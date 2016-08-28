@@ -4,13 +4,15 @@
 		"aliases":[
 			"SCP-06F6"
 		],
-				"sources":[
-	  {"bibcode":"2011Natur.474..487Q"}
+		"sources":[
+			{
+				"bibcode":"2011Natur.474..487Q"
+			}
 		],
 		"claimedtype":[
-		  {
-		    "value":"SLSN-I"
-		  }
+			{
+				"value":"SLSN-I"
+			}
 		]
 	}
 }
