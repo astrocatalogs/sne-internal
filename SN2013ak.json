@@ -2,14 +2,15 @@
 	"SN2013ak":{
 		"name":"SN2013ak",
 		"sources":[
-      			{
-        			"bibcode":"2013ATel.4943....1M"
-      			}],
+			{
+				"bibcode":"2013ATel.4943....1M"
+			}
+		],
 		"claimedtype":[
-      			{
+			{
 				"value":"IIb"
-      			}
-    			],
+			}
+		],
 		"errors":[
 			{
 				"value":"2013ATel.4874....1M",
