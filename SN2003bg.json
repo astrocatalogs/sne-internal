@@ -1,0 +1,21 @@
+{
+	"SN2003bg":{
+		"name":"SN2003bg",
+		"alias":[
+			{
+				"value":"SN2003bg"
+			}
+		],
+		spectra":[
+      {
+        "filename":"sn2003bg-20030228-br.flm",
+        "exclude":[
+          {
+            "below":"3190",
+            "reason":"noise"
+          }
+        ]
+      }
+    ]
+	}
+}
