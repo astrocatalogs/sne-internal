@@ -11,6 +11,16 @@
 				"value":"2014MNRAS.444.2096N",
 				"kind":"bibcode",
 				"extra":"claimedtype"
+			},
+			{
+				"value":"2012ATel.4299....1S",
+				"kind":"bibcode",
+				"extra":"claimedtype"
+			},
+			{
+				"value":"Latest Supernovae",
+				"kind":"name",
+				"extra":"claimedtype"
 			}
 		]
 	}
