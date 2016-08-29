@@ -1,0 +1,20 @@
+{
+	"PS1-11bam":{
+		"name":"PS1-11bam",
+		"sources":[
+			{
+				"bibcode":"2012ApJ...755L..29B"
+			}
+		],
+		"alias":[
+			{
+				"value":"PS1-11bam"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"SLSN-I"
+			}
+		]
+	}
+}
