@@ -1,8 +1,18 @@
 {
 	"SN2010kd":{
 		"name":"SN2010kd",
+		"sources":[
+			{
+				"bibcode":"2010CBET.2556....1V"
+			}
+		],
 		"distinctfrom":[
 			"SN2011cs"
+		],
+		"claimedtype":[
+			{
+				"value":"SLSN-I"
+			}
 		]
 	}
 }
