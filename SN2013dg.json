@@ -1,11 +1,21 @@
 {
 	"SN2013dg":{
 		"name":"SN2013dg",
+		"sources":[
+			{
+				"bibcode":"2014MNRAS.444.2096N"
+			}
+		],
 		"errors":[
 			{
 				"value":"2000A&AS..143....9W",
 				"kind":"bibcode",
 				"extra":"claimedtype"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"SLSN-I"
 			}
 		]
 	}
