@@ -2,18 +2,18 @@
 	"SN2013ak":{
 		"name":"SN2013ak",
 		"sources":[
-      {
-        "name":"2013ATel.4943....1M",
-        "url":"http://adsabs.harvard.edu/abs/2013ATel.4943....1M",
-        "bibcode":"2013ATel.4943....1M",
-        "alias":"1"
-      },
+      			{
+        		"name":"2013ATel.4943....1M",
+        		"url":"http://adsabs.harvard.edu/abs/2013ATel.4943....1M",
+        		"bibcode":"2013ATel.4943....1M",
+        		"alias":"1"
+      			}],
 		"claimedtype":[
-      {
-        "value":"IIb",
-        "source":"2"
-      }
-    ],
+      			{
+			"value":"IIb",
+        		"source":"2"
+      			}
+    			],
 		"errors":[
 			{
 				"value":"2013ATel.4874....1M",
