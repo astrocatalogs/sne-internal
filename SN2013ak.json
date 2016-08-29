@@ -3,15 +3,11 @@
 		"name":"SN2013ak",
 		"sources":[
       			{
-        		"name":"2013ATel.4943....1M",
-        		"url":"http://adsabs.harvard.edu/abs/2013ATel.4943....1M",
-        		"bibcode":"2013ATel.4943....1M",
-        		"alias":"1"
+        			"bibcode":"2013ATel.4943....1M"
       			}],
 		"claimedtype":[
       			{
-			"value":"IIb",
-        		"source":"2"
+				"value":"IIb"
       			}
     			],
 		"errors":[
