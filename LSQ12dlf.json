@@ -1,6 +1,11 @@
 {
 	"LSQ12dlf":{
 		"name":"LSQ12dlf",
+		"sources":[
+			{
+				"bibcode":"2014MNRAS.444.2096N"
+			}
+		],
 		"errors":[
 			{
 				"value":"2000A&AS..143....9W",
@@ -21,6 +26,11 @@
 				"value":"Latest Supernovae",
 				"kind":"name",
 				"extra":"claimedtype"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"SLSN-I"
 			}
 		]
 	}
