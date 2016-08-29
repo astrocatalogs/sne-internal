@@ -13,6 +13,18 @@
 			{
 				"value":"SNF20070406-008"
 			}
+		],
+		"errors":[
+			{
+				"value":"2012A&A...538A.120L",
+				"kind":"bibcode",
+				"extra":"claimedtype"
+			},
+			{
+				"value":"Transient Name Server",
+				"kind":"name",
+				"extra":"claimedtype"
+			}
 		]
 	}
 }
