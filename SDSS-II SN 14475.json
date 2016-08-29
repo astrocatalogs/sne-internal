@@ -1,23 +1,19 @@
-### DELETE THIS LINE TO ENABLE COMMIT BUTTON
 {
 	"SDSS-II SN 14475":{
 		"name":"SDSS-II SN 14475",
 		"sources":[
-		    {
-		    "name":"2015A&A...574A..60T",
-        "url":"https://ui.adsabs.harvard.edu/#abs/2015A%26A...574A..60T",
-        "bibcode":"2015A&A...574A..60T", 
-        "alias":6}
-    ],
-    "claimedtype":[
-      {
-        "value":"Ic-BL",
-        "source":"6"
-      }
+		    	{
+		    		"bibcode":"2015A&A...574A..60T"
+		    		
+		    	}
+    			],
+    		"claimedtype":[
+      			{
+        			"value":"Ic-BL",
+			}
+			]
 		"errors":[
 			{
-				"value":"2014arXiv1401.3317S",
-				"kind":"bibcode",
 				"extra":"claimedtype"
 			}
 		]
