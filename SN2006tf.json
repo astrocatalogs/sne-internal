@@ -1,0 +1,20 @@
+{
+	"SN2006tf":{
+		"name":"SN2006tf",
+		"sources":[
+			{
+				"bibcode":"2008ApJ...686..467S"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN2006tf"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"SLSN-II"
+			}
+		]
+	}
+}
