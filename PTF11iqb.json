@@ -1,0 +1,12 @@
+{
+	"PTF11iqb":{
+		"name":"PTF11iqb",
+		"errors":[
+			{
+				"value":"2012PASP..124..668Y",
+				"kind":"bibcode",
+				"extra":"claimedtype"
+			}
+		]
+	}
+}
