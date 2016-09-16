@@ -1,0 +1,12 @@
+{
+	"SN2013T":{
+		"name":"SN2013T",
+		"errors":[
+			{
+				"value":"Latest Supernovae",
+				"kind":"name",
+				"extra":"alias"
+			}
+		]
+	}
+}
