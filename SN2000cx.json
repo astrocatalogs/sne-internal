@@ -1,0 +1,25 @@
+{
+	"SN2000cx":{
+		"name":"SN2000cx",
+		"alias":[
+			{
+				"value":"SN2000cx"
+			}
+		],
+    "spectra":[
+      {
+        "filename":"sn2000cx-20011022.270-joined.flm",
+        "exclude":[
+          {
+            "below":"3980.0",
+            "reason":"noise"
+          },
+          {
+            "above":"9200.0",
+            "reason":"noise"
+          }
+        ]
+      }
+    ]
+	}
+}
