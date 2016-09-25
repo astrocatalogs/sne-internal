@@ -1,0 +1,21 @@
+{
+	"SN2000H":{
+		"name":"SN2000H",
+		"alias":[
+			{
+				"value":"SN2000H"
+			}
+		],
+    "spectra":[
+      {
+        "filename":"2000H_20000330_3371_10256_00.dat",
+        "exclude":[
+          {
+            "above":"9850.0",
+            "reason":"noise"
+          }
+        ]
+      }
+    ]
+	}
+}
