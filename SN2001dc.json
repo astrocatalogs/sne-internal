@@ -1,0 +1,21 @@
+{
+	"SN2001dc":{
+		"name":"SN2001dc",
+		"alias":[
+			{
+				"value":"SN2001dc"
+			}
+		],
+    "spectra":[
+      {
+        "filename":"2001dc_20010816_3200_8057_00.dat",
+        "exclude":[
+          {
+            "below":"3400.0",
+            "reason":"noise"
+          }
+        ]
+      }
+    ]
+	}
+}
