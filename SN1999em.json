@@ -1,0 +1,30 @@
+{
+	"SN1999em":{
+		"name":"SN1999em",
+		"alias":[
+			{
+				"value":"SN1999em"
+			}
+		],
+    "spectra":[
+      {
+        "filename":"sn1999em-19991119-o.flm",
+        "exclude":[
+          {
+            "below":"3800.0",
+            "reason":"noise"
+          }
+        ]
+      },
+      {
+        "filename":"sn1999em-19991122-o.flm",
+        "exclude":[
+          {
+            "below":"3800.0",
+            "reason":"noise"
+          }
+        ]
+      }
+    ]
+	}
+}
