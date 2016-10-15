@@ -3,7 +3,8 @@
 		"name":"LSQ12dlf",
 		"sources":[
 			{
-				"bibcode":"2014MNRAS.444.2096N"
+				"bibcode":"2014MNRAS.444.2096N",
+				"alias":"1"
 			}
 		],
 		"errors":[
@@ -30,7 +31,8 @@
 		],
 		"claimedtype":[
 			{
-				"value":"SLSN-I"
+				"value":"SLSN-I",
+				"source":"1"
 			}
 		],
 		"photometry":[
