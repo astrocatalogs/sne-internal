@@ -32,6 +32,17 @@
 			{
 				"value":"SLSN-I"
 			}
+		],
+		"photometry":[
+			{
+				"time":"56101.41",
+				"band":"V",
+				"magnitude":"22.17",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"2",
+				"upperlimit":true
+			}
 		]
 	}
 }
