@@ -1,10 +1,11 @@
 {
-	"SN1999br":{
-		"name":"SN1999br",
-		"alias":[
-			{
-				"value":"SN1999br"
-			},
+  "SN1999br":{
+    "name":"SN1999br",
+    "alias":[
+      {
+        "value":"SN1999br"
+      }
+    ],
     "spectra":[
       {
         "filename":"1999br_19990423_3475_9301_00.dat",
@@ -61,6 +62,5 @@
         ]
       }
     ]
-		]
-	}
+  }
 }
