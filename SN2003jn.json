@@ -1,0 +1,12 @@
+{
+	"SN2003jn":{
+		"name":"SN2003jn",
+		"errors":[
+			{
+				"value":"Transient Name Server",
+				"kind":"name",
+				"extra":"dec"
+			}
+		]
+	}
+}
