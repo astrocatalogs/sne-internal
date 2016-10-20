@@ -1,0 +1,13 @@
+{
+	"SN2003jn":{
+		"name":"SN2003jn",
+		"errors":[
+			{
+				"value":"Transient Name Server",
+				"kind":"name",
+				"extra":"dec"
+			}
+		]
+	}
+}
+### IAUC 8237 dec coordinates have incorrect sign.
