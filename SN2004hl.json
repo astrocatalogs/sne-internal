@@ -1,10 +1,6 @@
-{
-	"SN2004hl":{
+{	"SN2004hl":{
 		"name":"SN2004hl",
-		"alias":[
-			{
-				"value":"SN2004hl"
-			},
+		"distinctfrom":[
 			{
 				"value":"ESSENCE k432"
 			}
