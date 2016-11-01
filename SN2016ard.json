@@ -1,0 +1,28 @@
+{
+	"SN2016ard":{
+		"name":"SN2016ard",
+    "sources":[
+			{
+				"bibcode":"2016ATel.8790....1C",
+				"alias":"1"
+			}
+		],
+		"errors":[
+			{
+				"value":"Pan-STARRS 3Pi",
+				"kind":"name",
+				"extra":"redshift"
+			},
+			{
+				"value":"Latest Supernovae",
+				"kind":"name",
+				"extra":"redshift"
+			}
+		],
+		"redshift":[
+			{
+				"value":"0.20"
+			}
+		]
+	}
+}
