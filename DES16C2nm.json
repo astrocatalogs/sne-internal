@@ -1,0 +1,40 @@
+{
+	"DES16C2nm":{
+		"name":"DES16C2nm",
+		"sources":[
+			{
+				"name":"ATel #9700"
+			}
+		],
+		"alias":[
+			{
+				"value":"DES16C2nm"
+			}
+		],
+		"ra":[
+			{
+				"value":"03:40:14.83"
+			}
+		],
+		"dec":[
+			{
+				"value":"-29:05:53.5"
+			}
+		],
+		"redshift":[
+			{
+				"value":"1.998"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"SLSN-I"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2016/08/22"
+			}
+		]
+	}
+}
