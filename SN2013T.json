@@ -7,6 +7,11 @@
 				"kind":"name",
 				"extra":"alias"
 			}
+		],
+		"distinctfrom":[
+			{
+				"value":"SN2012T"
+			}
 		]
 	}
 }
