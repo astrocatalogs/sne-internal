@@ -1,0 +1,30 @@
+{
+	"SN2006oa":{
+		"name":"SN2006oa",
+		"alias":[
+			{
+				"value":"SN2006oa"
+			}
+		],
+     "spectra":[
+      {
+        "filename":"sn16314-1335.ascii",
+        "exclude":[
+          {
+            "below":"3550.0",
+            "reason":"noise"
+          }
+        ]
+      },
+      {
+        "filename":"sn16314-1475.ascii",
+        "exclude":[
+          {
+            "below":"3380",
+            "reason":"noise"
+          }
+        ]
+      }
+    ]
+	}
+}
