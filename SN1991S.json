@@ -2,7 +2,15 @@
 	"SN1991S":{
 		"name":"SN1991S",
 		"distinctfrom":[
-			"PSN J10292799+2200468"
+			{
+				"value":"PSN J10292799+2200468"
+			},
+			{
+				"value":"iPTF14hvh"
+			},
+			{
+				"value":"CSS141127:102928+220047"
+			}
 		]
 	}
 }
