@@ -8,9 +8,20 @@
 				"extra":"alias"
 			}
 		],
+		"aliases":[
+			{
+				"value":"PSN J14014169+3349339"
+			}
+		],
 		"distinctfrom":[
 			{
 				"value":"SN2013T"
+			},
+			{
+				"value":"PSN J13101968+3228257"
+			},
+			{
+				"value":"MASTER OT J131019.64+322825.4"
 			}
 		]
 	}
