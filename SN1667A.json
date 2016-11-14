@@ -1,16 +1,6 @@
 {
 	"SN1667A":{
 		"name":"SN1667A",
-		"aliases":[
-			{
-				"value":"SN1667A",
-				"source":"1"
-			},
-			{
-				"value":"SNCasA",
-				"source":"1"
-			}
-		],
 		"sources":[
 			{
 				"bibcode":"2008Sci...320.1195K",
@@ -23,6 +13,16 @@
 			{
 				"arxivid":"1611.03576",
 				"alias":"3"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN1667A",
+				"source":"1"
+			},
+			{
+				"value":"SNCasA",
+				"source":"1"
 			}
 		],
 		"claimedtype":[
