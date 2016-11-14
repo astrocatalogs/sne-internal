@@ -2,17 +2,35 @@
 	"SN1667A":{
 		"name":"SN1667A",
 		"aliases":[
-			"SN1667A",
-			"SNCasA"
+			{
+				"value":"SN1667A",
+				"source":"1"
+			},
+			{
+				"value":"SNCasA",
+				"source":"1"
+			}
 		],
 		"sources":[
 			{
-				"bibcode":"2008Sci...320.1195K"
+				"bibcode":"2008Sci...320.1195K",
+				"alias":"1"
+			},
+			{
+				"bibcode":"1948Natur.162..462R",
+				"alias":"2"
 			}
 		],
 		"claimedtype":[
 			{
-				"value":"IIb"
+				"value":"IIb",
+				"source":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"05/28/1948",
+				"source":"2"
 			}
 		]
 	}
