@@ -19,6 +19,10 @@
 			{
 				"bibcode":"1948Natur.162..462R",
 				"alias":"2"
+			},
+			{
+				"arxivid":"1611.03576",
+				"alias":"3"
 			}
 		],
 		"claimedtype":[
@@ -31,6 +35,26 @@
 			{
 				"value":"05/28/1948",
 				"source":"2"
+			}
+		],
+		"av_circum":[
+			{
+				"value":"2.8",
+				"e_value":"2.2",
+				"source":"3"
+			}
+		],
+		"photometry":[
+			{
+				"u_time":"JD",
+				"time":"2302904.0",
+				"e_time":"40.5",
+				"magnitude":"4",
+				"e_magnitude":"1",
+				"band":"V",
+				"observer":"Korean astronomers",
+				"instrument":"By eye",
+				"source":"3"
 			}
 		]
 	}
