@@ -1,0 +1,15 @@
+{
+	"PTF09ge":{
+		"name":"PTF09ge",
+		"sources":[
+			{
+				"bibcode":"2014ApJ...793...38A"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"TDE"
+			}
+		]
+	}
+}
