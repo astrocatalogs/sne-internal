@@ -1,0 +1,16 @@
+{
+	"SN2001ei":{
+		"name":"SN2001ei",
+		"sources":[
+			{
+				"bibcode":"2011PhDT.......384S"
+			}
+		],
+		"redshift":[
+			{
+				"value":"0.0282",
+				"e_value":"0.0001"
+			}
+		]
+	}
+}
