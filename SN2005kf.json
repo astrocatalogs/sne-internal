@@ -1,0 +1,15 @@
+{
+	"SN2005kf":{
+		"name":"SN2005kf",
+		"sources":[
+			{
+				"bibcode":"2014AJ....147...99M"
+			}
+		],
+		"redshift":[
+			{
+				"value":"0.0151"
+			}
+		]
+	}
+}
