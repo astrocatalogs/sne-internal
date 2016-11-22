@@ -1,0 +1,16 @@
+{
+	"SN2004ev":{
+		"name":"SN2004ev",
+		"sources":[
+			{
+				"bibcode":"2011PhDT.......384S"
+			}
+		],
+		"redshift":[
+			{
+				"value":"0.0292",
+				"e_value":"0.0026"
+			}
+		]
+	}
+}
