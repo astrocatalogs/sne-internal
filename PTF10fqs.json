@@ -1,0 +1,15 @@
+{
+	"PTF10fqs":{
+		"name":"PTF10fqs",
+		"sources":[
+			{
+				"bibcode":"2011ApJ...730..134K"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"LRN"
+			}
+		]
+	}
+}
