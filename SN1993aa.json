@@ -1,0 +1,16 @@
+{
+	"SN1993aa":{
+		"name":"SN1993aa",
+		"sources":[
+			{
+				"bibcode":"2011PhDT.......384S"
+			}
+		],
+		"redshift":[
+			{
+				"value":"0.0253",
+				"e_value":"0.0022"
+			}
+		]
+	}
+}
