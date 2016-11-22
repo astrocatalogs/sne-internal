@@ -1,0 +1,16 @@
+{
+	"SN1992ah":{
+		"name":"SN1992ah",
+		"sources":[
+			{
+				"bibcode":"2011PhDT.......384S"
+			}
+		],
+		"redshift":[
+			{
+				"value":"0.0218",
+				"e_value":"0.0032"
+			}
+		]
+	}
+}
