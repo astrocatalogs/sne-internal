@@ -1,0 +1,16 @@
+{
+	"SN2008gt":{
+		"name":"SN2008gt",
+		"sources":[
+			{
+				"bibcode":"2011PhDT.......384S"
+			}
+		],
+		"redshift":[
+			{
+				"value":"0.0668",
+				"e_value":"0.0010"
+			}
+		]
+	}
+}
