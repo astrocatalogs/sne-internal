@@ -1,0 +1,20 @@
+{
+	"SN2001iy":{
+		"name":"SN2001iy",
+		"alias":[
+			{
+				"value":"SN2001iy"
+			}
+		],
+		"sources":[
+			{
+				"bibcode":"2004ApJ...602..571B"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"Ia"
+			}
+		]
+	}
+}
