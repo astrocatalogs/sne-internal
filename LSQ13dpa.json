@@ -1,0 +1,21 @@
+{
+	"LSQ13dpa":{
+		"name":"LSQ13dpa",
+		"sources":[
+			{
+				"bibcode":"2013ATel.5678....1H"
+			}
+		],
+		"redshift":[
+			{
+				"value":"0.023",
+				"kind":"host"
+			}
+		],
+		"host":[
+			{
+				"value":"LCSB S1492O"
+			}
+		]
+	}
+}
