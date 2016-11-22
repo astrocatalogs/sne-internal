@@ -1,0 +1,20 @@
+{
+	"SN2002P":{
+		"name":"SN2002P",
+		"alias":[
+			{
+				"value":"SN2002P"
+			}
+		],
+		"sources":[
+			{
+				"bibcode":"2004ApJ...602..571B"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"Ia"
+			}
+		]
+	}
+}
