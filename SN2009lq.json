@@ -1,0 +1,15 @@
+{
+	"SN2009lq":{
+		"name":"SN2009lq",
+		"sources":[
+			{
+				"name":"Maximilian Stritzinger and Danny Milisavljevic"
+			}
+		],
+		"redshift":[
+			{
+				"value":"0.0443"
+			}
+		]
+	}
+}
