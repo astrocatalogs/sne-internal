@@ -1,0 +1,15 @@
+{
+	"ASASSN-15lh":{
+		"name":"ASASSN-15lh",
+		"sources":[
+			{
+				"bibcode":"2016arXiv160902927L"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"TDE"
+			}
+		]
+	}
+}
