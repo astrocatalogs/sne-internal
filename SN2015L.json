@@ -1,9 +1,17 @@
 {
-	"ASASSN-15lh":{
-		"name":"ASASSN-15lh",
+	"SN2015L":{
+		"name":"SN2015L",
 		"sources":[
 			{
 				"bibcode":"2016arXiv160902927L"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN2015L"
+			},
+			{
+				"value":"ASASSN-15lh"
 			}
 		],
 		"claimedtype":[
