@@ -1,0 +1,21 @@
+{
+	"SDSS-II SN 14475":{
+		"name":"SDSS-II SN 14475",
+		"sources":[
+		    	{
+		    		"bibcode":"2015A&A...574A..60T"
+		    		
+		    	}
+    		],
+    		"claimedtype":[
+      			{
+        			"value":"Ic-BL"
+			}
+		],
+		"errors":[
+			{
+				"extra":"claimedtype"
+			}
+		]
+	}
+}
