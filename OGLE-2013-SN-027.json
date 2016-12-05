@@ -9,6 +9,9 @@
 		"alias":[
 			{
 				"value":"OGLE-2013-SN-027"
+			},
+			{
+				"value":"OGLE-2014-SN-081"
 			}
 		],
 		"ra":[
@@ -19,6 +22,11 @@
 		"dec":[
 			{
 				"value":"-69:32:11.4"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"AGN?"
 			}
 		]
 	}
