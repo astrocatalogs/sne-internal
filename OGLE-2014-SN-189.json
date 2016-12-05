@@ -1,0 +1,15 @@
+{
+	"OGLE-2014-SN-189":{
+		"name":"OGLE-2014-SN-189",
+		"sources":[
+			{
+				"bibcode":"2014ATel.6810....1W"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"CV"
+			}
+		]
+	}
+}
