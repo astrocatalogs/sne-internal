@@ -1,0 +1,15 @@
+{
+	"SDSS-II SN 6696":{
+		"name":"SDSS-II SN 6696",
+		"sources":[
+			{
+				"bibcode":"2010ApJ...716..712A"
+			}
+		],
+		"alias":[
+			{
+				"value":"SDSSJ223618.96+002846.7"
+			}
+		]
+	}
+}
