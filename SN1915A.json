@@ -1,0 +1,29 @@
+{
+	"SN1915A":{
+		"name":"SN1915A",
+		"sources":[
+			{
+				"bibcode":"1938ApJ....88..285B"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN1915A"
+			}
+		],
+		"photometry":[
+			{
+				"time":"20576",
+				"u_time":"MJD",
+				"magnitude":"15.5",
+				"band":"pg"
+			},
+			{
+				"time":"20603",
+				"u_time":"MJD",
+				"magnitude":"16.4",
+				"band":"pg"
+			}
+		]
+	}
+}
