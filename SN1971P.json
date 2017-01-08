@@ -24,7 +24,8 @@
 			{"time":"41202.90068", "magnitude":"18.80101", "u_time":"MJD"},
 			{"time":"41205.59924", "magnitude":"18.80101", "u_time":"MJD"},
 			{"time":"41260.96748", "magnitude":"18.99504", "u_time":"MJD", "upperlimit":true},
-			{"time":"41269.55715", "magnitude":"18.98809", "u_time":"MJD", "upperlimit":true}
+			{"time":"41269.55715", "magnitude":"18.98809", "u_time":"MJD", "upperlimit":true},
+			{"time":"41275", "magnitude":"20.0", "u_time":"MJD"}
 		]
 	}
 }

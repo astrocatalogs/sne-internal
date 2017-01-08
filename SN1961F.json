@@ -1,0 +1,30 @@
+{
+	"SN1961F":{
+		"name":"SN1961F",
+		"sources":[
+			{
+				"bibcode":"1965stst.conf..367Z"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN1961F"
+			}
+		],
+		"photometry":[
+			{"time":"37348.78149", "magnitude":"12.99355", "u_time":"MJD"},
+			{"time":"37354.04409", "magnitude":"13.00215", "u_time":"MJD"},
+			{"time":"37364.72780", "magnitude":"13.23656", "u_time":"MJD"},
+			{"time":"37365.71363", "magnitude":"13.33548", "u_time":"MJD"},
+			{"time":"37366.70002", "magnitude":"13.42581", "u_time":"MJD"},
+			{"time":"37367.81583", "magnitude":"13.51613", "u_time":"MJD"},
+			{"time":"37368.97297", "magnitude":"13.63441", "u_time":"MJD"},
+			{"time":"37375.88703", "magnitude":"14.12258", "u_time":"MJD"},
+			{"time":"37377.78424", "magnitude":"14.13763", "u_time":"MJD"},
+			{"time":"37392.73637", "magnitude":"14.41075", "u_time":"MJD"},
+			{"time":"37394.80058", "magnitude":"14.51183", "u_time":"MJD"},
+			{"time":"37395.69957", "magnitude":"14.61935", "u_time":"MJD"},
+			{"time":"37396.91990", "magnitude":"15.09462", "u_time":"MJD"}
+		]
+	}
+}

@@ -1,0 +1,28 @@
+{
+	"SN1940A":{
+		"name":"SN1940A",
+		"sources":[
+			{
+				"bibcode":"1965stst.conf..367Z"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN1940A"
+			}
+		],
+		"photometry":[
+			{"time":"29671.27808", "magnitude":"14.47542", "u_time":"MJD"},
+			{"time":"29673.14552", "magnitude":"14.33186", "u_time":"MJD"},
+			{"time":"29685.71434", "magnitude":"14.89857", "u_time":"MJD"},
+			{"time":"29686.35114", "magnitude":"15.03366", "u_time":"MJD"},
+			{"time":"29697.66578", "magnitude":"15.57828", "u_time":"MJD"},
+			{"time":"29713.19260", "magnitude":"15.93335", "u_time":"MJD"},
+			{"time":"29723.10182", "magnitude":"16.52361", "u_time":"MJD"},
+			{"time":"29724.52255", "magnitude":"16.67345", "u_time":"MJD"},
+			{"time":"29724.84330", "magnitude":"16.77107", "u_time":"MJD"},
+			{"time":"29725.32119", "magnitude":"16.87616", "u_time":"MJD"},
+			{"time":"29753.61694", "magnitude":"18.35424", "u_time":"MJD"}
+		]
+	}
+}

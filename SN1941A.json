@@ -1,0 +1,44 @@
+{
+	"SN1941A":{
+		"name":"SN1941A",
+		"sources":[
+			{
+				"bibcode":"1965stst.conf..367Z"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN1941A"
+			}
+		],
+		"photometry":[
+			{"time":"30000.17379", "magnitude":"15.38795", "u_time":"MJD"},
+			{"time":"30014.82960", "magnitude":"13.86193", "u_time":"MJD"},
+			{"time":"30016.00003", "magnitude":"13.75671", "u_time":"MJD"},
+			{"time":"30019.07083", "magnitude":"13.49368", "u_time":"MJD"},
+			{"time":"30021.97693", "magnitude":"13.39625", "u_time":"MJD"},
+			{"time":"30026.77705", "magnitude":"13.19371", "u_time":"MJD"},
+			{"time":"30028.51090", "magnitude":"13.21656", "u_time":"MJD"},
+			{"time":"30029.82242", "magnitude":"13.14148", "u_time":"MJD"},
+			{"time":"30045.09051", "magnitude":"13.73850", "u_time":"MJD"},
+			{"time":"30046.24006", "magnitude":"13.80643", "u_time":"MJD"},
+			{"time":"30049.11076", "magnitude":"14.00260", "u_time":"MJD"},
+			{"time":"30051.66479", "magnitude":"14.42456", "u_time":"MJD"},
+			{"time":"30054.15309", "magnitude":"14.19156", "u_time":"MJD"},
+			{"time":"30057.58358", "magnitude":"14.54591", "u_time":"MJD"},
+			{"time":"30058.55483", "magnitude":"14.89235", "u_time":"MJD"},
+			{"time":"30060.41252", "magnitude":"15.08837", "u_time":"MJD"},
+			{"time":"30061.12248", "magnitude":"15.20140", "u_time":"MJD"},
+			{"time":"30062.58325", "magnitude":"15.08869", "u_time":"MJD"},
+			{"time":"30068.03521", "magnitude":"15.48098", "u_time":"MJD"},
+			{"time":"30069.03642", "magnitude":"15.57900", "u_time":"MJD"},
+			{"time":"30071.20715", "magnitude":"15.57933", "u_time":"MJD"},
+			{"time":"30081.32849", "magnitude":"16.85312", "u_time":"MJD"},
+			{"time":"30082.07386", "magnitude":"16.67256", "u_time":"MJD"},
+			{"time":"30100.77008", "magnitude":"18.84350", "u_time":"MJD"},
+			{"time":"30102.76885", "magnitude":"19.06965", "u_time":"MJD"},
+			{"time":"30104.21056", "magnitude":"19.11503", "u_time":"MJD"},
+			{"time":"30133.20570", "magnitude":"19.88728", "u_time":"MJD", "upperlimit":true}
+		]
+	}
+}
