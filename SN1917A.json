@@ -1,0 +1,35 @@
+{
+	"SN1917A":{
+		"name":"SN1917A",
+		"sources":[
+			{
+				"bibcode":"1938ApJ....88..285B"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN1917A"
+			}
+		],
+		"photometry":[
+			{
+				"time":"21428",
+				"u_time":"MJD",
+				"magnitude":"14.6",
+				"band":"pg"
+			},
+			{
+				"time":"21436",
+				"u_time":"MJD",
+				"magnitude":"15.6",
+				"band":"pg"
+			},
+			{
+				"time":"21456",
+				"u_time":"MJD",
+				"magnitude":"15.9",
+				"band":"pg"
+			}
+		]
+	}
+}
