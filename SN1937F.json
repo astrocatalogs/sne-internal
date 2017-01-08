@@ -1,0 +1,24 @@
+{
+	"SN1937F":{
+		"name":"SN1937F",
+		"sources":[
+			{
+				"bibcode":"1974ASSL...45...19R"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN1937F"
+			}
+		],
+		"photometry":[
+			{"time":"28876.88513", "magnitude":"16.09480", "band":"pg", "u_time":"MJD"},
+			{"time":"28877.16823", "magnitude":"14.04529", "band":"pg", "u_time":"MJD"},
+			{"time":"28878.76884", "magnitude":"14.05482", "band":"pg", "u_time":"MJD"},
+			{"time":"28892.20290", "magnitude":"13.90703", "band":"pg", "u_time":"MJD"},
+			{"time":"28900.95471", "magnitude":"14.19764", "band":"pg", "u_time":"MJD"},
+			{"time":"28924.26559", "magnitude":"15.39241", "band":"pg", "u_time":"MJD"},
+			{"time":"28953.44912", "magnitude":"14.99554", "band":"pg", "u_time":"MJD"}
+		]
+	}
+}
