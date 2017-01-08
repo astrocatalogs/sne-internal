@@ -1,0 +1,30 @@
+{
+	"SN1971P":{
+		"name":"SN1971P",
+		"sources":[
+			{
+				"bibcode":"1974ASSL...45...19R"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN1971P"
+			}
+		],
+		"photometry":[
+			{"time":"41180.45761", "magnitude":"18.00373", "u_time":"MJD"},
+			{"time":"41207.05604", "magnitude":"18.90349", "u_time":"MJD"},
+			{"time":"41228.82263", "magnitude":"18.79893", "u_time":"MJD"},
+			{"time":"41238.19493", "magnitude":"19.00151", "u_time":"MJD"},
+			{"time":"41238.26912", "magnitude":"19.09366", "u_time":"MJD"},
+			{"time":"41241.56413", "magnitude":"18.89484", "u_time":"MJD"},
+			{"time":"41169.02937", "magnitude":"16.93703", "u_time":"MJD"},
+			{"time":"41194.91109", "magnitude":"18.60285", "u_time":"MJD"},
+			{"time":"41196.54616", "magnitude":"18.60621", "u_time":"MJD"},
+			{"time":"41202.90068", "magnitude":"18.80101", "u_time":"MJD"},
+			{"time":"41205.59924", "magnitude":"18.80101", "u_time":"MJD"},
+			{"time":"41260.96748", "magnitude":"18.99504", "u_time":"MJD", "upperlimit":true},
+			{"time":"41269.55715", "magnitude":"18.98809", "u_time":"MJD", "upperlimit":true}
+		]
+	}
+}
