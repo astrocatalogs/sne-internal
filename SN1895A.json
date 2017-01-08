@@ -1,0 +1,36 @@
+{
+	"SN1895A":{
+		"name":"SN1895A",
+		"sources":[
+			{
+				"bibcode":"1938ApJ....88..285B"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN1895A"
+			}
+		],
+		"photometry":[
+			{
+				"time":"13271",
+				"u_time":"MJD",
+				"magnitude":"12.5",
+				"band":"pg"
+			},
+			{
+				"time":"13299",
+				"u_time":"MJD",
+				"magnitude":"12.9",
+				"band":"pg"
+			},
+			{
+				"time":"13300",
+				"u_time":"MJD",
+				"magnitude":"12.9",
+				"band":"pg"
+			}
+		]
+	}
+	}
+}
