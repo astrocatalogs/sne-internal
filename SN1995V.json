@@ -1,0 +1,22 @@
+{
+	"SN1995V":{
+		"name":"SN1995V",
+		"sources":[
+			{
+				"bibcode":"1998MNRAS.299..150F"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN1995V"
+			}
+		],
+		"photometry":[
+			{"time":"49922.92635", "magnitude":"18.68318", "band":"B", "u_time":"MJD", "upperlimit":true},
+			{"time":"49945.97872", "magnitude":"16.45596", "band":"B", "u_time":"MJD"},
+			{"time":"49956.87889", "magnitude":"16.70120", "band":"B", "u_time":"MJD"},
+			{"time":"49994.80851", "magnitude":"17.19670", "band":"B", "u_time":"MJD"},
+			{"time":"50006.88707", "magnitude":"17.47197", "band":"B", "u_time":"MJD"}
+		]
+	}
+}
