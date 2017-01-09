@@ -1,255 +1,253 @@
 {
-  "SN1572A":{
-    "name":"SN1572A",
-    "aliases":[
-      "SN1572A",
-      "Tycho's supernova"
-    ],
-    "sources":[
-      {
-        "name":"2004ApJ...612..357R",
-        "url":"http://adsabs.harvard.edu/abs/2004ApJ...612..357R",
-        "bibcode":"2004ApJ...612..357R",
-        "alias":"1"
-      }
-    ],
-    "discoverdate":[
-      {
-        "value":"1572/11/06",
-        "source":"1"
-      }
-    ],
-    "photometry":[
-      {
-        "u_time":"JD",
-        "time":"2295536.5",
-        "band":"V",
-        "magnitude":"5",
-        "upperlimit":true,
-        "observer":"Jerónimo Muñoz",
-        "instrument":"By eye",
-        "source":"1"
-      },
-      {
-        "u_time":"JD",
-        "time":"2295545.5",
-        "band":"V",
-        "magnitude":"-3",
-        "e_magnitude":"0.3",
-        "observer":"Jerónimo Muñoz",
-        "instrument":"By eye",
-        "source":"1"
-      },
-      {
-        "u_time":"JD",
-        "time":"2295545.5",
-        "band":"V",
-        "magnitude":"-3.2",
-        "e_magnitude":"0.3",
-        "observer":"Tycho Brahe",
-        "instrument":"By eye",
-        "source":"1"
-      },
-      {
-        "u_time":"JD",
-        "time":"2295550.5",
-        "e_time":"1",
-        "band":"V",
-        "magnitude":"-4.0",
-        "e_magnitude":"0.3",
-        "observer":"Tycho Brahe",
-        "instrument":"By eye",
-        "source":"1"
-      },
-      {
-        "u_time":"JD",
-        "time":"2295555.5",
-        "e_time":"7",
-        "band":"B",
-        "magnitude":"-3.18",
-        "e_magnitude":"0.39",
-        "instrument":"By eye",
-        "source":"1"
-      },
-      {
-        "u_time":"JD",
-        "time":"2295565.5",
-        "e_time":"5",
-        "band":"B",
-        "magnitude":"-2.2",
-        "e_magnitude":"0.39",
-        "instrument":"By eye",
-        "source":"1"
-      },
-      {
-        "u_time":"JD",
-        "time":"2295566.5",
-        "e_lower_time":"22",
-        "e_upper_time":"7",
-        "band":"B",
-        "magnitude":"-2.0",
-        "e_magnitude":"0.39",
-        "observer":"Jerónimo Muñoz",
-        "instrument":"By eye",
-        "source":"1"
-      },
-      {
-        "u_time":"JD",
-        "time":"2295579.5",
-        "e_time":"7",
-        "band":"V",
-        "magnitude":"-2.4",
-        "e_magnitude":"0.3",
-        "observer":"Tycho Brahe",
-        "instrument":"By eye",
-        "source":"1"
-      },
-      {
-        "u_time":"JD",
-        "time":"2295596.5",
-        "e_time":"7",
-        "band":"B",
-        "magnitude":"-0.33",
-        "e_magnitude":"0.43",
-        "observer":"Tycho Brahe",
-        "instrument":"By eye",
-        "source":"1"
-      },
-      {
-        "u_time":"JD",
-        "time":"2295602.5",
-        "band":"V",
-        "magnitude":"-2",
-        "upperlimit":true,
-        "observer":"Jerónimo Muñoz",
-        "instrument":"By eye",
-        "source":"1"
-      },
-      {
-        "u_time":"JD",
-        "time":"2295610.5",
-        "e_time":"7",
-        "band":"V",
-        "magnitude":"-1.4",
-        "e_magnitude":"0.4",
-        "instrument":"By eye",
-        "source":"1"
-      },
-      {
-        "u_time":"JD",
-        "time":"2295610.5",
-        "e_time":"7",
-        "band":"B",
-        "magnitude":"-0.04",
-        "e_magnitude":"0.45",
-        "observer":"Johannes Prātorius",
-        "instrument":"By eye",
-        "source":"1"
-      },
-      {
-        "u_time":"JD",
-        "time":"2295654.5",
-        "e_time":"7",
-        "band":"B",
-        "magnitude":"1.12",
-        "e_magnitude":"0.32",
-        "observer":"Michael Mästlin",
-        "instrument":"By eye",
-        "source":"1"
-      },
-      {
-        "u_time":"JD",
-        "time":"2295656.5",
-        "e_time":"14",
-        "band":"V",
-        "magnitude":"0.3",
-        "e_magnitude":"0.2",
-        "instrument":"By eye",
-        "source":"1"
-      },
-      {
-        "u_time":"JD",
-        "time":"2295716.5",
-        "e_time":"14",
-        "band":"V",
-        "magnitude":"1.6",
-        "e_magnitude":"0.5",
-        "instrument":"By eye",
-        "source":"1"
-      },
-      {
-        "u_time":"JD",
-        "time":"2295730.5",
-        "e_time":"7",
-        "band":"B",
-        "magnitude":"2.56",
-        "e_magnitude":"0.54",
-        "observer":"Tycho Brahe",
-        "instrument":"By eye",
-        "source":"1"
-      },
-      {
-        "u_time":"JD",
-        "time":"2295808.5",
-        "e_time":"14",
-        "band":"V",
-        "magnitude":"2.5",
-        "e_magnitude":"0.2",
-        "observer":"Tycho Brahe",
-        "instrument":"By eye",
-        "source":"1"
-      },
-      {
-        "u_time":"JD",
-        "time":"2295900.5",
-        "e_time":"14",
-        "band":"V",
-        "magnitude":"4.0",
-        "e_magnitude":"0.2",
-        "instrument":"By eye",
-        "source":"1"
-      },
-      {
-        "u_time":"JD",
-        "time":"2295914.5",
-        "e_time":"7",
-        "band":"V",
-        "magnitude":"4.2",
-        "e_magnitude":"0.2",
-        "instrument":"By eye",
-        "source":"1"
-      },
-      {
-        "u_time":"JD",
-        "time":"2295961.5",
-        "e_time":"14",
-        "band":"V",
-        "magnitude":"4.7",
-        "e_magnitude":"0.2",
-        "instrument":"By eye",
-        "source":"1"
-      },
-      {
-        "u_time":"JD",
-        "time":"2296006.5",
-        "e_time":"7",
-        "band":"V",
-        "magnitude":"5.3",
-        "e_magnitude":"0.4",
-        "instrument":"By eye",
-        "source":"1"
-      },
-      {
-        "u_time":"JD",
-        "time":"2296034.5",
-        "e_time":"7",
-        "band":"V",
-        "magnitude":"6",
-        "upperlimit":true,
-        "instrument":"By eye",
-        "observer":"Tycho Brahe",
-        "source":"1"
-      }
-    ]
-  }
+	"SN1572A":{
+		"name":"SN1572A",
+		"aliases":[
+			"SN1572A",
+			"Tycho's supernova"
+		],
+		"sources":[
+			{
+				"bibcode":"2004ApJ...612..357R",
+				"alias":"1"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"1572/11/06",
+				"source":"1"
+			}
+		],
+		"photometry":[
+			{
+				"u_time":"JD",
+				"time":"2295536.5",
+				"band":"V",
+				"magnitude":"5",
+				"upperlimit":true,
+				"observer":"Jerónimo Muñoz",
+				"instrument":"By eye",
+				"source":"1"
+			},
+			{
+				"u_time":"JD",
+				"time":"2295545.5",
+				"band":"V",
+				"magnitude":"-3",
+				"e_magnitude":"0.3",
+				"observer":"Jerónimo Muñoz",
+				"instrument":"By eye",
+				"source":"1"
+			},
+			{
+				"u_time":"JD",
+				"time":"2295545.5",
+				"band":"V",
+				"magnitude":"-3.2",
+				"e_magnitude":"0.3",
+				"observer":"Tycho Brahe",
+				"instrument":"By eye",
+				"source":"1"
+			},
+			{
+				"u_time":"JD",
+				"time":"2295550.5",
+				"e_time":"1",
+				"band":"V",
+				"magnitude":"-4.0",
+				"e_magnitude":"0.3",
+				"observer":"Tycho Brahe",
+				"instrument":"By eye",
+				"source":"1"
+			},
+			{
+				"u_time":"JD",
+				"time":"2295555.5",
+				"e_time":"7",
+				"band":"B",
+				"magnitude":"-3.18",
+				"e_magnitude":"0.39",
+				"instrument":"By eye",
+				"source":"1"
+			},
+			{
+				"u_time":"JD",
+				"time":"2295565.5",
+				"e_time":"5",
+				"band":"B",
+				"magnitude":"-2.2",
+				"e_magnitude":"0.39",
+				"instrument":"By eye",
+				"source":"1"
+			},
+			{
+				"u_time":"JD",
+				"time":"2295566.5",
+				"e_lower_time":"22",
+				"e_upper_time":"7",
+				"band":"B",
+				"magnitude":"-2.0",
+				"e_magnitude":"0.39",
+				"observer":"Jerónimo Muñoz",
+				"instrument":"By eye",
+				"source":"1"
+			},
+			{
+				"u_time":"JD",
+				"time":"2295579.5",
+				"e_time":"7",
+				"band":"V",
+				"magnitude":"-2.4",
+				"e_magnitude":"0.3",
+				"observer":"Tycho Brahe",
+				"instrument":"By eye",
+				"source":"1"
+			},
+			{
+				"u_time":"JD",
+				"time":"2295596.5",
+				"e_time":"7",
+				"band":"B",
+				"magnitude":"-0.33",
+				"e_magnitude":"0.43",
+				"observer":"Tycho Brahe",
+				"instrument":"By eye",
+				"source":"1"
+			},
+			{
+				"u_time":"JD",
+				"time":"2295602.5",
+				"band":"V",
+				"magnitude":"-2",
+				"upperlimit":true,
+				"observer":"Jerónimo Muñoz",
+				"instrument":"By eye",
+				"source":"1"
+			},
+			{
+				"u_time":"JD",
+				"time":"2295610.5",
+				"e_time":"7",
+				"band":"V",
+				"magnitude":"-1.4",
+				"e_magnitude":"0.4",
+				"instrument":"By eye",
+				"source":"1"
+			},
+			{
+				"u_time":"JD",
+				"time":"2295610.5",
+				"e_time":"7",
+				"band":"B",
+				"magnitude":"-0.04",
+				"e_magnitude":"0.45",
+				"observer":"Johannes Prātorius",
+				"instrument":"By eye",
+				"source":"1"
+			},
+			{
+				"u_time":"JD",
+				"time":"2295654.5",
+				"e_time":"7",
+				"band":"B",
+				"magnitude":"1.12",
+				"e_magnitude":"0.32",
+				"observer":"Michael Mästlin",
+				"instrument":"By eye",
+				"source":"1"
+			},
+			{
+				"u_time":"JD",
+				"time":"2295656.5",
+				"e_time":"14",
+				"band":"V",
+				"magnitude":"0.3",
+				"e_magnitude":"0.2",
+				"instrument":"By eye",
+				"source":"1"
+			},
+			{
+				"u_time":"JD",
+				"time":"2295716.5",
+				"e_time":"14",
+				"band":"V",
+				"magnitude":"1.6",
+				"e_magnitude":"0.5",
+				"instrument":"By eye",
+				"source":"1"
+			},
+			{
+				"u_time":"JD",
+				"time":"2295730.5",
+				"e_time":"7",
+				"band":"B",
+				"magnitude":"2.56",
+				"e_magnitude":"0.54",
+				"observer":"Tycho Brahe",
+				"instrument":"By eye",
+				"source":"1"
+			},
+			{
+				"u_time":"JD",
+				"time":"2295808.5",
+				"e_time":"14",
+				"band":"V",
+				"magnitude":"2.5",
+				"e_magnitude":"0.2",
+				"observer":"Tycho Brahe",
+				"instrument":"By eye",
+				"source":"1"
+			},
+			{
+				"u_time":"JD",
+				"time":"2295900.5",
+				"e_time":"14",
+				"band":"V",
+				"magnitude":"4.0",
+				"e_magnitude":"0.2",
+				"instrument":"By eye",
+				"source":"1"
+			},
+			{
+				"u_time":"JD",
+				"time":"2295914.5",
+				"e_time":"7",
+				"band":"V",
+				"magnitude":"4.2",
+				"e_magnitude":"0.2",
+				"instrument":"By eye",
+				"source":"1"
+			},
+			{
+				"u_time":"JD",
+				"time":"2295961.5",
+				"e_time":"14",
+				"band":"V",
+				"magnitude":"4.7",
+				"e_magnitude":"0.2",
+				"instrument":"By eye",
+				"source":"1"
+			},
+			{
+				"u_time":"JD",
+				"time":"2296006.5",
+				"e_time":"7",
+				"band":"V",
+				"magnitude":"5.3",
+				"e_magnitude":"0.4",
+				"instrument":"By eye",
+				"source":"1"
+			},
+			{
+				"u_time":"JD",
+				"time":"2296034.5",
+				"e_time":"7",
+				"band":"V",
+				"magnitude":"6",
+				"upperlimit":true,
+				"instrument":"By eye",
+				"observer":"Tycho Brahe",
+				"source":"1"
+			}
+		]
+	}
 }

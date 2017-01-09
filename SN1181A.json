@@ -2,14 +2,18 @@
 	"SN1181A":{
 		"name":"SN1181A",
 		"sources":[
-		  {
-		    "bibcode":"2013A&A...560A..18K",
-		    "alias":"1"
-		  },
-		  {
-		    "bibcode":"2002ISAA....5.....S",
-		    "alias":"2"
-		  }
+			{
+				"bibcode":"2013A&A...560A..18K",
+				"alias":"1"
+			},
+			{
+				"bibcode":"2002ISAA....5.....S",
+				"alias":"2"
+			},
+			{
+				"bibcode":"1977hisu.book.....C",
+				"alias":"3"
+			}
 		],
 		"alias":[
 			{"value":"SN1181A", "source":"2"},
@@ -25,6 +29,13 @@
 			{
 				"value":"1181/08/13",
 				"source":"2"
+			}
+		],
+		"maxappmag":[
+			{
+				"value":"0",
+				"lowerlimit":true,
+				"source":"3"
 			}
 		]
 	}
