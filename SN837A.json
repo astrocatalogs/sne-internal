@@ -1,18 +1,13 @@
 {
-	"SN369A":{
-		"name":"SN369A",
+	"SN837A":{
+		"name":"SN837A",
 		"alias":[
-			{"value":"SN369A"},
-			{"value":"SN369"}
+			{"value":"SN837A"}
 		],
 		"sources":[
 			{
-				"bibcode":"1977hisu.book.....C",
-				"alias":"1"
-			},
-			{
 				"bibcode":"2009JHA____40___31S",
-				"alias":"2"
+				"alias":"1"
 			}
 		],
 		"host":[
@@ -25,25 +20,26 @@
 			{
 				"value":"369/04/07",
 				"e_value":"14",
-				"source":"2"
+				"source":"1"
 			}
 		],
 		"claimedtype":[
 			{
-				"value":"Nova?",
-				"source":"2"
+				"value":"Candidate",
+				"source":"1"
 			}
 		],
 		"ra":[
 			{
-				"value":"08:40",
-				"e_value":"18600",
+				"value":"06:50",
+				"e_value":"1800",
 				"source":"2"
 			}
 		],
 		"dec":[
 			{
-				"value":"+70",
+				"value":"+19",
+				"e_value":"21600",
 				"source":"2"
 			}
 		]
