@@ -6,7 +6,7 @@
 		],
 		"sources":[
 			{
-				"bibcode":"2009JHA____40___31S",
+				"bibcode":"2009JHA....40...31S",
 				"alias":"1"
 			}
 		],
@@ -33,14 +33,14 @@
 			{
 				"value":"06:50",
 				"e_value":"1800",
-				"source":"2"
+				"source":"1"
 			}
 		],
 		"dec":[
 			{
 				"value":"+19",
 				"e_value":"21600",
-				"source":"2"
+				"source":"1"
 			}
 		]
 	}
