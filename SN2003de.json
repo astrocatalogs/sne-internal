@@ -1,6 +1,11 @@
 {
 	"SN2003de":{
 		"name":"SN2003de",
+		"sources":[
+			{
+				"name":"Simon Prentice"
+			}
+		],
 		"alias":[
 			{
 				"value":"SN2003de"
