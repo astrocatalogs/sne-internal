@@ -1,0 +1,20 @@
+{
+	"PTF10bvr":{
+		"name":"PTF10bvr",
+		"sources":[
+			{
+				"name":"Simon Prentice"
+			}
+		],
+		"alias":[
+			{
+				"value":"PTF10bvr"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"Ia-91bg"
+			}
+		]
+	}
+}
