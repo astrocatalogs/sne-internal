@@ -9,12 +9,23 @@
 			{
 				"bibcode":"2004ApJ...612..357R",
 				"alias":"1"
+			},
+			{
+				"bibcode":"2011ApJ...729L..15T",
+				"alias":"2"
 			}
 		],
 		"discoverdate":[
 			{
 				"value":"1572/11/06",
 				"source":"1"
+			}
+		],
+		"lumdist":[
+			{
+				"value":"0.00275",
+				"e_value":"0.00025",
+				"source":"2"
 			}
 		],
 		"photometry":[
