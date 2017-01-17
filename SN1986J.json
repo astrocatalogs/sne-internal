@@ -1,0 +1,15 @@
+{
+	"SN1986J":{
+		"name":"SN1986J",
+		"sources":[
+			{
+				"bibcode":"2008ApJ...684.1170M"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"IIn"
+			}
+		]
+	}
+}
