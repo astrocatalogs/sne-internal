@@ -9,6 +9,10 @@
 			{
 				"bibcode":"2016arXiv160501054G",
 				"alias":"2"
+			},
+			{
+				"bibcode":"2012A&A...541A.129L",
+				"alias":"3"
 			}
 		],
 		"claimedtype":[
@@ -34,6 +38,13 @@
 				"value":"2014arXiv1401.3317S",
 				"kind":"bibcode",
 				"extra":"redshift"
+			}
+		],
+		"redshift":[
+			{
+				"value":"0.376",
+				"e_value":"0.014",
+				"source":"3"
 			}
 		]
 	}
