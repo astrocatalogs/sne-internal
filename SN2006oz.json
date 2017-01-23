@@ -29,6 +29,11 @@
 				"kind":"bibcode",
 				"extra":"dec",
 				"source":"2"
+			},
+			{
+				"value":"2014arXiv1401.3317S",
+				"kind":"bibcode",
+				"extra":"redshift"
 			}
 		]
 	}
