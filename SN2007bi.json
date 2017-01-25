@@ -3,6 +3,12 @@
 		"name":"SN2007bi",
 		"sources":[
 			{
+				"name":"2013Natur.502..346N",
+				"bibcode":"2013Natur.502..346N",
+				"reference":"Nicholl et al. (2013)",
+				"alias":"1"
+			},
+			{
 				"bibcode":"2009Natur.462..624G"
 			}
 		],
@@ -24,6 +30,12 @@
 				"value":"Transient Name Server",
 				"kind":"name",
 				"extra":"claimedtype"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"SLSN-I",
+				"source":"1"
 			}
 		]
 	}
