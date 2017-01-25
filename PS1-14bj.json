@@ -1,16 +1,16 @@
 {
 	"PS1-14bj":{
 		"name":"PS1-14bj",
-    "sources":[
+		"sources":[
 			{
 				"name":"2016ApJ...831..144L",
 				"bibcode":"2016ApJ...831..144L",
 				"reference":"Lunnan et al. (2016)",
 				"alias":"1"
 			}
-    ],
+		],
 		"claimedtype":[
-      {
+			{
 				"value":"SLSN-I",
 				"source":"1"
 			}
