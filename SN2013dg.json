@@ -6,6 +6,12 @@
 				"bibcode":"2014MNRAS.444.2096N"
 			}
 		],
+		"redshift":[
+			{
+				"value":"0.265",
+				"e_value":"0.005"
+			}
+		],
 		"errors":[
 			{
 				"value":"2000A&AS..143....9W",
