@@ -3,15 +3,22 @@
 		"name":"SN2007bi",
 		"sources":[
 			{
-				"bibcode":"2009Natur.462..624G"
+				"bibcode":"2013Natur.502..346N",
+				"alias":"1"
+			},
+			{
+				"bibcode":"2009Natur.462..624G",
+				"alias":"2"
 			}
 		],
 		"alias":[
 			{
-				"value":"SN2007bi"
+				"value":"SN2007bi",
+				"source":"2"
 			},
 			{
-				"value":"SNF20070406-008"
+				"value":"SNF20070406-008",
+				"source":"2"
 			}
 		],
 		"errors":[
@@ -24,6 +31,12 @@
 				"value":"Transient Name Server",
 				"kind":"name",
 				"extra":"claimedtype"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"SLSN-I",
+				"source":"1"
 			}
 		]
 	}
