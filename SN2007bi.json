@@ -3,21 +3,22 @@
 		"name":"SN2007bi",
 		"sources":[
 			{
-				"name":"2013Natur.502..346N",
 				"bibcode":"2013Natur.502..346N",
-				"reference":"Nicholl et al. (2013)",
 				"alias":"1"
 			},
 			{
-				"bibcode":"2009Natur.462..624G"
+				"bibcode":"2009Natur.462..624G",
+				"alias":"2"
 			}
 		],
 		"alias":[
 			{
-				"value":"SN2007bi"
+				"value":"SN2007bi",
+				"source":"2"
 			},
 			{
-				"value":"SNF20070406-008"
+				"value":"SNF20070406-008",
+				"source":"2"
 			}
 		],
 		"errors":[
