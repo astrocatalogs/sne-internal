@@ -1,0 +1,12 @@
+{
+	"SN2016hgm":{
+		"name":"SN2016hgm",
+		"errors":[
+			{
+				"value":"Supernova Hunt",
+				"kind":"name",
+				"extra":"ra"
+			}
+		]
+	}
+}
