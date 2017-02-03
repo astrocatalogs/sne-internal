@@ -3,6 +3,11 @@
 		"name":"SN2010aq",
 		"aliases":[
 			"SN2010aq", "PS1-10ae"
+		],
+		"distinctfrom":[
+			{
+				"value":"PS1-1000026"
+			}
 		]
 	}
 }
