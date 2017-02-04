@@ -1,0 +1,22 @@
+{
+	"SN1976B":{
+		"name":"SN1976B",
+		"errors":[
+			{
+				"value":"2016A&A...594A..13P",
+				"kind":"bibcode",
+				"extra":"redshift"
+			},
+			{
+				"value":"1988SSRv...48....1R",
+				"kind":"bibcode",
+				"extra":"redshift"
+			},
+			{
+				"value":"NED-D",
+				"kind":"name",
+				"extra":"redshift"
+			}
+		]
+	}
+}
