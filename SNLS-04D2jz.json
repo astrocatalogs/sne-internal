@@ -1,0 +1,25 @@
+{
+	"SNLS-04D2jz":{
+		"name":"SNLS-04D2jz",
+		"sources":[
+			{
+				"bibcode":"2005ATel..376....1G"
+			}
+		],
+		"alias":[
+			{
+				"value":"SNLS-04D2jz"
+			}
+		],
+		"redshift":[
+			{
+				"value":"0.323"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"Ib/c"
+			}
+		]
+	}
+}
