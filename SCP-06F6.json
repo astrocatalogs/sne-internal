@@ -2,7 +2,7 @@
 	"SCP-06F6":{
 		"name":"SCP-06F6",
 		"aliases":[
-			"SCP-06F6"
+			"SCP-06F6", "J143227.42+333225.1"
 		],
 		"sources":[
 			{
@@ -12,6 +12,13 @@
 		"claimedtype":[
 			{
 				"value":"SLSN-I"
+			}
+		],
+		"errors":[
+			{
+				"value":"Supernova Cosmology Project",
+				"kind":"name",
+				"extra":"claimedtype"
 			}
 		]
 	}
