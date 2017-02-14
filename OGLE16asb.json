@@ -1,8 +1,18 @@
 {
 	"OGLE16asb":{
 		"name":"OGLE16asb",
-		"aliases":[
-			"OGLE16asb", "Gaia16abd"
+		"sources":[
+			{
+				"bibcode":"2016ATel.8645....1W"
+			}
+		],
+		"alias":[
+			{
+				"value":"OGLE16asb"
+			},
+			{
+				"value":"Gaia16abd"
+			}
 		]
 	}
 }
