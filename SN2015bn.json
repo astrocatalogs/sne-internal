@@ -1,0 +1,24 @@
+{
+	"SN2015bn":{
+		"name":"SN2015bn",
+		"alias":[
+			{
+				"value":"SN2015bn"
+			}
+		],
+		"sources":[
+			{
+				"bibcode":"2016ApJ...826...39N",
+				"alias":"1"
+			}
+		],
+		"redshift":[
+			{
+				"value":"0.1136",
+				"e_value":"0.001",
+				"source":"1"
+
+			}
+		]
+	}
+}
