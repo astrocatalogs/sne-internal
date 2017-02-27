@@ -9,7 +9,8 @@
 		],
 		"claimedtype":[
 		  {
-		    "value":"SLSN-I"
+		    "value":"SLSN-I",
+			  "source":"1"
 		  }
 		]
 	}
