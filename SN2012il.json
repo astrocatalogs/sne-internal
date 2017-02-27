@@ -3,7 +3,7 @@
 		"name":"SN2012il",
 		"sources":[
 			{
-				"bibcode":"2015MNRAS.452.3869N"
+				"bibcode":"2013ApJ...770..128I"
 			}
 		],
 		"alias":[
@@ -13,7 +13,8 @@
 		],
 		"claimedtype":[
 			{
-				"value":"SLSN-Ic"
+				"value":"SLSN-I",
+				"source":"1"
 			}
 		]
 	}
