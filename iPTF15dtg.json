@@ -1,0 +1,17 @@
+{
+	"iPTF15dtg":{
+		"name":"iPTF15dtg",
+		"sources":[
+			{
+				"bibcode":"2016A&A...592A..89T"
+			}
+		],
+		"redshift":[
+			{
+				"value":"0.0524",
+				"u_value":"0.0002",
+				"kind":"host"
+			}
+		]
+	}
+}
