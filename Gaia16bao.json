@@ -1,0 +1,16 @@
+{
+	"Gaia16bao":{
+		"name":"Gaia16bao",
+		"sources":[
+			{
+				"name":"Gaia Photometric Science Alerts",
+				"url":"http://gaia.ac.uk/selected-gaia-science-alerts"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"Star"
+			}
+		]
+	}
+}
