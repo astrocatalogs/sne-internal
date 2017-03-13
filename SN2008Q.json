@@ -1,0 +1,12 @@
+{
+	"SN2008Q":{
+		"name":"SN2008Q",
+		"errors":[
+			{
+				"value":"1991ASSL..171...89H",
+				"kind":"bibcode",
+				"extra":"comovingdist"
+			}
+		]
+	}
+}
