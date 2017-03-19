@@ -1,0 +1,15 @@
+{
+	"SN2017bcc":{
+		"name":"SN2017bcc",
+		"sources":[
+			{
+				"name":"ATel 10177"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"TDE"
+			}
+		]
+	}
+}
