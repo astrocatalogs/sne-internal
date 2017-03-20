@@ -1,0 +1,23 @@
+{
+	"Gaia14adn":{
+		"name":"Gaia14adn",
+		"sources":[
+			{
+				"name":"Gaia Alerts"
+			}
+		],
+		"alias":[
+			{
+				"value":"Gaia14adn"
+			},
+			{
+				"value":"ASASSN-14lg"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"CV?"
+			}
+		]
+	}
+}
