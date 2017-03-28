@@ -1,0 +1,44 @@
+{
+	"SN2005E":{
+		"name":"SN2005E",
+		"sources":[
+			{
+				"bibcode":"2010Natur.465..322P"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN2005E"
+			}
+		],
+		"photometry":[
+			{"time":"2453387.65", "u_time":"JD", "magnitude":"18.30296", "e_magnitude":"0.11584", "band":"B", "telescope":"KAIT"},
+			{"time":"2453387.65", "u_time":"JD", "magnitude":"17.63025", "e_magnitude":"0.07539", "band":"V", "telescope":"KAIT"},
+            {"time":"2453387.65", "u_time":"JD", "magnitude":"17.28125", "e_magnitude":"0.06592", "band":"R", "telescope":"KAIT"},
+            {"time":"2453387.65", "u_time":"JD", "magnitude":"16.87200", "e_magnitude":"0.12134", "band":"I", "telescope":"KAIT"},
+            {"time":"2453389.66", "u_time":"JD", "magnitude":"17.65650", "e_magnitude":"0.54293", "band":"V", "telescope":"KAIT"},
+			{"time":"2453390.67", "u_time":"JD", "magnitude":"18.79177", "e_magnitude":"0.19806", "band":"B", "telescope":"KAIT"},
+            {"time":"2453390.67", "u_time":"JD", "magnitude":"17.80850", "e_magnitude":"0.14860", "band":"V", "telescope":"KAIT"},
+            {"time":"2453390.67", "u_time":"JD", "magnitude":"17.36950", "e_magnitude":"0.12597", "band":"R", "telescope":"KAIT"},
+            {"time":"2453390.67", "u_time":"JD", "magnitude":"16.87200", "e_magnitude":"0.12134", "band":"I", "telescope":"KAIT"},
+			{"time":"2453391.66", "u_time":"JD", "magnitude":"18.99538", "e_magnitude":"0.14561", "band":"B", "telescope":"KAIT"},
+            {"time":"2453391.66", "u_time":"JD", "magnitude":"17.87100", "e_magnitude":"0.03987", "band":"V", "telescope":"KAIT"},
+            {"time":"2453391.66", "u_time":"JD", "magnitude":"17.39100", "e_magnitude":"0.04639", "band":"R", "telescope":"KAIT"},
+            {"time":"2453391.66", "u_time":"JD", "magnitude":"16.91875", "e_magnitude":"0.11948", "band":"I", "telescope":"KAIT"},
+			{"time":"2453392.62", "u_time":"JD", "magnitude":"19.01054", "e_magnitude":"0.10877", "band":"B", "telescope":"KAIT"},
+            {"time":"2453392.62", "u_time":"JD", "magnitude":"18.06000", "e_magnitude":"0.06267", "band":"V", "telescope":"KAIT"},
+            {"time":"2453392.62", "u_time":"JD", "magnitude":"17.36925", "e_magnitude":"0.02687", "band":"R", "telescope":"KAIT"},
+            {"time":"2453392.62", "u_time":"JD", "magnitude":"16.85350", "e_magnitude":"0.04495", "band":"I", "telescope":"KAIT"},
+			{"time":"2453393.66", "u_time":"JD", "magnitude":"19.26369", "e_magnitude":"0.20436", "band":"B", "telescope":"KAIT"},
+            {"time":"2453393.66", "u_time":"JD", "magnitude":"18.02925", "e_magnitude":"0.05229", "band":"V", "telescope":"KAIT"},
+            {"time":"2453393.66", "u_time":"JD", "magnitude":"17.50475", "e_magnitude":"0.05188", "band":"R", "telescope":"KAIT"},
+            {"time":"2453393.66", "u_time":"JD", "magnitude":"16.96500", "e_magnitude":"0.03959", "band":"I", "telescope":"KAIT"},
+            {"time":"2453394.66", "u_time":"JD", "magnitude":"18.36825", "e_magnitude":"0.08595", "band":"V", "telescope":"KAIT"},
+            {"time":"2453394.66", "u_time":"JD", "magnitude":"17.63175", "e_magnitude":"0.03778", "band":"R", "telescope":"KAIT"},
+            {"time":"2453394.66", "u_time":"JD", "magnitude":"17.00300", "e_magnitude":"0.04554", "band":"I", "telescope":"KAIT"},
+            {"time":"2453400.61", "u_time":"JD", "magnitude":"19.06325", "e_magnitude":"0.11373", "band":"V", "telescope":"KAIT"},
+            {"time":"2453400.61", "u_time":"JD", "magnitude":"18.16400", "e_magnitude":"0.07537", "band":"R", "telescope":"KAIT"},
+            {"time":"2453400.61", "u_time":"JD", "magnitude":"17.53075", "e_magnitude":"0.06082", "band":"I", "telescope":"KAIT"}
+		]
+	}
+}
