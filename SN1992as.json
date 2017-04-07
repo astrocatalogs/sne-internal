@@ -6,6 +6,38 @@
 				"name":"Mario Hamuy"
 			}
 		],
+		"errors":[
+			{
+				"value":"2012A&A...538A.120L",
+				"kind":"bibcode",
+				"extra":"ra"
+			},
+			{
+				"value":"2012A&A...538A.120L",
+				"kind":"bibcode",
+				"extra":"dec"
+			},
+			{
+				"value":"1992IAUC.5575....3J",
+				"kind":"bibcode",
+				"extra":"ra"
+			},
+			{
+				"value":"Latest Supernovae",
+				"kind":"name",
+				"extra":"ra"
+			},
+			{
+				"value":"1992IAUC.5575....3J",
+				"kind":"bibcode",
+				"extra":"dec"
+			},
+			{
+				"value":"Latest Supernovae",
+				"kind":"name",
+				"extra":"dec"
+			}
+		],
 		"ra":[
 			{
 				"value":"21:03:57.15"
