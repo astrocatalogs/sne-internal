@@ -1,0 +1,15 @@
+{
+	"iPTF15esb":{
+		"name":"iPTF15esb",
+		"sources":[
+			{
+				"arxivid":"1704.05061"
+			}
+		],
+		"redshift":[
+			{
+				"value":"0.224"
+			}
+		]
+	}
+}
