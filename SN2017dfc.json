@@ -1,0 +1,37 @@
+{
+	"SN2017dfc":{
+		"name":"SN2017dfc",
+		"sources":[
+			{
+				"name":"ATel 10302"
+			}
+		],
+		"errors":[
+			{
+				"value":"Transient Name Server",
+				"kind":"name",
+				"extra":"host"
+			},
+			{
+				"value":"Latest Supernovae",
+				"kind":"name",
+				"extra":"host"
+			},
+			{
+				"value":"Transient Name Server",
+				"kind":"name",
+				"extra":"redshift"
+			},
+			{
+				"value":"Latest Supernovae",
+				"kind":"name",
+				"extra":"redshift"
+			}
+		],
+		"redshift":[
+			{
+				"value":"0.06"
+			}
+		]
+	}
+}
