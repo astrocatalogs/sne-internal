@@ -1,12 +1,27 @@
 {
 	"iPTF13dcc":{
 		"name":"iPTF13dcc",
+		"sources":[
+			{
+				"bibcode":"2017ApJ...835...58V"
+			}
+		],
 		"alias":[
 			{
 				"value":"iPTF13dcc"
 			},
 			{
 				"value":"CSS130912:025702-001844"
+			}
+		],
+		"redshift":[
+			{
+				"value":"0.431"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"SLSN-I"
 			}
 		]
 	}
