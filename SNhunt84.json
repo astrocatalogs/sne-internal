@@ -1,14 +1,29 @@
 {
 	"SNhunt84":{
 		"name":"SNhunt84",
+		"sources":[
+			{
+				"name":"Supernova Hunt (Corrected)"
+			}
+		],
+		"ra":[
+			{
+				"value":"17:29:00.72"
+			}
+		],
+		"dec":[
+			{
+				"value":"+08:50:04.416"
+			]
+		],		
 		"errors":[
 			{
-				"value":"Latest Supernovae",
+				"value":"Supernova Hunt",
 				"kind":"name",
 				"extra":"ra"
 			},
 			{
-				"value":"Latest Supernovae",
+				"value":"Supernova Hunt",
 				"kind":"name",
 				"extra":"dec"
 			}
