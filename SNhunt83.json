@@ -1,6 +1,26 @@
 {
 	"SNhunt83":{
 		"name":"SNhunt83",
+		"sources":[
+			{
+				"name":"Supernova Hunt (Corrected)"
+			}
+		],
+		"ra":[
+			{
+				"value":"02:50:48.768"
+			}
+		],
+		"dec":[
+			{
+				"value":"+33:30:40.68"
+			}
+		],
+		"host":[
+			{
+				"value":"CGCG 505-055"
+			}
+		],
 		"errors":[
 			{
 				"value":"Supernova Hunt",
@@ -11,6 +31,11 @@
 				"value":"Supernova Hunt",
 				"kind":"name",
 				"extra":"dec"
+			},
+			{
+				"value":"Supernova Hunt",
+				"kind":"name",
+				"extra":"host"
 			}
 		]
 	}
