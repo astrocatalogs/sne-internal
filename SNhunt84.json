@@ -15,7 +15,12 @@
 			{
 				"value":"+08:50:04.416"
 			}
-		],		
+		],
+		"host":[
+			{
+				"value":"CGCG 054-031"
+			},
+		],
 		"errors":[
 			{
 				"value":"Supernova Hunt",
@@ -26,6 +31,11 @@
 				"value":"Supernova Hunt",
 				"kind":"name",
 				"extra":"dec"
+			},
+			{
+				"value":"Supernova Hunt",
+				"kind":"name",
+				"extra":"host"
 			}
 		]
 	}
