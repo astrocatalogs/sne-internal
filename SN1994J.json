@@ -1,0 +1,13 @@
+{
+	"SN1994J":{
+		"name":"SN1994J",
+		"distinctfrom":[
+			{
+				"value":"PS17ccp"
+			},
+			{
+				"value":"AT2017cwa"
+			}
+		]
+	}
+}
