@@ -1,0 +1,16 @@
+{
+	"SN2017egm":{
+		"name":"SN2017egm",
+		"sources":[
+			{
+				"bibcode":"2017arXiv170608517N",
+				"alias":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"SLSN-I"
+			}
+		]
+	}
+}
