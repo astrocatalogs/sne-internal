@@ -3,8 +3,12 @@
 		"name":"SN2017egm",
 		"sources":[
 			{
-				"bibcode":"2017arXiv170608517N",
+				"bibcode":"2017ATel10498....1D",
 				"alias":"1"
+			},
+			{
+				"bibcode":"2017arXiv170608517N",
+				"alias":"2"
 			}
 		],
 		"claimedtype":[
