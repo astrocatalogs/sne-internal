@@ -1,0 +1,37 @@
+{
+	"SCP16C03":{
+		"name":"SCP16C03",
+		"sources":[
+			{
+				"bibcode":"2017arXiv170704606R"
+			}
+		],
+		"alias":[
+			{
+				"value":"SCP16C03"
+			}
+		],
+		"redshift":[
+			{
+				"value":"2.2216",
+				"e_value":"0.0002",
+				"kind":"spectroscopic"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"Ia"
+			}
+		],
+		"ra":[
+			{
+				"value":"10:14:06.37200"
+			}
+		],
+		"dec":[
+			{
+				"value":"+00:38:25.4760"
+			}
+		]
+	}
+}
