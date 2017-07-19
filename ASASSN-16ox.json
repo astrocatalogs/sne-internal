@@ -1,0 +1,16 @@
+{
+	"ASASSN-16ox":{
+		"name":"ASASSN-16ox",
+		"sources":[
+			{
+				"name":"ASASSN Transients",
+        "url":"http://www.astronomy.ohio-state.edu/~assassin/transients.html"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"M-dwarf"
+			}
+		]
+	}
+}
