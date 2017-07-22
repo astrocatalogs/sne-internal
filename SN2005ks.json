@@ -1,0 +1,39 @@
+{
+	"SN2005ks":{
+		"name":"SN2005ks",
+		"sources":[
+			{
+				"bibcode":"2005IAUC.8634....2M",
+				"alias":"1"
+			}
+		],
+		"errors":[
+			{
+				"value":"2012A&A...538A.120L",
+				"kind":"bibcode",
+				"extra":"claimedtype"
+			},
+			{
+				"value":"2008ApJ...673..999P",
+				"kind":"bibcode",
+				"extra":"claimedtype"
+			},
+			{
+				"value":"Transient Name Server",
+				"kind":"name",
+				"extra":"claimedtype"
+			},
+			{
+				"value":"Latest Supernovae",
+				"kind":"name",
+				"extra":"claimedtype"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"Ic BL",
+				"source":"1"
+			}
+		]
+	}
+}
