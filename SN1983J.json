@@ -1,0 +1,17 @@
+{
+	"SN1983J":{
+		"name":"SN1983J",
+		"errors":[
+			{
+				"value":"2013MNRAS.433L..20M",
+				"kind":"bibcode",
+				"extra":"Unknown"
+			},
+			{
+				"value":"2000A&AS..143....9W",
+				"kind":"bibcode",
+				"extra":"Unknown"
+			}
+		]
+	}
+}
