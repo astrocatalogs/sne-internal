@@ -1,0 +1,17 @@
+{
+	"SN2011hr":{
+		"name":"SN2011hr",
+		"sources":[
+			{
+				"bibcode":"2014ApJ...784..105W, 2016ApJ...817..114Z"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"Ia-91T",
+				"e_value":"### ERROR IN VALUE (if applicable) ###",
+				"u_value":"### VALUE'S UNIT (if applicable) ###"
+			}
+		]
+	}
+}
