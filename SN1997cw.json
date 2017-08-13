@@ -1,0 +1,21 @@
+{
+	"SN1997cw":{
+		"name":"SN1997cw",
+		"sources":[
+			{
+				"alias":"1",
+				"bibcode":"1997IAUC.6700....2B"
+			},
+			{
+				"alias":"2",
+				"bibcode":"2001ApJ...551..973S"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"Ia-91T",
+				"source":"1,2"
+			}
+		]
+	}
+}
