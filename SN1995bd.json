@@ -16,6 +16,13 @@
 				"value":"Ia-91T",
 				"source":"1,2"
 			}
+		],
+		"errors":[
+			{
+				"value":"1989A&AS...81..421B",
+				"kind":"bibcode",
+				"extra":"maxdate"
+			}
 		]
 	}
 }
