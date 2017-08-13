@@ -1,11 +1,16 @@
 {
 	"SN1995bd":{
 		"name":"SN1995bd",
-		"errors":[
+		"sources":[
 			{
-				"value":"1989A&AS...81..421B",
-				"kind":"bibcode",
-				"extra":"maxdate"
+				"bibcode":"1996AAS...189.4509G, 2001ApJ...551..973S"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"Ia-91T",
+				"e_value":"### ERROR IN VALUE (if applicable) ###",
+				"u_value":"### VALUE'S UNIT (if applicable) ###"
 			}
 		]
 	}
