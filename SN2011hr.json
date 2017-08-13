@@ -1,0 +1,21 @@
+{
+	"SN2011hr":{
+		"name":"SN2011hr",
+		"sources":[
+			{
+ 				"alias":"1",
+				"bibcode":"2014ApJ...784..105W"
+			},
+			{
+ 				"alias":"2",
+				"bibcode":"2016ApJ...817..114Z"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"Ia-91T",
+				"source":"1,2"
+			}
+		]
+	}
+}
