@@ -3,14 +3,18 @@
 		"name":"SN1997cw",
 		"sources":[
 			{
-				"bibcode":"1997IAUC.6700....2B,2001ApJ...551..973S"
+				"alias":"1",
+				"bibcode":"1997IAUC.6700....2B"
+			},
+			{
+				"alias":"2",
+				"bibcode":"2001ApJ...551..973S"
 			}
 		],
 		"claimedtype":[
 			{
 				"value":"Ia-91T",
-				"e_value":"### ERROR IN VALUE (if applicable) ###",
-				"u_value":"### VALUE'S UNIT (if applicable) ###"
+				"source":"1,2"
 			}
 		]
 	}
