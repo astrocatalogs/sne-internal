@@ -1,0 +1,17 @@
+{
+	"SN1992bf":{
+		"name":"SN1992bf",
+		"sources":[
+			{
+				"bibcode":"2008ApJ...681..482C"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"Ia-91bg",
+				"e_value":"### ERROR IN VALUE (if applicable) ###",
+				"u_value":"### VALUE'S UNIT (if applicable) ###"
+			}
+		]
+	}
+}
