@@ -5,14 +5,14 @@
 			"PTF12dam"
 		],
 		"sources":[
-		 {
-			"bibcode":"2017arXiv170801623D",
-			"alias":"1"
-	         }
-		 {
-			"bibcode":"2013Natur.502..346N",
-		  	"source":"2"
-		},
+			{
+				"bibcode":"2017arXiv170801623D",
+				"alias":"1"
+			},
+			{
+				"bibcode":"2013Natur.502..346N",
+				"source":"2"
+			}
 		],
 		"claimedtype":[
 		  {
