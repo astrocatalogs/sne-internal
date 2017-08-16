@@ -1,6 +1,6 @@
 {
-	"PTFcwl":{
-		"name":"PTFcwl",
+	"PTF09cwl":{
+		"name":"PTF09cwl",
 		"sources":[
 			{
 				"bibcode":"2017arXiv170801623D",
@@ -9,7 +9,7 @@
 		],
 		"alias":[
 			{
-				"value":"PTFcwl",
+				"value":"PTF09cwl",
 				"source":"1"
 			}
 		],
