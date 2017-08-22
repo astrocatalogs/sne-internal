@@ -5,12 +5,29 @@
 			{
 				"bibcode":"2017arXiv170707616S",
 				"alias":"1"
+			},
+			{
+				"name":"IAUC 8611",
+				"url":"http://www.cbat.eps.harvard.edu/iauc/08600/08611.html",
+				"alias":"2"
 			}
 		],
 		"alias":[
 			{
 				"value":"SN2005em",
 				"source":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"IIb"
+			}
+		],
+		"errors":[
+			{
+				"value":"Latest Supernovae",
+				"kind":"name",
+				"extra":"claimedtype"
 			}
 		],
 		"photometry":[
