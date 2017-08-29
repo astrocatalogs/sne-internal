@@ -1,0 +1,49 @@
+{
+	"SN2009bw":{
+		"name":"SN2009bw",
+		"sources":[
+			{
+				"bibcode":"2012MNRAS.422.1122I",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN2009bw",
+				"source":"1"
+			}
+		],
+		"photometry":[
+			{
+				"time":"55112.49",
+				"band":"H",
+				"e_magnitude":"0.15",
+				"instrument":"NICS",
+				"magnitude":"17.99",
+				"telescope":"Telescopio Nazionale Galileo",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55112.49",
+				"band":"J",
+				"e_magnitude":"0.18",
+				"instrument":"NICS",
+				"magnitude":"18.17",
+				"telescope":"Telescopio Nazionale Galileo",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55112.49",
+				"band":"K'",
+				"e_magnitude":"0.13",
+				"instrument":"NICS",
+				"magnitude":"17.59",
+				"telescope":"Telescopio Nazionale Galileo",
+				"u_time":"MJD",
+				"source":"1"
+			}
+		]
+	}
+}
