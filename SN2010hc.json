@@ -1,0 +1,24 @@
+{
+	"SN2010hc":{
+		"name":"SN2010hc",
+		"sources":[
+			{
+				"bibcode":"2010CBET.2456A...1P",
+				"alias":"1"
+			}
+		],
+		"redshift":[
+			{
+				"value":"0.020223",
+				"source":"1"
+			}
+		],
+		"errors":[
+			{
+				"value":"2012A&A...538A.120L",
+				"kind":"bibcode",
+				"extra":"redshift"
+			}
+		]
+	}
+}
