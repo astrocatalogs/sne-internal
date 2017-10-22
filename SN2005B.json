@@ -1,0 +1,15 @@
+{
+	"SN2005B":{
+		"name":"SN2005B",
+		"sources":[
+			{
+				"bibcode":"2005ATel..392....1G"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"II"
+			}
+		]
+	}
+}
