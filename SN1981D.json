@@ -1,0 +1,35 @@
+{
+	"SN1981D":{
+		"name":"SN1981D",
+		"sources":[
+			{
+				"bibcode":"1983ApJ...268..718E"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN1981D"
+			}
+		],
+		"photometry":[
+			{
+				"time":"2444953.7",
+				"u_time":"JD",
+				"magnitude":"18.71",
+				"e_magnitude":"0.21",
+				"band":"J",
+				"telescope":"CTIO 4m",
+				"observatory":"Cerro Tololo"
+			},
+			{
+				"time":"2444953.7",
+				"u_time":"JD",
+				"magnitude":"18.76",
+				"e_magnitude":"0.20",
+				"band":"H",
+				"telescope":"CTIO 4m",
+				"observatory":"Cerro Tololo"
+			}
+		]
+	}
+}
