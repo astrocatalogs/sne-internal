@@ -1,0 +1,89 @@
+{
+	"SN1981B":{
+		"name":"SN1981B",
+		"sources":[
+			{
+				"bibcode":"1983ApJ...268..718E"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN1981B"
+			}
+		],
+		"photometry":[
+			{
+				"time":"2444807.5",
+				"u_time":"JD",
+				"magnitude":"18.85",
+				"e_magnitude":"0.54",
+				"band":"J",
+				"telescope":"CTIO 4m",
+				"observatory":"Cerro Tololo"
+			},
+			{
+				"time":"2444807.5",
+				"u_time":"JD",
+				"magnitude":"16.78",
+				"e_magnitude":"0.14",
+				"band":"H",
+				"telescope":"CTIO 4m",
+				"observatory":"Cerro Tololo"
+			},
+			{
+				"time":"2444807.5",
+				"u_time":"JD",
+				"magnitude":"16.48",
+				"e_magnitude":"0.14",
+				"band":"K",
+				"telescope":"CTIO 4m",
+				"observatory":"Cerro Tololo"
+			},
+			{
+				"time":"2444808.5",
+				"u_time":"JD",
+				"magnitude":"18.38",
+				"e_magnitude":"0.38",
+				"band":"J",
+				"telescope":"CTIO 4m",
+				"observatory":"Cerro Tololo"
+			},
+			{
+				"time":"2444808.5",
+				"u_time":"JD",
+				"magnitude":"17.00",
+				"e_magnitude":"0.11",
+				"band":"H",
+				"telescope":"CTIO 4m",
+				"observatory":"Cerro Tololo"
+			},
+			{
+				"time":"2444808.5",
+				"u_time":"JD",
+				"magnitude":"16.50",
+				"e_magnitude":"0.10",
+				"band":"K",
+				"telescope":"CTIO 4m",
+				"observatory":"Cerro Tololo"
+			},
+			{
+				"time":"2444809.5",
+				"u_time":"JD",
+				"magnitude":"18.37",
+				"e_magnitude":"0.15",
+				"band":"J",
+				"telescope":"CTIO 4m",
+				"observatory":"Cerro Tololo"
+			},
+			{
+				"time":"2444809.5",
+				"u_time":"JD",
+				"magnitude":"16.84",
+				"e_magnitude":"0.08",
+				"band":"H",
+				"telescope":"CTIO 4m",
+				"observatory":"Cerro Tololo"
+			}
+		]
+	}
+}
