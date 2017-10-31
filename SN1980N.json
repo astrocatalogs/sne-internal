@@ -1,0 +1,44 @@
+{
+	"SN1980N":{
+		"name":"SN1980N",
+		"sources":[
+			{
+				"bibcode":"1983ApJ...268..718E"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN1980N"
+			}
+		],
+		"photometry":[
+			{
+				"time":"2444808.9",
+				"u_time":"JD",
+				"magnitude":"18.74",
+				"e_magnitude":"0.36",
+				"band":"H",
+				"telescope":"CTIO 4m",
+				"observatory":"Cerro Tololo"
+			},
+			{
+				"time":"2444809.9",
+				"u_time":"JD",
+				"magnitude":"19.93",
+				"e_magnitude":"1.32",
+				"band":"H",
+				"telescope":"CTIO 4m",
+				"observatory":"Cerro Tololo"
+			},
+			{
+				"time":"2444953.7",
+				"u_time":"JD",
+				"magnitude":"18.71",
+				"upperlimit":true,
+				"band":"H",
+				"telescope":"CTIO 4m",
+				"observatory":"Cerro Tololo"
+			}
+		]
+	}
+}
