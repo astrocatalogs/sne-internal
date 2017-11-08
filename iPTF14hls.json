@@ -13,6 +13,18 @@
 				"source":"1"
 			}
 		],
+		"redshift":[
+			{
+				"value":"0.0344",
+				"source":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"IIP",
+				"source":"1"
+			}
+		],
 		"photometry":[
 			{
 				"time":"56922.530",
