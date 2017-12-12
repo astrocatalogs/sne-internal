@@ -1,6 +1,6 @@
 {
-	"SN2007du":{
-		"name":"SN2007du",
+	"SN2007ru":{
+		"name":"SN2007ru",
 		"sources":[
 			{
 				"bibcode":"2009ApJ...697..676S",
@@ -9,7 +9,7 @@
 		],
 		"alias":[
 			{
-				"value":"SN2007du",
+				"value":"SN2007ru",
 				"source":"1"
 			}
 		],
