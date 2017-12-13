@@ -1,0 +1,25 @@
+{
+	"PS1-17fim":{
+		"name":"PS1-17fim",
+		"sources":[
+			{
+				"name":"Gautham's Facebook"
+			}
+		],
+		"alias":[
+			{
+				"value":"PS1-17fim"
+			}
+		],
+		"ra":[
+			{
+				"value":"08:42:41.62"
+			}
+		],
+		"dec":[
+			{
+				"value":"+13:58:04.0"
+			}
+		]
+	}
+}
