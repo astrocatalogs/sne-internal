@@ -3,17 +3,174 @@
 		"name":"SN2012Z",
 		"sources":[
 			{
-				"bibcode":"2015A&A...573A...2S",
+				"bibcode":"2013ApJ...767...57F",
 				"alias":"1"
+			},
+			{
+				"bibcode":"2015A&A...573A...2S",
+				"alias":"2"
 			}
 		],
 		"alias":[
 			{
 				"value":"SN2012Z",
-				"source":"1"
+				"source":"1,2"
 			}
 		],
 		"photometry":[
+			{
+				"time":"55969.10",
+				"band":"V",
+				"e_magnitude":"0.01",
+				"magnitude":"14.48",
+				"telescope":"CfA",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55969.10",
+				"band":"i",
+				"e_magnitude":"0.01",
+				"magnitude":"14.56",
+				"telescope":"CfA",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55969.10",
+				"band":"r",
+				"e_magnitude":"0.01",
+				"magnitude":"14.39",
+				"telescope":"CfA",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55969.11",
+				"band":"B",
+				"e_magnitude":"0.01",
+				"magnitude":"14.73",
+				"telescope":"CfA",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55977.11",
+				"band":"i",
+				"e_magnitude":"0.01",
+				"magnitude":"14.38",
+				"telescope":"CfA",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55977.11",
+				"band":"r",
+				"e_magnitude":"0.01",
+				"magnitude":"14.29",
+				"telescope":"CfA",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55977.12",
+				"band":"B",
+				"e_magnitude":"0.01",
+				"magnitude":"15.43",
+				"telescope":"CfA",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55977.12",
+				"band":"V",
+				"e_magnitude":"0.01",
+				"magnitude":"14.52",
+				"telescope":"CfA",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55978.13",
+				"band":"i",
+				"e_magnitude":"0.01",
+				"magnitude":"14.37",
+				"telescope":"CfA",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55978.13",
+				"band":"r",
+				"e_magnitude":"0.01",
+				"magnitude":"14.33",
+				"telescope":"CfA",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55978.14",
+				"band":"B",
+				"e_magnitude":"0.01",
+				"magnitude":"15.55",
+				"telescope":"CfA",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55978.14",
+				"band":"V",
+				"e_magnitude":"0.01",
+				"magnitude":"14.60",
+				"telescope":"CfA",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55992.11",
+				"band":"i",
+				"e_magnitude":"0.01",
+				"magnitude":"14.88",
+				"telescope":"CfA",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55992.12",
+				"band":"V",
+				"e_magnitude":"0.01",
+				"magnitude":"15.61",
+				"telescope":"CfA",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55992.12",
+				"band":"r",
+				"e_magnitude":"0.01",
+				"magnitude":"15.03",
+				"telescope":"CfA",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55994.10",
+				"band":"i",
+				"e_magnitude":"0.01",
+				"magnitude":"14.98",
+				"telescope":"CfA",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55994.10",
+				"band":"r",
+				"e_magnitude":"0.01",
+				"magnitude":"15.15",
+				"telescope":"CfA",
+				"u_time":"MJD",
+				"source":"1"
+			},
 			{
 				"time":"55992.01541",
 				"band":"H",
@@ -22,7 +179,7 @@
 				"magnitude":"13.963",
 				"telescope":"du Pont 2.5m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55992.01541",
@@ -32,7 +189,7 @@
 				"magnitude":"14.208",
 				"telescope":"du Pont 2.5m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55992.01541",
@@ -42,7 +199,7 @@
 				"magnitude":"13.899",
 				"telescope":"du Pont 2.5m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55996.02808",
@@ -52,7 +209,7 @@
 				"magnitude":"14.119",
 				"telescope":"du Pont 2.5m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55996.99164",
@@ -62,7 +219,7 @@
 				"magnitude":"14.402",
 				"telescope":"du Pont 2.5m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55996.99164",
@@ -72,7 +229,7 @@
 				"magnitude":"14.047",
 				"telescope":"du Pont 2.5m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55999.99606",
@@ -82,7 +239,7 @@
 				"magnitude":"14.288",
 				"telescope":"du Pont 2.5m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55999.99606",
@@ -92,7 +249,7 @@
 				"magnitude":"14.557",
 				"telescope":"du Pont 2.5m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55999.99606",
@@ -102,7 +259,7 @@
 				"magnitude":"14.139",
 				"telescope":"du Pont 2.5m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56000.99526",
@@ -112,7 +269,7 @@
 				"magnitude":"14.277",
 				"telescope":"du Pont 2.5m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56000.99526",
@@ -122,7 +279,7 @@
 				"magnitude":"14.565",
 				"telescope":"du Pont 2.5m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56000.99526",
@@ -132,7 +289,7 @@
 				"magnitude":"14.185",
 				"telescope":"du Pont 2.5m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56021.96819",
@@ -142,7 +299,7 @@
 				"magnitude":"14.912",
 				"telescope":"du Pont 2.5m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56167.35063",
@@ -152,7 +309,7 @@
 				"magnitude":"19.269",
 				"telescope":"du Pont 2.5m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56167.35063",
@@ -162,7 +319,7 @@
 				"magnitude":"19.818",
 				"telescope":"du Pont 2.5m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56168.32954",
@@ -172,7 +329,7 @@
 				"magnitude":"19.160",
 				"telescope":"du Pont 2.5m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55959.07",
@@ -182,7 +339,7 @@
 				"magnitude":"15.591",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55959.07",
@@ -192,7 +349,7 @@
 				"magnitude":"15.676",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55959.07",
@@ -202,7 +359,7 @@
 				"magnitude":"15.533",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55959.07",
@@ -212,7 +369,7 @@
 				"magnitude":"15.753",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55959.07",
@@ -222,7 +379,7 @@
 				"magnitude":"15.582",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55959.07",
@@ -232,7 +389,7 @@
 				"magnitude":"15.631",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55960.07",
@@ -242,7 +399,7 @@
 				"magnitude":"15.368",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55960.07",
@@ -252,7 +409,7 @@
 				"magnitude":"15.416",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55960.07",
@@ -262,7 +419,7 @@
 				"magnitude":"15.488",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55960.07",
@@ -272,7 +429,7 @@
 				"magnitude":"15.322",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55960.07",
@@ -282,7 +439,7 @@
 				"magnitude":"15.448",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55961.07",
@@ -292,7 +449,7 @@
 				"magnitude":"15.171",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55961.07",
@@ -302,7 +459,7 @@
 				"magnitude":"15.214",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55961.07",
@@ -312,7 +469,7 @@
 				"magnitude":"15.106",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55961.07",
@@ -322,7 +479,7 @@
 				"magnitude":"15.282",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55961.07",
@@ -332,7 +489,7 @@
 				"magnitude":"15.124",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55961.07",
@@ -342,7 +499,7 @@
 				"magnitude":"15.323",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55962.06",
@@ -352,7 +509,7 @@
 				"magnitude":"15.027",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55962.06",
@@ -362,7 +519,7 @@
 				"magnitude":"15.028",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55962.06",
@@ -372,7 +529,7 @@
 				"magnitude":"15.115",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55962.06",
@@ -382,7 +539,7 @@
 				"magnitude":"15.233",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55963.08",
@@ -392,7 +549,7 @@
 				"magnitude":"14.925",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55963.08",
@@ -402,7 +559,7 @@
 				"magnitude":"14.896",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55963.08",
@@ -412,7 +569,7 @@
 				"magnitude":"14.839",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55963.08",
@@ -422,7 +579,7 @@
 				"magnitude":"14.985",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55963.08",
@@ -432,7 +589,7 @@
 				"magnitude":"14.814",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55963.08",
@@ -442,7 +599,7 @@
 				"magnitude":"15.190",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55964.10",
@@ -452,7 +609,7 @@
 				"magnitude":"14.857",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55964.10",
@@ -462,7 +619,7 @@
 				"magnitude":"14.785",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55964.10",
@@ -472,7 +629,7 @@
 				"magnitude":"14.746",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55964.10",
@@ -482,7 +639,7 @@
 				"magnitude":"14.871",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55964.10",
@@ -492,7 +649,7 @@
 				"magnitude":"14.704",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55965.11",
@@ -502,7 +659,7 @@
 				"magnitude":"14.812",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55965.11",
@@ -512,7 +669,7 @@
 				"magnitude":"14.698",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55965.11",
@@ -522,7 +679,7 @@
 				"magnitude":"14.697",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55965.11",
@@ -532,7 +689,7 @@
 				"magnitude":"14.783",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55965.11",
@@ -542,7 +699,7 @@
 				"magnitude":"14.608",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55965.11",
@@ -552,7 +709,7 @@
 				"magnitude":"15.165",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55966.09",
@@ -562,7 +719,7 @@
 				"magnitude":"14.759",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55966.09",
@@ -572,7 +729,7 @@
 				"magnitude":"14.619",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55966.09",
@@ -582,7 +739,7 @@
 				"magnitude":"14.698",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55966.09",
@@ -592,7 +749,7 @@
 				"magnitude":"15.156",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55967.09",
@@ -602,7 +759,7 @@
 				"magnitude":"14.750",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55967.09",
@@ -612,7 +769,7 @@
 				"magnitude":"14.562",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55967.09",
@@ -622,7 +779,7 @@
 				"magnitude":"14.623",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55967.09",
@@ -632,7 +789,7 @@
 				"magnitude":"14.472",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55967.09",
@@ -642,7 +799,7 @@
 				"magnitude":"15.199",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55968.09",
@@ -652,7 +809,7 @@
 				"magnitude":"14.753",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55968.09",
@@ -662,7 +819,7 @@
 				"magnitude":"14.512",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55968.09",
@@ -672,7 +829,7 @@
 				"magnitude":"14.584",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55968.09",
@@ -682,7 +839,7 @@
 				"magnitude":"14.578",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55968.09",
@@ -692,7 +849,7 @@
 				"magnitude":"14.417",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55968.09",
@@ -702,7 +859,7 @@
 				"magnitude":"15.254",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55969.09",
@@ -712,7 +869,7 @@
 				"magnitude":"14.780",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55969.09",
@@ -722,7 +879,7 @@
 				"magnitude":"14.479",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55969.09",
@@ -732,7 +889,7 @@
 				"magnitude":"14.572",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55969.09",
@@ -742,7 +899,7 @@
 				"magnitude":"14.517",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55969.09",
@@ -752,7 +909,7 @@
 				"magnitude":"14.369",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55969.09",
@@ -762,7 +919,7 @@
 				"magnitude":"15.321",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55970.06",
@@ -772,7 +929,7 @@
 				"magnitude":"14.830",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55970.06",
@@ -782,7 +939,7 @@
 				"magnitude":"14.458",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55970.06",
@@ -792,7 +949,7 @@
 				"magnitude":"14.579",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55970.06",
@@ -802,7 +959,7 @@
 				"magnitude":"14.467",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55970.06",
@@ -812,7 +969,7 @@
 				"magnitude":"14.336",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55970.06",
@@ -822,7 +979,7 @@
 				"magnitude":"15.425",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55971.07",
@@ -832,7 +989,7 @@
 				"magnitude":"14.829",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55971.07",
@@ -842,7 +999,7 @@
 				"magnitude":"14.412",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55971.07",
@@ -852,7 +1009,7 @@
 				"magnitude":"14.586",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55971.07",
@@ -862,7 +1019,7 @@
 				"magnitude":"14.431",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55971.07",
@@ -872,7 +1029,7 @@
 				"magnitude":"14.288",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55971.07",
@@ -882,7 +1039,7 @@
 				"magnitude":"15.520",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55972.07",
@@ -892,7 +1049,7 @@
 				"magnitude":"14.915",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55972.07",
@@ -902,7 +1059,7 @@
 				"magnitude":"14.422",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55972.07",
@@ -912,7 +1069,7 @@
 				"magnitude":"14.646",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55972.07",
@@ -922,7 +1079,7 @@
 				"magnitude":"14.423",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55972.07",
@@ -932,7 +1089,7 @@
 				"magnitude":"14.287",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55972.07",
@@ -942,7 +1099,7 @@
 				"magnitude":"15.629",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55973.05",
@@ -952,7 +1109,7 @@
 				"magnitude":"15.007",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55973.05",
@@ -962,7 +1119,7 @@
 				"magnitude":"14.428",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55973.05",
@@ -972,7 +1129,7 @@
 				"magnitude":"14.698",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55973.05",
@@ -982,7 +1139,7 @@
 				"magnitude":"14.389",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55973.05",
@@ -992,7 +1149,7 @@
 				"magnitude":"14.279",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55973.05",
@@ -1002,7 +1159,7 @@
 				"magnitude":"15.751",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55974.07",
@@ -1012,7 +1169,7 @@
 				"magnitude":"15.086",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55974.07",
@@ -1022,7 +1179,7 @@
 				"magnitude":"14.437",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55974.07",
@@ -1032,7 +1189,7 @@
 				"magnitude":"14.750",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55974.07",
@@ -1042,7 +1199,7 @@
 				"magnitude":"14.370",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55974.07",
@@ -1052,7 +1209,7 @@
 				"magnitude":"14.268",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55974.07",
@@ -1062,7 +1219,7 @@
 				"magnitude":"15.893",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55979.08",
@@ -1072,7 +1229,7 @@
 				"magnitude":"15.699",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55979.08",
@@ -1082,7 +1239,7 @@
 				"magnitude":"14.671",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55979.08",
@@ -1092,7 +1249,7 @@
 				"magnitude":"15.235",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55979.08",
@@ -1102,7 +1259,7 @@
 				"magnitude":"14.322",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55979.08",
@@ -1112,7 +1269,7 @@
 				"magnitude":"16.859",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55985.04",
@@ -1122,7 +1279,7 @@
 				"magnitude":"16.498",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55985.04",
@@ -1132,7 +1289,7 @@
 				"magnitude":"15.121",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55985.04",
@@ -1142,7 +1299,7 @@
 				"magnitude":"15.934",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55985.04",
@@ -1152,7 +1309,7 @@
 				"magnitude":"14.470",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55985.04",
@@ -1162,7 +1319,7 @@
 				"magnitude":"14.604",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55985.04",
@@ -1172,7 +1329,7 @@
 				"magnitude":"17.998",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55986.07",
@@ -1182,7 +1339,7 @@
 				"magnitude":"16.601",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55986.07",
@@ -1192,7 +1349,7 @@
 				"magnitude":"15.204",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55986.07",
@@ -1202,7 +1359,7 @@
 				"magnitude":"16.063",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55986.07",
@@ -1212,7 +1369,7 @@
 				"magnitude":"14.517",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55986.07",
@@ -1222,7 +1379,7 @@
 				"magnitude":"18.138",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55988.07",
@@ -1232,7 +1389,7 @@
 				"magnitude":"16.792",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55988.07",
@@ -1242,7 +1399,7 @@
 				"magnitude":"15.364",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55988.07",
@@ -1252,7 +1409,7 @@
 				"magnitude":"16.211",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55988.07",
@@ -1262,7 +1419,7 @@
 				"magnitude":"14.608",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55988.07",
@@ -1272,7 +1429,7 @@
 				"magnitude":"14.800",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55988.07",
@@ -1282,7 +1439,7 @@
 				"magnitude":"18.350",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55990.08",
@@ -1292,7 +1449,7 @@
 				"magnitude":"16.352",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55990.08",
@@ -1302,7 +1459,7 @@
 				"magnitude":"14.716",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55990.08",
@@ -1312,7 +1469,7 @@
 				"magnitude":"14.925",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55990.08",
@@ -1322,7 +1479,7 @@
 				"magnitude":"18.496",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55991.08",
@@ -1332,7 +1489,7 @@
 				"magnitude":"17.018",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55991.08",
@@ -1342,7 +1499,7 @@
 				"magnitude":"15.559",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55991.08",
@@ -1352,7 +1509,7 @@
 				"magnitude":"16.422",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55991.08",
@@ -1362,7 +1519,7 @@
 				"magnitude":"14.769",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55991.08",
@@ -1372,7 +1529,7 @@
 				"magnitude":"14.983",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55991.08",
@@ -1382,7 +1539,7 @@
 				"magnitude":"18.672",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55992.06",
@@ -1392,7 +1549,7 @@
 				"magnitude":"17.074",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55992.06",
@@ -1402,7 +1559,7 @@
 				"magnitude":"15.643",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55992.06",
@@ -1412,7 +1569,7 @@
 				"magnitude":"16.511",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55992.06",
@@ -1422,7 +1579,7 @@
 				"magnitude":"14.811",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55992.06",
@@ -1432,7 +1589,7 @@
 				"magnitude":"15.047",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55992.06",
@@ -1442,7 +1599,7 @@
 				"magnitude":"18.656",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55993.03",
@@ -1452,7 +1609,7 @@
 				"magnitude":"17.129",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55993.03",
@@ -1462,7 +1619,7 @@
 				"magnitude":"15.694",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55993.03",
@@ -1472,7 +1629,7 @@
 				"magnitude":"16.562",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55993.03",
@@ -1482,7 +1639,7 @@
 				"magnitude":"14.875",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55993.03",
@@ -1492,7 +1649,7 @@
 				"magnitude":"15.100",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55994.04",
@@ -1502,7 +1659,7 @@
 				"magnitude":"17.168",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55994.04",
@@ -1512,7 +1669,7 @@
 				"magnitude":"15.749",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55994.04",
@@ -1522,7 +1679,7 @@
 				"magnitude":"16.599",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55994.04",
@@ -1532,7 +1689,7 @@
 				"magnitude":"14.922",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55994.04",
@@ -1542,7 +1699,7 @@
 				"magnitude":"15.157",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55994.04",
@@ -1552,7 +1709,7 @@
 				"magnitude":"18.764",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55995.04",
@@ -1562,7 +1719,7 @@
 				"magnitude":"17.237",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55995.04",
@@ -1572,7 +1729,7 @@
 				"magnitude":"15.797",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55995.04",
@@ -1582,7 +1739,7 @@
 				"magnitude":"16.668",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55995.04",
@@ -1592,7 +1749,7 @@
 				"magnitude":"14.969",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55995.04",
@@ -1602,7 +1759,7 @@
 				"magnitude":"15.215",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55995.04",
@@ -1612,7 +1769,7 @@
 				"magnitude":"18.880",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55996.03",
@@ -1622,7 +1779,7 @@
 				"magnitude":"17.250",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55996.03",
@@ -1632,7 +1789,7 @@
 				"magnitude":"15.848",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55996.03",
@@ -1642,7 +1799,7 @@
 				"magnitude":"16.713",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55996.03",
@@ -1652,7 +1809,7 @@
 				"magnitude":"15.023",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55996.03",
@@ -1662,7 +1819,7 @@
 				"magnitude":"15.267",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55996.03",
@@ -1672,7 +1829,7 @@
 				"magnitude":"18.945",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55997.02",
@@ -1682,7 +1839,7 @@
 				"magnitude":"17.299",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55997.02",
@@ -1692,7 +1849,7 @@
 				"magnitude":"15.890",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55997.02",
@@ -1702,7 +1859,7 @@
 				"magnitude":"16.743",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55997.02",
@@ -1712,7 +1869,7 @@
 				"magnitude":"15.072",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55997.02",
@@ -1722,7 +1879,7 @@
 				"magnitude":"15.310",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55997.02",
@@ -1732,7 +1889,7 @@
 				"magnitude":"19.017",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55998.02",
@@ -1742,7 +1899,7 @@
 				"magnitude":"17.347",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55998.02",
@@ -1752,7 +1909,7 @@
 				"magnitude":"15.923",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55998.02",
@@ -1762,7 +1919,7 @@
 				"magnitude":"16.773",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55998.02",
@@ -1772,7 +1929,7 @@
 				"magnitude":"15.101",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55998.02",
@@ -1782,7 +1939,7 @@
 				"magnitude":"15.349",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55998.02",
@@ -1792,7 +1949,7 @@
 				"magnitude":"19.063",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55999.02",
@@ -1802,7 +1959,7 @@
 				"magnitude":"17.375",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55999.02",
@@ -1812,7 +1969,7 @@
 				"magnitude":"15.994",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55999.02",
@@ -1822,7 +1979,7 @@
 				"magnitude":"16.819",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55999.02",
@@ -1832,7 +1989,7 @@
 				"magnitude":"15.168",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55999.02",
@@ -1842,7 +1999,7 @@
 				"magnitude":"15.396",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55999.02",
@@ -1852,7 +2009,7 @@
 				"magnitude":"19.024",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56000.06",
@@ -1862,7 +2019,7 @@
 				"magnitude":"17.395",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56000.06",
@@ -1872,7 +2029,7 @@
 				"magnitude":"15.995",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56000.06",
@@ -1882,7 +2039,7 @@
 				"magnitude":"16.826",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56000.06",
@@ -1892,7 +2049,7 @@
 				"magnitude":"15.172",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56000.06",
@@ -1902,7 +2059,7 @@
 				"magnitude":"15.418",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56001.05",
@@ -1912,7 +2069,7 @@
 				"magnitude":"17.419",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56001.05",
@@ -1922,7 +2079,7 @@
 				"magnitude":"16.024",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56001.05",
@@ -1932,7 +2089,7 @@
 				"magnitude":"16.847",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56001.05",
@@ -1942,7 +2099,7 @@
 				"magnitude":"15.214",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56001.05",
@@ -1952,7 +2109,7 @@
 				"magnitude":"15.467",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56002.05",
@@ -1962,7 +2119,7 @@
 				"magnitude":"17.422",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56002.05",
@@ -1972,7 +2129,7 @@
 				"magnitude":"16.045",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56002.05",
@@ -1982,7 +2139,7 @@
 				"magnitude":"16.853",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56002.05",
@@ -1992,7 +2149,7 @@
 				"magnitude":"15.252",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56002.05",
@@ -2002,7 +2159,7 @@
 				"magnitude":"15.502",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56003.05",
@@ -2012,7 +2169,7 @@
 				"magnitude":"17.451",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56003.05",
@@ -2022,7 +2179,7 @@
 				"magnitude":"16.085",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56003.05",
@@ -2032,7 +2189,7 @@
 				"magnitude":"16.877",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56003.05",
@@ -2042,7 +2199,7 @@
 				"magnitude":"15.275",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56003.05",
@@ -2052,7 +2209,7 @@
 				"magnitude":"15.530",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56004.05",
@@ -2062,7 +2219,7 @@
 				"magnitude":"17.474",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56004.05",
@@ -2072,7 +2229,7 @@
 				"magnitude":"16.103",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56004.05",
@@ -2082,7 +2239,7 @@
 				"magnitude":"16.912",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56004.05",
@@ -2092,7 +2249,7 @@
 				"magnitude":"15.316",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56004.05",
@@ -2102,7 +2259,7 @@
 				"magnitude":"15.563",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56005.05",
@@ -2112,7 +2269,7 @@
 				"magnitude":"17.478",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56005.05",
@@ -2122,7 +2279,7 @@
 				"magnitude":"16.121",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56005.05",
@@ -2132,7 +2289,7 @@
 				"magnitude":"15.341",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56006.04",
@@ -2142,7 +2299,7 @@
 				"magnitude":"17.520",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56006.04",
@@ -2152,7 +2309,7 @@
 				"magnitude":"16.157",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56006.04",
@@ -2162,7 +2319,7 @@
 				"magnitude":"16.954",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56006.04",
@@ -2172,7 +2329,7 @@
 				"magnitude":"15.385",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56006.04",
@@ -2182,7 +2339,7 @@
 				"magnitude":"15.623",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56007.02",
@@ -2192,7 +2349,7 @@
 				"magnitude":"17.522",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56007.02",
@@ -2202,7 +2359,7 @@
 				"magnitude":"16.188",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56007.02",
@@ -2212,7 +2369,7 @@
 				"magnitude":"16.975",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56007.02",
@@ -2222,7 +2379,7 @@
 				"magnitude":"15.404",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56007.02",
@@ -2232,7 +2389,7 @@
 				"magnitude":"15.676",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56009.02",
@@ -2242,7 +2399,7 @@
 				"magnitude":"17.545",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56009.02",
@@ -2252,7 +2409,7 @@
 				"magnitude":"16.213",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56009.02",
@@ -2262,7 +2419,7 @@
 				"magnitude":"16.978",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56009.02",
@@ -2272,7 +2429,7 @@
 				"magnitude":"15.452",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56009.02",
@@ -2282,7 +2439,7 @@
 				"magnitude":"15.702",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56010.01",
@@ -2292,7 +2449,7 @@
 				"magnitude":"17.551",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56010.01",
@@ -2302,7 +2459,7 @@
 				"magnitude":"16.235",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56010.01",
@@ -2312,7 +2469,7 @@
 				"magnitude":"17.000",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56010.01",
@@ -2322,7 +2479,7 @@
 				"magnitude":"15.498",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56010.01",
@@ -2332,7 +2489,7 @@
 				"magnitude":"15.741",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56011.02",
@@ -2342,7 +2499,7 @@
 				"magnitude":"17.596",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56011.02",
@@ -2352,7 +2509,7 @@
 				"magnitude":"16.253",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56012.03",
@@ -2362,7 +2519,7 @@
 				"magnitude":"17.581",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56012.03",
@@ -2372,7 +2529,7 @@
 				"magnitude":"16.273",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56014.01",
@@ -2382,7 +2539,7 @@
 				"magnitude":"17.056",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56014.01",
@@ -2392,7 +2549,7 @@
 				"magnitude":"15.606",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56014.01",
@@ -2402,7 +2559,7 @@
 				"magnitude":"15.850",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56015.03",
@@ -2412,7 +2569,7 @@
 				"magnitude":"16.335",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56017.02",
@@ -2422,7 +2579,7 @@
 				"magnitude":"17.625",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56017.02",
@@ -2432,7 +2589,7 @@
 				"magnitude":"16.358",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56017.99",
@@ -2442,7 +2599,7 @@
 				"magnitude":"17.097",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56017.99",
@@ -2452,7 +2609,7 @@
 				"magnitude":"15.714",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56017.99",
@@ -2462,7 +2619,7 @@
 				"magnitude":"15.942",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56018.99",
@@ -2472,7 +2629,7 @@
 				"magnitude":"17.644",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56018.99",
@@ -2482,7 +2639,7 @@
 				"magnitude":"16.386",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56233.32",
@@ -2492,7 +2649,7 @@
 				"magnitude":"21.411",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56233.32",
@@ -2502,7 +2659,7 @@
 				"magnitude":"20.876",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56233.32",
@@ -2512,7 +2669,7 @@
 				"magnitude":"20.381",
 				"telescope":"Swope 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			}
 		]
 	}
