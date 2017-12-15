@@ -1,6 +1,6 @@
 {
-	"PS1-17fim":{
-		"name":"PS1-17fim",
+	"PS17fim":{
+		"name":"PS17fim",
 		"sources":[
 			{
 				"name":"Gautham's Facebook"
@@ -8,7 +8,7 @@
 		],
 		"alias":[
 			{
-				"value":"PS1-17fim"
+				"value":"PS17fim"
 			}
 		],
 		"ra":[
