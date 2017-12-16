@@ -1,6 +1,6 @@
 {
-	"SN2010kl":{
-		"name":"SN2010kl",
+	"SN2011kl":{
+		"name":"SN2011kl",
 		"sources":[
 			{
 				"bibcode":"2015Natur.523..189G",
@@ -9,7 +9,7 @@
 		],
 		"alias":[
 			{
-				"value":"SN2010kl",
+				"value":"SN2011kl",
 				"source":"1"
 			}
 		],
