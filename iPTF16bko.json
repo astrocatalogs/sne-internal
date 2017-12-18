@@ -1,0 +1,29 @@
+{
+	"iPTF16bko":{
+		"name":"iPTF16bko",
+		"sources":[
+			{
+				"bibcode":"2017arXiv171204936H",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"iPTF16bko",
+				"source":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"Ia",
+				"source":"1"
+			}
+		],
+		"redshift":[
+			{
+				"value":"0.085",
+				"source":"1"
+			}
+		]
+	}
+}

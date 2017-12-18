@@ -1,0 +1,29 @@
+{
+	"iPTF16fjg":{
+		"name":"iPTF16fjg",
+		"sources":[
+			{
+				"bibcode":"2017arXiv171204936H",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"iPTF16fjg",
+				"source":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"Ia",
+				"source":"1"
+			}
+		],
+		"redshift":[
+			{
+				"value":"0.14",
+				"source":"1"
+			}
+		]
+	}
+}

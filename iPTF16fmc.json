@@ -1,0 +1,29 @@
+{
+	"iPTF16fmc":{
+		"name":"iPTF16fmc",
+		"sources":[
+			{
+				"bibcode":"2017arXiv171204936H",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"iPTF16fmc",
+				"source":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"Ia",
+				"source":"1"
+			}
+		],
+		"redshift":[
+			{
+				"value":"0.1395",
+				"source":"1"
+			}
+		]
+	}
+}
