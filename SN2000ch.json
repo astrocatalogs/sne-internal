@@ -1,0 +1,20 @@
+{
+	"SN2000ch":{
+		"name":"SN2000ch",
+		"sources":[
+			{
+				"bibcode":"2018MNRAS.474..197P"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN2000ch"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"LBV"
+			}
+		]
+	}
+}
