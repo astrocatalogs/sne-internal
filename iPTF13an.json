@@ -1,0 +1,30 @@
+{
+	"iPTF13an":{
+		"name":"iPTF13an",
+		"sources":[
+			{
+				"bibcode":"2015ApJ...799...52W"
+			}
+		],
+		"alias":[
+			{
+				"value":"iPTF13an"
+			}
+		],
+		"ra":[
+			{
+				"value":"12:14:15.35"
+			}
+		],
+		"dec":[
+			{
+				"value":"15:32:09.6"
+			}
+		],
+		"host":[
+			{
+				"value":"2MASX J12141590+1532096"
+			}
+		]
+	}
+}
