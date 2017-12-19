@@ -1,0 +1,28 @@
+{
+	"SN1940D":{
+		"name":"SN1940D",
+		"sources":[
+			{
+				"name":"Harvard College Observatory Announcement Card 530"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN1940D"
+			}
+		],
+		"photometry":[
+			{
+				"time":"1940-07-10",
+				"magnitude":"17.5",
+				"band":"pg",
+				"upperlimit":true
+			},
+			{
+				"time":"1940-07-25",
+				"magnitude":"15",
+				"band":"pg"
+			}
+		]
+	}
+}
