@@ -1,0 +1,33 @@
+{
+	"SN1940C":{
+		"name":"SN1940C",
+		"sources":[
+			{
+				"name":"Harvard College Observatory Announcement Card 524"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN1940C"
+			}
+		],
+		"photometry":[
+			{
+				"time":"1940-04-12",
+				"magnitude":"17.3",
+				"band":"pg",
+				"upperlimit":true
+			},
+			{
+				"time":"1940-05-04",
+				"magnitude":"16.3",
+				"band":"pg"
+			},
+			{
+				"time":"1940-05-11",
+				"magnitude":"16.6",
+				"band":"pg"
+			}
+		]
+	}
+}
