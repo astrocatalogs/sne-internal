@@ -3,7 +3,12 @@
 		"name":"SN1939C",
 		"sources":[
 			{
-				"name":"Observations of Supernova in NGC 6946"
+				"name":"Harvard College Observatory Announcement Card 502",
+				"alias":"1"
+			},
+			{
+				"name":"Harvard College Observatory Announcement Card 506",
+				"alias":"2"
 			}
 		],
 		"alias":[
