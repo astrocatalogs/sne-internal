@@ -13,108 +13,146 @@
 		],
 		"photometry":[
 			{
+				"time":"1939-06-11",
+				"magnitude":"17.3",
+				"band":"pg",
+				"upperlimit":true,
+				"source":"2"
+			},
+			{
 				"time":"1939-07-01",
 				"magnitude":"12.6",
 				"band":"pg",
-				"upperlimit":true
+				"upperlimit":true,
+				"source":"1"
 			},
 			{
 				"time":"1939-07-02",
 				"magnitude":"13.5",
-				"band":"pg"
+				"band":"pg",
+				"source":"1"
 			},
 			{
 				"time":"1939-07-02",
 				"magnitude":"13.1",
-				"band":"pg"
+				"band":"pg",
+				"source":"1"
 			},
 			{
 				"time":"1939-07-05",
 				"magnitude":"13.2",
-				"band":"pg"
+				"band":"pg",
+				"source":"1"
 			},
 			{
 				"time":"1939-07-05",
 				"magnitude":"13.5",
-				"band":"pg"
+				"band":"pg",
+				"source":"1"
 			},
 			{
 				"time":"1939-07-10",
 				"magnitude":"13.4",
-				"band":"pg"
+				"band":"pg",
+				"source":"1"
 			},
 			{
 				"time":"1939-07-12",
 				"magnitude":"13.4",
-				"band":"pg"
+				"band":"pg",
+				"source":"1"
 			},
 			{
 				"time":"1939-07-13",
 				"magnitude":"13.7",
-				"band":"pg"
+				"band":"pg",
+				"source":"1"
 			},
 			{
 				"time":"1939-07-14",
 				"magnitude":"13.1",
 				"band":"pg",
-				"upperlimit":true
+				"upperlimit":true,
+				"source":"1"
 			},
 			{
 				"time":"1939-07-16",
 				"magnitude":"12.7",
 				"band":"pg",
-				"upperlimit":true
+				"upperlimit":true,
+				"source":"1"
 			},
 			{
 				"time":"1939-07-19",
 				"magnitude":"14.1",
-				"band":"pg"
+				"band":"pg",
+				"source":"1"
 			},
 			{
 				"time":"1939-07-19",
 				"magnitude":"13.1",
 				"band":"pg",
-				"upperlimit":true
+				"upperlimit":true,
+				"source":"1"
 			},
 			{
 				"time":"1939-07-20",
 				"magnitude":"13.5",
 				"band":"pg",
-				"upperlimit":true
+				"upperlimit":true,
+				"source":"1"
 			},
 			{
 				"time":"1939-07-22",
 				"magnitude":"13.8",
 				"band":"pg",
-				"upperlimit":true
+				"upperlimit":true,
+				"source":"1"
 			},
 			{
 				"time":"1939-07-22",
 				"magnitude":"12.7",
 				"band":"pg",
-				"upperlimit":true
+				"upperlimit":true,
+				"source":"1"
 			},
 			{
 				"time":"1939-07-31",
 				"magnitude":"12.5",
 				"band":"pg",
-				"upperlimit":true
+				"upperlimit":true,
+				"source":"1"
 			},
 			{
 				"time":"1939-08-01",
 				"magnitude":"12.8",
 				"band":"pg",
-				"upperlimit":true
+				"upperlimit":true,
+				"source":"1"
+			},
+			{
+				"time":"1939-08-07",
+				"magnitude":"16.1",
+				"band":"pg",
+				"source":"2"
+			},
+			{
+				"time":"1939-08-08",
+				"magnitude":"16.1",
+				"band":"pg",
+				"source":"2"
 			},
 			{
 				"time":"1939-08-15",
 				"magnitude":"15.6",
-				"band":"pg"
+				"band":"pg",
+				"source":"1"
 			},
 			{
 				"time":"1939-08-15",
 				"magnitude":"15.8",
-				"band":"pg"
+				"band":"pg",
+				"source":"1"
 			}
 		]
 	}
