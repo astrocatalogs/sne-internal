@@ -1,0 +1,37 @@
+{
+	"SN1938A":{
+		"name":"SN1938A",
+		"sources":[
+			{
+				"bibcode":"1939BHarO.910....1H"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN1938A"
+			}
+		],
+		"photometry":[
+			{
+				"time":"1938-11-14",
+				"magnitude":"15.2",
+				"band":"pg"
+			},
+			{
+				"time":"1938-11-20",
+				"magnitude":"15.4",
+				"band":"pg"
+			},
+			{
+				"time":"1938-11-21",
+				"magnitude":"15.4",
+				"band":"pg"
+			},
+			{
+				"time":"1938-12-15",
+				"magnitude":"16.8",
+				"band":"pg"
+			}
+		]
+	}
+}
