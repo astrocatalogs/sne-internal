@@ -1,0 +1,37 @@
+{
+	"SN1941C":{
+		"name":"SN1941C",
+		"sources":[
+			{
+				"name":"Harvard College Observatory Announcement Card #581"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN1941C"
+			}
+		],
+		"photometry":[
+			{
+				"time":"1941-04-16",
+				"magnitude":"16.8",
+				"band":"pg"
+			},
+			{
+				"time":"1941-04-169",
+				"magnitude":"17.1",
+				"band":"pg"
+			},
+			{
+				"time":"1941-04-20",
+				"magnitude":"16.8",
+				"band":"pg"
+			},
+			{
+				"time":"1941-04-22",
+				"magnitude":"16.9",
+				"band":"pg"
+			}
+		]
+	}
+}
