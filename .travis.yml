@@ -2,4 +2,4 @@ language: node_js
 sudo: false
 before_script:
   - npm install -g jsonlint-cli
-script: jsonlint -q *.json
+script: jsonlint-cli -q *.json
