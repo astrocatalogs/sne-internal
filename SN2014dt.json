@@ -5,12 +5,22 @@
 			{
 				"bibcode":"2018MNRAS.474.2551S",
 				"alias":"1"
+			},
+			{
+				"arxivid":"1601.05955",
+				"alias":"2"
 			}
 		],
 		"alias":[
 			{
 				"value":"SN2014dt",
-				"source":"1"
+				"source":"1,2"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"Ia-02cx",
+				"source":"2"
 			}
 		],
 		"photometry":[
