@@ -13,6 +13,13 @@
 				"source":"1"
 			}
 		],
+		"redshift":[
+ 			{
+ 				"value":"0.0524",
+ 				"u_value":"0.0002",
+ 				"kind":"host"
+ 			}
+ 		],
 		"photometry":[
 			{
 				"time":"57333.431",
