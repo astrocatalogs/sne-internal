@@ -1,6 +1,6 @@
 {
-	"SCP16C03":{
-		"name":"SCP16C03",
+	"SCP-16C3":{
+		"name":"SCP-16C3",
 		"sources":[
 			{
 				"bibcode":"2017arXiv170704606R"
@@ -8,7 +8,7 @@
 		],
 		"alias":[
 			{
-				"value":"SCP16C03"
+				"value":"SCP-16C3"
 			}
 		],
 		"redshift":[
