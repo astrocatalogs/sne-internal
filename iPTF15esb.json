@@ -6,6 +6,14 @@
 				"arxivid":"1704.05061"
 			}
 		],
+		"alias":[
+			{
+				"value":"iPTF15esb"
+			},
+			{
+				"value":"PS16yj"
+			}
+		],
 		"redshift":[
 			{
 				"value":"0.224"
