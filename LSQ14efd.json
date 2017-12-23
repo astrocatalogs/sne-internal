@@ -13,6 +13,12 @@
 				"source":"1"
 			}
 		],
+		"claimedtype":[
+			{
+				"value":"Ic",
+				"source":"1"
+			}
+		],
 		"photometry":[
 			{
 				"time":"56882.48",
