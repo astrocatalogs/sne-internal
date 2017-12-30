@@ -1,0 +1,12 @@
+{
+	"OGLE15gb":{
+		"name":"OGLE15gb",
+		"errors":[
+			{
+				"value":"2012PASP..124..668Y",
+				"kind":"bibcode",
+				"extra":"redshift"
+			}
+		]
+	}
+}
