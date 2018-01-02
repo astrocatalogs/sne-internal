@@ -5,6 +5,28 @@
 			{
 				"bibcode":"2017arXiv170801619L",
 				"alias":"1"
+			},
+			{
+				"bibcode":"2016ApJ...831..144L",
+				"alias":"2"
+			}
+		],
+		"ra":[
+			{
+				"value":"10:12:08.433",
+				"source":"2"
+			}
+		],
+		"errors":[
+			{
+				"value":"2016ApJ...828L..18N",
+				"kind":"bibcode",
+				"extra":"ra"
+			},
+			{
+				"value":"2000A&AS..143....9W",
+				"kind":"bibcode",
+				"extra":"ra"
 			}
 		],
 		"alias":[
