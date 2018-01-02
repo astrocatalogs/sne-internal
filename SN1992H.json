@@ -1,0 +1,569 @@
+{
+	"SN1992H":{
+		"name":"SN1992H",
+		"sources":[
+			{
+				"bibcode":"1996AJ....111.1286C",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN1992H",
+				"source":"1"
+			}
+		],
+		"photometry":[
+			{
+				"time":"48665.4",
+				"band":"B",
+				"e_magnitude":"0.07",
+				"instrument":"IHaJ plate",
+				"magnitude":"14.32",
+				"telescope":"McDonald 210cm",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48665.4",
+				"band":"V",
+				"e_magnitude":"0.08",
+				"instrument":"TechPan film",
+				"magnitude":"14.06",
+				"telescope":"McDonald 90cm",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48669.4",
+				"band":"V",
+				"e_magnitude":"0.12",
+				"instrument":"TechPan film. 2 exposures combined",
+				"magnitude":"14.09",
+				"telescope":"McDonald 90cm",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48673.3",
+				"band":"V",
+				"e_magnitude":"0.06",
+				"instrument":"TechPan film. 2 exposures combined",
+				"magnitude":"14.25",
+				"telescope":"McDonald 90cm",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48681.5",
+				"band":"B",
+				"e_magnitude":"0.02",
+				"instrument":"CCD Camera",
+				"magnitude":"15.00",
+				"telescope":"McDonald 76cm",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48681.5",
+				"band":"V",
+				"e_magnitude":"0.02",
+				"instrument":"CCD Camera",
+				"magnitude":"14.75",
+				"telescope":"McDonald 76cm",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48685.0",
+				"band":"B",
+				"e_magnitude":"0.10",
+				"instrument":"103a-O plate",
+				"magnitude":"15.10",
+				"telescope":"Asiago 67/92 cm Schmidt",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48685.3",
+				"band":"B",
+				"e_magnitude":"0.04",
+				"instrument":"CCD Camera",
+				"magnitude":"15.24",
+				"telescope":"McDonald 76cm",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48685.3",
+				"band":"V",
+				"e_magnitude":"0.05",
+				"instrument":"CCD Camera",
+				"magnitude":"14.67",
+				"telescope":"McDonald 76cm",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48686.1",
+				"band":"B",
+				"e_magnitude":"0.03",
+				"instrument":"CCD Camera",
+				"magnitude":"15.22",
+				"telescope":"Asiago 182cm",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48686.1",
+				"band":"Rc",
+				"e_magnitude":"0.03",
+				"instrument":"CCD Camera",
+				"magnitude":"14.56",
+				"telescope":"Asiago 182cm",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48686.1",
+				"band":"V",
+				"e_magnitude":"0.03",
+				"instrument":"CCD Camera",
+				"magnitude":"14.79",
+				"telescope":"Asiago 182cm",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48688.1",
+				"band":"Rc",
+				"e_magnitude":"0.03",
+				"instrument":"CCD Camera",
+				"magnitude":"14.57",
+				"telescope":"Asiago 182cm",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48688.1",
+				"band":"V",
+				"e_magnitude":"0.06",
+				"instrument":"CCD Camera",
+				"magnitude":"14.72",
+				"telescope":"Asiago 182cm",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48712.4",
+				"band":"B",
+				"e_magnitude":"0.03",
+				"instrument":"CCD Camera",
+				"magnitude":"16.11",
+				"telescope":"McDonald 76cm",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48712.4",
+				"band":"V",
+				"e_magnitude":"0.04",
+				"instrument":"CCD Camera",
+				"magnitude":"15.07",
+				"telescope":"McDonald 76cm",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48720.4",
+				"band":"V",
+				"e_magnitude":"0.02",
+				"instrument":"CCD Camera",
+				"magnitude":"15.08",
+				"telescope":"McDonald 76cm",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48721.4",
+				"band":"B",
+				"e_magnitude":"0.04",
+				"instrument":"CCD Camera",
+				"magnitude":"16.26",
+				"telescope":"McDonald 76cm",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48721.4",
+				"band":"Rc",
+				"e_magnitude":"0.04",
+				"instrument":"CCD Camera",
+				"magnitude":"14.83",
+				"telescope":"McDonald 76cm",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48721.4",
+				"band":"V",
+				"e_magnitude":"0.02",
+				"instrument":"CCD Camera",
+				"magnitude":"15.07",
+				"telescope":"McDonald 76cm",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48777.0",
+				"band":"V",
+				"e_magnitude":"0.1",
+				"instrument":"103a-D plate",
+				"magnitude":"16.2",
+				"telescope":"Asiago 67/92 cm Schmidt",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48791.2",
+				"band":"V",
+				"e_magnitude":"0.09",
+				"instrument":"TechPan film. 2 exposures combined",
+				"magnitude":"16.59",
+				"telescope":"McDonald 90cm",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48798.2",
+				"band":"B",
+				"e_magnitude":"0.05",
+				"instrument":"IGS",
+				"magnitude":"18.35",
+				"telescope":"McDonald 210cm",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48798.2",
+				"band":"V",
+				"e_magnitude":"0.03",
+				"instrument":"IGS",
+				"magnitude":"17.11",
+				"telescope":"McDonald 210cm",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48808.3",
+				"band":"B",
+				"e_magnitude":"0.04",
+				"instrument":"IGS",
+				"magnitude":"18.56",
+				"telescope":"McDonald 76cm",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48808.3",
+				"band":"V",
+				"e_magnitude":"0.03",
+				"instrument":"IGS",
+				"magnitude":"17.23",
+				"telescope":"McDonald 76cm",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48809.3",
+				"band":"B",
+				"e_magnitude":"0.04",
+				"instrument":"IGS",
+				"magnitude":"18.56",
+				"telescope":"McDonald 76cm",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48809.3",
+				"band":"V",
+				"e_magnitude":"0.03",
+				"instrument":"IGS",
+				"magnitude":"17.23",
+				"telescope":"McDonald 76cm",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48833.2",
+				"band":"B",
+				"e_magnitude":"0.04",
+				"instrument":"IGS",
+				"magnitude":"18.73",
+				"telescope":"McDonald 76cm",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48833.2",
+				"band":"V",
+				"e_magnitude":"0.02",
+				"instrument":"IGS",
+				"magnitude":"17.46",
+				"telescope":"McDonald 76cm",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48891.1",
+				"band":"V",
+				"e_magnitude":"0.02",
+				"instrument":"CCD Camera",
+				"magnitude":"18.07",
+				"telescope":"McDonald 76cm",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48893.1",
+				"band":"B",
+				"e_magnitude":"0.03",
+				"instrument":"CCD Camera",
+				"magnitude":"19.17",
+				"telescope":"McDonald 76cm",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48919.8",
+				"band":"Rc",
+				"e_magnitude":"0.02",
+				"instrument":"CCD Camera",
+				"magnitude":"17.32",
+				"telescope":"Asiago 182cm",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48921.7",
+				"band":"V",
+				"e_magnitude":"0.05",
+				"instrument":"CCD Camera",
+				"magnitude":"18.39",
+				"telescope":"Asiago 182cm",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48950.2",
+				"band":"B",
+				"e_magnitude":"0.04",
+				"instrument":"CCD Camera",
+				"magnitude":"19.67",
+				"telescope":"Asiago 182cm",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48950.2",
+				"band":"Rc",
+				"e_magnitude":"0.02",
+				"instrument":"CCD Camera",
+				"magnitude":"17.78",
+				"telescope":"Asiago 182cm",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48950.2",
+				"band":"V",
+				"e_magnitude":"0.02",
+				"instrument":"CCD Camera",
+				"magnitude":"18.59",
+				"telescope":"Asiago 182cm",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"49009.4",
+				"band":"B",
+				"e_magnitude":"0.03",
+				"instrument":"CCD Camera",
+				"magnitude":"20.03",
+				"telescope":"McDonald 76cm",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"49009.4",
+				"band":"Rc",
+				"e_magnitude":"0.03",
+				"instrument":"CCD Camera",
+				"magnitude":"18.39",
+				"telescope":"McDonald 76cm",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"49009.4",
+				"band":"V",
+				"e_magnitude":"0.02",
+				"instrument":"CCD Camera",
+				"magnitude":"19.2",
+				"telescope":"McDonald 76cm",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"49015.1",
+				"band":"B",
+				"e_magnitude":"0.03",
+				"instrument":"CCD Camera",
+				"magnitude":"20.11",
+				"telescope":"Asiago 182cm",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"49015.1",
+				"band":"Rc",
+				"e_magnitude":"0.04",
+				"instrument":"CCD Camera",
+				"magnitude":"18.42",
+				"telescope":"Asiago 182cm",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"49015.1",
+				"band":"V",
+				"e_magnitude":"0.06",
+				"instrument":"CCD Camera",
+				"magnitude":"19.21",
+				"telescope":"Asiago 182cm",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"49017.0",
+				"band":"Rc",
+				"e_magnitude":"0.02",
+				"instrument":"CCD Camera",
+				"magnitude":"18.44",
+				"telescope":"Asiago 182cm",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"49044.0",
+				"band":"B",
+				"e_magnitude":"0.02",
+				"instrument":"CCD Camera of Bonn University",
+				"magnitude":"20.30",
+				"telescope":"Asiago 182cm",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"49044.0",
+				"band":"Rc",
+				"e_magnitude":"0.03",
+				"instrument":"CCD Camera of Bonn University",
+				"magnitude":"18.85",
+				"telescope":"Asiago 182cm",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"49044.0",
+				"band":"V",
+				"e_magnitude":"0.02",
+				"instrument":"CCD Camera of Bonn University",
+				"magnitude":"19.52",
+				"telescope":"Asiago 182cm",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"49076.0",
+				"band":"B",
+				"e_magnitude":"0.07",
+				"instrument":"CCD Camera",
+				"magnitude":"20.63",
+				"telescope":"Asiago 182cm",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"49076.0",
+				"band":"Rc",
+				"e_magnitude":"0.06",
+				"instrument":"CCD Camera",
+				"magnitude":"19.19",
+				"telescope":"Asiago 182cm",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"49076.0",
+				"band":"V",
+				"e_magnitude":"0.07",
+				"instrument":"CCD Camera",
+				"magnitude":"19.87",
+				"telescope":"Asiago 182cm",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"49101.1",
+				"band":"B",
+				"e_magnitude":"0.07",
+				"instrument":"CCD Camera",
+				"magnitude":"20.84",
+				"telescope":"Asiago 182cm",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"49101.1",
+				"band":"Rc",
+				"e_magnitude":"0.02",
+				"instrument":"CCD Camera",
+				"magnitude":"19.68",
+				"telescope":"Asiago 182cm",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"49101.1",
+				"band":"V",
+				"e_magnitude":"0.07",
+				"instrument":"CCD Camera",
+				"magnitude":"20.19",
+				"telescope":"Asiago 182cm",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"49105.4",
+				"band":"B",
+				"e_magnitude":"0.05",
+				"instrument":"IGS",
+				"magnitude":"20.89",
+				"telescope":"McDonald 210cm",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"49105.4",
+				"band":"V",
+				"e_magnitude":"0.03",
+				"instrument":"IGS",
+				"magnitude":"20.27",
+				"telescope":"McDonald 210cm",
+				"u_time":"MJD",
+				"source":"1"
+			}
+		]
+	}
+}
