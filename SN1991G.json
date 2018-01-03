@@ -1,0 +1,809 @@
+{
+	"SN1991G":{
+		"name":"SN1991G",
+		"sources":[
+			{
+				"bibcode":"1995AJ....110.2868B",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN1991G",
+				"source":"1"
+			}
+		],
+		"photometry":[
+			{
+				"time":"48305.5",
+				"band":"I",
+				"e_magnitude":"0.01",
+				"instrument":"PM512",
+				"magnitude":"15.00",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48305.5",
+				"band":"R",
+				"e_magnitude":"0.04",
+				"instrument":"PM512",
+				"magnitude":"15.11",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48305.5",
+				"band":"V",
+				"e_magnitude":"0.22",
+				"instrument":"PM512",
+				"magnitude":"15.49",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48309.5",
+				"band":"I",
+				"e_magnitude":"0.01",
+				"instrument":"PM512",
+				"magnitude":"15.05",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48309.5",
+				"band":"R",
+				"e_magnitude":"0.12",
+				"instrument":"PM512",
+				"magnitude":"15.10",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48309.5",
+				"band":"V",
+				"e_magnitude":"0.03",
+				"instrument":"PM512",
+				"magnitude":"15.62",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48311.5",
+				"band":"I",
+				"e_magnitude":"0.08",
+				"instrument":"PM512",
+				"magnitude":"14.83",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48311.5",
+				"band":"R",
+				"e_magnitude":"0.04",
+				"instrument":"PM512",
+				"magnitude":"15.13",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48311.5",
+				"band":"V",
+				"e_magnitude":"0.05",
+				"instrument":"PM512",
+				"magnitude":"15.47",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48315.5",
+				"band":"I",
+				"e_magnitude":"0.02",
+				"instrument":"PM512",
+				"magnitude":"15.09",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48315.5",
+				"band":"R",
+				"e_magnitude":"0.10",
+				"instrument":"PM512",
+				"magnitude":"15.22",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48315.5",
+				"band":"V",
+				"e_magnitude":"0.10",
+				"instrument":"PM512",
+				"magnitude":"15.38",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48321.5",
+				"band":"I",
+				"e_magnitude":"0.02",
+				"instrument":"PM512",
+				"magnitude":"15.02",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48321.5",
+				"band":"R",
+				"e_magnitude":"0.02",
+				"instrument":"PM512",
+				"magnitude":"15.12",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48321.5",
+				"band":"V",
+				"e_magnitude":"0.09",
+				"instrument":"PM512",
+				"magnitude":"15.40",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48327.5",
+				"band":"I",
+				"e_magnitude":"0.03",
+				"instrument":"PM512",
+				"magnitude":"15.10",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48327.5",
+				"band":"R",
+				"e_magnitude":"0.02",
+				"instrument":"PM512",
+				"magnitude":"15.16",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48327.5",
+				"band":"V",
+				"e_magnitude":"0.09",
+				"instrument":"PM512",
+				"magnitude":"15.66",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48328.5",
+				"band":"I",
+				"e_magnitude":"0.07",
+				"instrument":"T12",
+				"magnitude":"15.09",
+				"telescope":"KPNO 2.1m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48328.5",
+				"band":"I",
+				"e_magnitude":"0.02",
+				"instrument":"PM512",
+				"magnitude":"15.13",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48328.5",
+				"band":"R",
+				"e_magnitude":"0.04",
+				"instrument":"PM512",
+				"magnitude":"15.13",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48328.5",
+				"band":"R",
+				"e_magnitude":"0.05",
+				"instrument":"T12",
+				"magnitude":"15.19",
+				"telescope":"KPNO 2.1m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48328.5",
+				"band":"V",
+				"e_magnitude":"0.08",
+				"instrument":"PM512",
+				"magnitude":"15.45",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48328.5",
+				"band":"V",
+				"e_magnitude":"0.08",
+				"instrument":"T12",
+				"magnitude":"15.65",
+				"telescope":"KPNO 2.1m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48331.5",
+				"band":"I",
+				"e_magnitude":"0.04",
+				"instrument":"PM512",
+				"magnitude":"15.15",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48331.5",
+				"band":"R",
+				"e_magnitude":"0.05",
+				"instrument":"PM512",
+				"magnitude":"15.16",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48331.5",
+				"band":"V",
+				"e_magnitude":"0.06",
+				"instrument":"PM512",
+				"magnitude":"15.48",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48332.5",
+				"band":"I",
+				"e_magnitude":"0.03",
+				"instrument":"PM512",
+				"magnitude":"15.09",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48332.5",
+				"band":"R",
+				"e_magnitude":"0.02",
+				"instrument":"PM512",
+				"magnitude":"15.10",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48332.5",
+				"band":"V",
+				"e_magnitude":"0.03",
+				"instrument":"PM512",
+				"magnitude":"15.55",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48336.5",
+				"band":"I",
+				"e_magnitude":"0.01",
+				"instrument":"PM512",
+				"magnitude":"15.15",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48336.5",
+				"band":"R",
+				"e_magnitude":"0.02",
+				"instrument":"PM512",
+				"magnitude":"15.09",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48336.5",
+				"band":"V",
+				"e_magnitude":"0.03",
+				"instrument":"PM512",
+				"magnitude":"15.53",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48349.5",
+				"band":"I",
+				"e_magnitude":"0.03",
+				"instrument":"PM512",
+				"magnitude":"15.04",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48349.5",
+				"band":"R",
+				"e_magnitude":"0.05",
+				"instrument":"PM512",
+				"magnitude":"15.13",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48349.5",
+				"band":"V",
+				"e_magnitude":"0.03",
+				"instrument":"PM512",
+				"magnitude":"15.68",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48350.5",
+				"band":"I",
+				"e_magnitude":"0.02",
+				"instrument":"PM512",
+				"magnitude":"14.87",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48350.5",
+				"band":"R",
+				"e_magnitude":"0.03",
+				"instrument":"PM512",
+				"magnitude":"15.17",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48350.5",
+				"band":"V",
+				"e_magnitude":"0.03",
+				"instrument":"PM512",
+				"magnitude":"15.68",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48365.5",
+				"band":"I",
+				"e_magnitude":"0.01",
+				"instrument":"PM512",
+				"magnitude":"15.05",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48365.5",
+				"band":"R",
+				"e_magnitude":"0.02",
+				"instrument":"PM512",
+				"magnitude":"15.13",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48365.5",
+				"band":"V",
+				"e_magnitude":"0.03",
+				"instrument":"PM512",
+				"magnitude":"15.69",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48366.5",
+				"band":"I",
+				"e_magnitude":"0.03",
+				"instrument":"Ford2048",
+				"magnitude":"14.94",
+				"telescope":"FLWO 1.2m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48366.5",
+				"band":"R",
+				"e_magnitude":"0.04",
+				"instrument":"Ford2048",
+				"magnitude":"15.20",
+				"telescope":"FLWO 1.2m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48366.5",
+				"band":"V",
+				"e_magnitude":"0.04",
+				"instrument":"Ford2048",
+				"magnitude":"15.78",
+				"telescope":"FLWO 1.2m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48372.5",
+				"band":"I",
+				"e_magnitude":"0.04",
+				"instrument":"PM512",
+				"magnitude":"15.14",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48372.5",
+				"band":"R",
+				"e_magnitude":"0.05",
+				"instrument":"PM512",
+				"magnitude":"15.25",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48372.5",
+				"band":"V",
+				"e_magnitude":"0.07",
+				"instrument":"PM512",
+				"magnitude":"15.75",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48389.5",
+				"band":"I",
+				"e_magnitude":"0.04",
+				"instrument":"PM512",
+				"magnitude":"15.36",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48389.5",
+				"band":"R",
+				"e_magnitude":"0.02",
+				"instrument":"PM512",
+				"magnitude":"15.34",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48389.5",
+				"band":"V",
+				"e_magnitude":"0.09",
+				"instrument":"PM512",
+				"magnitude":"15.87",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48397.5",
+				"band":"I",
+				"e_magnitude":"0.09",
+				"instrument":"PM512",
+				"magnitude":"15.45",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48397.5",
+				"band":"R",
+				"e_magnitude":"0.06",
+				"instrument":"PM512",
+				"magnitude":"15.67",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48397.5",
+				"band":"V",
+				"e_magnitude":"0.10",
+				"instrument":"PM512",
+				"magnitude":"16.25",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48417.5",
+				"band":"I",
+				"e_magnitude":"0.14",
+				"instrument":"PM512",
+				"magnitude":"16.31",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48417.5",
+				"band":"I",
+				"e_magnitude":"0.08",
+				"instrument":"Tek2",
+				"magnitude":"16.59",
+				"telescope":"KPNO 2.1m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48417.5",
+				"band":"R",
+				"e_magnitude":"0.05",
+				"instrument":"Tek2",
+				"magnitude":"16.81",
+				"telescope":"KPNO 2.1m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48417.5",
+				"band":"R",
+				"e_magnitude":"0.10",
+				"instrument":"PM512",
+				"magnitude":"16.87",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48417.5",
+				"band":"V",
+				"e_magnitude":"0.16",
+				"instrument":"PM512",
+				"magnitude":"17.57",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48417.5",
+				"band":"V",
+				"e_magnitude":"0.09",
+				"instrument":"Tek2",
+				"magnitude":"17.65",
+				"telescope":"KPNO 2.1m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48421.5",
+				"band":"I",
+				"e_magnitude":"0.11",
+				"instrument":"PM512",
+				"magnitude":"16.61",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48421.5",
+				"band":"R",
+				"e_magnitude":"0.16",
+				"instrument":"PM512",
+				"magnitude":"16.90",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48421.5",
+				"band":"V",
+				"e_magnitude":"0.10",
+				"instrument":"PM512",
+				"magnitude":"17.68",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48431.5",
+				"band":"I",
+				"e_magnitude":"0.13",
+				"instrument":"PM512",
+				"magnitude":"16.68",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48431.5",
+				"band":"R",
+				"e_magnitude":"0.11",
+				"instrument":"PM512",
+				"magnitude":"16.86",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48431.5",
+				"band":"V",
+				"e_magnitude":"0.15",
+				"instrument":"PM512",
+				"magnitude":"17.68",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48440.5",
+				"band":"I",
+				"e_magnitude":"0.10",
+				"instrument":"PM512",
+				"magnitude":"16.69",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48440.5",
+				"band":"R",
+				"e_magnitude":"0.12",
+				"instrument":"PM512",
+				"magnitude":"16.93",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48440.5",
+				"band":"V",
+				"e_magnitude":"0.25",
+				"instrument":"PM512",
+				"magnitude":"17.77",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48452.5",
+				"band":"I",
+				"e_magnitude":"0.12",
+				"instrument":"PM512",
+				"magnitude":"16.67",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48452.5",
+				"band":"R",
+				"e_magnitude":"0.12",
+				"instrument":"PM512",
+				"magnitude":"16.90",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48585.5",
+				"band":"I",
+				"e_magnitude":"0.36",
+				"instrument":"PM512",
+				"magnitude":"17.79",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48629.5",
+				"band":"I",
+				"e_magnitude":"0.60",
+				"instrument":"PM512",
+				"magnitude":"19.39",
+				"telescope":"VVO 0.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48688.5",
+				"band":"I",
+				"e_magnitude":"0.14",
+				"instrument":"T1KA",
+				"magnitude":"19.59",
+				"telescope":"KPNO 2.1m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48688.5",
+				"band":"R",
+				"e_magnitude":"0.12",
+				"instrument":"T1KA",
+				"magnitude":"19.65",
+				"telescope":"KPNO 2.1m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48688.5",
+				"band":"V",
+				"e_magnitude":"0.12",
+				"instrument":"T1KA",
+				"magnitude":"20.48",
+				"telescope":"KPNO 2.1m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48742.5",
+				"band":"I",
+				"e_magnitude":"0.24",
+				"instrument":"T1KA",
+				"magnitude":"20.42",
+				"telescope":"KPNO 2.1m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48742.5",
+				"band":"R",
+				"e_magnitude":"0.18",
+				"instrument":"T1KA",
+				"magnitude":"20.49",
+				"telescope":"KPNO 2.1m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48742.5",
+				"band":"V",
+				"e_magnitude":"0.22",
+				"instrument":"T1KA",
+				"magnitude":"21.19",
+				"telescope":"KPNO 2.1m",
+				"u_time":"MJD",
+				"source":"1"
+			}
+		]
+	}
+}
