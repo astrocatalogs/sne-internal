@@ -1,0 +1,269 @@
+{
+	"SN1996L":{
+		"name":"SN1996L",
+		"sources":[
+			{
+				"bibcode":"1999MNRAS.305..811B",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN1996L",
+				"source":"1"
+			}
+		],
+		"photometry":[
+			{
+				"time":"50163.2",
+				"band":"B",
+				"e_magnitude":"0.2",
+				"instrument":"EFOSC1",
+				"magnitude":"18.7",
+				"telescope":"ESO 3.6m telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"50163.2",
+				"band":"R",
+				"e_magnitude":"0.02",
+				"instrument":"EFOSC1",
+				"magnitude":"18.53",
+				"telescope":"ESO 3.6m telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"50163.2",
+				"band":"V",
+				"e_magnitude":"0.02",
+				"instrument":"EFOSC1",
+				"magnitude":"18.62",
+				"telescope":"ESO 3.6m telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"50189.3",
+				"band":"B",
+				"e_magnitude":"0.04",
+				"instrument":"EFOSC1",
+				"magnitude":"19.85",
+				"telescope":"ESO 3.6m telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"50189.3",
+				"band":"R",
+				"e_magnitude":"0.03",
+				"instrument":"EFOSC1",
+				"magnitude":"19.01",
+				"telescope":"ESO 3.6m telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"50189.3",
+				"band":"V",
+				"e_magnitude":"0.04",
+				"instrument":"EFOSC1",
+				"magnitude":"19.36",
+				"telescope":"ESO 3.6m telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"50193.2",
+				"band":"B",
+				"e_magnitude":"0.05",
+				"instrument":"CCD Camera",
+				"magnitude":"20.53",
+				"telescope":"Dutch 0.90m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"50193.2",
+				"band":"I",
+				"e_magnitude":"0.03",
+				"instrument":"CCD Camera",
+				"magnitude":"19.36",
+				"telescope":"Dutch 0.90m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"50193.2",
+				"band":"R",
+				"e_magnitude":"0.04",
+				"instrument":"CCD Camera",
+				"magnitude":"19.59",
+				"telescope":"Dutch 0.90m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"50193.2",
+				"band":"V",
+				"e_magnitude":"0.04",
+				"instrument":"CCD Camera",
+				"magnitude":"19.92",
+				"telescope":"Dutch 0.90m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"50214.1",
+				"band":"R",
+				"e_magnitude":"0.04",
+				"instrument":"EMMI",
+				"magnitude":"20.15",
+				"telescope":"ESO NTT",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"50215.1",
+				"band":"R",
+				"e_magnitude":"0.04",
+				"instrument":"EMMI",
+				"magnitude":"20.2",
+				"telescope":"ESO NTT",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"50218.0",
+				"band":"B",
+				"e_magnitude":"0.09",
+				"instrument":"CCD Camera",
+				"magnitude":"21.74",
+				"telescope":"Dutch 0.90m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"50218.0",
+				"band":"I",
+				"e_magnitude":"0.06",
+				"instrument":"CCD Camera",
+				"magnitude":"20.09",
+				"telescope":"Dutch 0.90m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"50218.0",
+				"band":"R",
+				"e_magnitude":"0.06",
+				"instrument":"CCD Camera",
+				"magnitude":"20.36",
+				"telescope":"Dutch 0.90m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"50218.0",
+				"band":"V",
+				"e_magnitude":"0.07",
+				"instrument":"CCD Camera",
+				"magnitude":"20.83",
+				"telescope":"Dutch 0.90m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"50243.0",
+				"band":"B",
+				"instrument":"EFOSC1",
+				"magnitude":"23.5",
+				"telescope":"ESO 3.6m telescope",
+				"u_time":"MJD",
+				"upperlimit":true,
+				"source":"1"
+			},
+			{
+				"time":"50243.0",
+				"band":"R",
+				"e_magnitude":"0.1",
+				"instrument":"EFOSC1",
+				"magnitude":"22.23",
+				"telescope":"ESO 3.6m telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"50243.0",
+				"band":"V",
+				"e_magnitude":"0.15",
+				"instrument":"EFOSC1",
+				"magnitude":"22.78",
+				"telescope":"ESO 3.6m telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"50405.3",
+				"band":"R",
+				"e_magnitude":"0.1",
+				"instrument":"CCD Camera",
+				"magnitude":"22.43",
+				"telescope":"Dutch 0.90m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"50424.3",
+				"band":"R",
+				"e_magnitude":"0.15",
+				"instrument":"EFOSC1",
+				"magnitude":"22.54",
+				"telescope":"ESO 3.6m telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"50424.3",
+				"band":"V",
+				"e_magnitude":"0.2",
+				"instrument":"EFOSC1",
+				"magnitude":"23.68",
+				"telescope":"ESO 3.6m telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"50479.3",
+				"band":"R",
+				"e_magnitude":"0.4",
+				"instrument":"CCD Camera",
+				"magnitude":"23.22",
+				"telescope":"Dutch 0.90m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"50485.3",
+				"band":"R",
+				"e_magnitude":"0.2",
+				"instrument":"EFOSC1",
+				"magnitude":"23.46",
+				"telescope":"ESO 3.6m telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"50489.5",
+				"band":"R",
+				"e_magnitude":"0.4",
+				"instrument":"EFOSC1",
+				"magnitude":"23.5",
+				"telescope":"ESO 3.6m telescope",
+				"u_time":"MJD",
+				"source":"1"
+			}
+		]
+	}
+}
