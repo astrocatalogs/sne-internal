@@ -1,0 +1,991 @@
+{
+	"SN2000ca":{
+		"name":"SN2000ca",
+		"sources":[
+			{
+				"bibcode":"2004AJ....127.1664K",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN2000ca",
+				"source":"1"
+			}
+		],
+		"photometry":[
+			{
+				"time":"51663.200",
+				"band":"H",
+				"e_magnitude":"0.048",
+				"magnitude":"16.850",
+				"telescope":"LCO 1 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51663.200",
+				"band":"Js",
+				"e_magnitude":"0.045",
+				"magnitude":"16.392",
+				"telescope":"LCO 1 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51663.260",
+				"band":"B",
+				"e_magnitude":"0.015",
+				"magnitude":"15.870",
+				"telescope":"ESO NTT 3.6 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51663.260",
+				"band":"I",
+				"e_magnitude":"0.019",
+				"magnitude":"16.081",
+				"telescope":"ESO NTT 3.6 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51663.26",
+				"band":"R",
+				"e_magnitude":"0.023",
+				"magnitude":"15.759",
+				"telescope":"ESO NTT 3.6 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51663.260",
+				"band":"U",
+				"e_magnitude":"0.032",
+				"magnitude":"15.336",
+				"telescope":"ESO NTT 3.6 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51663.260",
+				"band":"V",
+				"e_magnitude":"0.012",
+				"magnitude":"15.859",
+				"telescope":"ESO NTT 3.6 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51663.260",
+				"band":"z",
+				"e_magnitude":"0.022",
+				"magnitude":"16.022",
+				"telescope":"ESO NTT 3.6 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51664.130",
+				"band":"H",
+				"e_magnitude":"0.087",
+				"magnitude":"16.711",
+				"telescope":"LCO 1 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51664.130",
+				"band":"Js",
+				"e_magnitude":"0.031",
+				"magnitude":"16.425",
+				"telescope":"LCO 1 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51664.270",
+				"band":"B",
+				"e_magnitude":"0.030",
+				"magnitude":"15.910",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51664.270",
+				"band":"I",
+				"e_magnitude":"0.011",
+				"magnitude":"16.045",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51664.27",
+				"band":"R",
+				"e_magnitude":"0.019",
+				"magnitude":"15.825",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51664.270",
+				"band":"U",
+				"e_magnitude":"0.054",
+				"magnitude":"15.367",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51664.270",
+				"band":"V",
+				"e_magnitude":"0.031",
+				"magnitude":"15.85",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51664.270",
+				"band":"z",
+				"e_magnitude":"0.021",
+				"magnitude":"15.963",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51665.230",
+				"band":"H",
+				"e_magnitude":"0.057",
+				"magnitude":"16.815",
+				"telescope":"LCO 1 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51665.230",
+				"band":"Js",
+				"e_magnitude":"0.029",
+				"magnitude":"16.364",
+				"telescope":"LCO 1 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51666.220",
+				"band":"H",
+				"e_magnitude":"0.033",
+				"magnitude":"16.841",
+				"telescope":"LCO 1 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51666.220",
+				"band":"Js",
+				"e_magnitude":"0.041",
+				"magnitude":"16.572",
+				"telescope":"LCO 1 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51667.180",
+				"band":"H",
+				"e_magnitude":"0.031",
+				"magnitude":"16.834",
+				"telescope":"LCO 1 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51667.180",
+				"band":"Js",
+				"e_magnitude":"0.037",
+				"magnitude":"16.572",
+				"telescope":"LCO 1 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51668.220",
+				"band":"H",
+				"e_magnitude":"0.040",
+				"magnitude":"16.923",
+				"telescope":"LCO 1 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51668.220",
+				"band":"Js",
+				"e_magnitude":"0.037",
+				"magnitude":"16.588",
+				"telescope":"LCO 1 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51669.210",
+				"band":"B",
+				"e_magnitude":"0.054",
+				"magnitude":"15.881",
+				"telescope":"LCO 1 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51669.210",
+				"band":"I",
+				"e_magnitude":"0.028",
+				"magnitude":"16.145",
+				"telescope":"LCO 1 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51669.21",
+				"band":"R",
+				"e_magnitude":"0.015",
+				"magnitude":"15.779",
+				"telescope":"LCO 1 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51669.210",
+				"band":"V",
+				"e_magnitude":"0.019",
+				"magnitude":"15.874",
+				"telescope":"LCO 1 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51672.260",
+				"band":"B",
+				"e_magnitude":"0.011",
+				"magnitude":"16.050",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51672.260",
+				"band":"I",
+				"e_magnitude":"0.021",
+				"magnitude":"16.392",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51672.26",
+				"band":"R",
+				"e_magnitude":"0.021",
+				"magnitude":"15.900",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51672.260",
+				"band":"U",
+				"e_magnitude":"0.044",
+				"magnitude":"15.882",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51672.260",
+				"band":"V",
+				"e_magnitude":"0.012",
+				"magnitude":"15.941",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51675.030",
+				"band":"H",
+				"e_magnitude":"0.028",
+				"magnitude":"16.964",
+				"telescope":"LCO 2.5 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51675.030",
+				"band":"Js",
+				"e_magnitude":"0.043",
+				"magnitude":"17.356",
+				"telescope":"LCO 2.5 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51675.120",
+				"band":"B",
+				"e_magnitude":"0.021",
+				"magnitude":"16.218",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51675.120",
+				"band":"I",
+				"e_magnitude":"0.011",
+				"magnitude":"16.625",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51675.12",
+				"band":"R",
+				"e_magnitude":"0.012",
+				"magnitude":"16.094",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51675.120",
+				"band":"U",
+				"e_magnitude":"0.040",
+				"magnitude":"16.109",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51675.120",
+				"band":"V",
+				"e_magnitude":"0.012",
+				"magnitude":"16.074",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51675.120",
+				"band":"z",
+				"e_magnitude":"0.021",
+				"magnitude":"16.396",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51676.190",
+				"band":"B",
+				"e_magnitude":"0.018",
+				"magnitude":"16.315",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51676.190",
+				"band":"I",
+				"e_magnitude":"0.01",
+				"magnitude":"16.681",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51676.19",
+				"band":"R",
+				"e_magnitude":"0.012",
+				"magnitude":"16.153",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51676.190",
+				"band":"V",
+				"e_magnitude":"0.022",
+				"magnitude":"16.098",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51676.190",
+				"band":"z",
+				"e_magnitude":"0.023",
+				"magnitude":"16.400",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51677.180",
+				"band":"B",
+				"e_magnitude":"0.018",
+				"magnitude":"16.402",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51677.180",
+				"band":"I",
+				"e_magnitude":"0.011",
+				"magnitude":"16.756",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51677.18",
+				"band":"R",
+				"e_magnitude":"0.012",
+				"magnitude":"16.236",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51677.180",
+				"band":"U",
+				"e_magnitude":"0.028",
+				"magnitude":"16.293",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51677.180",
+				"band":"V",
+				"e_magnitude":"0.012",
+				"magnitude":"16.168",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51677.180",
+				"band":"z",
+				"e_magnitude":"0.023",
+				"magnitude":"16.443",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51677.240",
+				"band":"H",
+				"e_magnitude":"0.032",
+				"magnitude":"16.904",
+				"telescope":"LCO 2.5 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51677.240",
+				"band":"Js",
+				"e_magnitude":"0.046",
+				"magnitude":"17.668",
+				"telescope":"LCO 2.5 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51681.090",
+				"band":"H",
+				"e_magnitude":"0.028",
+				"magnitude":"17.002",
+				"telescope":"LCO 2.5 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51681.090",
+				"band":"Js",
+				"e_magnitude":"0.046",
+				"magnitude":"18.003",
+				"telescope":"LCO 2.5 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51681.190",
+				"band":"B",
+				"e_magnitude":"0.024",
+				"magnitude":"16.803",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51681.190",
+				"band":"I",
+				"e_magnitude":"0.012",
+				"magnitude":"16.930",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51681.19",
+				"band":"R",
+				"e_magnitude":"0.016",
+				"magnitude":"16.493",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51681.190",
+				"band":"V",
+				"e_magnitude":"0.012",
+				"magnitude":"16.446",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51681.190",
+				"band":"z",
+				"e_magnitude":"0.026",
+				"magnitude":"16.430",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51682.190",
+				"band":"B",
+				"e_magnitude":"0.024",
+				"magnitude":"16.979",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51682.190",
+				"band":"I",
+				"e_magnitude":"0.015",
+				"magnitude":"16.948",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51682.19",
+				"band":"R",
+				"e_magnitude":"0.012",
+				"magnitude":"16.531",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51682.190",
+				"band":"V",
+				"e_magnitude":"0.015",
+				"magnitude":"16.527",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51682.190",
+				"band":"z",
+				"e_magnitude":"0.019",
+				"magnitude":"16.446",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51683.200",
+				"band":"B",
+				"e_magnitude":"0.020",
+				"magnitude":"17.048",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51683.200",
+				"band":"I",
+				"e_magnitude":"0.013",
+				"magnitude":"16.896",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51683.2",
+				"band":"R",
+				"e_magnitude":"0.012",
+				"magnitude":"16.541",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51683.200",
+				"band":"U",
+				"e_magnitude":"0.052",
+				"magnitude":"17.163",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51683.200",
+				"band":"V",
+				"e_magnitude":"0.012",
+				"magnitude":"16.549",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51683.200",
+				"band":"z",
+				"e_magnitude":"0.026",
+				"magnitude":"16.392",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51684.040",
+				"band":"H",
+				"e_magnitude":"0.028",
+				"magnitude":"16.813",
+				"telescope":"LCO 2.5 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51684.040",
+				"band":"Js",
+				"e_magnitude":"0.045",
+				"magnitude":"18.042",
+				"telescope":"LCO 2.5 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51687.180",
+				"band":"Js",
+				"e_magnitude":"0.046",
+				"magnitude":"17.849",
+				"telescope":"LCO 2.5 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51687.970",
+				"band":"Js",
+				"e_magnitude":"0.058",
+				"magnitude":"17.774",
+				"telescope":"LCO 2.5 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51699.130",
+				"band":"B",
+				"e_magnitude":"0.018",
+				"magnitude":"18.485",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51699.130",
+				"band":"I",
+				"e_magnitude":"0.01",
+				"magnitude":"16.756",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51699.13",
+				"band":"R",
+				"e_magnitude":"0.012",
+				"magnitude":"16.947",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51699.130",
+				"band":"V",
+				"e_magnitude":"0.012",
+				"magnitude":"17.393",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51705.090",
+				"band":"B",
+				"e_magnitude":"0.023",
+				"magnitude":"18.781",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51705.090",
+				"band":"I",
+				"e_magnitude":"0.019",
+				"magnitude":"17.113",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51705.09",
+				"band":"R",
+				"e_magnitude":"0.012",
+				"magnitude":"17.305",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51705.090",
+				"band":"V",
+				"e_magnitude":"0.021",
+				"magnitude":"17.715",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51711.110",
+				"band":"B",
+				"e_magnitude":"0.035",
+				"magnitude":"18.913",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51711.110",
+				"band":"I",
+				"e_magnitude":"0.024",
+				"magnitude":"17.448",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51711.11",
+				"band":"R",
+				"e_magnitude":"0.023",
+				"magnitude":"17.549",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51711.110",
+				"band":"V",
+				"e_magnitude":"0.032",
+				"magnitude":"17.934",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51730.030",
+				"band":"B",
+				"e_magnitude":"0.025",
+				"magnitude":"19.243",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51730.030",
+				"band":"I",
+				"e_magnitude":"0.031",
+				"magnitude":"18.352",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51730.03",
+				"band":"R",
+				"e_magnitude":"0.022",
+				"magnitude":"18.193",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51730.030",
+				"band":"V",
+				"e_magnitude":"0.016",
+				"magnitude":"18.455",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51738.040",
+				"band":"B",
+				"e_magnitude":"0.053",
+				"magnitude":"19.374",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51738.040",
+				"band":"I",
+				"e_magnitude":"0.036",
+				"magnitude":"18.622",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51738.04",
+				"band":"R",
+				"e_magnitude":"0.023",
+				"magnitude":"18.441",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51738.040",
+				"band":"V",
+				"e_magnitude":"0.041",
+				"magnitude":"18.634",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51745.000",
+				"band":"B",
+				"e_magnitude":"0.039",
+				"magnitude":"19.481",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51745.000",
+				"band":"I",
+				"e_magnitude":"0.041",
+				"magnitude":"18.832",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51745.0",
+				"band":"R",
+				"e_magnitude":"0.050",
+				"magnitude":"18.621",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51745.000",
+				"band":"V",
+				"e_magnitude":"0.023",
+				"magnitude":"18.823",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51752.040",
+				"band":"B",
+				"e_magnitude":"0.028",
+				"magnitude":"19.536",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51752.040",
+				"band":"I",
+				"e_magnitude":"0.076",
+				"magnitude":"19.188",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51752.04",
+				"band":"R",
+				"e_magnitude":"0.031",
+				"magnitude":"18.902",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51752.040",
+				"band":"V",
+				"e_magnitude":"0.020",
+				"magnitude":"19.007",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51757.010",
+				"band":"B",
+				"e_magnitude":"0.043",
+				"magnitude":"19.758",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51757.010",
+				"band":"I",
+				"e_magnitude":"0.072",
+				"magnitude":"19.431",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51757.01",
+				"band":"R",
+				"e_magnitude":"0.036",
+				"magnitude":"19.031",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51757.010",
+				"band":"V",
+				"e_magnitude":"0.027",
+				"magnitude":"19.137",
+				"telescope":"CTIO 0.9 m",
+				"u_time":"MJD",
+				"source":"1"
+			}
+		]
+	}
+}
