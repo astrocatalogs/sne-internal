@@ -1,15 +1,88 @@
 {
 	"SN1991S":{
 		"name":"SN1991S",
-		"distinctfrom":[
+		"sources":[
 			{
-				"value":"PSN J10292799+2200468"
+				"bibcode":"2004MNRAS.349.1344A",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN1991S",
+				"source":"1"
+			}
+		],
+		"photometry":[
+			{
+				"time":"48359.17",
+				"band":"V",
+				"e_magnitude":"0.03",
+				"instrument":"DFOSC",
+				"magnitude":"18.15",
+				"telescope":"Danish 1.54m",
+				"u_time":"MJD",
+				"source":"1"
 			},
 			{
-				"value":"iPTF14hvh"
+				"time":"48364.01",
+				"band":"B",
+				"e_magnitude":"0.02",
+				"instrument":"EFOSC2",
+				"magnitude":"18.94",
+				"telescope":"MPG/ESO 2.2m",
+				"u_time":"MJD",
+				"source":"1"
 			},
 			{
-				"value":"CSS141127:102928+220047"
+				"time":"48364.01",
+				"band":"R",
+				"e_magnitude":"0.02",
+				"instrument":"EFOSC2",
+				"magnitude":"18.31",
+				"telescope":"MPG/ESO 2.2m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48364.01",
+				"band":"V",
+				"e_magnitude":"0.03",
+				"instrument":"EFOSC2",
+				"magnitude":"18.42",
+				"telescope":"MPG/ESO 2.2m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48366.14",
+				"band":"B",
+				"e_magnitude":"0.03",
+				"instrument":"EFOSC1",
+				"magnitude":"19.34",
+				"telescope":"ESO 3.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48366.14",
+				"band":"R",
+				"e_magnitude":"0.03",
+				"instrument":"EFOSC1",
+				"magnitude":"18.25",
+				"telescope":"ESO 3.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48366.14",
+				"band":"V",
+				"e_magnitude":"0.02",
+				"instrument":"EFOSC1",
+				"magnitude":"18.51",
+				"telescope":"ESO 3.6m",
+				"u_time":"MJD",
+				"source":"1"
 			}
 		]
 	}

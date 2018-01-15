@@ -1,0 +1,59 @@
+{
+	"SN1994M":{
+		"name":"SN1994M",
+		"sources":[
+			{
+				"bibcode":"2004MNRAS.349.1344A",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN1994M",
+				"source":"1"
+			}
+		],
+		"photometry":[
+			{
+				"time":"49486.06",
+				"band":"B",
+				"e_magnitude":"0.01",
+				"instrument":"EFOSC2",
+				"magnitude":"17.28",
+				"telescope":"MPG/ESO 2.2m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"49486.06",
+				"band":"I",
+				"e_magnitude":"0.01",
+				"instrument":"EFOSC2",
+				"magnitude":"17.25",
+				"telescope":"MPG/ESO 2.2m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"49486.06",
+				"band":"R",
+				"e_magnitude":"0.01",
+				"instrument":"EFOSC2",
+				"magnitude":"16.83",
+				"telescope":"MPG/ESO 2.2m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"49486.06",
+				"band":"V",
+				"e_magnitude":"0.01",
+				"instrument":"EFOSC2",
+				"magnitude":"16.84",
+				"telescope":"MPG/ESO 2.2m",
+				"u_time":"MJD",
+				"source":"1"
+			}
+		]
+	}
+}

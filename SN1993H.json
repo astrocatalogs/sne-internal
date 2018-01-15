@@ -1,0 +1,149 @@
+{
+	"SN1993H":{
+		"name":"SN1993H",
+		"sources":[
+			{
+				"bibcode":"2004MNRAS.349.1344A",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN1993H",
+				"source":"1"
+			}
+		],
+		"photometry":[
+			{
+				"time":"49103.17",
+				"band":"B",
+				"e_magnitude":"0.04",
+				"instrument":"EFOSC1",
+				"magnitude":"20.12",
+				"telescope":"ESO 3.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"49103.17",
+				"band":"R",
+				"e_magnitude":"0.03",
+				"instrument":"EFOSC1",
+				"magnitude":"18.51",
+				"telescope":"ESO 3.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"49103.17",
+				"band":"V",
+				"e_magnitude":"0.03",
+				"instrument":"EFOSC1",
+				"magnitude":"19.02",
+				"telescope":"ESO 3.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"49112.4",
+				"band":"R",
+				"e_magnitude":"0.05",
+				"instrument":"DFOSC",
+				"magnitude":"18.85",
+				"telescope":"Danish 1.54m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"49123.17",
+				"band":"B",
+				"e_magnitude":"0.13",
+				"instrument":"DFOSC",
+				"magnitude":"20.53",
+				"telescope":"Danish 1.54m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"49123.17",
+				"band":"R",
+				"e_magnitude":"0.06",
+				"instrument":"DFOSC",
+				"magnitude":"19.32",
+				"telescope":"Danish 1.54m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"49123.17",
+				"band":"V",
+				"e_magnitude":"0.07",
+				"instrument":"DFOSC",
+				"magnitude":"19.58",
+				"telescope":"Danish 1.54m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"49124.13",
+				"band":"B",
+				"e_magnitude":"0.04",
+				"instrument":"EFOSC1",
+				"magnitude":"20.49",
+				"telescope":"ESO 3.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"49124.13",
+				"band":"R",
+				"e_magnitude":"0.04",
+				"instrument":"EFOSC1",
+				"magnitude":"19.46",
+				"telescope":"ESO 3.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"49124.13",
+				"band":"V",
+				"e_magnitude":"0.05",
+				"instrument":"EFOSC1",
+				"magnitude":"19.7",
+				"telescope":"ESO 3.6m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"49176.17",
+				"band":"B",
+				"e_magnitude":"0.2",
+				"instrument":"DFOSC",
+				"magnitude":"21.73",
+				"telescope":"Danish 1.54m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"49176.17",
+				"band":"R",
+				"e_magnitude":"0.15",
+				"instrument":"DFOSC",
+				"magnitude":"21.18",
+				"telescope":"Danish 1.54m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"49176.17",
+				"band":"V",
+				"e_magnitude":"0.1",
+				"instrument":"DFOSC",
+				"magnitude":"21.04",
+				"telescope":"Danish 1.54m",
+				"u_time":"MJD",
+				"source":"1"
+			}
+		]
+	}
+}
