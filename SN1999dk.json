@@ -3,17 +3,301 @@
 		"name":"SN1999dk",
 		"sources":[
 			{
-				"bibcode":"2004MNRAS.349.1344A",
+				"bibcode":"2001AJ....122.1616K",
 				"alias":"1"
+			},
+			{
+				"bibcode":"2004MNRAS.349.1344A",
+				"alias":"2"
 			}
 		],
 		"alias":[
 			{
 				"value":"SN1999dk",
-				"source":"1"
+				"source":"1,2"
 			}
 		],
 		"photometry":[
+			{
+				"time":"51412.4810",
+				"band":"V",
+				"e_magnitude":"0.011",
+				"magnitude":"14.963",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51412.4810",
+				"band":"V-R",
+				"e_magnitude":"0.016",
+				"magnitude":"0.006",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51413.3730",
+				"band":"B-V",
+				"e_magnitude":"0.013",
+				"magnitude":"0.082",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51413.3730",
+				"band":"V",
+				"e_magnitude":"0.008",
+				"magnitude":"14.986",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51413.3730",
+				"band":"V-R",
+				"e_magnitude":"0.014",
+				"magnitude":"0.028",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51416.4240",
+				"band":"B-V",
+				"e_magnitude":"0.019",
+				"magnitude":"0.113",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51416.4240",
+				"band":"V",
+				"e_magnitude":"0.011",
+				"magnitude":"14.923",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51425.3880",
+				"band":"B-V",
+				"e_magnitude":"0.016",
+				"magnitude":"0.497",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51425.3880",
+				"band":"V",
+				"e_magnitude":"0.009",
+				"magnitude":"15.216",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51426.3640",
+				"band":"B-V",
+				"e_magnitude":"0.015",
+				"magnitude":"0.476",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51426.3640",
+				"band":"V",
+				"e_magnitude":"0.008",
+				"magnitude":"15.270",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51437.3780",
+				"band":"B-V",
+				"e_magnitude":"0.024",
+				"magnitude":"1.088",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51437.3780",
+				"band":"V",
+				"e_magnitude":"0.010",
+				"magnitude":"15.820",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51437.3780",
+				"band":"V-I",
+				"e_magnitude":"0.022",
+				"magnitude":"0.256",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51437.3780",
+				"band":"V-R",
+				"e_magnitude":"0.018",
+				"magnitude":"0.225",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51442.3300",
+				"band":"B-V",
+				"e_magnitude":"0.026",
+				"magnitude":"1.297",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51442.3300",
+				"band":"V",
+				"e_magnitude":"0.011",
+				"magnitude":"16.136",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51442.3300",
+				"band":"V-I",
+				"e_magnitude":"0.025",
+				"magnitude":"0.438",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51442.3300",
+				"band":"V-R",
+				"e_magnitude":"0.017",
+				"magnitude":"0.342",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51463.3530",
+				"band":"B-V",
+				"e_magnitude":"0.059",
+				"magnitude":"1.100",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51463.3530",
+				"band":"V",
+				"e_magnitude":"0.026",
+				"magnitude":"16.966",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51463.3530",
+				"band":"V-I",
+				"e_magnitude":"0.046",
+				"magnitude":"0.317",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51463.3530",
+				"band":"V-R",
+				"e_magnitude":"0.035",
+				"magnitude":"0.251",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51464.2230",
+				"band":"B-V",
+				"e_magnitude":"0.050",
+				"magnitude":"0.900",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51464.2230",
+				"band":"V",
+				"e_magnitude":"0.030",
+				"magnitude":"17.053",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51464.2230",
+				"band":"V-I",
+				"e_magnitude":"0.061",
+				"magnitude":"0.309",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51464.2230",
+				"band":"V-R",
+				"e_magnitude":"0.041",
+				"magnitude":"0.425",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51466.2200",
+				"band":"B-V",
+				"e_magnitude":"0.045",
+				"magnitude":"0.936",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51466.2200",
+				"band":"V",
+				"e_magnitude":"0.023",
+				"magnitude":"16.998",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51466.2200",
+				"band":"V-I",
+				"e_magnitude":"0.051",
+				"magnitude":"0.393",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51466.2200",
+				"band":"V-R",
+				"e_magnitude":"0.033",
+				"magnitude":"0.345",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51469.3510",
+				"band":"B-V",
+				"e_magnitude":"0.044",
+				"magnitude":"1.016",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51469.3510",
+				"band":"V",
+				"e_magnitude":"0.020",
+				"magnitude":"17.154",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51469.3510",
+				"band":"V-I",
+				"e_magnitude":"0.041",
+				"magnitude":"0.289",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51469.3510",
+				"band":"V-R",
+				"e_magnitude":"0.033",
+				"magnitude":"0.303",
+				"u_time":"MJD",
+				"source":"1"
+			},
 			{
 				"time":"51415.17",
 				"band":"B",
@@ -22,7 +306,7 @@
 				"magnitude":"15.06",
 				"telescope":"Danish 1.54m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"51415.17",
@@ -32,7 +316,7 @@
 				"magnitude":"15.3",
 				"telescope":"Danish 1.54m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"51415.17",
@@ -42,7 +326,7 @@
 				"magnitude":"14.92",
 				"telescope":"Danish 1.54m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"51415.17",
@@ -52,7 +336,7 @@
 				"magnitude":"14.94",
 				"telescope":"Danish 1.54m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"51415.17",
@@ -62,7 +346,7 @@
 				"magnitude":"14.93",
 				"telescope":"Danish 1.54m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"51423.17",
@@ -72,7 +356,7 @@
 				"magnitude":"15.45",
 				"telescope":"Danish 1.54m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"51423.17",
@@ -82,7 +366,7 @@
 				"magnitude":"15.78",
 				"telescope":"Danish 1.54m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"51423.17",
@@ -92,7 +376,7 @@
 				"magnitude":"15.23",
 				"telescope":"Danish 1.54m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"51423.17",
@@ -102,7 +386,7 @@
 				"magnitude":"15.62",
 				"telescope":"Danish 1.54m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"51423.17",
@@ -112,7 +396,7 @@
 				"magnitude":"15.14",
 				"telescope":"Danish 1.54m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"51426.17",
@@ -122,7 +406,7 @@
 				"magnitude":"15.82",
 				"telescope":"Danish 1.54m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"51426.17",
@@ -132,7 +416,7 @@
 				"magnitude":"15.95",
 				"telescope":"Danish 1.54m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"51426.17",
@@ -142,7 +426,7 @@
 				"magnitude":"15.49",
 				"telescope":"Danish 1.54m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"51426.17",
@@ -152,7 +436,7 @@
 				"magnitude":"16.12",
 				"telescope":"Danish 1.54m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"51426.17",
@@ -162,7 +446,7 @@
 				"magnitude":"15.38",
 				"telescope":"Danish 1.54m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"51435.28",
@@ -172,7 +456,7 @@
 				"magnitude":"16.75",
 				"telescope":"ESO 3.6m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"51435.28",
@@ -182,7 +466,7 @@
 				"magnitude":"15.92",
 				"telescope":"ESO 3.6m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"51435.28",
@@ -192,7 +476,7 @@
 				"magnitude":"15.68",
 				"telescope":"ESO 3.6m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"51435.28",
@@ -202,7 +486,7 @@
 				"magnitude":"17.24",
 				"telescope":"ESO 3.6m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"51435.28",
@@ -212,7 +496,7 @@
 				"magnitude":"15.85",
 				"telescope":"ESO 3.6m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"51438.17",
@@ -222,7 +506,7 @@
 				"magnitude":"17.11",
 				"telescope":"ESO 3.6m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"51438.17",
@@ -232,7 +516,7 @@
 				"magnitude":"15.8",
 				"telescope":"ESO 3.6m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"51438.17",
@@ -242,7 +526,7 @@
 				"magnitude":"15.7",
 				"telescope":"ESO 3.6m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"51438.17",
@@ -252,7 +536,7 @@
 				"magnitude":"17.54",
 				"telescope":"ESO 3.6m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"51438.17",
@@ -262,7 +546,7 @@
 				"magnitude":"16.01",
 				"telescope":"ESO 3.6m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"51459.06",
@@ -272,7 +556,7 @@
 				"magnitude":"18.12",
 				"telescope":"TNG",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"51459.06",
@@ -282,7 +566,7 @@
 				"magnitude":"16.63",
 				"telescope":"TNG",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"51459.06",
@@ -292,7 +576,7 @@
 				"magnitude":"16.58",
 				"telescope":"TNG",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"51459.06",
@@ -302,7 +586,7 @@
 				"magnitude":"19.1",
 				"telescope":"TNG",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"51459.06",
@@ -312,7 +596,7 @@
 				"magnitude":"16.63",
 				"telescope":"TNG",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			}
 		]
 	}
