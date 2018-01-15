@@ -13,6 +13,21 @@
 				"source":"1"
 			}
 		],
+		"spectra":[
+			{
+				"filename":"sn2000cx-20011022.270-joined.flm",
+				"exclude":[
+					{
+						"below":"3980.0",
+						"reason":"noise"
+					},
+					{
+						"above":"9200.0",
+						"reason":"noise"
+					}
+				]
+			}
+		],
 		"photometry":[
 			{
 				"time":"51753.4",
