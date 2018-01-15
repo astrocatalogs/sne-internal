@@ -7,6 +7,17 @@
 				"alias":"1"
 			}
 		],
+		"distinctfrom":[
+			{
+				"value":"PSN J10292799+2200468"
+			},
+			{
+				"value":"iPTF14hvh"
+			},
+			{
+				"value":"CSS141127:102928+220047"
+			}
+		],
 		"alias":[
 			{
 				"value":"SN1991S",
