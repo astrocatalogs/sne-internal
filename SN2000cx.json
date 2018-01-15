@@ -1,25 +1,124 @@
 {
 	"SN2000cx":{
 		"name":"SN2000cx",
-		"alias":[
+		"sources":[
 			{
-				"value":"SN2000cx"
+				"bibcode":"2004MNRAS.349.1344A",
+				"alias":"1"
 			}
 		],
-    "spectra":[
-      {
-        "filename":"sn2000cx-20011022.270-joined.flm",
-        "exclude":[
-          {
-            "below":"3980.0",
-            "reason":"noise"
-          },
-          {
-            "above":"9200.0",
-            "reason":"noise"
-          }
-        ]
-      }
-    ]
+		"alias":[
+			{
+				"value":"SN2000cx",
+				"source":"1"
+			}
+		],
+		"spectra":[
+			{
+				"filename":"sn2000cx-20011022.270-joined.flm",
+				"exclude":[
+					{
+						"below":"3980.0",
+						"reason":"noise"
+					},
+					{
+						"above":"9200.0",
+						"reason":"noise"
+					}
+				]
+			}
+		],
+		"photometry":[
+			{
+				"time":"51753.4",
+				"band":"B",
+				"e_magnitude":"0.02",
+				"instrument":"EMMI",
+				"magnitude":"13.44",
+				"telescope":"NTT",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51753.4",
+				"band":"I",
+				"e_magnitude":"0.02",
+				"instrument":"EMMI",
+				"magnitude":"13.77",
+				"telescope":"NTT",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51753.4",
+				"band":"R",
+				"e_magnitude":"0.03",
+				"instrument":"EMMI",
+				"magnitude":"13.35",
+				"telescope":"NTT",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51753.4",
+				"band":"V",
+				"e_magnitude":"0.03",
+				"instrument":"EMMI",
+				"magnitude":"13.24",
+				"telescope":"NTT",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51866.05",
+				"band":"B",
+				"e_magnitude":"0.01",
+				"instrument":"DFOSC",
+				"magnitude":"17.86",
+				"telescope":"Danish 1.54m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51866.05",
+				"band":"I",
+				"e_magnitude":"0.02",
+				"instrument":"DFOSC",
+				"magnitude":"18.21",
+				"telescope":"Danish 1.54m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51866.05",
+				"band":"R",
+				"e_magnitude":"0.02",
+				"instrument":"DFOSC",
+				"magnitude":"17.8",
+				"telescope":"Danish 1.54m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51866.05",
+				"band":"U",
+				"e_magnitude":"0.02",
+				"instrument":"DFOSC",
+				"magnitude":"18.31",
+				"telescope":"Danish 1.54m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"51866.05",
+				"band":"V",
+				"e_magnitude":"0.01",
+				"instrument":"DFOSC",
+				"magnitude":"17.76",
+				"telescope":"Danish 1.54m",
+				"u_time":"MJD",
+				"source":"1"
+			}
+		]
 	}
 }

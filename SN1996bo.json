@@ -1,0 +1,91 @@
+{
+	"SN1996bo":{
+		"name":"SN1996bo",
+		"sources":[
+			{
+				"bibcode":"2004MNRAS.349.1344A",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN1996bo",
+				"source":"1"
+			}
+		],
+		"photometry":[
+			{
+				"time":"50380.15",
+				"band":"B",
+				"e_magnitude":"0.03",
+				"magnitude":"16.33",
+				"telescope":"Dutch 0.91m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"50380.15",
+				"band":"R",
+				"e_magnitude":"0.03",
+				"magnitude":"15.79",
+				"telescope":"Dutch 0.91m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"50380.15",
+				"band":"V",
+				"e_magnitude":"0.03",
+				"magnitude":"16.05",
+				"telescope":"Dutch 0.91m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"50406.14",
+				"band":"B",
+				"e_magnitude":"0.08",
+				"magnitude":"17.81",
+				"telescope":"Dutch 0.91m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"50406.14",
+				"band":"I",
+				"e_magnitude":"0.04",
+				"magnitude":"16.09",
+				"telescope":"Dutch 0.91m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"50406.14",
+				"band":"R",
+				"e_magnitude":"0.03",
+				"magnitude":"16.21",
+				"telescope":"Dutch 0.91m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"50406.14",
+				"band":"U",
+				"e_magnitude":"0.08",
+				"magnitude":"18.46",
+				"telescope":"Dutch 0.91m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"50406.14",
+				"band":"V",
+				"e_magnitude":"0.04",
+				"magnitude":"16.6",
+				"telescope":"Dutch 0.91m",
+				"u_time":"MJD",
+				"source":"1"
+			}
+		]
+	}
+}

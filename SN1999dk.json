@@ -5,12 +5,16 @@
 			{
 				"bibcode":"2001AJ....122.1616K",
 				"alias":"1"
+			},
+			{
+				"bibcode":"2004MNRAS.349.1344A",
+				"alias":"2"
 			}
 		],
 		"alias":[
 			{
 				"value":"SN1999dk",
-				"source":"1"
+				"source":"1,2"
 			}
 		],
 		"photometry":[
@@ -293,6 +297,306 @@
 				"magnitude":"0.303",
 				"u_time":"MJD",
 				"source":"1"
+			},
+			{
+				"time":"51415.17",
+				"band":"B",
+				"e_magnitude":"0.05",
+				"instrument":"DFOSC",
+				"magnitude":"15.06",
+				"telescope":"Danish 1.54m",
+				"u_time":"MJD",
+				"source":"2"
+			},
+			{
+				"time":"51415.17",
+				"band":"I",
+				"e_magnitude":"0.04",
+				"instrument":"DFOSC",
+				"magnitude":"15.3",
+				"telescope":"Danish 1.54m",
+				"u_time":"MJD",
+				"source":"2"
+			},
+			{
+				"time":"51415.17",
+				"band":"R",
+				"e_magnitude":"0.04",
+				"instrument":"DFOSC",
+				"magnitude":"14.92",
+				"telescope":"Danish 1.54m",
+				"u_time":"MJD",
+				"source":"2"
+			},
+			{
+				"time":"51415.17",
+				"band":"U",
+				"e_magnitude":"0.07",
+				"instrument":"DFOSC",
+				"magnitude":"14.94",
+				"telescope":"Danish 1.54m",
+				"u_time":"MJD",
+				"source":"2"
+			},
+			{
+				"time":"51415.17",
+				"band":"V",
+				"e_magnitude":"0.04",
+				"instrument":"DFOSC",
+				"magnitude":"14.93",
+				"telescope":"Danish 1.54m",
+				"u_time":"MJD",
+				"source":"2"
+			},
+			{
+				"time":"51423.17",
+				"band":"B",
+				"e_magnitude":"0.06",
+				"instrument":"DFOSC",
+				"magnitude":"15.45",
+				"telescope":"Danish 1.54m",
+				"u_time":"MJD",
+				"source":"2"
+			},
+			{
+				"time":"51423.17",
+				"band":"I",
+				"e_magnitude":"0.05",
+				"instrument":"DFOSC",
+				"magnitude":"15.78",
+				"telescope":"Danish 1.54m",
+				"u_time":"MJD",
+				"source":"2"
+			},
+			{
+				"time":"51423.17",
+				"band":"R",
+				"e_magnitude":"0.05",
+				"instrument":"DFOSC",
+				"magnitude":"15.23",
+				"telescope":"Danish 1.54m",
+				"u_time":"MJD",
+				"source":"2"
+			},
+			{
+				"time":"51423.17",
+				"band":"U",
+				"e_magnitude":"0.07",
+				"instrument":"DFOSC",
+				"magnitude":"15.62",
+				"telescope":"Danish 1.54m",
+				"u_time":"MJD",
+				"source":"2"
+			},
+			{
+				"time":"51423.17",
+				"band":"V",
+				"e_magnitude":"0.04",
+				"instrument":"DFOSC",
+				"magnitude":"15.14",
+				"telescope":"Danish 1.54m",
+				"u_time":"MJD",
+				"source":"2"
+			},
+			{
+				"time":"51426.17",
+				"band":"B",
+				"e_magnitude":"0.07",
+				"instrument":"DFOSC",
+				"magnitude":"15.82",
+				"telescope":"Danish 1.54m",
+				"u_time":"MJD",
+				"source":"2"
+			},
+			{
+				"time":"51426.17",
+				"band":"I",
+				"e_magnitude":"0.05",
+				"instrument":"DFOSC",
+				"magnitude":"15.95",
+				"telescope":"Danish 1.54m",
+				"u_time":"MJD",
+				"source":"2"
+			},
+			{
+				"time":"51426.17",
+				"band":"R",
+				"e_magnitude":"0.05",
+				"instrument":"DFOSC",
+				"magnitude":"15.49",
+				"telescope":"Danish 1.54m",
+				"u_time":"MJD",
+				"source":"2"
+			},
+			{
+				"time":"51426.17",
+				"band":"U",
+				"e_magnitude":"0.08",
+				"instrument":"DFOSC",
+				"magnitude":"16.12",
+				"telescope":"Danish 1.54m",
+				"u_time":"MJD",
+				"source":"2"
+			},
+			{
+				"time":"51426.17",
+				"band":"V",
+				"e_magnitude":"0.04",
+				"instrument":"DFOSC",
+				"magnitude":"15.38",
+				"telescope":"Danish 1.54m",
+				"u_time":"MJD",
+				"source":"2"
+			},
+			{
+				"time":"51435.28",
+				"band":"B",
+				"e_magnitude":"0.05",
+				"instrument":"EFOSC2",
+				"magnitude":"16.75",
+				"telescope":"ESO 3.6m",
+				"u_time":"MJD",
+				"source":"2"
+			},
+			{
+				"time":"51435.28",
+				"band":"I",
+				"e_magnitude":"0.03",
+				"instrument":"EFOSC2",
+				"magnitude":"15.92",
+				"telescope":"ESO 3.6m",
+				"u_time":"MJD",
+				"source":"2"
+			},
+			{
+				"time":"51435.28",
+				"band":"R",
+				"e_magnitude":"0.03",
+				"instrument":"EFOSC2",
+				"magnitude":"15.68",
+				"telescope":"ESO 3.6m",
+				"u_time":"MJD",
+				"source":"2"
+			},
+			{
+				"time":"51435.28",
+				"band":"U",
+				"e_magnitude":"0.15",
+				"instrument":"EFOSC2",
+				"magnitude":"17.24",
+				"telescope":"ESO 3.6m",
+				"u_time":"MJD",
+				"source":"2"
+			},
+			{
+				"time":"51435.28",
+				"band":"V",
+				"e_magnitude":"0.03",
+				"instrument":"EFOSC2",
+				"magnitude":"15.85",
+				"telescope":"ESO 3.6m",
+				"u_time":"MJD",
+				"source":"2"
+			},
+			{
+				"time":"51438.17",
+				"band":"B",
+				"e_magnitude":"0.05",
+				"instrument":"EFOSC2",
+				"magnitude":"17.11",
+				"telescope":"ESO 3.6m",
+				"u_time":"MJD",
+				"source":"2"
+			},
+			{
+				"time":"51438.17",
+				"band":"I",
+				"e_magnitude":"0.03",
+				"instrument":"EFOSC2",
+				"magnitude":"15.8",
+				"telescope":"ESO 3.6m",
+				"u_time":"MJD",
+				"source":"2"
+			},
+			{
+				"time":"51438.17",
+				"band":"R",
+				"e_magnitude":"0.03",
+				"instrument":"EFOSC2",
+				"magnitude":"15.7",
+				"telescope":"ESO 3.6m",
+				"u_time":"MJD",
+				"source":"2"
+			},
+			{
+				"time":"51438.17",
+				"band":"U",
+				"e_magnitude":"0.2",
+				"instrument":"EFOSC2",
+				"magnitude":"17.54",
+				"telescope":"ESO 3.6m",
+				"u_time":"MJD",
+				"source":"2"
+			},
+			{
+				"time":"51438.17",
+				"band":"V",
+				"e_magnitude":"0.03",
+				"instrument":"EFOSC2",
+				"magnitude":"16.01",
+				"telescope":"ESO 3.6m",
+				"u_time":"MJD",
+				"source":"2"
+			},
+			{
+				"time":"51459.06",
+				"band":"B",
+				"e_magnitude":"0.03",
+				"instrument":"OIG",
+				"magnitude":"18.12",
+				"telescope":"TNG",
+				"u_time":"MJD",
+				"source":"2"
+			},
+			{
+				"time":"51459.06",
+				"band":"I",
+				"e_magnitude":"0.02",
+				"instrument":"OIG",
+				"magnitude":"16.63",
+				"telescope":"TNG",
+				"u_time":"MJD",
+				"source":"2"
+			},
+			{
+				"time":"51459.06",
+				"band":"R",
+				"e_magnitude":"0.02",
+				"instrument":"OIG",
+				"magnitude":"16.58",
+				"telescope":"TNG",
+				"u_time":"MJD",
+				"source":"2"
+			},
+			{
+				"time":"51459.06",
+				"band":"U",
+				"e_magnitude":"0.15",
+				"instrument":"OIG",
+				"magnitude":"19.1",
+				"telescope":"TNG",
+				"u_time":"MJD",
+				"source":"2"
+			},
+			{
+				"time":"51459.06",
+				"band":"V",
+				"e_magnitude":"0.03",
+				"instrument":"OIG",
+				"magnitude":"16.63",
+				"telescope":"TNG",
+				"u_time":"MJD",
+				"source":"2"
 			}
 		]
 	}

@@ -3,18 +3,22 @@
 		"name":"SN1995bd",
 		"sources":[
 			{
-				"alias":"1",
+				"bibcode":"2004MNRAS.349.1344A",
+				"alias":"1"
+			},
+			{
+				"alias":"2",
 				"bibcode":"1996AAS...189.4509G"
 			},
 			{
-			        "alias":"2",
+			        "alias":"3",
 				"bibcode":"2001ApJ...551..973S"
 			}
 		],
 		"claimedtype":[
 			{
 				"value":"Ia-91T",
-				"source":"1,2"
+				"source":"2,3"
 			}
 		],
 		"errors":[
@@ -22,6 +26,34 @@
 				"value":"1989A&AS...81..421B",
 				"kind":"bibcode",
 				"extra":"maxdate"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN1995bd",
+				"source":"1"
+			}
+		],
+		"photometry":[
+			{
+				"time":"50100.17",
+				"band":"B",
+				"e_magnitude":"0.01",
+				"instrument":"EFOSC2",
+				"magnitude":"18.19",
+				"telescope":"MPG/ESO 2.2m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"50100.17",
+				"band":"V",
+				"e_magnitude":"0.01",
+				"instrument":"EFOSC2",
+				"magnitude":"17.12",
+				"telescope":"MPG/ESO 2.2m",
+				"u_time":"MJD",
+				"source":"1"
 			}
 		]
 	}
