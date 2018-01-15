@@ -5,6 +5,27 @@
 			{
 				"bibcode":"2004MNRAS.349.1344A",
 				"alias":"1"
+			},
+			{
+				"alias":"2",
+				"bibcode":"1996AAS...189.4509G"
+			},
+			{
+			        "alias":"3",
+				"bibcode":"2001ApJ...551..973S"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"Ia-91T",
+				"source":"2,3"
+			}
+		],
+		"errors":[
+			{
+				"value":"1989A&AS...81..421B",
+				"kind":"bibcode",
+				"extra":"maxdate"
 			}
 		],
 		"alias":[
