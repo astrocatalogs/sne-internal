@@ -1,0 +1,23 @@
+{
+	"SN1963C":{
+		"name":"SN1963C",
+		"sources":[
+			{
+				"name":"HCO #1585"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN1963C"
+			}
+		],
+		"photometry":[
+			{
+				"time":"1962-12-22",
+				"magnitude":"20.5",
+				"band":"pg",
+				"upperlimit":true
+			}
+		]
+	}
+}
