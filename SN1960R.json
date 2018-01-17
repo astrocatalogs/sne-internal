@@ -1,0 +1,23 @@
+{
+	"SN1960R":{
+		"name":"SN1960R",
+		"sources":[
+			{
+				"name":"HCO #1521"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN1960R"
+			}
+		],
+		"photometry":[
+			{
+				"time":"1960-11-20",
+				"magnitude":"17.5",
+				"band":"B",
+				"upperlimit":true
+			}
+		]
+	}
+}
