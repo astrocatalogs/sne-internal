@@ -13,14 +13,32 @@
 				"source":"1"
 			}
 		],
+		"dec":[
+			{
+				"value":"+13:07:45.5",
+				"source":"1"
+			}
+		],
+		"ra":[
+			{
+				"value":"12:36:56.14",
+				"source":"1"
+			}
+		],
+		"redshift":[
+			{
+				"value":"0.402",
+				"source":"1"
+			}
+		],
 		"photometry":[
 			{
 				"time":"56387.271",
 				"band":"r",
 				"e_magnitude":"0.25",
-				"telescope":"P48",
 				"magnitude":"21.48",
 				"system":"AB",
+				"telescope":"P48",
 				"u_time":"MJD",
 				"source":"1"
 			},
@@ -28,9 +46,9 @@
 				"time":"56390.286",
 				"band":"r",
 				"e_magnitude":"0.28",
-				"telescope":"P48",
 				"magnitude":"21.54",
 				"system":"AB",
+				"telescope":"P48",
 				"u_time":"MJD",
 				"source":"1"
 			},
@@ -38,9 +56,9 @@
 				"time":"56414.258",
 				"band":"r",
 				"e_magnitude":"0.21",
-				"telescope":"P48",
 				"magnitude":"21.19",
 				"system":"AB",
+				"telescope":"P48",
 				"u_time":"MJD",
 				"source":"1"
 			},
@@ -48,9 +66,9 @@
 				"time":"56415.281",
 				"band":"r",
 				"e_magnitude":"0.31",
-				"telescope":"P48",
 				"magnitude":"21.63",
 				"system":"AB",
+				"telescope":"P48",
 				"u_time":"MJD",
 				"source":"1"
 			},
@@ -58,9 +76,9 @@
 				"time":"56416.218",
 				"band":"r",
 				"e_magnitude":"0.25",
-				"telescope":"P48",
 				"magnitude":"21.54",
 				"system":"AB",
+				"telescope":"P48",
 				"u_time":"MJD",
 				"source":"1"
 			},
@@ -68,9 +86,9 @@
 				"time":"56416.248",
 				"band":"r",
 				"e_magnitude":"0.27",
-				"telescope":"P48",
 				"magnitude":"21.56",
 				"system":"AB",
+				"telescope":"P48",
 				"u_time":"MJD",
 				"source":"1"
 			},
@@ -78,9 +96,9 @@
 				"time":"56416.277",
 				"band":"r",
 				"e_magnitude":"0.23",
-				"telescope":"P48",
 				"magnitude":"21.41",
 				"system":"AB",
+				"telescope":"P48",
 				"u_time":"MJD",
 				"source":"1"
 			},
@@ -88,9 +106,9 @@
 				"time":"56417.185",
 				"band":"r",
 				"e_magnitude":"0.20",
-				"telescope":"P48",
 				"magnitude":"21.24",
 				"system":"AB",
+				"telescope":"P48",
 				"u_time":"MJD",
 				"source":"1"
 			},
@@ -98,9 +116,9 @@
 				"time":"56417.252",
 				"band":"r",
 				"e_magnitude":"0.20",
-				"telescope":"P48",
 				"magnitude":"21.21",
 				"system":"AB",
+				"telescope":"P48",
 				"u_time":"MJD",
 				"source":"1"
 			},
@@ -108,9 +126,9 @@
 				"time":"56423.224",
 				"band":"r",
 				"e_magnitude":"0.25",
-				"telescope":"P48",
 				"magnitude":"21.48",
 				"system":"AB",
+				"telescope":"P48",
 				"u_time":"MJD",
 				"source":"1"
 			},
@@ -118,9 +136,9 @@
 				"time":"56423.253",
 				"band":"r",
 				"e_magnitude":"0.20",
-				"telescope":"P48",
 				"magnitude":"21.08",
 				"system":"AB",
+				"telescope":"P48",
 				"u_time":"MJD",
 				"source":"1"
 			},
@@ -128,9 +146,9 @@
 				"time":"56423.283",
 				"band":"r",
 				"e_magnitude":"0.19",
-				"telescope":"P48",
 				"magnitude":"21.19",
 				"system":"AB",
+				"telescope":"P48",
 				"u_time":"MJD",
 				"source":"1"
 			},
@@ -138,9 +156,9 @@
 				"time":"56424.184",
 				"band":"r",
 				"e_magnitude":"0.16",
-				"telescope":"P48",
 				"magnitude":"20.99",
 				"system":"AB",
+				"telescope":"P48",
 				"u_time":"MJD",
 				"source":"1"
 			},
@@ -148,9 +166,9 @@
 				"time":"56424.188",
 				"band":"r",
 				"e_magnitude":"0.14",
-				"telescope":"P48",
 				"magnitude":"20.95",
 				"system":"AB",
+				"telescope":"P48",
 				"u_time":"MJD",
 				"source":"1"
 			},
@@ -158,9 +176,9 @@
 				"time":"56424.239",
 				"band":"r",
 				"e_magnitude":"0.26",
-				"telescope":"P48",
 				"magnitude":"21.65",
 				"system":"AB",
+				"telescope":"P48",
 				"u_time":"MJD",
 				"source":"1"
 			},
@@ -168,9 +186,9 @@
 				"time":"56424.269",
 				"band":"r",
 				"e_magnitude":"0.19",
-				"telescope":"P48",
 				"magnitude":"21.05",
 				"system":"AB",
+				"telescope":"P48",
 				"u_time":"MJD",
 				"source":"1"
 			},
@@ -178,9 +196,9 @@
 				"time":"56425.198",
 				"band":"r",
 				"e_magnitude":"0.28",
-				"telescope":"P48",
 				"magnitude":"21.68",
 				"system":"AB",
+				"telescope":"P48",
 				"u_time":"MJD",
 				"source":"1"
 			},
@@ -188,9 +206,9 @@
 				"time":"56425.207",
 				"band":"r",
 				"e_magnitude":"0.19",
-				"telescope":"P48",
 				"magnitude":"21.43",
 				"system":"AB",
+				"telescope":"P48",
 				"u_time":"MJD",
 				"source":"1"
 			},
@@ -198,9 +216,9 @@
 				"time":"56425.234",
 				"band":"r",
 				"e_magnitude":"0.15",
-				"telescope":"P48",
 				"magnitude":"20.89",
 				"system":"AB",
+				"telescope":"P48",
 				"u_time":"MJD",
 				"source":"1"
 			},
@@ -208,9 +226,9 @@
 				"time":"56425.282",
 				"band":"r",
 				"e_magnitude":"0.20",
-				"telescope":"P48",
 				"magnitude":"21.19",
 				"system":"AB",
+				"telescope":"P48",
 				"u_time":"MJD",
 				"source":"1"
 			},
@@ -218,9 +236,9 @@
 				"time":"56426.214",
 				"band":"r",
 				"e_magnitude":"0.24",
-				"telescope":"P48",
 				"magnitude":"21.25",
 				"system":"AB",
+				"telescope":"P48",
 				"u_time":"MJD",
 				"source":"1"
 			},
@@ -228,9 +246,9 @@
 				"time":"56426.244",
 				"band":"r",
 				"e_magnitude":"0.19",
-				"telescope":"P48",
 				"magnitude":"21.17",
 				"system":"AB",
+				"telescope":"P48",
 				"u_time":"MJD",
 				"source":"1"
 			},
@@ -238,9 +256,9 @@
 				"time":"56426.274",
 				"band":"r",
 				"e_magnitude":"0.20",
-				"telescope":"P48",
 				"magnitude":"21.12",
 				"system":"AB",
+				"telescope":"P48",
 				"u_time":"MJD",
 				"source":"1"
 			},
@@ -248,9 +266,9 @@
 				"time":"56427.195",
 				"band":"r",
 				"e_magnitude":"0.22",
-				"telescope":"P48",
 				"magnitude":"21.16",
 				"system":"AB",
+				"telescope":"P48",
 				"u_time":"MJD",
 				"source":"1"
 			},
@@ -258,9 +276,9 @@
 				"time":"56427.237",
 				"band":"r",
 				"e_magnitude":"0.28",
-				"telescope":"P48",
 				"magnitude":"21.15",
 				"system":"AB",
+				"telescope":"P48",
 				"u_time":"MJD",
 				"source":"1"
 			},
@@ -268,9 +286,9 @@
 				"time":"56427.276",
 				"band":"r",
 				"e_magnitude":"0.29",
-				"telescope":"P48",
 				"magnitude":"21.47",
 				"system":"AB",
+				"telescope":"P48",
 				"u_time":"MJD",
 				"source":"1"
 			},
@@ -278,9 +296,9 @@
 				"time":"56428.177",
 				"band":"r",
 				"e_magnitude":"0.21",
-				"telescope":"P48",
 				"magnitude":"21.01",
 				"system":"AB",
+				"telescope":"P48",
 				"u_time":"MJD",
 				"source":"1"
 			},
@@ -288,9 +306,9 @@
 				"time":"56428.239",
 				"band":"r",
 				"e_magnitude":"0.20",
-				"telescope":"P48",
 				"magnitude":"21.14",
 				"system":"AB",
+				"telescope":"P48",
 				"u_time":"MJD",
 				"source":"1"
 			},
@@ -298,9 +316,9 @@
 				"time":"56428.279",
 				"band":"r",
 				"e_magnitude":"0.30",
-				"telescope":"P48",
 				"magnitude":"21.41",
 				"system":"AB",
+				"telescope":"P48",
 				"u_time":"MJD",
 				"source":"1"
 			},
@@ -308,9 +326,9 @@
 				"time":"56429.287",
 				"band":"r",
 				"e_magnitude":"0.31",
-				"telescope":"P48",
 				"magnitude":"21.40",
 				"system":"AB",
+				"telescope":"P48",
 				"u_time":"MJD",
 				"source":"1"
 			},
@@ -318,9 +336,9 @@
 				"time":"56444.230",
 				"band":"r",
 				"e_magnitude":"0.16",
-				"telescope":"P48",
 				"magnitude":"20.77",
 				"system":"AB",
+				"telescope":"P48",
 				"u_time":"MJD",
 				"source":"1"
 			},
@@ -328,9 +346,9 @@
 				"time":"56444.237",
 				"band":"r",
 				"e_magnitude":"0.17",
-				"telescope":"P48",
 				"magnitude":"20.96",
 				"system":"AB",
+				"telescope":"P48",
 				"u_time":"MJD",
 				"source":"1"
 			},
@@ -338,9 +356,9 @@
 				"time":"56444.265",
 				"band":"r",
 				"e_magnitude":"0.20",
-				"telescope":"P48",
 				"magnitude":"20.86",
 				"system":"AB",
+				"telescope":"P48",
 				"u_time":"MJD",
 				"source":"1"
 			},
@@ -348,9 +366,9 @@
 				"time":"56445.220",
 				"band":"r",
 				"e_magnitude":"0.17",
-				"telescope":"P48",
 				"magnitude":"20.96",
 				"system":"AB",
+				"telescope":"P48",
 				"u_time":"MJD",
 				"source":"1"
 			},
@@ -358,9 +376,9 @@
 				"time":"56445.262",
 				"band":"r",
 				"e_magnitude":"0.22",
-				"telescope":"P48",
 				"magnitude":"21.24",
 				"system":"AB",
+				"telescope":"P48",
 				"u_time":"MJD",
 				"source":"1"
 			},
@@ -368,9 +386,9 @@
 				"time":"56449.282",
 				"band":"r",
 				"e_magnitude":"0.16",
-				"telescope":"P60",
 				"magnitude":"21.17",
 				"system":"AB",
+				"telescope":"P60",
 				"u_time":"MJD",
 				"source":"1"
 			},
@@ -378,9 +396,9 @@
 				"time":"56450.329",
 				"band":"i",
 				"e_magnitude":"0.18",
-				"telescope":"P60",
 				"magnitude":"20.80",
 				"system":"AB",
+				"telescope":"P60",
 				"u_time":"MJD",
 				"source":"1"
 			},
@@ -388,9 +406,9 @@
 				"time":"56450.332",
 				"band":"g",
 				"e_magnitude":"0.27",
-				"telescope":"P60",
 				"magnitude":"21.61",
 				"system":"AB",
+				"telescope":"P60",
 				"u_time":"MJD",
 				"source":"1"
 			},
@@ -398,9 +416,9 @@
 				"time":"56451.313",
 				"band":"i",
 				"e_magnitude":"0.14",
-				"telescope":"P60",
 				"magnitude":"20.85",
 				"system":"AB",
+				"telescope":"P60",
 				"u_time":"MJD",
 				"source":"1"
 			},
@@ -408,9 +426,9 @@
 				"time":"56452.312",
 				"band":"g",
 				"e_magnitude":"0.19",
-				"telescope":"P60",
 				"magnitude":"21.32",
 				"system":"AB",
+				"telescope":"P60",
 				"u_time":"MJD",
 				"source":"1"
 			},
@@ -418,9 +436,9 @@
 				"time":"56453.282",
 				"band":"g",
 				"e_magnitude":"0.16",
-				"telescope":"P60",
 				"magnitude":"21.20",
 				"system":"AB",
+				"telescope":"P60",
 				"u_time":"MJD",
 				"source":"1"
 			},
@@ -428,9 +446,9 @@
 				"time":"56456.201",
 				"band":"r",
 				"e_magnitude":"0.09",
-				"telescope":"P60",
 				"magnitude":"21.02",
 				"system":"AB",
+				"telescope":"P60",
 				"u_time":"MJD",
 				"source":"1"
 			},
@@ -438,9 +456,9 @@
 				"time":"56457.195",
 				"band":"i",
 				"e_magnitude":"0.15",
-				"telescope":"P60",
 				"magnitude":"21.06",
 				"system":"AB",
+				"telescope":"P60",
 				"u_time":"MJD",
 				"source":"1"
 			},
@@ -448,9 +466,9 @@
 				"time":"56457.197",
 				"band":"B",
 				"e_magnitude":"0.28",
-				"telescope":"P60",
 				"magnitude":"21.72",
 				"system":"AB",
+				"telescope":"P60",
 				"u_time":"MJD",
 				"source":"1"
 			},
@@ -458,9 +476,9 @@
 				"time":"56462.282",
 				"band":"r",
 				"e_magnitude":"0.24",
-				"telescope":"P60",
 				"magnitude":"20.66",
 				"system":"AB",
+				"telescope":"P60",
 				"u_time":"MJD",
 				"source":"1"
 			},
@@ -468,9 +486,9 @@
 				"time":"56469.272",
 				"band":"i",
 				"e_magnitude":"0.24",
-				"telescope":"P60",
 				"magnitude":"21.03",
 				"system":"AB",
+				"telescope":"P60",
 				"u_time":"MJD",
 				"source":"1"
 			},
@@ -478,9 +496,9 @@
 				"time":"56470.235",
 				"band":"i",
 				"e_magnitude":"0.12",
-				"telescope":"P60",
 				"magnitude":"20.86",
 				"system":"AB",
+				"telescope":"P60",
 				"u_time":"MJD",
 				"source":"1"
 			},
@@ -488,9 +506,9 @@
 				"time":"56470.237",
 				"band":"r",
 				"e_magnitude":"0.12",
-				"telescope":"P60",
 				"magnitude":"21.01",
 				"system":"AB",
+				"telescope":"P60",
 				"u_time":"MJD",
 				"source":"1"
 			},
@@ -498,9 +516,9 @@
 				"time":"56470.241",
 				"band":"g",
 				"e_magnitude":"0.25",
-				"telescope":"P60",
 				"magnitude":"21.92",
 				"system":"AB",
+				"telescope":"P60",
 				"u_time":"MJD",
 				"source":"1"
 			},
@@ -508,9 +526,9 @@
 				"time":"56471.196",
 				"band":"g",
 				"e_magnitude":"0.16",
-				"telescope":"P60",
 				"magnitude":"21.58",
 				"system":"AB",
+				"telescope":"P60",
 				"u_time":"MJD",
 				"source":"1"
 			},
@@ -518,9 +536,9 @@
 				"time":"56474.217",
 				"band":"g",
 				"e_magnitude":"0.26",
-				"telescope":"P60",
 				"magnitude":"21.25",
 				"system":"AB",
+				"telescope":"P60",
 				"u_time":"MJD",
 				"source":"1"
 			},
@@ -528,9 +546,9 @@
 				"time":"56480.206",
 				"band":"i",
 				"e_magnitude":"0.11",
-				"telescope":"P60",
 				"magnitude":"20.69",
 				"system":"AB",
+				"telescope":"P60",
 				"u_time":"MJD",
 				"source":"1"
 			},
@@ -538,9 +556,9 @@
 				"time":"56480.209",
 				"band":"r",
 				"e_magnitude":"0.12",
-				"telescope":"P60",
 				"magnitude":"20.84",
 				"system":"AB",
+				"telescope":"P60",
 				"u_time":"MJD",
 				"source":"1"
 			},
@@ -548,9 +566,9 @@
 				"time":"56480.213",
 				"band":"g",
 				"e_magnitude":"0.29",
-				"telescope":"P60",
 				"magnitude":"22.14",
 				"system":"AB",
+				"telescope":"P60",
 				"u_time":"MJD",
 				"source":"1"
 			},
@@ -558,9 +576,9 @@
 				"time":"56490.219",
 				"band":"i",
 				"e_magnitude":"0.18",
-				"telescope":"P60",
 				"magnitude":"20.73",
 				"system":"AB",
+				"telescope":"P60",
 				"u_time":"MJD",
 				"source":"1"
 			},
@@ -568,9 +586,9 @@
 				"time":"56490.221",
 				"band":"r",
 				"e_magnitude":"0.25",
-				"telescope":"P60",
 				"magnitude":"21.20",
 				"system":"AB",
+				"telescope":"P60",
 				"u_time":"MJD",
 				"source":"1"
 			}

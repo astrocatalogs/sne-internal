@@ -1,0 +1,35 @@
+{
+	"PS1-12cil":{
+		"name":"PS1-12cil",
+		"sources":[
+			{
+				"bibcode":"2017arXiv170801619L",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"PS1-12cil",
+				"source":"1"
+			}
+		],
+		"dec":[
+			{
+				"value":"+45:24:41.93",
+				"source":"1"
+			}
+		],
+		"ra":[
+			{
+				"value":"08:40:56.169",
+				"source":"1"
+			}
+		],
+		"redshift":[
+			{
+				"value":"0.32",
+				"source":"1"
+			}
+		]
+	}
+}
