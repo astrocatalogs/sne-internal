@@ -1,0 +1,38 @@
+{
+	"SN1945A":{
+		"name":"SN1945A",
+		"sources":[
+			{
+				"name":"HCO #704"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN1945A"
+			}
+		],
+		"photometry":[
+			{
+				"time":"1945-04-12",
+				"magnitude":"16.0",
+				"band":"pg"
+			},
+			{
+				"time":"1945-04-12",
+				"magnitude":"14.0",
+				"band":"pv"
+			},
+			{
+				"time":"1945-04-12",
+				"magnitude":"13.5",
+				"band":"red"
+			},
+			{
+				"time":"1945-03-01",
+				"magnitude":"12.5",
+				"band":"red",
+				"upperlimit":true
+			}
+		]
+	}
+}
