@@ -13,20 +13,8 @@
 		],
 		"ra":[
 			{
-				"value":"10:12:08.433",
+				"value":"10:02:08.433",
 				"source":"2"
-			}
-		],
-		"errors":[
-			{
-				"value":"2016ApJ...828L..18N",
-				"kind":"bibcode",
-				"extra":"ra"
-			},
-			{
-				"value":"2000A&AS..143....9W",
-				"kind":"bibcode",
-				"extra":"ra"
 			}
 		],
 		"alias":[
