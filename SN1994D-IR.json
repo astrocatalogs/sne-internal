@@ -1,0 +1,79 @@
+{
+	"SN1994D":{
+		"name":"SN1994D",
+		"sources":[
+			{
+				"bibcode":"1995AJ....109.2121R",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN1994D",
+				"source":"1"
+			}
+		],
+		"photometry":[
+			{
+				"time":"49438.2",
+				"band":"H",
+				"e_magnitude":"0.06",
+				"instrument":"Gemini Camera",
+				"magnitude":"12.85",
+				"telescope":"Shane Reflector",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"49438.2",
+				"band":"J",
+				"e_magnitude":"0.06",
+				"instrument":"Gemini Camera",
+				"magnitude":"13.42",
+				"telescope":"Shane Reflector",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"49438.2",
+				"band":"K",
+				"e_magnitude":"0.06",
+				"instrument":"Gemini Camera",
+				"magnitude":"12.85",
+				"telescope":"Shane Reflector",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"49522.1",
+				"band":"J",
+				"e_magnitude":"0.15",
+				"instrument":"Gemini Camera",
+				"magnitude":"15.7",
+				"telescope":"Shane Reflector",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"49522.1",
+				"band":"J",
+				"e_magnitude":"0.2",
+				"instrument":"Gemini Camera",
+				"magnitude":"16.1",
+				"telescope":"Shane Reflector",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"49522.1",
+				"band":"J",
+				"e_magnitude":"0.4",
+				"instrument":"Gemini Camera",
+				"magnitude":"17.0",
+				"telescope":"Shane Reflector",
+				"u_time":"MJD",
+				"source":"1"
+			}
+		]
+	}
+}
