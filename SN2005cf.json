@@ -1,0 +1,7367 @@
+{
+	"SN2005cf":{
+		"name":"SN2005cf",
+		"sources":[
+			{
+				"bibcode":"2007MNRAS.376.1301P",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN2005cf",
+				"source":"1"
+			}
+		],
+		"photometry":[
+			{
+				"time":"53521.4",
+				"band":"B",
+				"e_magnitude":"0.01",
+				"instrument":"WFI",
+				"magnitude":"15.462",
+				"telescope":"SSO 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53521.4",
+				"band":"B",
+				"e_magnitude":"0.031",
+				"instrument":"WFI",
+				"magnitude":"15.493",
+				"telescope":"SSO 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53521.4",
+				"band":"I",
+				"e_magnitude":"0.011",
+				"instrument":"WFI",
+				"magnitude":"15.177",
+				"telescope":"SSO 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53521.4",
+				"band":"I",
+				"e_magnitude":"0.014",
+				"instrument":"WFI",
+				"magnitude":"15.191",
+				"telescope":"SSO 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53521.4",
+				"band":"R",
+				"e_magnitude":"0.009",
+				"instrument":"WFI",
+				"magnitude":"15.138",
+				"telescope":"SSO 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53521.4",
+				"band":"R",
+				"e_magnitude":"0.004",
+				"instrument":"WFI",
+				"magnitude":"15.142",
+				"telescope":"SSO 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53521.4",
+				"band":"V",
+				"e_magnitude":"0.008",
+				"instrument":"WFI",
+				"magnitude":"15.238",
+				"telescope":"SSO 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53521.4",
+				"band":"V",
+				"e_magnitude":"0.005",
+				"instrument":"WFI",
+				"magnitude":"15.243",
+				"telescope":"SSO 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53521.88",
+				"band":"B",
+				"e_magnitude":"0.015",
+				"instrument":"DOLORES",
+				"magnitude":"15.272",
+				"telescope":"3.5m Telescopio Nazionale Galileo",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53521.88",
+				"band":"B",
+				"e_magnitude":"0.027",
+				"instrument":"DOLORES",
+				"magnitude":"15.299",
+				"telescope":"3.5m Telescopio Nazionale Galileo",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53521.88",
+				"band":"I",
+				"e_magnitude":"0.047",
+				"instrument":"DOLORES",
+				"magnitude":"14.952",
+				"telescope":"3.5m Telescopio Nazionale Galileo",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53521.88",
+				"band":"I",
+				"e_magnitude":"0.024",
+				"instrument":"DOLORES",
+				"magnitude":"14.999",
+				"telescope":"3.5m Telescopio Nazionale Galileo",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53521.88",
+				"band":"R",
+				"e_magnitude":"0.003",
+				"instrument":"DOLORES",
+				"magnitude":"14.973",
+				"telescope":"3.5m Telescopio Nazionale Galileo",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53521.88",
+				"band":"R",
+				"e_magnitude":"0.011",
+				"instrument":"DOLORES",
+				"magnitude":"14.976",
+				"telescope":"3.5m Telescopio Nazionale Galileo",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53521.88",
+				"band":"U",
+				"e_magnitude":"0.235",
+				"instrument":"DOLORES",
+				"magnitude":"15.49",
+				"telescope":"3.5m Telescopio Nazionale Galileo",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53521.88",
+				"band":"U",
+				"e_magnitude":"0.043",
+				"instrument":"DOLORES",
+				"magnitude":"15.725",
+				"telescope":"3.5m Telescopio Nazionale Galileo",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53521.88",
+				"band":"V",
+				"e_magnitude":"0.01",
+				"instrument":"DOLORES",
+				"magnitude":"15.097",
+				"telescope":"3.5m Telescopio Nazionale Galileo",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53521.88",
+				"band":"V",
+				"e_magnitude":"0.03",
+				"instrument":"DOLORES",
+				"magnitude":"15.127",
+				"telescope":"3.5m Telescopio Nazionale Galileo",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53522.47",
+				"band":"B",
+				"e_magnitude":"0.009",
+				"instrument":"WFI",
+				"magnitude":"15.012",
+				"telescope":"SSO 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53522.47",
+				"band":"B",
+				"e_magnitude":"0.032",
+				"instrument":"WFI",
+				"magnitude":"15.044",
+				"telescope":"SSO 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53522.47",
+				"band":"I",
+				"e_magnitude":"0.009",
+				"instrument":"WFI",
+				"magnitude":"14.805",
+				"telescope":"SSO 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53522.47",
+				"band":"I",
+				"e_magnitude":"0.014",
+				"instrument":"WFI",
+				"magnitude":"14.819",
+				"telescope":"SSO 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53522.47",
+				"band":"R",
+				"e_magnitude":"0.008",
+				"instrument":"WFI",
+				"magnitude":"14.78",
+				"telescope":"SSO 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53522.47",
+				"band":"R",
+				"e_magnitude":"0.005",
+				"instrument":"WFI",
+				"magnitude":"14.785",
+				"telescope":"SSO 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53522.47",
+				"band":"V",
+				"e_magnitude":"0.008",
+				"instrument":"WFI",
+				"magnitude":"14.898",
+				"telescope":"SSO 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53522.47",
+				"band":"V",
+				"e_magnitude":"0.004",
+				"instrument":"WFI",
+				"magnitude":"14.902",
+				"telescope":"SSO 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53522.66",
+				"band":"B",
+				"e_magnitude":"0.017",
+				"instrument":"HFOSC",
+				"magnitude":"14.924",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53522.66",
+				"band":"B",
+				"e_magnitude":"0.01",
+				"instrument":"HFOSC",
+				"magnitude":"14.934",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53522.66",
+				"band":"I",
+				"e_magnitude":"0.03",
+				"instrument":"HFOSC",
+				"magnitude":"14.759",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53522.66",
+				"band":"I",
+				"e_magnitude":"0.024",
+				"instrument":"HFOSC",
+				"magnitude":"14.789",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53522.66",
+				"band":"R",
+				"e_magnitude":"0.002",
+				"instrument":"HFOSC",
+				"magnitude":"14.769",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53522.66",
+				"band":"R",
+				"e_magnitude":"0.013",
+				"instrument":"HFOSC",
+				"magnitude":"14.771",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53522.66",
+				"band":"U",
+				"e_magnitude":"0.282",
+				"instrument":"HFOSC",
+				"magnitude":"14.999",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53522.66",
+				"band":"U",
+				"e_magnitude":"0.055",
+				"instrument":"HFOSC",
+				"magnitude":"15.281",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53522.66",
+				"band":"V",
+				"e_magnitude":"0.02",
+				"instrument":"HFOSC",
+				"magnitude":"14.902",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53522.66",
+				"band":"V",
+				"e_magnitude":"0.011",
+				"instrument":"HFOSC",
+				"magnitude":"14.913",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53523.63",
+				"band":"B",
+				"e_magnitude":"0.024",
+				"instrument":"HFOSC",
+				"magnitude":"14.6",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53523.63",
+				"band":"B",
+				"e_magnitude":"0.009",
+				"instrument":"HFOSC",
+				"magnitude":"14.609",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53523.63",
+				"band":"I",
+				"e_magnitude":"0.029",
+				"instrument":"HFOSC",
+				"magnitude":"14.472",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53523.63",
+				"band":"I",
+				"e_magnitude":"0.022",
+				"instrument":"HFOSC",
+				"magnitude":"14.501",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53523.63",
+				"band":"R",
+				"e_magnitude":"0.001",
+				"instrument":"HFOSC",
+				"magnitude":"14.466",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53523.63",
+				"band":"R",
+				"e_magnitude":"0.016",
+				"instrument":"HFOSC",
+				"magnitude":"14.467",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53523.63",
+				"band":"U",
+				"e_magnitude":"0.234",
+				"instrument":"HFOSC",
+				"magnitude":"14.613",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53523.63",
+				"band":"U",
+				"e_magnitude":"0.053",
+				"instrument":"HFOSC",
+				"magnitude":"14.847",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53523.63",
+				"band":"V",
+				"e_magnitude":"0.024",
+				"instrument":"HFOSC",
+				"magnitude":"14.649",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53523.63",
+				"band":"V",
+				"e_magnitude":"0.009",
+				"instrument":"HFOSC",
+				"magnitude":"14.658",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53523.94",
+				"band":"B",
+				"e_magnitude":"0.011",
+				"instrument":"ALFOSC",
+				"magnitude":"14.561",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53523.94",
+				"band":"B",
+				"e_magnitude":"0.021",
+				"instrument":"ALFOSC",
+				"magnitude":"14.582",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53523.94",
+				"band":"I",
+				"e_magnitude":"0.01",
+				"instrument":"ALFOSC",
+				"magnitude":"14.438",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53523.94",
+				"band":"I",
+				"e_magnitude":"0.011",
+				"instrument":"ALFOSC",
+				"magnitude":"14.449",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53523.94",
+				"band":"R",
+				"e_magnitude":"0.006",
+				"instrument":"ALFOSC",
+				"magnitude":"14.377",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53523.94",
+				"band":"R",
+				"e_magnitude":"0.009",
+				"instrument":"ALFOSC",
+				"magnitude":"14.383",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53523.94",
+				"band":"U",
+				"e_magnitude":"0.198",
+				"instrument":"ALFOSC",
+				"magnitude":"14.443",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53523.94",
+				"band":"U",
+				"e_magnitude":"0.044",
+				"instrument":"ALFOSC",
+				"magnitude":"14.641",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53523.94",
+				"band":"V",
+				"e_magnitude":"0.009",
+				"instrument":"ALFOSC",
+				"magnitude":"14.507",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53523.94",
+				"band":"V",
+				"e_magnitude":"0.007",
+				"instrument":"ALFOSC",
+				"magnitude":"14.514",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53524.47",
+				"band":"B",
+				"e_magnitude":"0.01",
+				"instrument":"WFI",
+				"magnitude":"14.392",
+				"telescope":"SSO 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53524.47",
+				"band":"B",
+				"e_magnitude":"0.033",
+				"instrument":"WFI",
+				"magnitude":"14.425",
+				"telescope":"SSO 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53524.47",
+				"band":"I",
+				"e_magnitude":"0.009",
+				"instrument":"WFI",
+				"magnitude":"14.269",
+				"telescope":"SSO 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53524.47",
+				"band":"I",
+				"e_magnitude":"0.013",
+				"instrument":"WFI",
+				"magnitude":"14.282",
+				"telescope":"SSO 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53524.47",
+				"band":"R",
+				"e_magnitude":"0.008",
+				"instrument":"WFI",
+				"magnitude":"14.236",
+				"telescope":"SSO 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53524.47",
+				"band":"R",
+				"e_magnitude":"0.005",
+				"instrument":"WFI",
+				"magnitude":"14.241",
+				"telescope":"SSO 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53524.47",
+				"band":"V",
+				"e_magnitude":"0.007",
+				"instrument":"WFI",
+				"magnitude":"14.379",
+				"telescope":"SSO 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53524.47",
+				"band":"V",
+				"e_magnitude":"0.003",
+				"instrument":"WFI",
+				"magnitude":"14.382",
+				"telescope":"SSO 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53524.75",
+				"band":"B",
+				"e_magnitude":"0.041",
+				"instrument":"HFOSC",
+				"magnitude":"14.339",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53524.75",
+				"band":"B",
+				"e_magnitude":"0.009",
+				"instrument":"HFOSC",
+				"magnitude":"14.348",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53524.75",
+				"band":"I",
+				"e_magnitude":"0.028",
+				"instrument":"HFOSC",
+				"magnitude":"14.214",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53524.75",
+				"band":"I",
+				"e_magnitude":"0.02",
+				"instrument":"HFOSC",
+				"magnitude":"14.242",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53524.75",
+				"band":"R",
+				"instrument":"HFOSC",
+				"magnitude":"14.224",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53524.75",
+				"band":"R",
+				"e_magnitude":"0.011",
+				"instrument":"HFOSC",
+				"magnitude":"14.224",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53524.75",
+				"band":"V",
+				"e_magnitude":"0.015",
+				"instrument":"HFOSC",
+				"magnitude":"14.367",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53524.75",
+				"band":"V",
+				"e_magnitude":"0.006",
+				"instrument":"HFOSC",
+				"magnitude":"14.373",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53524.99",
+				"band":"H",
+				"e_magnitude":"0.03",
+				"instrument":"NICS",
+				"magnitude":"14.13",
+				"telescope":"Telescopio Nazionale Galileo 3.5m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53524.99",
+				"band":"J",
+				"e_magnitude":"0.02",
+				"instrument":"NICS",
+				"magnitude":"14.13",
+				"telescope":"Telescopio Nazionale Galileo 3.5m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53524.99",
+				"band":"K'",
+				"e_magnitude":"0.03",
+				"instrument":"NICS",
+				"magnitude":"14.17",
+				"telescope":"Telescopio Nazionale Galileo 3.5m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53525.85",
+				"band":"B",
+				"e_magnitude":"0.041",
+				"instrument":"HFOSC",
+				"magnitude":"14.131",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53525.85",
+				"band":"B",
+				"e_magnitude":"0.008",
+				"instrument":"HFOSC",
+				"magnitude":"14.139",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53525.85",
+				"band":"I",
+				"e_magnitude":"0.028",
+				"instrument":"HFOSC",
+				"magnitude":"14.007",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53525.85",
+				"band":"I",
+				"e_magnitude":"0.023",
+				"instrument":"HFOSC",
+				"magnitude":"14.035",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53525.85",
+				"band":"R",
+				"e_magnitude":"0.012",
+				"instrument":"HFOSC",
+				"magnitude":"14.007",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53525.85",
+				"band":"R",
+				"e_magnitude":"0.002",
+				"instrument":"HFOSC",
+				"magnitude":"14.009",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53525.85",
+				"band":"V",
+				"e_magnitude":"0.034",
+				"instrument":"HFOSC",
+				"magnitude":"14.185",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53525.85",
+				"band":"V",
+				"e_magnitude":"0.004",
+				"instrument":"HFOSC",
+				"magnitude":"14.189",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53527.07",
+				"band":"B",
+				"e_magnitude":"0.015",
+				"instrument":"DOLORES",
+				"magnitude":"13.899",
+				"telescope":"3.5m Telescopio Nazionale Galileo",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53527.07",
+				"band":"B",
+				"e_magnitude":"0.026",
+				"instrument":"DOLORES",
+				"magnitude":"13.924",
+				"telescope":"3.5m Telescopio Nazionale Galileo",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53527.07",
+				"band":"I",
+				"e_magnitude":"0.035",
+				"instrument":"DOLORES",
+				"magnitude":"13.831",
+				"telescope":"3.5m Telescopio Nazionale Galileo",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53527.07",
+				"band":"I",
+				"e_magnitude":"0.023",
+				"instrument":"DOLORES",
+				"magnitude":"13.866",
+				"telescope":"3.5m Telescopio Nazionale Galileo",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53527.07",
+				"band":"R",
+				"e_magnitude":"0.01",
+				"instrument":"DOLORES",
+				"magnitude":"13.822",
+				"telescope":"3.5m Telescopio Nazionale Galileo",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53527.07",
+				"band":"R",
+				"e_magnitude":"0.001",
+				"instrument":"DOLORES",
+				"magnitude":"13.823",
+				"telescope":"3.5m Telescopio Nazionale Galileo",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53527.07",
+				"band":"U",
+				"e_magnitude":"0.043",
+				"instrument":"DOLORES",
+				"magnitude":"13.638",
+				"telescope":"3.5m Telescopio Nazionale Galileo",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53527.07",
+				"band":"U",
+				"e_magnitude":"0.045",
+				"instrument":"DOLORES",
+				"magnitude":"13.681",
+				"telescope":"3.5m Telescopio Nazionale Galileo",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53527.07",
+				"band":"V",
+				"e_magnitude":"0.013",
+				"instrument":"DOLORES",
+				"magnitude":"13.909",
+				"telescope":"3.5m Telescopio Nazionale Galileo",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53527.07",
+				"band":"V",
+				"e_magnitude":"0.034",
+				"instrument":"DOLORES",
+				"magnitude":"13.943",
+				"telescope":"3.5m Telescopio Nazionale Galileo",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53527.45",
+				"band":"B",
+				"e_magnitude":"0.012",
+				"instrument":"WFI",
+				"magnitude":"13.862",
+				"telescope":"SSO 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53527.45",
+				"band":"B",
+				"e_magnitude":"0.034",
+				"instrument":"WFI",
+				"magnitude":"13.896",
+				"telescope":"SSO 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53527.45",
+				"band":"I",
+				"e_magnitude":"0.013",
+				"instrument":"WFI",
+				"magnitude":"13.802",
+				"telescope":"SSO 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53527.45",
+				"band":"I",
+				"e_magnitude":"0.014",
+				"instrument":"WFI",
+				"magnitude":"13.816",
+				"telescope":"SSO 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53527.45",
+				"band":"R",
+				"e_magnitude":"0.011",
+				"instrument":"WFI",
+				"magnitude":"13.73",
+				"telescope":"SSO 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53527.45",
+				"band":"R",
+				"e_magnitude":"0.006",
+				"instrument":"WFI",
+				"magnitude":"13.736",
+				"telescope":"SSO 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53527.45",
+				"band":"V",
+				"e_magnitude":"0.01",
+				"instrument":"WFI",
+				"magnitude":"13.894",
+				"telescope":"SSO 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53527.45",
+				"band":"V",
+				"e_magnitude":"0.002",
+				"instrument":"WFI",
+				"magnitude":"13.896",
+				"telescope":"SSO 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53527.64",
+				"band":"B",
+				"e_magnitude":"0.012",
+				"instrument":"HFOSC",
+				"magnitude":"13.841",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53527.64",
+				"band":"B",
+				"e_magnitude":"0.007",
+				"instrument":"HFOSC",
+				"magnitude":"13.848",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53527.64",
+				"band":"I",
+				"e_magnitude":"0.027",
+				"instrument":"HFOSC",
+				"magnitude":"13.822",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53527.64",
+				"band":"I",
+				"e_magnitude":"0.018",
+				"instrument":"HFOSC",
+				"magnitude":"13.849",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53527.64",
+				"band":"R",
+				"e_magnitude":"0.017",
+				"instrument":"HFOSC",
+				"magnitude":"13.788",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53527.64",
+				"band":"R",
+				"e_magnitude":"0.004",
+				"instrument":"HFOSC",
+				"magnitude":"13.792",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53527.64",
+				"band":"V",
+				"e_magnitude":"0.021",
+				"instrument":"HFOSC",
+				"magnitude":"13.943",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53527.64",
+				"band":"V",
+				"e_magnitude":"0.001",
+				"instrument":"HFOSC",
+				"magnitude":"13.944",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53528.74",
+				"band":"B",
+				"e_magnitude":"0.011",
+				"instrument":"HFOSC",
+				"magnitude":"13.724",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53528.74",
+				"band":"B",
+				"e_magnitude":"0.006",
+				"instrument":"HFOSC",
+				"magnitude":"13.73",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53528.74",
+				"band":"I",
+				"e_magnitude":"0.027",
+				"instrument":"HFOSC",
+				"magnitude":"13.758",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53528.74",
+				"band":"I",
+				"e_magnitude":"0.019",
+				"instrument":"HFOSC",
+				"magnitude":"13.785",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53528.74",
+				"band":"R",
+				"e_magnitude":"0.011",
+				"instrument":"HFOSC",
+				"magnitude":"13.675",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53528.74",
+				"band":"R",
+				"e_magnitude":"0.005",
+				"instrument":"HFOSC",
+				"magnitude":"13.68",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53528.74",
+				"band":"U",
+				"e_magnitude":"0.063",
+				"instrument":"HFOSC",
+				"magnitude":"13.533",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53528.74",
+				"band":"U",
+				"e_magnitude":"0.048",
+				"instrument":"HFOSC",
+				"magnitude":"13.596",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53528.74",
+				"band":"V",
+				"e_magnitude":"0.002",
+				"instrument":"HFOSC",
+				"magnitude":"13.822",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53528.74",
+				"band":"V",
+				"e_magnitude":"0.02",
+				"instrument":"HFOSC",
+				"magnitude":"13.824",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53529.88",
+				"band":"B",
+				"e_magnitude":"0.018",
+				"instrument":"HFOSC",
+				"magnitude":"13.67",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53529.88",
+				"band":"B",
+				"e_magnitude":"0.006",
+				"instrument":"HFOSC",
+				"magnitude":"13.676",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53529.88",
+				"band":"B",
+				"e_magnitude":"0.011",
+				"instrument":"ALFOSC",
+				"magnitude":"13.694",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53529.88",
+				"band":"B",
+				"e_magnitude":"0.018",
+				"instrument":"ALFOSC",
+				"magnitude":"13.712",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53529.88",
+				"band":"I",
+				"e_magnitude":"0.009",
+				"instrument":"ALFOSC",
+				"magnitude":"13.697",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53529.88",
+				"band":"I",
+				"e_magnitude":"0.026",
+				"instrument":"HFOSC",
+				"magnitude":"13.719",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53529.88",
+				"band":"I",
+				"e_magnitude":"0.029",
+				"instrument":"ALFOSC",
+				"magnitude":"13.726",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53529.88",
+				"band":"I",
+				"e_magnitude":"0.03",
+				"instrument":"HFOSC",
+				"magnitude":"13.745",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53529.88",
+				"band":"R",
+				"e_magnitude":"0.012",
+				"instrument":"ALFOSC",
+				"magnitude":"13.544",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53529.88",
+				"band":"R",
+				"e_magnitude":"0.009",
+				"instrument":"ALFOSC",
+				"magnitude":"13.556",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53529.88",
+				"band":"R",
+				"e_magnitude":"0.014",
+				"instrument":"HFOSC",
+				"magnitude":"13.61",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53529.88",
+				"band":"R",
+				"e_magnitude":"0.007",
+				"instrument":"HFOSC",
+				"magnitude":"13.617",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53529.88",
+				"band":"U",
+				"e_magnitude":"0.05",
+				"instrument":"ALFOSC",
+				"magnitude":"13.399",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53529.88",
+				"band":"U",
+				"e_magnitude":"0.044",
+				"instrument":"ALFOSC",
+				"magnitude":"13.449",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53529.88",
+				"band":"U",
+				"e_magnitude":"0.063",
+				"instrument":"HFOSC",
+				"magnitude":"13.47",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53529.88",
+				"band":"U",
+				"e_magnitude":"0.062",
+				"instrument":"HFOSC",
+				"magnitude":"13.533",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53529.88",
+				"band":"V",
+				"e_magnitude":"0.008",
+				"instrument":"ALFOSC",
+				"magnitude":"13.698",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53529.88",
+				"band":"V",
+				"e_magnitude":"0.012",
+				"instrument":"ALFOSC",
+				"magnitude":"13.71",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53529.88",
+				"band":"V",
+				"e_magnitude":"0.003",
+				"instrument":"HFOSC",
+				"magnitude":"13.753",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53529.88",
+				"band":"V",
+				"e_magnitude":"0.021",
+				"instrument":"HFOSC",
+				"magnitude":"13.756",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53530.62",
+				"band":"B",
+				"e_magnitude":"0.029",
+				"instrument":"HFOSC",
+				"magnitude":"13.609",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53530.62",
+				"band":"B",
+				"e_magnitude":"0.005",
+				"instrument":"HFOSC",
+				"magnitude":"13.614",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53530.62",
+				"band":"I",
+				"e_magnitude":"0.025",
+				"instrument":"HFOSC",
+				"magnitude":"13.688",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53530.62",
+				"band":"I",
+				"e_magnitude":"0.02",
+				"instrument":"HFOSC",
+				"magnitude":"13.713",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53530.62",
+				"band":"R",
+				"e_magnitude":"0.014",
+				"instrument":"HFOSC",
+				"magnitude":"13.59",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53530.62",
+				"band":"R",
+				"e_magnitude":"0.007",
+				"instrument":"HFOSC",
+				"magnitude":"13.597",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53530.62",
+				"band":"V",
+				"e_magnitude":"0.004",
+				"instrument":"HFOSC",
+				"magnitude":"13.695",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53530.62",
+				"band":"V",
+				"e_magnitude":"0.024",
+				"instrument":"HFOSC",
+				"magnitude":"13.699",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53530.98",
+				"band":"B",
+				"e_magnitude":"0.011",
+				"instrument":"ALFOSC",
+				"magnitude":"13.642",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53530.98",
+				"band":"B",
+				"e_magnitude":"0.017",
+				"instrument":"ALFOSC",
+				"magnitude":"13.659",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53530.98",
+				"band":"I",
+				"e_magnitude":"0.01",
+				"instrument":"ALFOSC",
+				"magnitude":"13.703",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53530.98",
+				"band":"I",
+				"e_magnitude":"0.034",
+				"instrument":"ALFOSC",
+				"magnitude":"13.737",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53530.98",
+				"band":"V",
+				"e_magnitude":"0.011",
+				"instrument":"ALFOSC",
+				"magnitude":"13.617",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53530.98",
+				"band":"V",
+				"e_magnitude":"0.013",
+				"instrument":"ALFOSC",
+				"magnitude":"13.629",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53531.02",
+				"band":"R",
+				"e_magnitude":"0.013",
+				"instrument":"ALFOSC",
+				"magnitude":"13.501",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53531.02",
+				"band":"R",
+				"e_magnitude":"0.013",
+				"instrument":"ALFOSC",
+				"magnitude":"13.514",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53531.69",
+				"band":"B",
+				"e_magnitude":"0.039",
+				"instrument":"HFOSC",
+				"magnitude":"13.597",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53531.69",
+				"band":"B",
+				"e_magnitude":"0.004",
+				"instrument":"HFOSC",
+				"magnitude":"13.601",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53531.69",
+				"band":"I",
+				"e_magnitude":"0.025",
+				"instrument":"HFOSC",
+				"magnitude":"13.689",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53531.69",
+				"band":"I",
+				"e_magnitude":"0.027",
+				"instrument":"HFOSC",
+				"magnitude":"13.714",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53531.69",
+				"band":"R",
+				"e_magnitude":"0.013",
+				"instrument":"HFOSC",
+				"magnitude":"13.545",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53531.69",
+				"band":"R",
+				"e_magnitude":"0.008",
+				"instrument":"HFOSC",
+				"magnitude":"13.553",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53531.69",
+				"band":"V",
+				"e_magnitude":"0.004",
+				"instrument":"HFOSC",
+				"magnitude":"13.628",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53531.69",
+				"band":"V",
+				"e_magnitude":"0.02",
+				"instrument":"HFOSC",
+				"magnitude":"13.632",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53532.63",
+				"band":"B",
+				"e_magnitude":"0.029",
+				"instrument":"HFOSC",
+				"magnitude":"13.535",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53532.63",
+				"band":"B",
+				"e_magnitude":"0.004",
+				"instrument":"HFOSC",
+				"magnitude":"13.539",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53532.63",
+				"band":"I",
+				"e_magnitude":"0.024",
+				"instrument":"HFOSC",
+				"magnitude":"13.696",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53532.63",
+				"band":"I",
+				"e_magnitude":"0.018",
+				"instrument":"HFOSC",
+				"magnitude":"13.72",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53532.63",
+				"band":"R",
+				"e_magnitude":"0.019",
+				"instrument":"HFOSC",
+				"magnitude":"13.533",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53532.63",
+				"band":"R",
+				"e_magnitude":"0.009",
+				"instrument":"HFOSC",
+				"magnitude":"13.541",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53532.63",
+				"band":"U",
+				"e_magnitude":"0.078",
+				"instrument":"HFOSC",
+				"magnitude":"13.41",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53532.63",
+				"band":"U",
+				"e_magnitude":"0.047",
+				"instrument":"HFOSC",
+				"magnitude":"13.487",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53532.63",
+				"band":"V",
+				"e_magnitude":"0.004",
+				"instrument":"HFOSC",
+				"magnitude":"13.618",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53532.63",
+				"band":"V",
+				"e_magnitude":"0.028",
+				"instrument":"HFOSC",
+				"magnitude":"13.622",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53533.0",
+				"band":"B",
+				"e_magnitude":"0.01",
+				"instrument":"ALFOSC",
+				"magnitude":"13.587",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53533.0",
+				"band":"B",
+				"e_magnitude":"0.015",
+				"instrument":"ALFOSC",
+				"magnitude":"13.602",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53533.0",
+				"band":"I",
+				"e_magnitude":"0.01",
+				"instrument":"ALFOSC",
+				"magnitude":"13.664",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53533.0",
+				"band":"I",
+				"e_magnitude":"0.042",
+				"instrument":"ALFOSC",
+				"magnitude":"13.706",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53533.0",
+				"band":"R",
+				"e_magnitude":"0.015",
+				"instrument":"ALFOSC",
+				"magnitude":"13.432",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53533.0",
+				"band":"R",
+				"e_magnitude":"0.011",
+				"instrument":"ALFOSC",
+				"magnitude":"13.447",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53533.0",
+				"band":"U",
+				"e_magnitude":"0.067",
+				"instrument":"ALFOSC",
+				"magnitude":"13.32",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53533.0",
+				"band":"U",
+				"e_magnitude":"0.044",
+				"instrument":"ALFOSC",
+				"magnitude":"13.386",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53533.0",
+				"band":"V",
+				"e_magnitude":"0.009",
+				"instrument":"ALFOSC",
+				"magnitude":"13.58",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53533.0",
+				"band":"V",
+				"e_magnitude":"0.012",
+				"instrument":"ALFOSC",
+				"magnitude":"13.592",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53533.49",
+				"band":"B",
+				"e_magnitude":"0.01",
+				"instrument":"imager",
+				"magnitude":"13.539",
+				"telescope":"2.3m SSO",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53533.49",
+				"band":"B",
+				"e_magnitude":"0.029",
+				"instrument":"imager",
+				"magnitude":"13.568",
+				"telescope":"2.3m SSO",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53533.49",
+				"band":"I",
+				"e_magnitude":"0.047",
+				"instrument":"imager",
+				"magnitude":"13.727",
+				"telescope":"2.3m SSO",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53533.49",
+				"band":"I",
+				"e_magnitude":"0.022",
+				"instrument":"imager",
+				"magnitude":"13.748",
+				"telescope":"2.3m SSO",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53533.49",
+				"band":"R",
+				"e_magnitude":"0.012",
+				"instrument":"imager",
+				"magnitude":"13.455",
+				"telescope":"2.3m SSO",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53533.49",
+				"band":"R",
+				"e_magnitude":"0.007",
+				"instrument":"imager",
+				"magnitude":"13.462",
+				"telescope":"2.3m SSO",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53533.49",
+				"band":"U",
+				"e_magnitude":"0.044",
+				"instrument":"imager",
+				"magnitude":"13.423",
+				"telescope":"2.3m SSO",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53533.49",
+				"band":"U",
+				"e_magnitude":"0.029",
+				"instrument":"imager",
+				"magnitude":"13.467",
+				"telescope":"2.3m SSO",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53533.49",
+				"band":"V",
+				"e_magnitude":"0.011",
+				"instrument":"imager",
+				"magnitude":"13.523",
+				"telescope":"2.3m SSO",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53533.49",
+				"band":"V",
+				"e_magnitude":"0.002",
+				"instrument":"imager",
+				"magnitude":"13.525",
+				"telescope":"2.3m SSO",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53535.97",
+				"band":"B",
+				"e_magnitude":"0.01",
+				"instrument":"MEROPE",
+				"magnitude":"13.594",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53535.97",
+				"band":"B",
+				"e_magnitude":"0.008",
+				"instrument":"MEROPE",
+				"magnitude":"13.602",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53535.97",
+				"band":"I",
+				"e_magnitude":"0.035",
+				"instrument":"MEROPE",
+				"magnitude":"13.806",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53535.97",
+				"band":"I",
+				"e_magnitude":"0.184",
+				"instrument":"MEROPE",
+				"magnitude":"13.99",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53535.97",
+				"band":"R",
+				"e_magnitude":"0.015",
+				"instrument":"MEROPE",
+				"magnitude":"13.445",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53535.97",
+				"band":"R",
+				"e_magnitude":"0.041",
+				"instrument":"MEROPE",
+				"magnitude":"13.486",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53535.97",
+				"band":"U",
+				"e_magnitude":"0.001",
+				"instrument":"MEROPE",
+				"magnitude":"13.57",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53535.97",
+				"band":"U",
+				"e_magnitude":"0.065",
+				"instrument":"MEROPE",
+				"magnitude":"13.571",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53535.97",
+				"band":"V",
+				"e_magnitude":"0.022",
+				"instrument":"MEROPE",
+				"magnitude":"13.501",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53535.97",
+				"band":"V",
+				"e_magnitude":"0.008",
+				"instrument":"MEROPE",
+				"magnitude":"13.523",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53537.69",
+				"band":"I",
+				"e_magnitude":"0.031",
+				"instrument":"HFOSC",
+				"magnitude":"13.831",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53537.69",
+				"band":"I",
+				"e_magnitude":"0.019",
+				"instrument":"HFOSC",
+				"magnitude":"13.862",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53537.69",
+				"band":"R",
+				"e_magnitude":"0.016",
+				"instrument":"HFOSC",
+				"magnitude":"13.551",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53537.69",
+				"band":"R",
+				"e_magnitude":"0.007",
+				"instrument":"HFOSC",
+				"magnitude":"13.558",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53537.69",
+				"band":"U",
+				"e_magnitude":"0.112",
+				"instrument":"HFOSC",
+				"magnitude":"13.645",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53537.69",
+				"band":"U",
+				"e_magnitude":"0.056",
+				"instrument":"HFOSC",
+				"magnitude":"13.757",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53537.69",
+				"band":"V",
+				"e_magnitude":"0.022",
+				"instrument":"HFOSC",
+				"magnitude":"13.601",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53537.69",
+				"band":"V",
+				"e_magnitude":"0.005",
+				"instrument":"HFOSC",
+				"magnitude":"13.606",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53537.86",
+				"band":"B",
+				"e_magnitude":"0.013",
+				"instrument":"CAFOS",
+				"magnitude":"13.689",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53537.86",
+				"band":"B",
+				"e_magnitude":"0.036",
+				"instrument":"CAFOS",
+				"magnitude":"13.725",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53537.86",
+				"band":"I",
+				"e_magnitude":"0.158",
+				"instrument":"CAFOS",
+				"magnitude":"13.688",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53537.86",
+				"band":"I",
+				"e_magnitude":"0.03",
+				"instrument":"CAFOS",
+				"magnitude":"13.846",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53537.86",
+				"band":"R",
+				"e_magnitude":"0.004",
+				"instrument":"CAFOS",
+				"magnitude":"13.562",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53537.86",
+				"band":"R",
+				"e_magnitude":"0.015",
+				"instrument":"CAFOS",
+				"magnitude":"13.566",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53537.86",
+				"band":"U",
+				"e_magnitude":"0.155",
+				"instrument":"CAFOS",
+				"magnitude":"13.54",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53537.86",
+				"band":"U",
+				"e_magnitude":"0.049",
+				"instrument":"CAFOS",
+				"magnitude":"13.695",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53537.86",
+				"band":"V",
+				"e_magnitude":"0.013",
+				"instrument":"CAFOS",
+				"magnitude":"13.558",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53537.86",
+				"band":"V",
+				"e_magnitude":"0.023",
+				"instrument":"CAFOS",
+				"magnitude":"13.581",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53537.95",
+				"band":"H",
+				"e_magnitude":"0.03",
+				"instrument":"NICS",
+				"magnitude":"14.18",
+				"telescope":"Telescopio Nazionale Galileo 3.5m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53537.95",
+				"band":"J",
+				"e_magnitude":"0.03",
+				"instrument":"NICS",
+				"magnitude":"14.15",
+				"telescope":"Telescopio Nazionale Galileo 3.5m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53537.95",
+				"band":"K'",
+				"e_magnitude":"0.03",
+				"instrument":"NICS",
+				"magnitude":"13.97",
+				"telescope":"Telescopio Nazionale Galileo 3.5m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53538.71",
+				"band":"B",
+				"e_magnitude":"0.022",
+				"instrument":"HFOSC",
+				"magnitude":"13.72",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53538.71",
+				"band":"B",
+				"e_magnitude":"0.003",
+				"instrument":"HFOSC",
+				"magnitude":"13.723",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53538.71",
+				"band":"I",
+				"e_magnitude":"0.033",
+				"instrument":"HFOSC",
+				"magnitude":"13.864",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53538.71",
+				"band":"I",
+				"e_magnitude":"0.016",
+				"instrument":"HFOSC",
+				"magnitude":"13.897",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53538.71",
+				"band":"R",
+				"e_magnitude":"0.016",
+				"instrument":"HFOSC",
+				"magnitude":"13.577",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53538.71",
+				"band":"R",
+				"e_magnitude":"0.007",
+				"instrument":"HFOSC",
+				"magnitude":"13.583",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53538.71",
+				"band":"V",
+				"e_magnitude":"0.027",
+				"instrument":"HFOSC",
+				"magnitude":"13.633",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53538.71",
+				"band":"V",
+				"e_magnitude":"0.008",
+				"instrument":"HFOSC",
+				"magnitude":"13.641",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53538.87",
+				"band":"B",
+				"e_magnitude":"0.013",
+				"instrument":"CAFOS",
+				"magnitude":"13.764",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53538.87",
+				"band":"B",
+				"e_magnitude":"0.034",
+				"instrument":"CAFOS",
+				"magnitude":"13.798",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53538.87",
+				"band":"I",
+				"e_magnitude":"0.164",
+				"instrument":"CAFOS",
+				"magnitude":"13.7",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53538.87",
+				"band":"I",
+				"e_magnitude":"0.028",
+				"instrument":"CAFOS",
+				"magnitude":"13.864",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53538.87",
+				"band":"R",
+				"e_magnitude":"0.004",
+				"instrument":"CAFOS",
+				"magnitude":"13.567",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53538.87",
+				"band":"R",
+				"e_magnitude":"0.01",
+				"instrument":"CAFOS",
+				"magnitude":"13.571",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53538.87",
+				"band":"U",
+				"e_magnitude":"0.166",
+				"instrument":"CAFOS",
+				"magnitude":"13.628",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53538.87",
+				"band":"U",
+				"e_magnitude":"0.049",
+				"instrument":"CAFOS",
+				"magnitude":"13.794",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53538.87",
+				"band":"V",
+				"e_magnitude":"0.008",
+				"instrument":"CAFOS",
+				"magnitude":"13.594",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53538.87",
+				"band":"V",
+				"e_magnitude":"0.022",
+				"instrument":"CAFOS",
+				"magnitude":"13.616",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53539.63",
+				"band":"B",
+				"e_magnitude":"0.019",
+				"instrument":"HFOSC",
+				"magnitude":"13.767",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53539.63",
+				"band":"B",
+				"e_magnitude":"0.003",
+				"instrument":"HFOSC",
+				"magnitude":"13.77",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53539.63",
+				"band":"I",
+				"e_magnitude":"0.036",
+				"instrument":"HFOSC",
+				"magnitude":"13.931",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53539.63",
+				"band":"I",
+				"e_magnitude":"0.023",
+				"instrument":"HFOSC",
+				"magnitude":"13.966",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53539.63",
+				"band":"R",
+				"e_magnitude":"0.015",
+				"instrument":"HFOSC",
+				"magnitude":"13.62",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53539.63",
+				"band":"R",
+				"e_magnitude":"0.006",
+				"instrument":"HFOSC",
+				"magnitude":"13.625",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53539.63",
+				"band":"V",
+				"e_magnitude":"0.026",
+				"instrument":"HFOSC",
+				"magnitude":"13.654",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53539.63",
+				"band":"V",
+				"e_magnitude":"0.01",
+				"instrument":"HFOSC",
+				"magnitude":"13.664",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53539.91",
+				"band":"B",
+				"e_magnitude":"0.013",
+				"instrument":"CAFOS",
+				"magnitude":"13.855",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53539.91",
+				"band":"B",
+				"e_magnitude":"0.032",
+				"instrument":"CAFOS",
+				"magnitude":"13.887",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53539.91",
+				"band":"I",
+				"e_magnitude":"0.172",
+				"instrument":"CAFOS",
+				"magnitude":"13.78",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53539.91",
+				"band":"I",
+				"e_magnitude":"0.031",
+				"instrument":"CAFOS",
+				"magnitude":"13.952",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53539.91",
+				"band":"R",
+				"e_magnitude":"0.004",
+				"instrument":"CAFOS",
+				"magnitude":"13.607",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53539.91",
+				"band":"R",
+				"e_magnitude":"0.012",
+				"instrument":"CAFOS",
+				"magnitude":"13.611",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53539.91",
+				"band":"U",
+				"e_magnitude":"0.178",
+				"instrument":"CAFOS",
+				"magnitude":"13.714",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53539.91",
+				"band":"U",
+				"e_magnitude":"0.049",
+				"instrument":"CAFOS",
+				"magnitude":"13.892",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53539.91",
+				"band":"V",
+				"e_magnitude":"0.011",
+				"instrument":"CAFOS",
+				"magnitude":"13.635",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53539.91",
+				"band":"V",
+				"e_magnitude":"0.021",
+				"instrument":"CAFOS",
+				"magnitude":"13.656",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53540.87",
+				"band":"B",
+				"e_magnitude":"0.016",
+				"instrument":"CAFOS",
+				"magnitude":"13.899",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53540.87",
+				"band":"B",
+				"e_magnitude":"0.03",
+				"instrument":"CAFOS",
+				"magnitude":"13.929",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53540.87",
+				"band":"I",
+				"e_magnitude":"0.18",
+				"instrument":"CAFOS",
+				"magnitude":"13.828",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53540.87",
+				"band":"I",
+				"e_magnitude":"0.032",
+				"instrument":"CAFOS",
+				"magnitude":"14.008",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53540.87",
+				"band":"R",
+				"e_magnitude":"0.004",
+				"instrument":"CAFOS",
+				"magnitude":"13.653",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53540.87",
+				"band":"R",
+				"e_magnitude":"0.012",
+				"instrument":"CAFOS",
+				"magnitude":"13.657",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53540.87",
+				"band":"U",
+				"e_magnitude":"0.189",
+				"instrument":"CAFOS",
+				"magnitude":"13.79",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53540.87",
+				"band":"U",
+				"e_magnitude":"0.049",
+				"instrument":"CAFOS",
+				"magnitude":"13.979",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53540.87",
+				"band":"V",
+				"e_magnitude":"0.015",
+				"instrument":"CAFOS",
+				"magnitude":"13.693",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53540.87",
+				"band":"V",
+				"e_magnitude":"0.02",
+				"instrument":"CAFOS",
+				"magnitude":"13.713",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53541.76",
+				"band":"B",
+				"e_magnitude":"0.024",
+				"instrument":"HFOSC",
+				"magnitude":"13.921",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53541.76",
+				"band":"B",
+				"e_magnitude":"0.004",
+				"instrument":"HFOSC",
+				"magnitude":"13.925",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53541.76",
+				"band":"I",
+				"e_magnitude":"0.041",
+				"instrument":"HFOSC",
+				"magnitude":"14.03",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53541.76",
+				"band":"I",
+				"e_magnitude":"0.024",
+				"instrument":"HFOSC",
+				"magnitude":"14.071",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53541.76",
+				"band":"R",
+				"e_magnitude":"0.032",
+				"instrument":"HFOSC",
+				"magnitude":"13.739",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53541.76",
+				"band":"R",
+				"e_magnitude":"0.003",
+				"instrument":"HFOSC",
+				"magnitude":"13.742",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53541.76",
+				"band":"U",
+				"e_magnitude":"0.158",
+				"instrument":"HFOSC",
+				"magnitude":"13.909",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53541.76",
+				"band":"U",
+				"e_magnitude":"0.057",
+				"instrument":"HFOSC",
+				"magnitude":"14.067",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53541.76",
+				"band":"V",
+				"e_magnitude":"0.015",
+				"instrument":"HFOSC",
+				"magnitude":"13.727",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53541.76",
+				"band":"V",
+				"e_magnitude":"0.016",
+				"instrument":"HFOSC",
+				"magnitude":"13.743",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53542.03",
+				"band":"B",
+				"e_magnitude":"0.018",
+				"instrument":"CAFOS",
+				"magnitude":"14.115",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53542.03",
+				"band":"B",
+				"e_magnitude":"0.029",
+				"instrument":"CAFOS",
+				"magnitude":"14.144",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53542.03",
+				"band":"I",
+				"e_magnitude":"0.189",
+				"instrument":"CAFOS",
+				"magnitude":"13.885",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53542.03",
+				"band":"I",
+				"e_magnitude":"0.03",
+				"instrument":"CAFOS",
+				"magnitude":"14.074",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53542.03",
+				"band":"R",
+				"e_magnitude":"0.004",
+				"instrument":"CAFOS",
+				"magnitude":"13.695",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53542.03",
+				"band":"R",
+				"e_magnitude":"0.013",
+				"instrument":"CAFOS",
+				"magnitude":"13.7",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53542.03",
+				"band":"U",
+				"e_magnitude":"0.201",
+				"instrument":"CAFOS",
+				"magnitude":"13.831",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53542.03",
+				"band":"U",
+				"e_magnitude":"0.05",
+				"instrument":"CAFOS",
+				"magnitude":"14.032",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53542.03",
+				"band":"V",
+				"e_magnitude":"0.015",
+				"instrument":"CAFOS",
+				"magnitude":"13.705",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53542.03",
+				"band":"V",
+				"e_magnitude":"0.019",
+				"instrument":"CAFOS",
+				"magnitude":"13.724",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53542.64",
+				"band":"B",
+				"e_magnitude":"0.022",
+				"instrument":"HFOSC",
+				"magnitude":"14.045",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53542.64",
+				"band":"B",
+				"e_magnitude":"0.005",
+				"instrument":"HFOSC",
+				"magnitude":"14.05",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53542.64",
+				"band":"I",
+				"e_magnitude":"0.043",
+				"instrument":"HFOSC",
+				"magnitude":"14.083",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53542.64",
+				"band":"I",
+				"e_magnitude":"0.018",
+				"instrument":"HFOSC",
+				"magnitude":"14.126",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53542.64",
+				"band":"R",
+				"e_magnitude":"0.014",
+				"instrument":"HFOSC",
+				"magnitude":"13.813",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53542.64",
+				"band":"R",
+				"e_magnitude":"0.001",
+				"instrument":"HFOSC",
+				"magnitude":"13.814",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53542.64",
+				"band":"U",
+				"e_magnitude":"0.165",
+				"instrument":"HFOSC",
+				"magnitude":"14.013",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53542.64",
+				"band":"U",
+				"e_magnitude":"0.06",
+				"instrument":"HFOSC",
+				"magnitude":"14.178",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53542.64",
+				"band":"V",
+				"e_magnitude":"0.025",
+				"instrument":"HFOSC",
+				"magnitude":"13.763",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53542.64",
+				"band":"V",
+				"e_magnitude":"0.018",
+				"instrument":"HFOSC",
+				"magnitude":"13.781",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53543.01",
+				"band":"B",
+				"e_magnitude":"0.009",
+				"instrument":"MEROPE",
+				"magnitude":"14.053",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53543.01",
+				"band":"B",
+				"e_magnitude":"0.012",
+				"instrument":"MEROPE",
+				"magnitude":"14.065",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53543.01",
+				"band":"I",
+				"e_magnitude":"0.022",
+				"instrument":"MEROPE",
+				"magnitude":"14.179",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53543.01",
+				"band":"I",
+				"e_magnitude":"0.254",
+				"instrument":"MEROPE",
+				"magnitude":"14.432",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53543.01",
+				"band":"R",
+				"e_magnitude":"0.015",
+				"instrument":"MEROPE",
+				"magnitude":"13.736",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53543.01",
+				"band":"R",
+				"e_magnitude":"0.028",
+				"instrument":"MEROPE",
+				"magnitude":"13.764",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53543.01",
+				"band":"U",
+				"e_magnitude":"0.065",
+				"instrument":"MEROPE",
+				"magnitude":"14.304",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53543.01",
+				"band":"U",
+				"e_magnitude":"0.146",
+				"instrument":"MEROPE",
+				"magnitude":"14.45",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53543.01",
+				"band":"V",
+				"e_magnitude":"0.033",
+				"instrument":"MEROPE",
+				"magnitude":"13.694",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53543.01",
+				"band":"V",
+				"e_magnitude":"0.009",
+				"instrument":"MEROPE",
+				"magnitude":"13.727",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53544.63",
+				"band":"B",
+				"e_magnitude":"0.025",
+				"instrument":"HFOSC",
+				"magnitude":"14.191",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53544.63",
+				"band":"B",
+				"e_magnitude":"0.006",
+				"instrument":"HFOSC",
+				"magnitude":"14.197",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53544.63",
+				"band":"I",
+				"e_magnitude":"0.047",
+				"instrument":"HFOSC",
+				"magnitude":"14.212",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53544.63",
+				"band":"I",
+				"e_magnitude":"0.033",
+				"instrument":"HFOSC",
+				"magnitude":"14.259",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53544.63",
+				"band":"R",
+				"e_magnitude":"0.001",
+				"instrument":"HFOSC",
+				"magnitude":"13.906",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53544.63",
+				"band":"R",
+				"e_magnitude":"0.016",
+				"instrument":"HFOSC",
+				"magnitude":"13.907",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53544.63",
+				"band":"U",
+				"e_magnitude":"0.177",
+				"instrument":"HFOSC",
+				"magnitude":"14.246",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53544.63",
+				"band":"U",
+				"e_magnitude":"0.053",
+				"instrument":"HFOSC",
+				"magnitude":"14.423",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53544.63",
+				"band":"V",
+				"e_magnitude":"0.024",
+				"instrument":"HFOSC",
+				"magnitude":"13.892",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53544.63",
+				"band":"V",
+				"e_magnitude":"0.023",
+				"instrument":"HFOSC",
+				"magnitude":"13.915",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53545.8",
+				"band":"B",
+				"e_magnitude":"0.017",
+				"instrument":"HFOSC",
+				"magnitude":"14.323",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53545.8",
+				"band":"B",
+				"e_magnitude":"0.007",
+				"instrument":"HFOSC",
+				"magnitude":"14.33",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53545.8",
+				"band":"I",
+				"e_magnitude":"0.049",
+				"instrument":"HFOSC",
+				"magnitude":"14.267",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53545.8",
+				"band":"I",
+				"e_magnitude":"0.03",
+				"instrument":"HFOSC",
+				"magnitude":"14.316",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53545.8",
+				"band":"R",
+				"e_magnitude":"0.002",
+				"instrument":"HFOSC",
+				"magnitude":"14.031",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53545.8",
+				"band":"R",
+				"e_magnitude":"0.026",
+				"instrument":"HFOSC",
+				"magnitude":"14.033",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53545.8",
+				"band":"U",
+				"e_magnitude":"0.179",
+				"instrument":"HFOSC",
+				"magnitude":"14.296",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53545.8",
+				"band":"U",
+				"e_magnitude":"0.052",
+				"instrument":"HFOSC",
+				"magnitude":"14.475",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53545.8",
+				"band":"V",
+				"e_magnitude":"0.022",
+				"instrument":"HFOSC",
+				"magnitude":"13.949",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53545.8",
+				"band":"V",
+				"e_magnitude":"0.025",
+				"instrument":"HFOSC",
+				"magnitude":"13.974",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53545.86",
+				"band":"B",
+				"e_magnitude":"0.016",
+				"instrument":"CAFOS",
+				"magnitude":"14.358",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53545.86",
+				"band":"B",
+				"e_magnitude":"0.028",
+				"instrument":"CAFOS",
+				"magnitude":"14.386",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53545.86",
+				"band":"I",
+				"e_magnitude":"0.198",
+				"instrument":"CAFOS",
+				"magnitude":"14.067",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53545.86",
+				"band":"I",
+				"e_magnitude":"0.03",
+				"instrument":"CAFOS",
+				"magnitude":"14.265",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53545.86",
+				"band":"R",
+				"e_magnitude":"0.004",
+				"instrument":"CAFOS",
+				"magnitude":"13.974",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53545.86",
+				"band":"R",
+				"e_magnitude":"0.015",
+				"instrument":"CAFOS",
+				"magnitude":"13.978",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53545.86",
+				"band":"U",
+				"e_magnitude":"0.219",
+				"instrument":"CAFOS",
+				"magnitude":"14.294",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53545.86",
+				"band":"U",
+				"e_magnitude":"0.049",
+				"instrument":"CAFOS",
+				"magnitude":"14.513",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53545.86",
+				"band":"V",
+				"e_magnitude":"0.011",
+				"instrument":"CAFOS",
+				"magnitude":"13.909",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53545.86",
+				"band":"V",
+				"e_magnitude":"0.012",
+				"instrument":"CAFOS",
+				"magnitude":"13.921",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53545.93",
+				"band":"B",
+				"e_magnitude":"0.011",
+				"instrument":"ALFOSC",
+				"magnitude":"14.361",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53545.93",
+				"band":"B",
+				"e_magnitude":"0.007",
+				"instrument":"ALFOSC",
+				"magnitude":"14.368",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53545.93",
+				"band":"I",
+				"e_magnitude":"0.017",
+				"instrument":"ALFOSC",
+				"magnitude":"14.307",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53545.93",
+				"band":"I",
+				"e_magnitude":"0.087",
+				"instrument":"ALFOSC",
+				"magnitude":"14.394",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53545.93",
+				"band":"R",
+				"e_magnitude":"0.022",
+				"instrument":"ALFOSC",
+				"magnitude":"13.95",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53545.93",
+				"band":"R",
+				"e_magnitude":"0.01",
+				"instrument":"ALFOSC",
+				"magnitude":"13.972",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53545.93",
+				"band":"U",
+				"e_magnitude":"0.163",
+				"instrument":"ALFOSC",
+				"magnitude":"14.42",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53545.93",
+				"band":"U",
+				"e_magnitude":"0.044",
+				"instrument":"ALFOSC",
+				"magnitude":"14.583",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53545.93",
+				"band":"V",
+				"e_magnitude":"0.003",
+				"instrument":"ALFOSC",
+				"magnitude":"13.937",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53545.93",
+				"band":"V",
+				"e_magnitude":"0.012",
+				"instrument":"ALFOSC",
+				"magnitude":"13.94",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53546.0",
+				"band":"B",
+				"e_magnitude":"0.009",
+				"instrument":"MEROPE",
+				"magnitude":"14.362",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53546.0",
+				"band":"B",
+				"e_magnitude":"0.014",
+				"instrument":"MEROPE",
+				"magnitude":"14.376",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53546.0",
+				"band":"R",
+				"e_magnitude":"0.015",
+				"instrument":"MEROPE",
+				"magnitude":"13.968",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53546.0",
+				"band":"R",
+				"e_magnitude":"0.018",
+				"instrument":"MEROPE",
+				"magnitude":"13.986",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53546.0",
+				"band":"U",
+				"e_magnitude":"0.065",
+				"instrument":"MEROPE",
+				"magnitude":"14.682",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53546.0",
+				"band":"U",
+				"e_magnitude":"0.177",
+				"instrument":"MEROPE",
+				"magnitude":"14.859",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53546.0",
+				"band":"V",
+				"e_magnitude":"0.036",
+				"instrument":"MEROPE",
+				"magnitude":"13.879",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53546.0",
+				"band":"V",
+				"e_magnitude":"0.008",
+				"instrument":"MEROPE",
+				"magnitude":"13.915",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53546.95",
+				"band":"B",
+				"e_magnitude":"0.012",
+				"instrument":"CAFOS",
+				"magnitude":"14.495",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53546.95",
+				"band":"B",
+				"e_magnitude":"0.028",
+				"instrument":"CAFOS",
+				"magnitude":"14.523",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53546.95",
+				"band":"I",
+				"e_magnitude":"0.199",
+				"instrument":"CAFOS",
+				"magnitude":"14.111",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53546.95",
+				"band":"I",
+				"e_magnitude":"0.029",
+				"instrument":"CAFOS",
+				"magnitude":"14.31",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53546.95",
+				"band":"R",
+				"e_magnitude":"0.004",
+				"instrument":"CAFOS",
+				"magnitude":"14.06",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53546.95",
+				"band":"R",
+				"e_magnitude":"0.01",
+				"instrument":"CAFOS",
+				"magnitude":"14.064",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53546.95",
+				"band":"U",
+				"e_magnitude":"0.219",
+				"instrument":"CAFOS",
+				"magnitude":"14.409",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53546.95",
+				"band":"U",
+				"e_magnitude":"0.049",
+				"instrument":"CAFOS",
+				"magnitude":"14.628",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53546.95",
+				"band":"V",
+				"e_magnitude":"0.009",
+				"instrument":"CAFOS",
+				"magnitude":"13.986",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53546.95",
+				"band":"V",
+				"e_magnitude":"0.01",
+				"instrument":"CAFOS",
+				"magnitude":"13.996",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53547.9",
+				"band":"B",
+				"e_magnitude":"0.014",
+				"instrument":"CAFOS",
+				"magnitude":"14.597",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53547.9",
+				"band":"B",
+				"e_magnitude":"0.029",
+				"instrument":"CAFOS",
+				"magnitude":"14.626",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53547.9",
+				"band":"I",
+				"e_magnitude":"0.197",
+				"instrument":"CAFOS",
+				"magnitude":"14.126",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53547.9",
+				"band":"I",
+				"e_magnitude":"0.031",
+				"instrument":"CAFOS",
+				"magnitude":"14.323",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53547.9",
+				"band":"R",
+				"e_magnitude":"0.005",
+				"instrument":"CAFOS",
+				"magnitude":"14.105",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53547.9",
+				"band":"R",
+				"e_magnitude":"0.012",
+				"instrument":"CAFOS",
+				"magnitude":"14.11",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53547.9",
+				"band":"U",
+				"e_magnitude":"0.219",
+				"instrument":"CAFOS",
+				"magnitude":"14.512",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53547.9",
+				"band":"U",
+				"e_magnitude":"0.05",
+				"instrument":"CAFOS",
+				"magnitude":"14.731",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53547.9",
+				"band":"V",
+				"e_magnitude":"0.009",
+				"instrument":"CAFOS",
+				"magnitude":"13.981",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53547.9",
+				"band":"V",
+				"e_magnitude":"0.009",
+				"instrument":"CAFOS",
+				"magnitude":"13.99",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53549.87",
+				"band":"B",
+				"e_magnitude":"0.013",
+				"instrument":"CAFOS",
+				"magnitude":"14.844",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53549.87",
+				"band":"B",
+				"e_magnitude":"0.033",
+				"instrument":"CAFOS",
+				"magnitude":"14.877",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53549.87",
+				"band":"I",
+				"e_magnitude":"0.189",
+				"instrument":"CAFOS",
+				"magnitude":"14.143",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53549.87",
+				"band":"I",
+				"e_magnitude":"0.028",
+				"instrument":"CAFOS",
+				"magnitude":"14.332",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53549.87",
+				"band":"R",
+				"e_magnitude":"0.005",
+				"instrument":"CAFOS",
+				"magnitude":"14.17",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53549.87",
+				"band":"R",
+				"e_magnitude":"0.008",
+				"instrument":"CAFOS",
+				"magnitude":"14.175",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53549.87",
+				"band":"U",
+				"e_magnitude":"0.219",
+				"instrument":"CAFOS",
+				"magnitude":"14.858",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53549.87",
+				"band":"U",
+				"e_magnitude":"0.049",
+				"instrument":"CAFOS",
+				"magnitude":"15.076",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53549.87",
+				"band":"V",
+				"e_magnitude":"0.009",
+				"instrument":"CAFOS",
+				"magnitude":"14.159",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53549.87",
+				"band":"V",
+				"e_magnitude":"0.005",
+				"instrument":"CAFOS",
+				"magnitude":"14.164",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53550.98",
+				"band":"B",
+				"e_magnitude":"0.009",
+				"instrument":"MEROPE",
+				"magnitude":"14.9",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53550.98",
+				"band":"B",
+				"e_magnitude":"0.019",
+				"instrument":"MEROPE",
+				"magnitude":"14.919",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53550.98",
+				"band":"H",
+				"e_magnitude":"0.03",
+				"instrument":"Omega-Cass",
+				"magnitude":"14.1",
+				"telescope":"Calar Alto 3.5m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53550.98",
+				"band":"I",
+				"e_magnitude":"0.022",
+				"instrument":"MEROPE",
+				"magnitude":"14.403",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53550.98",
+				"band":"I",
+				"e_magnitude":"0.17",
+				"instrument":"MEROPE",
+				"magnitude":"14.573",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53550.98",
+				"band":"J",
+				"e_magnitude":"0.02",
+				"instrument":"Omega-Cass",
+				"magnitude":"15.59",
+				"telescope":"Calar Alto 3.5m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53550.98",
+				"band":"K'",
+				"e_magnitude":"0.03",
+				"instrument":"Omega-Cass",
+				"magnitude":"14.26",
+				"telescope":"Calar Alto 3.5m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53550.98",
+				"band":"R",
+				"e_magnitude":"0.015",
+				"instrument":"MEROPE",
+				"magnitude":"14.139",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53550.98",
+				"band":"R",
+				"e_magnitude":"0.005",
+				"instrument":"MEROPE",
+				"magnitude":"14.143",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53550.98",
+				"band":"U",
+				"e_magnitude":"0.065",
+				"instrument":"MEROPE",
+				"magnitude":"15.398",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53550.98",
+				"band":"U",
+				"e_magnitude":"0.195",
+				"instrument":"MEROPE",
+				"magnitude":"15.593",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53550.98",
+				"band":"V",
+				"e_magnitude":"0.036",
+				"instrument":"MEROPE",
+				"magnitude":"14.169",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53550.98",
+				"band":"V",
+				"e_magnitude":"0.007",
+				"instrument":"MEROPE",
+				"magnitude":"14.205",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53552.87",
+				"band":"B",
+				"e_magnitude":"0.013",
+				"instrument":"CAFOS",
+				"magnitude":"15.184",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53552.87",
+				"band":"B",
+				"e_magnitude":"0.04",
+				"instrument":"CAFOS",
+				"magnitude":"15.224",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53552.87",
+				"band":"I",
+				"e_magnitude":"0.164",
+				"instrument":"CAFOS",
+				"magnitude":"14.142",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53552.87",
+				"band":"I",
+				"e_magnitude":"0.032",
+				"instrument":"CAFOS",
+				"magnitude":"14.306",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53552.87",
+				"band":"R",
+				"e_magnitude":"0.006",
+				"instrument":"CAFOS",
+				"magnitude":"14.24",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53552.87",
+				"band":"R",
+				"e_magnitude":"0.015",
+				"instrument":"CAFOS",
+				"magnitude":"14.246",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53552.87",
+				"band":"U",
+				"e_magnitude":"0.218",
+				"instrument":"CAFOS",
+				"magnitude":"15.275",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53552.87",
+				"band":"U",
+				"e_magnitude":"0.05",
+				"instrument":"CAFOS",
+				"magnitude":"15.493",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53552.87",
+				"band":"V",
+				"e_magnitude":"0.001",
+				"instrument":"CAFOS",
+				"magnitude":"14.333",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53552.87",
+				"band":"V",
+				"e_magnitude":"0.013",
+				"instrument":"CAFOS",
+				"magnitude":"14.334",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53553.87",
+				"band":"B",
+				"e_magnitude":"0.014",
+				"instrument":"CAFOS",
+				"magnitude":"15.265",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53553.87",
+				"band":"B",
+				"e_magnitude":"0.042",
+				"instrument":"CAFOS",
+				"magnitude":"15.307",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53553.87",
+				"band":"I",
+				"e_magnitude":"0.159",
+				"instrument":"CAFOS",
+				"magnitude":"14.124",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53553.87",
+				"band":"I",
+				"e_magnitude":"0.032",
+				"instrument":"CAFOS",
+				"magnitude":"14.283",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53553.87",
+				"band":"R",
+				"e_magnitude":"0.007",
+				"instrument":"CAFOS",
+				"magnitude":"14.219",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53553.87",
+				"band":"R",
+				"e_magnitude":"0.016",
+				"instrument":"CAFOS",
+				"magnitude":"14.226",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53553.87",
+				"band":"U",
+				"e_magnitude":"0.218",
+				"instrument":"CAFOS",
+				"magnitude":"15.383",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53553.87",
+				"band":"U",
+				"e_magnitude":"0.05",
+				"instrument":"CAFOS",
+				"magnitude":"15.601",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53553.87",
+				"band":"V",
+				"e_magnitude":"0.003",
+				"instrument":"CAFOS",
+				"magnitude":"14.356",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53553.87",
+				"band":"V",
+				"e_magnitude":"0.013",
+				"instrument":"CAFOS",
+				"magnitude":"14.359",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53554.97",
+				"band":"B",
+				"e_magnitude":"0.009",
+				"instrument":"MEROPE",
+				"magnitude":"15.34",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53554.97",
+				"band":"B",
+				"e_magnitude":"0.024",
+				"instrument":"MEROPE",
+				"magnitude":"15.364",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53554.97",
+				"band":"I",
+				"e_magnitude":"0.021",
+				"instrument":"MEROPE",
+				"magnitude":"14.207",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53554.97",
+				"band":"I",
+				"e_magnitude":"0.101",
+				"instrument":"MEROPE",
+				"magnitude":"14.308",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53554.97",
+				"band":"R",
+				"e_magnitude":"0.005",
+				"instrument":"MEROPE",
+				"magnitude":"14.196",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53554.97",
+				"band":"R",
+				"e_magnitude":"0.015",
+				"instrument":"MEROPE",
+				"magnitude":"14.201",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53554.97",
+				"band":"U",
+				"e_magnitude":"0.065",
+				"instrument":"MEROPE",
+				"magnitude":"15.89",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53554.97",
+				"band":"U",
+				"e_magnitude":"0.209",
+				"instrument":"MEROPE",
+				"magnitude":"16.099",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53554.97",
+				"band":"V",
+				"e_magnitude":"0.034",
+				"instrument":"MEROPE",
+				"magnitude":"14.385",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53554.97",
+				"band":"V",
+				"e_magnitude":"0.008",
+				"instrument":"MEROPE",
+				"magnitude":"14.419",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53557.98",
+				"band":"B",
+				"e_magnitude":"0.009",
+				"instrument":"MEROPE",
+				"magnitude":"15.616",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53557.98",
+				"band":"B",
+				"e_magnitude":"0.024",
+				"instrument":"MEROPE",
+				"magnitude":"15.64",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53557.98",
+				"band":"I",
+				"e_magnitude":"0.022",
+				"instrument":"MEROPE",
+				"magnitude":"14.197",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53557.98",
+				"band":"I",
+				"e_magnitude":"0.053",
+				"instrument":"MEROPE",
+				"magnitude":"14.25",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53557.98",
+				"band":"R",
+				"e_magnitude":"0.004",
+				"instrument":"MEROPE",
+				"magnitude":"14.287",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53557.98",
+				"band":"R",
+				"e_magnitude":"0.015",
+				"instrument":"MEROPE",
+				"magnitude":"14.291",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53557.98",
+				"band":"U",
+				"e_magnitude":"0.066",
+				"instrument":"MEROPE",
+				"magnitude":"16.111",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53557.98",
+				"band":"U",
+				"e_magnitude":"0.22",
+				"instrument":"MEROPE",
+				"magnitude":"16.331",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53557.98",
+				"band":"V",
+				"e_magnitude":"0.032",
+				"instrument":"MEROPE",
+				"magnitude":"14.558",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53557.98",
+				"band":"V",
+				"e_magnitude":"0.008",
+				"instrument":"MEROPE",
+				"magnitude":"14.59",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53558.69",
+				"band":"B",
+				"e_magnitude":"0.018",
+				"instrument":"HFOSC",
+				"magnitude":"15.726",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53558.69",
+				"band":"B",
+				"e_magnitude":"0.025",
+				"instrument":"HFOSC",
+				"magnitude":"15.751",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53558.69",
+				"band":"I",
+				"e_magnitude":"0.062",
+				"instrument":"HFOSC",
+				"magnitude":"14.13",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53558.69",
+				"band":"I",
+				"e_magnitude":"0.015",
+				"instrument":"HFOSC",
+				"magnitude":"14.192",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53558.69",
+				"band":"R",
+				"e_magnitude":"0.011",
+				"instrument":"HFOSC",
+				"magnitude":"14.32",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53558.69",
+				"band":"R",
+				"e_magnitude":"0.011",
+				"instrument":"HFOSC",
+				"magnitude":"14.331",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53558.69",
+				"band":"U",
+				"e_magnitude":"0.183",
+				"instrument":"HFOSC",
+				"magnitude":"15.957",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53558.69",
+				"band":"U",
+				"e_magnitude":"0.05",
+				"instrument":"HFOSC",
+				"magnitude":"16.14",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53558.69",
+				"band":"V",
+				"e_magnitude":"0.023",
+				"instrument":"HFOSC",
+				"magnitude":"14.66",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53558.69",
+				"band":"V",
+				"e_magnitude":"0.02",
+				"instrument":"HFOSC",
+				"magnitude":"14.68",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53558.99",
+				"band":"B",
+				"e_magnitude":"0.01",
+				"instrument":"ALFOSC",
+				"magnitude":"15.797",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53558.99",
+				"band":"B",
+				"e_magnitude":"0.015",
+				"instrument":"ALFOSC",
+				"magnitude":"15.812",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53558.99",
+				"band":"I",
+				"e_magnitude":"0.009",
+				"instrument":"ALFOSC",
+				"magnitude":"14.188",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53558.99",
+				"band":"I",
+				"e_magnitude":"0.049",
+				"instrument":"ALFOSC",
+				"magnitude":"14.237",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53558.99",
+				"band":"R",
+				"e_magnitude":"0.007",
+				"instrument":"ALFOSC",
+				"magnitude":"14.28",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53558.99",
+				"band":"R",
+				"e_magnitude":"0.01",
+				"instrument":"ALFOSC",
+				"magnitude":"14.287",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53558.99",
+				"band":"U",
+				"e_magnitude":"0.166",
+				"instrument":"ALFOSC",
+				"magnitude":"16.059",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53558.99",
+				"band":"U",
+				"e_magnitude":"0.044",
+				"instrument":"ALFOSC",
+				"magnitude":"16.225",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53558.99",
+				"band":"V",
+				"e_magnitude":"0.021",
+				"instrument":"ALFOSC",
+				"magnitude":"14.593",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53558.99",
+				"band":"V",
+				"e_magnitude":"0.008",
+				"instrument":"ALFOSC",
+				"magnitude":"14.614",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53561.98",
+				"band":"B",
+				"e_magnitude":"0.01",
+				"instrument":"MEROPE",
+				"magnitude":"15.952",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53561.98",
+				"band":"B",
+				"e_magnitude":"0.02",
+				"instrument":"MEROPE",
+				"magnitude":"15.972",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53561.98",
+				"band":"I",
+				"e_magnitude":"0.022",
+				"instrument":"MEROPE",
+				"magnitude":"14.147",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53561.98",
+				"band":"I",
+				"e_magnitude":"0.004",
+				"instrument":"MEROPE",
+				"magnitude":"14.151",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53561.98",
+				"band":"R",
+				"e_magnitude":"0.015",
+				"instrument":"MEROPE",
+				"magnitude":"14.401",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53561.98",
+				"band":"R",
+				"e_magnitude":"0.001",
+				"instrument":"MEROPE",
+				"magnitude":"14.402",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53561.98",
+				"band":"U",
+				"e_magnitude":"0.065",
+				"instrument":"MEROPE",
+				"magnitude":"16.411",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53561.98",
+				"band":"U",
+				"e_magnitude":"0.234",
+				"instrument":"MEROPE",
+				"magnitude":"16.645",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53561.98",
+				"band":"V",
+				"e_magnitude":"0.031",
+				"instrument":"MEROPE",
+				"magnitude":"14.763",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53561.98",
+				"band":"V",
+				"e_magnitude":"0.008",
+				"instrument":"MEROPE",
+				"magnitude":"14.794",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53562.74",
+				"band":"B",
+				"e_magnitude":"0.013",
+				"instrument":"HFOSC",
+				"magnitude":"16.053",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53562.74",
+				"band":"B",
+				"e_magnitude":"0.026",
+				"instrument":"HFOSC",
+				"magnitude":"16.079",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53562.74",
+				"band":"I",
+				"e_magnitude":"0.062",
+				"instrument":"HFOSC",
+				"magnitude":"14.095",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53562.74",
+				"band":"I",
+				"e_magnitude":"0.029",
+				"instrument":"HFOSC",
+				"magnitude":"14.157",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53562.74",
+				"band":"R",
+				"e_magnitude":"0.018",
+				"instrument":"HFOSC",
+				"magnitude":"14.477",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53562.74",
+				"band":"R",
+				"e_magnitude":"0.018",
+				"instrument":"HFOSC",
+				"magnitude":"14.495",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53562.74",
+				"band":"U",
+				"e_magnitude":"0.184",
+				"instrument":"HFOSC",
+				"magnitude":"16.22",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53562.74",
+				"band":"U",
+				"e_magnitude":"0.059",
+				"instrument":"HFOSC",
+				"magnitude":"16.404",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53562.74",
+				"band":"V",
+				"e_magnitude":"0.026",
+				"instrument":"HFOSC",
+				"magnitude":"14.874",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53562.74",
+				"band":"V",
+				"e_magnitude":"0.015",
+				"instrument":"HFOSC",
+				"magnitude":"14.889",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53562.87",
+				"band":"B",
+				"e_magnitude":"0.013",
+				"instrument":"CAFOS",
+				"magnitude":"16.069",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53562.87",
+				"band":"B",
+				"e_magnitude":"0.067",
+				"instrument":"CAFOS",
+				"magnitude":"16.135",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53562.87",
+				"band":"I",
+				"e_magnitude":"0.113",
+				"instrument":"CAFOS",
+				"magnitude":"14.143",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53562.87",
+				"band":"I",
+				"e_magnitude":"0.031",
+				"instrument":"CAFOS",
+				"magnitude":"14.255",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53562.87",
+				"band":"R",
+				"e_magnitude":"0.01",
+				"instrument":"CAFOS",
+				"magnitude":"14.459",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53562.87",
+				"band":"R",
+				"e_magnitude":"0.011",
+				"instrument":"CAFOS",
+				"magnitude":"14.469",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53562.87",
+				"band":"U",
+				"e_magnitude":"0.216",
+				"instrument":"CAFOS",
+				"magnitude":"16.253",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53562.87",
+				"band":"U",
+				"e_magnitude":"0.051",
+				"instrument":"CAFOS",
+				"magnitude":"16.469",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53562.87",
+				"band":"V",
+				"e_magnitude":"0.011",
+				"instrument":"CAFOS",
+				"magnitude":"14.85",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53562.87",
+				"band":"V",
+				"e_magnitude":"0.01",
+				"instrument":"CAFOS",
+				"magnitude":"14.861",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53563.87",
+				"band":"B",
+				"e_magnitude":"0.013",
+				"instrument":"CAFOS",
+				"magnitude":"16.158",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53563.87",
+				"band":"B",
+				"e_magnitude":"0.068",
+				"instrument":"CAFOS",
+				"magnitude":"16.226",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53563.87",
+				"band":"I",
+				"e_magnitude":"0.114",
+				"instrument":"CAFOS",
+				"magnitude":"14.18",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53563.87",
+				"band":"I",
+				"e_magnitude":"0.029",
+				"instrument":"CAFOS",
+				"magnitude":"14.294",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53563.87",
+				"band":"R",
+				"e_magnitude":"0.01",
+				"instrument":"CAFOS",
+				"magnitude":"14.515",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53563.87",
+				"band":"R",
+				"e_magnitude":"0.009",
+				"instrument":"CAFOS",
+				"magnitude":"14.525",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53563.87",
+				"band":"U",
+				"e_magnitude":"0.215",
+				"instrument":"CAFOS",
+				"magnitude":"16.324",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53563.87",
+				"band":"U",
+				"e_magnitude":"0.049",
+				"instrument":"CAFOS",
+				"magnitude":"16.539",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53563.87",
+				"band":"V",
+				"e_magnitude":"0.011",
+				"instrument":"CAFOS",
+				"magnitude":"14.923",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53563.87",
+				"band":"V",
+				"e_magnitude":"0.01",
+				"instrument":"CAFOS",
+				"magnitude":"14.934",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53564.0",
+				"band":"B",
+				"e_magnitude":"0.01",
+				"instrument":"MEROPE",
+				"magnitude":"16.095",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53564.0",
+				"band":"B",
+				"e_magnitude":"0.018",
+				"instrument":"MEROPE",
+				"magnitude":"16.113",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53564.0",
+				"band":"I",
+				"e_magnitude":"0.012",
+				"instrument":"MEROPE",
+				"magnitude":"14.26",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53564.0",
+				"band":"I",
+				"e_magnitude":"0.021",
+				"instrument":"MEROPE",
+				"magnitude":"14.272",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53564.0",
+				"band":"R",
+				"e_magnitude":"0.015",
+				"instrument":"MEROPE",
+				"magnitude":"14.488",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53564.0",
+				"band":"R",
+				"e_magnitude":"0.004",
+				"instrument":"MEROPE",
+				"magnitude":"14.492",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53564.0",
+				"band":"U",
+				"e_magnitude":"0.066",
+				"instrument":"MEROPE",
+				"magnitude":"16.596",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53564.0",
+				"band":"U",
+				"e_magnitude":"0.241",
+				"instrument":"MEROPE",
+				"magnitude":"16.837",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53564.0",
+				"band":"V",
+				"e_magnitude":"0.031",
+				"instrument":"MEROPE",
+				"magnitude":"14.902",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53564.0",
+				"band":"V",
+				"e_magnitude":"0.008",
+				"instrument":"MEROPE",
+				"magnitude":"14.933",
+				"telescope":"1.2m Mercator",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53565.91",
+				"band":"B",
+				"e_magnitude":"0.015",
+				"instrument":"AFOSC",
+				"magnitude":"16.317",
+				"telescope":"1.82m Copernico",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53565.91",
+				"band":"B",
+				"e_magnitude":"0.01",
+				"instrument":"AFOSC",
+				"magnitude":"16.327",
+				"telescope":"1.82m Copernico",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53565.91",
+				"band":"I",
+				"e_magnitude":"0.035",
+				"instrument":"AFOSC",
+				"magnitude":"14.291",
+				"telescope":"1.82m Copernico",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53565.91",
+				"band":"I",
+				"e_magnitude":"0.026",
+				"instrument":"AFOSC",
+				"magnitude":"14.325",
+				"telescope":"1.82m Copernico",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53565.91",
+				"band":"R",
+				"e_magnitude":"0.021",
+				"instrument":"AFOSC",
+				"magnitude":"14.614",
+				"telescope":"1.82m Copernico",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53565.91",
+				"band":"R",
+				"e_magnitude":"0.019",
+				"instrument":"AFOSC",
+				"magnitude":"14.633",
+				"telescope":"1.82m Copernico",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53565.91",
+				"band":"V",
+				"e_magnitude":"0.017",
+				"instrument":"AFOSC",
+				"magnitude":"15.042",
+				"telescope":"1.82m Copernico",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53565.91",
+				"band":"V",
+				"e_magnitude":"0.024",
+				"instrument":"AFOSC",
+				"magnitude":"15.066",
+				"telescope":"1.82m Copernico",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53565.95",
+				"band":"H",
+				"e_magnitude":"0.03",
+				"instrument":"NICS",
+				"magnitude":"14.25",
+				"telescope":"Telescopio Nazionale Galileo 3.5m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53565.95",
+				"band":"J",
+				"e_magnitude":"0.02",
+				"instrument":"NICS",
+				"magnitude":"14.93",
+				"telescope":"Telescopio Nazionale Galileo 3.5m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53565.95",
+				"band":"K'",
+				"e_magnitude":"0.03",
+				"instrument":"NICS",
+				"magnitude":"14.4",
+				"telescope":"Telescopio Nazionale Galileo 3.5m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53569.07",
+				"band":"B",
+				"e_magnitude":"0.012",
+				"instrument":"WFI",
+				"magnitude":"16.496",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53569.07",
+				"band":"B",
+				"e_magnitude":"0.096",
+				"instrument":"WFI",
+				"magnitude":"16.592",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53569.07",
+				"band":"I",
+				"e_magnitude":"0.044",
+				"instrument":"WFI",
+				"magnitude":"14.444",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53569.07",
+				"band":"I",
+				"e_magnitude":"0.018",
+				"instrument":"WFI",
+				"magnitude":"14.488",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53569.07",
+				"band":"R",
+				"e_magnitude":"0.009",
+				"instrument":"WFI",
+				"magnitude":"14.836",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53569.07",
+				"band":"R",
+				"e_magnitude":"0.027",
+				"instrument":"WFI",
+				"magnitude":"14.863",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53569.07",
+				"band":"U",
+				"e_magnitude":"0.032",
+				"instrument":"WFI",
+				"magnitude":"16.766",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53569.07",
+				"band":"U",
+				"e_magnitude":"0.065",
+				"instrument":"WFI",
+				"magnitude":"16.831",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53569.07",
+				"band":"V",
+				"e_magnitude":"0.056",
+				"instrument":"WFI",
+				"magnitude":"15.179",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53569.07",
+				"band":"V",
+				"e_magnitude":"0.009",
+				"instrument":"WFI",
+				"magnitude":"15.235",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53571.1",
+				"band":"B",
+				"e_magnitude":"0.011",
+				"instrument":"WFI",
+				"magnitude":"16.587",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53571.1",
+				"band":"B",
+				"e_magnitude":"0.097",
+				"instrument":"WFI",
+				"magnitude":"16.684",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53571.1",
+				"band":"I",
+				"e_magnitude":"0.044",
+				"instrument":"WFI",
+				"magnitude":"14.599",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53571.1",
+				"band":"I",
+				"e_magnitude":"0.018",
+				"instrument":"WFI",
+				"magnitude":"14.643",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53571.1",
+				"band":"R",
+				"e_magnitude":"0.009",
+				"instrument":"WFI",
+				"magnitude":"14.948",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53571.1",
+				"band":"R",
+				"e_magnitude":"0.029",
+				"instrument":"WFI",
+				"magnitude":"14.977",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53571.1",
+				"band":"U",
+				"e_magnitude":"0.03",
+				"instrument":"WFI",
+				"magnitude":"16.879",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53571.1",
+				"band":"U",
+				"e_magnitude":"0.066",
+				"instrument":"WFI",
+				"magnitude":"16.945",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53571.1",
+				"band":"V",
+				"e_magnitude":"0.054",
+				"instrument":"WFI",
+				"magnitude":"15.298",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53571.1",
+				"band":"V",
+				"e_magnitude":"0.009",
+				"instrument":"WFI",
+				"magnitude":"15.351",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53571.71",
+				"band":"B",
+				"e_magnitude":"0.022",
+				"instrument":"HFOSC",
+				"magnitude":"16.593",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53571.71",
+				"band":"B",
+				"e_magnitude":"0.023",
+				"instrument":"HFOSC",
+				"magnitude":"16.616",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53571.71",
+				"band":"I",
+				"e_magnitude":"0.072",
+				"instrument":"HFOSC",
+				"magnitude":"14.65",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53571.71",
+				"band":"I",
+				"e_magnitude":"0.025",
+				"instrument":"HFOSC",
+				"magnitude":"14.721",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53571.71",
+				"band":"R",
+				"e_magnitude":"0.019",
+				"instrument":"HFOSC",
+				"magnitude":"15.048",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53571.71",
+				"band":"R",
+				"e_magnitude":"0.023",
+				"instrument":"HFOSC",
+				"magnitude":"15.071",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53571.71",
+				"band":"V",
+				"e_magnitude":"0.031",
+				"instrument":"HFOSC",
+				"magnitude":"15.421",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53571.71",
+				"band":"V",
+				"e_magnitude":"0.009",
+				"instrument":"HFOSC",
+				"magnitude":"15.43",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53573.05",
+				"band":"B",
+				"e_magnitude":"0.011",
+				"instrument":"WFI",
+				"magnitude":"16.656",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53573.05",
+				"band":"B",
+				"e_magnitude":"0.097",
+				"instrument":"WFI",
+				"magnitude":"16.753",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53573.05",
+				"band":"I",
+				"e_magnitude":"0.045",
+				"instrument":"WFI",
+				"magnitude":"14.727",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53573.05",
+				"band":"I",
+				"e_magnitude":"0.017",
+				"instrument":"WFI",
+				"magnitude":"14.772",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53573.05",
+				"band":"R",
+				"e_magnitude":"0.008",
+				"instrument":"WFI",
+				"magnitude":"15.065",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53573.05",
+				"band":"R",
+				"e_magnitude":"0.032",
+				"instrument":"WFI",
+				"magnitude":"15.097",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53573.05",
+				"band":"U",
+				"e_magnitude":"0.03",
+				"instrument":"WFI",
+				"magnitude":"16.899",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53573.05",
+				"band":"U",
+				"e_magnitude":"0.066",
+				"instrument":"WFI",
+				"magnitude":"16.965",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53573.05",
+				"band":"V",
+				"e_magnitude":"0.051",
+				"instrument":"WFI",
+				"magnitude":"15.384",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53573.05",
+				"band":"V",
+				"e_magnitude":"0.009",
+				"instrument":"WFI",
+				"magnitude":"15.435",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53574.7",
+				"band":"B",
+				"e_magnitude":"0.021",
+				"instrument":"HFOSC",
+				"magnitude":"16.64",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53574.7",
+				"band":"B",
+				"e_magnitude":"0.02",
+				"instrument":"HFOSC",
+				"magnitude":"16.66",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53574.7",
+				"band":"I",
+				"e_magnitude":"0.076",
+				"instrument":"HFOSC",
+				"magnitude":"14.81",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53574.7",
+				"band":"I",
+				"e_magnitude":"0.023",
+				"instrument":"HFOSC",
+				"magnitude":"14.885",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53574.7",
+				"band":"R",
+				"e_magnitude":"0.021",
+				"instrument":"HFOSC",
+				"magnitude":"15.181",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53574.7",
+				"band":"R",
+				"e_magnitude":"0.023",
+				"instrument":"HFOSC",
+				"magnitude":"15.204",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53574.7",
+				"band":"U",
+				"e_magnitude":"0.19",
+				"instrument":"HFOSC",
+				"magnitude":"16.753",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53574.7",
+				"band":"U",
+				"e_magnitude":"0.063",
+				"instrument":"HFOSC",
+				"magnitude":"16.943",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53574.7",
+				"band":"V",
+				"e_magnitude":"0.028",
+				"instrument":"HFOSC",
+				"magnitude":"15.538",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53574.7",
+				"band":"V",
+				"e_magnitude":"0.008",
+				"instrument":"HFOSC",
+				"magnitude":"15.546",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53575.01",
+				"band":"B",
+				"e_magnitude":"0.011",
+				"instrument":"WFI",
+				"magnitude":"16.703",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53575.01",
+				"band":"B",
+				"e_magnitude":"0.096",
+				"instrument":"WFI",
+				"magnitude":"16.799",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53575.01",
+				"band":"I",
+				"e_magnitude":"0.046",
+				"instrument":"WFI",
+				"magnitude":"14.827",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53575.01",
+				"band":"I",
+				"e_magnitude":"0.018",
+				"instrument":"WFI",
+				"magnitude":"14.873",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53575.01",
+				"band":"R",
+				"e_magnitude":"0.009",
+				"instrument":"WFI",
+				"magnitude":"15.159",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53575.01",
+				"band":"R",
+				"e_magnitude":"0.034",
+				"instrument":"WFI",
+				"magnitude":"15.193",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53575.01",
+				"band":"U",
+				"e_magnitude":"0.029",
+				"instrument":"WFI",
+				"magnitude":"16.937",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53575.01",
+				"band":"U",
+				"e_magnitude":"0.066",
+				"instrument":"WFI",
+				"magnitude":"17.002",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53575.01",
+				"band":"V",
+				"e_magnitude":"0.048",
+				"instrument":"WFI",
+				"magnitude":"15.471",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53575.01",
+				"band":"V",
+				"e_magnitude":"0.009",
+				"instrument":"WFI",
+				"magnitude":"15.519",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53575.97",
+				"band":"H",
+				"e_magnitude":"0.03",
+				"instrument":"NICS",
+				"magnitude":"14.75",
+				"telescope":"Telescopio Nazionale Galileo 3.5m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53575.97",
+				"band":"J",
+				"e_magnitude":"0.03",
+				"instrument":"NICS",
+				"magnitude":"15.6",
+				"telescope":"Telescopio Nazionale Galileo 3.5m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53575.97",
+				"band":"K'",
+				"e_magnitude":"0.03",
+				"instrument":"NICS",
+				"magnitude":"15.07",
+				"telescope":"Telescopio Nazionale Galileo 3.5m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53578.05",
+				"band":"B",
+				"e_magnitude":"0.011",
+				"instrument":"WFI",
+				"magnitude":"16.797",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53578.05",
+				"band":"B",
+				"e_magnitude":"0.094",
+				"instrument":"WFI",
+				"magnitude":"16.891",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53578.05",
+				"band":"I",
+				"e_magnitude":"0.048",
+				"instrument":"WFI",
+				"magnitude":"14.977",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53578.05",
+				"band":"I",
+				"e_magnitude":"0.017",
+				"instrument":"WFI",
+				"magnitude":"15.025",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53578.05",
+				"band":"R",
+				"e_magnitude":"0.009",
+				"instrument":"WFI",
+				"magnitude":"15.289",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53578.05",
+				"band":"R",
+				"e_magnitude":"0.038",
+				"instrument":"WFI",
+				"magnitude":"15.327",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53578.05",
+				"band":"U",
+				"e_magnitude":"0.03",
+				"instrument":"WFI",
+				"magnitude":"17.021",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53578.05",
+				"band":"U",
+				"e_magnitude":"0.065",
+				"instrument":"WFI",
+				"magnitude":"17.086",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53578.05",
+				"band":"V",
+				"e_magnitude":"0.043",
+				"instrument":"WFI",
+				"magnitude":"15.574",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53578.05",
+				"band":"V",
+				"e_magnitude":"0.009",
+				"instrument":"WFI",
+				"magnitude":"15.617",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53581.11",
+				"band":"B",
+				"e_magnitude":"0.012",
+				"instrument":"WFI",
+				"magnitude":"16.823",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53581.11",
+				"band":"B",
+				"e_magnitude":"0.091",
+				"instrument":"WFI",
+				"magnitude":"16.914",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53581.11",
+				"band":"I",
+				"e_magnitude":"0.051",
+				"instrument":"WFI",
+				"magnitude":"15.129",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53581.11",
+				"band":"I",
+				"e_magnitude":"0.018",
+				"instrument":"WFI",
+				"magnitude":"15.18",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53581.11",
+				"band":"R",
+				"e_magnitude":"0.009",
+				"instrument":"WFI",
+				"magnitude":"15.376",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53581.11",
+				"band":"R",
+				"e_magnitude":"0.042",
+				"instrument":"WFI",
+				"magnitude":"15.417",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53581.11",
+				"band":"U",
+				"e_magnitude":"0.03",
+				"instrument":"WFI",
+				"magnitude":"17.088",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53581.11",
+				"band":"U",
+				"e_magnitude":"0.064",
+				"instrument":"WFI",
+				"magnitude":"17.152",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53581.11",
+				"band":"V",
+				"e_magnitude":"0.039",
+				"instrument":"WFI",
+				"magnitude":"15.659",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53581.11",
+				"band":"V",
+				"e_magnitude":"0.009",
+				"instrument":"WFI",
+				"magnitude":"15.698",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53582.91",
+				"band":"B",
+				"e_magnitude":"0.01",
+				"instrument":"ALFOSC",
+				"magnitude":"16.849",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53582.91",
+				"band":"B",
+				"e_magnitude":"0.014",
+				"instrument":"ALFOSC",
+				"magnitude":"16.862",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53582.91",
+				"band":"I",
+				"e_magnitude":"0.009",
+				"instrument":"ALFOSC",
+				"magnitude":"15.281",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53582.91",
+				"band":"I",
+				"e_magnitude":"0.018",
+				"instrument":"ALFOSC",
+				"magnitude":"15.299",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53582.91",
+				"band":"R",
+				"e_magnitude":"0.011",
+				"instrument":"ALFOSC",
+				"magnitude":"15.443",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53582.91",
+				"band":"R",
+				"e_magnitude":"0.009",
+				"instrument":"ALFOSC",
+				"magnitude":"15.454",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53582.91",
+				"band":"U",
+				"e_magnitude":"0.182",
+				"instrument":"ALFOSC",
+				"magnitude":"16.996",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53582.91",
+				"band":"U",
+				"e_magnitude":"0.044",
+				"instrument":"ALFOSC",
+				"magnitude":"17.178",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53582.91",
+				"band":"V",
+				"e_magnitude":"0.016",
+				"instrument":"ALFOSC",
+				"magnitude":"15.755",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53582.91",
+				"band":"V",
+				"e_magnitude":"0.008",
+				"instrument":"ALFOSC",
+				"magnitude":"15.771",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53583.7",
+				"band":"B",
+				"e_magnitude":"0.027",
+				"instrument":"HFOSC",
+				"magnitude":"16.811",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53583.7",
+				"band":"B",
+				"e_magnitude":"0.022",
+				"instrument":"HFOSC",
+				"magnitude":"16.833",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53583.7",
+				"band":"I",
+				"e_magnitude":"0.084",
+				"instrument":"HFOSC",
+				"magnitude":"15.275",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53583.7",
+				"band":"I",
+				"e_magnitude":"0.035",
+				"instrument":"HFOSC",
+				"magnitude":"15.359",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53583.7",
+				"band":"R",
+				"e_magnitude":"0.011",
+				"instrument":"HFOSC",
+				"magnitude":"15.523",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53583.7",
+				"band":"R",
+				"e_magnitude":"0.02",
+				"instrument":"HFOSC",
+				"magnitude":"15.543",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53583.7",
+				"band":"V",
+				"e_magnitude":"0.028",
+				"instrument":"HFOSC",
+				"magnitude":"15.813",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53583.7",
+				"band":"V",
+				"e_magnitude":"0.01",
+				"instrument":"HFOSC",
+				"magnitude":"15.823",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53586.64",
+				"band":"B",
+				"e_magnitude":"0.02",
+				"instrument":"HFOSC",
+				"magnitude":"16.872",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53586.64",
+				"band":"B",
+				"e_magnitude":"0.025",
+				"instrument":"HFOSC",
+				"magnitude":"16.897",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53586.64",
+				"band":"I",
+				"e_magnitude":"0.086",
+				"instrument":"HFOSC",
+				"magnitude":"15.378",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53586.64",
+				"band":"I",
+				"e_magnitude":"0.018",
+				"instrument":"HFOSC",
+				"magnitude":"15.464",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53586.64",
+				"band":"R",
+				"e_magnitude":"0.027",
+				"instrument":"HFOSC",
+				"magnitude":"15.642",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53586.64",
+				"band":"R",
+				"e_magnitude":"0.018",
+				"instrument":"HFOSC",
+				"magnitude":"15.66",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53586.64",
+				"band":"U",
+				"e_magnitude":"0.201",
+				"instrument":"HFOSC",
+				"magnitude":"16.997",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53586.64",
+				"band":"U",
+				"e_magnitude":"0.052",
+				"instrument":"HFOSC",
+				"magnitude":"17.198",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53586.64",
+				"band":"V",
+				"e_magnitude":"0.02",
+				"instrument":"HFOSC",
+				"magnitude":"15.869",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53586.64",
+				"band":"V",
+				"e_magnitude":"0.012",
+				"instrument":"HFOSC",
+				"magnitude":"15.881",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53587.06",
+				"band":"B",
+				"e_magnitude":"0.011",
+				"instrument":"WFI",
+				"magnitude":"16.913",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53587.06",
+				"band":"B",
+				"e_magnitude":"0.092",
+				"instrument":"WFI",
+				"magnitude":"17.005",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53587.06",
+				"band":"I",
+				"e_magnitude":"0.056",
+				"instrument":"WFI",
+				"magnitude":"15.392",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53587.06",
+				"band":"I",
+				"e_magnitude":"0.018",
+				"instrument":"WFI",
+				"magnitude":"15.448",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53587.06",
+				"band":"R",
+				"e_magnitude":"0.009",
+				"instrument":"WFI",
+				"magnitude":"15.575",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53587.06",
+				"band":"R",
+				"e_magnitude":"0.044",
+				"instrument":"WFI",
+				"magnitude":"15.619",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53587.06",
+				"band":"U",
+				"e_magnitude":"0.03",
+				"instrument":"WFI",
+				"magnitude":"17.196",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53587.06",
+				"band":"U",
+				"e_magnitude":"0.062",
+				"instrument":"WFI",
+				"magnitude":"17.258",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53587.06",
+				"band":"V",
+				"e_magnitude":"0.033",
+				"instrument":"WFI",
+				"magnitude":"15.873",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53587.06",
+				"band":"V",
+				"e_magnitude":"0.009",
+				"instrument":"WFI",
+				"magnitude":"15.906",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53590.06",
+				"band":"B",
+				"e_magnitude":"0.011",
+				"instrument":"WFI",
+				"magnitude":"16.984",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53590.06",
+				"band":"B",
+				"e_magnitude":"0.092",
+				"instrument":"WFI",
+				"magnitude":"17.076",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53590.06",
+				"band":"I",
+				"e_magnitude":"0.059",
+				"instrument":"WFI",
+				"magnitude":"15.522",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53590.06",
+				"band":"I",
+				"e_magnitude":"0.018",
+				"instrument":"WFI",
+				"magnitude":"15.58",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53590.06",
+				"band":"R",
+				"e_magnitude":"0.009",
+				"instrument":"WFI",
+				"magnitude":"15.689",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53590.06",
+				"band":"R",
+				"e_magnitude":"0.044",
+				"instrument":"WFI",
+				"magnitude":"15.733",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53590.06",
+				"band":"U",
+				"e_magnitude":"0.029",
+				"instrument":"WFI",
+				"magnitude":"17.239",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53590.06",
+				"band":"U",
+				"e_magnitude":"0.061",
+				"instrument":"WFI",
+				"magnitude":"17.3",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53590.06",
+				"band":"V",
+				"e_magnitude":"0.031",
+				"instrument":"WFI",
+				"magnitude":"15.929",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53590.06",
+				"band":"V",
+				"e_magnitude":"0.009",
+				"instrument":"WFI",
+				"magnitude":"15.96",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53590.63",
+				"band":"B",
+				"e_magnitude":"0.013",
+				"instrument":"HFOSC",
+				"magnitude":"16.943",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53590.63",
+				"band":"B",
+				"e_magnitude":"0.027",
+				"instrument":"HFOSC",
+				"magnitude":"16.97",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53590.63",
+				"band":"I",
+				"e_magnitude":"0.089",
+				"instrument":"HFOSC",
+				"magnitude":"15.575",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53590.63",
+				"band":"I",
+				"e_magnitude":"0.026",
+				"instrument":"HFOSC",
+				"magnitude":"15.664",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53590.63",
+				"band":"R",
+				"e_magnitude":"0.013",
+				"instrument":"HFOSC",
+				"magnitude":"15.747",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53590.63",
+				"band":"R",
+				"e_magnitude":"0.016",
+				"instrument":"HFOSC",
+				"magnitude":"15.763",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53590.63",
+				"band":"V",
+				"e_magnitude":"0.022",
+				"instrument":"HFOSC",
+				"magnitude":"15.991",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53590.63",
+				"band":"V",
+				"e_magnitude":"0.015",
+				"instrument":"HFOSC",
+				"magnitude":"16.006",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53595.0",
+				"band":"B",
+				"e_magnitude":"0.022",
+				"instrument":"WFI",
+				"magnitude":"17.005",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53595.0",
+				"band":"B",
+				"e_magnitude":"0.089",
+				"instrument":"WFI",
+				"magnitude":"17.094",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53595.0",
+				"band":"I",
+				"e_magnitude":"0.062",
+				"instrument":"WFI",
+				"magnitude":"15.681",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53595.0",
+				"band":"I",
+				"e_magnitude":"0.027",
+				"instrument":"WFI",
+				"magnitude":"15.743",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53595.0",
+				"band":"R",
+				"e_magnitude":"0.02",
+				"instrument":"WFI",
+				"magnitude":"15.825",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53595.0",
+				"band":"R",
+				"e_magnitude":"0.043",
+				"instrument":"WFI",
+				"magnitude":"15.868",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53595.0",
+				"band":"U",
+				"e_magnitude":"0.109",
+				"instrument":"WFI",
+				"magnitude":"17.308",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53595.0",
+				"band":"U",
+				"e_magnitude":"0.061",
+				"instrument":"WFI",
+				"magnitude":"17.369",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53595.0",
+				"band":"V",
+				"e_magnitude":"0.028",
+				"instrument":"WFI",
+				"magnitude":"16.075",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53595.0",
+				"band":"V",
+				"e_magnitude":"0.04",
+				"instrument":"WFI",
+				"magnitude":"16.103",
+				"telescope":"2.2m ESO/MPI",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53596.6",
+				"band":"R",
+				"e_magnitude":"0.018",
+				"instrument":"HFOSC",
+				"magnitude":"15.966",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53596.6",
+				"band":"R",
+				"e_magnitude":"0.012",
+				"instrument":"HFOSC",
+				"magnitude":"15.978",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53597.88",
+				"band":"B",
+				"e_magnitude":"0.01",
+				"instrument":"ALFOSC",
+				"magnitude":"17.088",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53597.88",
+				"band":"B",
+				"e_magnitude":"0.008",
+				"instrument":"ALFOSC",
+				"magnitude":"17.096",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53597.88",
+				"band":"I",
+				"e_magnitude":"0.009",
+				"instrument":"ALFOSC",
+				"magnitude":"15.886",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53597.88",
+				"band":"I",
+				"e_magnitude":"0.009",
+				"instrument":"ALFOSC",
+				"magnitude":"15.895",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53597.88",
+				"band":"R",
+				"e_magnitude":"0.018",
+				"instrument":"ALFOSC",
+				"magnitude":"15.943",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53597.88",
+				"band":"R",
+				"e_magnitude":"0.01",
+				"instrument":"ALFOSC",
+				"magnitude":"15.961",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53597.88",
+				"band":"U",
+				"e_magnitude":"0.187",
+				"instrument":"ALFOSC",
+				"magnitude":"17.275",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53597.88",
+				"band":"U",
+				"e_magnitude":"0.045",
+				"instrument":"ALFOSC",
+				"magnitude":"17.462",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53597.88",
+				"band":"V",
+				"e_magnitude":"0.014",
+				"instrument":"ALFOSC",
+				"magnitude":"16.172",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53597.88",
+				"band":"V",
+				"e_magnitude":"0.009",
+				"instrument":"ALFOSC",
+				"magnitude":"16.186",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53599.68",
+				"band":"I",
+				"e_magnitude":"0.096",
+				"instrument":"HFOSC",
+				"magnitude":"15.992",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53599.68",
+				"band":"I",
+				"e_magnitude":"0.021",
+				"instrument":"HFOSC",
+				"magnitude":"16.088",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53603.65",
+				"band":"B",
+				"e_magnitude":"0.019",
+				"instrument":"HFOSC",
+				"magnitude":"17.171",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53603.65",
+				"band":"B",
+				"e_magnitude":"0.022",
+				"instrument":"HFOSC",
+				"magnitude":"17.192",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53603.65",
+				"band":"I",
+				"e_magnitude":"0.099",
+				"instrument":"HFOSC",
+				"magnitude":"16.109",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53603.65",
+				"band":"I",
+				"e_magnitude":"0.022",
+				"instrument":"HFOSC",
+				"magnitude":"16.208",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53603.65",
+				"band":"R",
+				"e_magnitude":"0.011",
+				"instrument":"HFOSC",
+				"magnitude":"16.165",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53603.65",
+				"band":"R",
+				"e_magnitude":"0.008",
+				"instrument":"HFOSC",
+				"magnitude":"16.173",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53603.65",
+				"band":"V",
+				"e_magnitude":"0.031",
+				"instrument":"HFOSC",
+				"magnitude":"16.348",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53603.65",
+				"band":"V",
+				"e_magnitude":"0.02",
+				"instrument":"HFOSC",
+				"magnitude":"16.368",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53610.88",
+				"band":"B",
+				"e_magnitude":"0.013",
+				"instrument":"CAFOS",
+				"magnitude":"17.291",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53610.88",
+				"band":"B",
+				"e_magnitude":"0.003",
+				"instrument":"CAFOS",
+				"magnitude":"17.294",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53610.88",
+				"band":"I",
+				"e_magnitude":"0.091",
+				"instrument":"CAFOS",
+				"magnitude":"16.518",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53610.88",
+				"band":"I",
+				"e_magnitude":"0.03",
+				"instrument":"CAFOS",
+				"magnitude":"16.609",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53610.88",
+				"band":"R",
+				"e_magnitude":"0.009",
+				"instrument":"CAFOS",
+				"magnitude":"16.371",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53610.88",
+				"band":"R",
+				"e_magnitude":"0.001",
+				"instrument":"CAFOS",
+				"magnitude":"16.372",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53610.88",
+				"band":"U",
+				"e_magnitude":"0.235",
+				"instrument":"CAFOS",
+				"magnitude":"17.41",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53610.88",
+				"band":"U",
+				"e_magnitude":"0.051",
+				"instrument":"CAFOS",
+				"magnitude":"17.645",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53610.88",
+				"band":"V",
+				"e_magnitude":"0.011",
+				"instrument":"CAFOS",
+				"magnitude":"16.467",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53610.88",
+				"band":"V",
+				"e_magnitude":"0.008",
+				"instrument":"CAFOS",
+				"magnitude":"16.475",
+				"telescope":"2.2m Calar Alto",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53612.87",
+				"band":"B",
+				"e_magnitude":"0.023",
+				"instrument":"ALFOSC",
+				"magnitude":"17.293",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53612.87",
+				"band":"B",
+				"e_magnitude":"0.012",
+				"instrument":"ALFOSC",
+				"magnitude":"17.316",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53612.87",
+				"band":"I",
+				"e_magnitude":"0.036",
+				"instrument":"ALFOSC",
+				"magnitude":"16.464",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53612.87",
+				"band":"I",
+				"e_magnitude":"0.011",
+				"instrument":"ALFOSC",
+				"magnitude":"16.5",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53612.87",
+				"band":"R",
+				"e_magnitude":"0.02",
+				"instrument":"ALFOSC",
+				"magnitude":"16.385",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53612.87",
+				"band":"R",
+				"e_magnitude":"0.011",
+				"instrument":"ALFOSC",
+				"magnitude":"16.405",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53612.87",
+				"band":"U",
+				"e_magnitude":"0.183",
+				"instrument":"ALFOSC",
+				"magnitude":"17.576",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53612.87",
+				"band":"U",
+				"e_magnitude":"0.045",
+				"instrument":"ALFOSC",
+				"magnitude":"17.759",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53612.87",
+				"band":"V",
+				"e_magnitude":"0.008",
+				"instrument":"ALFOSC",
+				"magnitude":"16.519",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53612.87",
+				"band":"V",
+				"e_magnitude":"0.011",
+				"instrument":"ALFOSC",
+				"magnitude":"16.527",
+				"telescope":"2.5m Nordic Optical Telescope",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53614.64",
+				"band":"I",
+				"e_magnitude":"0.109",
+				"instrument":"HFOSC",
+				"magnitude":"16.561",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53614.64",
+				"band":"I",
+				"e_magnitude":"0.03",
+				"instrument":"HFOSC",
+				"magnitude":"16.67",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53614.64",
+				"band":"R",
+				"e_magnitude":"0.001",
+				"instrument":"HFOSC",
+				"magnitude":"16.525",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53614.64",
+				"band":"R",
+				"e_magnitude":"0.014",
+				"instrument":"HFOSC",
+				"magnitude":"16.526",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53614.64",
+				"band":"V",
+				"e_magnitude":"0.019",
+				"instrument":"HFOSC",
+				"magnitude":"16.598",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53614.64",
+				"band":"V",
+				"e_magnitude":"0.02",
+				"instrument":"HFOSC",
+				"magnitude":"16.618",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53616.6",
+				"band":"B",
+				"instrument":"HFOSC",
+				"magnitude":"17.341",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53616.6",
+				"band":"B",
+				"e_magnitude":"0.018",
+				"instrument":"HFOSC",
+				"magnitude":"17.341",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53616.6",
+				"band":"I",
+				"e_magnitude":"0.112",
+				"instrument":"HFOSC",
+				"magnitude":"16.596",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53616.6",
+				"band":"I",
+				"e_magnitude":"0.018",
+				"instrument":"HFOSC",
+				"magnitude":"16.707",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53616.6",
+				"band":"R",
+				"e_magnitude":"0.003",
+				"instrument":"HFOSC",
+				"magnitude":"16.552",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53616.6",
+				"band":"R",
+				"e_magnitude":"0.015",
+				"instrument":"HFOSC",
+				"magnitude":"16.555",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53616.6",
+				"band":"V",
+				"e_magnitude":"0.028",
+				"instrument":"HFOSC",
+				"magnitude":"16.654",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53616.6",
+				"band":"V",
+				"e_magnitude":"0.02",
+				"instrument":"HFOSC",
+				"magnitude":"16.674",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53620.61",
+				"band":"B",
+				"e_magnitude":"0.009",
+				"instrument":"HFOSC",
+				"magnitude":"17.412",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53620.61",
+				"band":"B",
+				"e_magnitude":"0.021",
+				"instrument":"HFOSC",
+				"magnitude":"17.421",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53620.61",
+				"band":"I",
+				"e_magnitude":"0.116",
+				"instrument":"HFOSC",
+				"magnitude":"16.754",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53620.61",
+				"band":"I",
+				"e_magnitude":"0.025",
+				"instrument":"HFOSC",
+				"magnitude":"16.87",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53620.61",
+				"band":"R",
+				"e_magnitude":"0.007",
+				"instrument":"HFOSC",
+				"magnitude":"16.695",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53620.61",
+				"band":"R",
+				"e_magnitude":"0.015",
+				"instrument":"HFOSC",
+				"magnitude":"16.702",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53620.61",
+				"band":"U",
+				"e_magnitude":"0.183",
+				"instrument":"HFOSC",
+				"magnitude":"17.741",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53620.61",
+				"band":"U",
+				"e_magnitude":"0.053",
+				"instrument":"HFOSC",
+				"magnitude":"17.924",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53620.61",
+				"band":"V",
+				"e_magnitude":"0.025",
+				"instrument":"HFOSC",
+				"magnitude":"16.778",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53620.61",
+				"band":"V",
+				"e_magnitude":"0.02",
+				"instrument":"HFOSC",
+				"magnitude":"16.798",
+				"telescope":"2m Himalayan Chandra",
+				"u_time":"MJD",
+				"source":"1"
+			}
+		]
+	}
+}
