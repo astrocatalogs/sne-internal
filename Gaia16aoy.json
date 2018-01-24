@@ -1,0 +1,20 @@
+{
+	"Gaia16aoy":{
+		"name":"Gaia16aoy",
+		"sources":[
+			{
+				"bibcode":"2016ATel.9062....1F"
+			}
+		],
+		"alias":[
+			{
+				"value":"Gaia16aoy"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"Dwarf Nova"
+			}
+		]
+	}
+}
