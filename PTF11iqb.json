@@ -1,11 +1,2115 @@
 {
 	"PTF11iqb":{
 		"name":"PTF11iqb",
-		"errors":[
+		"sources":[
 			{
-				"value":"2012PASP..124..668Y",
-				"kind":"bibcode",
-				"extra":"claimedtype"
+				"bibcode":"2015MNRAS.449.1876S",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"PTF11iqb",
+				"source":"1"
+			}
+		],
+		"photometry":[
+			{
+				"time":"55765.4",
+				"band":"R",
+				"e_magnitude":"0.039",
+				"magnitude":"16.834",
+				"telescope":"Palomar 48",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55765.4",
+				"band":"R",
+				"e_magnitude":"0.036",
+				"magnitude":"16.862",
+				"telescope":"Palomar 48",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55766.4",
+				"band":"R",
+				"e_magnitude":"0.05",
+				"magnitude":"16.073",
+				"telescope":"Palomar 48",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55766.4",
+				"band":"R",
+				"e_magnitude":"0.049",
+				"magnitude":"16.135",
+				"telescope":"Palomar 48",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55766.449",
+				"band":"R",
+				"e_magnitude":"0.004",
+				"magnitude":"16.134",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55768.358",
+				"band":"I",
+				"e_magnitude":"0.076",
+				"magnitude":"15.948",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55768.4",
+				"band":"R",
+				"e_magnitude":"0.05",
+				"magnitude":"15.603",
+				"telescope":"Palomar 48",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55768.4",
+				"band":"R",
+				"e_magnitude":"0.027",
+				"magnitude":"15.608",
+				"telescope":"Palomar 48",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55769.4",
+				"band":"R",
+				"e_magnitude":"0.05",
+				"magnitude":"15.458",
+				"telescope":"Palomar 48",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55769.4",
+				"band":"R",
+				"e_magnitude":"0.047",
+				"magnitude":"15.462",
+				"telescope":"Palomar 48",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55770.355",
+				"band":"R",
+				"e_magnitude":"0.004",
+				"magnitude":"15.347",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55770.4",
+				"band":"R",
+				"e_magnitude":"0.057",
+				"magnitude":"15.323",
+				"telescope":"Palomar 48",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55770.4",
+				"band":"R",
+				"e_magnitude":"0.04",
+				"magnitude":"15.37",
+				"telescope":"Palomar 48",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55771.4",
+				"band":"R",
+				"e_magnitude":"0.057",
+				"magnitude":"15.265",
+				"telescope":"Palomar 48",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55771.4",
+				"band":"R",
+				"e_magnitude":"0.047",
+				"magnitude":"15.291",
+				"telescope":"Palomar 48",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55774.3",
+				"band":"R",
+				"e_magnitude":"0.048",
+				"magnitude":"15.218",
+				"telescope":"Palomar 48",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55774.343",
+				"band":"I",
+				"e_magnitude":"0.035",
+				"magnitude":"15.445",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55774.344",
+				"band":"R",
+				"e_magnitude":"0.004",
+				"magnitude":"15.23",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55774.4",
+				"band":"R",
+				"e_magnitude":"0.054",
+				"magnitude":"15.194",
+				"telescope":"Palomar 48",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55775.5",
+				"band":"R",
+				"e_magnitude":"0.072",
+				"magnitude":"15.147",
+				"telescope":"Palomar 48",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55776.337",
+				"band":"I",
+				"e_magnitude":"0.069",
+				"magnitude":"15.46",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55776.338",
+				"band":"R",
+				"e_magnitude":"0.004",
+				"magnitude":"15.236",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55776.339",
+				"band":"I",
+				"e_magnitude":"0.053",
+				"magnitude":"15.464",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55776.34",
+				"band":"R",
+				"e_magnitude":"0.004",
+				"magnitude":"15.217",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55776.46",
+				"band":"I",
+				"e_magnitude":"0.014",
+				"magnitude":"15.031",
+				"telescope":"Mount Laguna 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55776.46",
+				"band":"R",
+				"e_magnitude":"0.019",
+				"magnitude":"15.049",
+				"telescope":"Mount Laguna 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55778.33",
+				"band":"I",
+				"e_magnitude":"0.107",
+				"magnitude":"15.486",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55778.331",
+				"band":"R",
+				"e_magnitude":"0.004",
+				"magnitude":"15.374",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55778.333",
+				"band":"I",
+				"e_magnitude":"0.067",
+				"magnitude":"15.441",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55778.334",
+				"band":"R",
+				"e_magnitude":"0.004",
+				"magnitude":"15.255",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55779.4",
+				"band":"R",
+				"e_magnitude":"0.05",
+				"magnitude":"15.194",
+				"telescope":"Palomar 48",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55779.47",
+				"band":"B",
+				"e_magnitude":"0.064",
+				"magnitude":"15.334",
+				"telescope":"Mount Laguna 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55779.47",
+				"band":"I",
+				"e_magnitude":"0.034",
+				"magnitude":"14.949",
+				"telescope":"Mount Laguna 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55779.47",
+				"band":"R",
+				"e_magnitude":"0.082",
+				"magnitude":"15.051",
+				"telescope":"Mount Laguna 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55779.47",
+				"band":"V",
+				"e_magnitude":"0.025",
+				"magnitude":"15.26",
+				"telescope":"Mount Laguna 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55779.5",
+				"band":"R",
+				"e_magnitude":"0.056",
+				"magnitude":"15.178",
+				"telescope":"Palomar 48",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55780.33",
+				"band":"R",
+				"e_magnitude":"0.003",
+				"magnitude":"15.396",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55780.4",
+				"band":"R",
+				"e_magnitude":"0.054",
+				"magnitude":"15.169",
+				"telescope":"Palomar 48",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55780.5",
+				"band":"R",
+				"e_magnitude":"0.069",
+				"magnitude":"15.18",
+				"telescope":"Palomar 48",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55782.32",
+				"band":"I",
+				"e_magnitude":"0.063",
+				"magnitude":"15.46",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55782.321",
+				"band":"R",
+				"e_magnitude":"0.004",
+				"magnitude":"15.357",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55782.322",
+				"band":"I",
+				"e_magnitude":"0.097",
+				"magnitude":"15.473",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55782.323",
+				"band":"R",
+				"e_magnitude":"0.004",
+				"magnitude":"15.306",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55782.4",
+				"band":"R",
+				"e_magnitude":"0.076",
+				"magnitude":"15.193",
+				"telescope":"Palomar 48",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55782.4",
+				"band":"R",
+				"e_magnitude":"0.06",
+				"magnitude":"15.204",
+				"telescope":"Palomar 48",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55783.3",
+				"band":"R",
+				"e_magnitude":"0.025",
+				"magnitude":"15.247",
+				"telescope":"Palomar 48",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55783.4",
+				"band":"R",
+				"e_magnitude":"0.034",
+				"magnitude":"15.258",
+				"telescope":"Palomar 48",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55784.3",
+				"band":"R",
+				"e_magnitude":"0.028",
+				"magnitude":"15.274",
+				"telescope":"Palomar 48",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55784.4",
+				"band":"R",
+				"e_magnitude":"0.051",
+				"magnitude":"15.274",
+				"telescope":"Palomar 48",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55792.481",
+				"band":"I",
+				"e_magnitude":"0.097",
+				"magnitude":"15.72",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55792.482",
+				"band":"R",
+				"e_magnitude":"0.004",
+				"magnitude":"15.417",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55793.3",
+				"band":"R",
+				"e_magnitude":"0.041",
+				"magnitude":"15.482",
+				"telescope":"Palomar 48",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55794.3",
+				"band":"R",
+				"e_magnitude":"0.043",
+				"magnitude":"15.486",
+				"telescope":"Palomar 48",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55794.3",
+				"band":"R",
+				"e_magnitude":"0.004",
+				"magnitude":"15.557",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55794.3",
+				"band":"R",
+				"e_magnitude":"0.004",
+				"magnitude":"15.704",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55796.281",
+				"band":"I",
+				"e_magnitude":"0.049",
+				"magnitude":"15.763",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55796.282",
+				"band":"R",
+				"e_magnitude":"0.004",
+				"magnitude":"15.633",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55798.3",
+				"band":"R",
+				"e_magnitude":"0.004",
+				"magnitude":"15.839",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55800.372",
+				"band":"I",
+				"e_magnitude":"0.046",
+				"magnitude":"15.825",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55800.373",
+				"band":"R",
+				"e_magnitude":"0.004",
+				"magnitude":"15.593",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55801.4",
+				"band":"R",
+				"e_magnitude":"0.005",
+				"magnitude":"15.779",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55802.3",
+				"band":"R",
+				"e_magnitude":"0.004",
+				"magnitude":"15.616",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55803.263",
+				"band":"I",
+				"e_magnitude":"0.04",
+				"magnitude":"15.948",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55803.264",
+				"band":"R",
+				"e_magnitude":"0.004",
+				"magnitude":"15.821",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55804.26",
+				"band":"I",
+				"e_magnitude":"0.07",
+				"magnitude":"15.932",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55804.261",
+				"band":"R",
+				"e_magnitude":"0.004",
+				"magnitude":"15.936",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55805.258",
+				"band":"I",
+				"e_magnitude":"0.084",
+				"magnitude":"15.986",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55805.259",
+				"band":"R",
+				"e_magnitude":"0.004",
+				"magnitude":"15.815",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55805.39",
+				"band":"R",
+				"e_magnitude":"0.064",
+				"magnitude":"15.619",
+				"telescope":"Mount Laguna 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55806.256",
+				"band":"R",
+				"e_magnitude":"0.005",
+				"magnitude":"15.842",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55807.254",
+				"band":"I",
+				"e_magnitude":"0.049",
+				"magnitude":"15.935",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55808.25",
+				"band":"I",
+				"e_magnitude":"0.066",
+				"magnitude":"16.033",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55808.251",
+				"band":"R",
+				"e_magnitude":"0.054",
+				"magnitude":"15.888",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55809.4",
+				"band":"R",
+				"e_magnitude":"0.005",
+				"magnitude":"15.807",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55811.243",
+				"band":"I",
+				"e_magnitude":"0.058",
+				"magnitude":"16.005",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55811.244",
+				"band":"R",
+				"e_magnitude":"0.005",
+				"magnitude":"15.904",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55811.3",
+				"band":"R",
+				"e_magnitude":"0.056",
+				"magnitude":"15.776",
+				"telescope":"Palomar 48",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55811.3",
+				"band":"R",
+				"e_magnitude":"0.047",
+				"magnitude":"15.789",
+				"telescope":"Palomar 48",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55812.2",
+				"band":"R",
+				"e_magnitude":"0.044",
+				"magnitude":"15.779",
+				"telescope":"Palomar 48",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55812.238",
+				"band":"I",
+				"e_magnitude":"0.076",
+				"magnitude":"16.09",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55812.239",
+				"band":"R",
+				"e_magnitude":"0.005",
+				"magnitude":"15.965",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55813.2",
+				"band":"R",
+				"e_magnitude":"0.006",
+				"magnitude":"15.881",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55813.3",
+				"band":"R",
+				"e_magnitude":"0.049",
+				"magnitude":"15.822",
+				"telescope":"Palomar 48",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55813.4",
+				"band":"R",
+				"e_magnitude":"0.055",
+				"magnitude":"15.807",
+				"telescope":"Palomar 48",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55814.232",
+				"band":"I",
+				"e_magnitude":"0.042",
+				"magnitude":"16.151",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55814.233",
+				"band":"R",
+				"e_magnitude":"0.007",
+				"magnitude":"15.725",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55820.256",
+				"band":"I",
+				"e_magnitude":"0.059",
+				"magnitude":"16.253",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55820.257",
+				"band":"R",
+				"e_magnitude":"0.006",
+				"magnitude":"16.005",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55821.2",
+				"band":"R",
+				"e_magnitude":"0.052",
+				"magnitude":"15.909",
+				"telescope":"Palomar 48",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55821.215",
+				"band":"I",
+				"e_magnitude":"0.066",
+				"magnitude":"16.248",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55821.216",
+				"band":"R",
+				"e_magnitude":"0.006",
+				"magnitude":"15.887",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55821.3",
+				"band":"R",
+				"e_magnitude":"0.058",
+				"magnitude":"15.899",
+				"telescope":"Palomar 48",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55821.42",
+				"band":"B",
+				"e_magnitude":"0.045",
+				"magnitude":"17.036",
+				"telescope":"Mount Laguna 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55821.42",
+				"band":"I",
+				"e_magnitude":"0.039",
+				"magnitude":"15.623",
+				"telescope":"Mount Laguna 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55821.42",
+				"band":"R",
+				"e_magnitude":"0.036",
+				"magnitude":"15.902",
+				"telescope":"Mount Laguna 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55821.42",
+				"band":"V",
+				"e_magnitude":"0.097",
+				"magnitude":"16.447",
+				"telescope":"Mount Laguna 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55822.2",
+				"band":"R",
+				"e_magnitude":"0.046",
+				"magnitude":"15.921",
+				"telescope":"Palomar 48",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55822.3",
+				"band":"R",
+				"e_magnitude":"0.062",
+				"magnitude":"15.923",
+				"telescope":"Palomar 48",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55823.2",
+				"band":"R",
+				"e_magnitude":"0.049",
+				"magnitude":"15.921",
+				"telescope":"Palomar 48",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55823.3",
+				"band":"R",
+				"e_magnitude":"0.062",
+				"magnitude":"15.908",
+				"telescope":"Palomar 48",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55824.3",
+				"band":"R",
+				"e_magnitude":"0.07",
+				"magnitude":"15.897",
+				"telescope":"Palomar 48",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55824.3",
+				"band":"R",
+				"e_magnitude":"0.055",
+				"magnitude":"15.939",
+				"telescope":"Palomar 48",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55827.228",
+				"band":"I",
+				"e_magnitude":"0.061",
+				"magnitude":"16.344",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55827.229",
+				"band":"R",
+				"e_magnitude":"0.005",
+				"magnitude":"16.107",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55827.35",
+				"band":"B",
+				"e_magnitude":"0.03",
+				"magnitude":"17.159",
+				"telescope":"Mount Laguna 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55827.35",
+				"band":"I",
+				"e_magnitude":"0.025",
+				"magnitude":"15.748",
+				"telescope":"Mount Laguna 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55827.35",
+				"band":"R",
+				"e_magnitude":"0.04",
+				"magnitude":"15.998",
+				"telescope":"Mount Laguna 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55827.35",
+				"band":"V",
+				"e_magnitude":"0.052",
+				"magnitude":"16.546",
+				"telescope":"Mount Laguna 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55828.222",
+				"band":"I",
+				"e_magnitude":"0.052",
+				"magnitude":"16.379",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55828.223",
+				"band":"R",
+				"e_magnitude":"0.005",
+				"magnitude":"16.06",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55829.2",
+				"band":"R",
+				"e_magnitude":"0.006",
+				"magnitude":"16.036",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55830.2",
+				"band":"R",
+				"e_magnitude":"0.006",
+				"magnitude":"16.265",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55831.187",
+				"band":"I",
+				"e_magnitude":"0.05",
+				"magnitude":"16.381",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55831.188",
+				"band":"R",
+				"e_magnitude":"0.158",
+				"magnitude":"16.278",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55832.21",
+				"band":"I",
+				"e_magnitude":"0.063",
+				"magnitude":"16.341",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55832.211",
+				"band":"R",
+				"e_magnitude":"0.006",
+				"magnitude":"16.165",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55832.41",
+				"band":"B",
+				"e_magnitude":"0.069",
+				"magnitude":"17.256",
+				"telescope":"Mount Laguna 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55832.41",
+				"band":"I",
+				"e_magnitude":"0.033",
+				"magnitude":"15.727",
+				"telescope":"Mount Laguna 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55832.41",
+				"band":"R",
+				"e_magnitude":"0.035",
+				"magnitude":"15.976",
+				"telescope":"Mount Laguna 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55832.41",
+				"band":"V",
+				"e_magnitude":"0.042",
+				"magnitude":"16.518",
+				"telescope":"Mount Laguna 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55833.181",
+				"band":"I",
+				"e_magnitude":"0.048",
+				"magnitude":"16.326",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55833.2",
+				"band":"R",
+				"e_magnitude":"0.006",
+				"magnitude":"16.08",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55834.178",
+				"band":"I",
+				"e_magnitude":"0.086",
+				"magnitude":"16.38",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55834.179",
+				"band":"R",
+				"e_magnitude":"0.006",
+				"magnitude":"16.122",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55835.176",
+				"band":"I",
+				"e_magnitude":"0.048",
+				"magnitude":"16.358",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55835.177",
+				"band":"R",
+				"e_magnitude":"0.005",
+				"magnitude":"16.076",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55837.3",
+				"band":"R",
+				"e_magnitude":"0.005",
+				"magnitude":"16.425",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55838.167",
+				"band":"I",
+				"e_magnitude":"0.05",
+				"magnitude":"16.616",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55838.168",
+				"band":"R",
+				"e_magnitude":"0.007",
+				"magnitude":"16.551",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55838.2",
+				"band":"R",
+				"e_magnitude":"0.05",
+				"magnitude":"16.054",
+				"telescope":"Palomar 48",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55842.3",
+				"band":"R",
+				"e_magnitude":"0.039",
+				"magnitude":"16.082",
+				"telescope":"Palomar 48",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55842.3",
+				"band":"R",
+				"e_magnitude":"0.033",
+				"magnitude":"16.085",
+				"telescope":"Palomar 48",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55847.144",
+				"band":"I",
+				"e_magnitude":"0.058",
+				"magnitude":"16.598",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55848.14",
+				"band":"I",
+				"e_magnitude":"0.047",
+				"magnitude":"16.524",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55848.141",
+				"band":"R",
+				"e_magnitude":"0.008",
+				"magnitude":"16.31",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55849.136",
+				"band":"I",
+				"e_magnitude":"0.062",
+				"magnitude":"16.594",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55849.137",
+				"band":"R",
+				"e_magnitude":"0.008",
+				"magnitude":"16.219",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55850.138",
+				"band":"I",
+				"e_magnitude":"0.058",
+				"magnitude":"16.639",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55850.139",
+				"band":"R",
+				"e_magnitude":"0.006",
+				"magnitude":"16.21",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55850.2",
+				"band":"R",
+				"e_magnitude":"0.055",
+				"magnitude":"16.134",
+				"telescope":"Palomar 48",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55850.2",
+				"band":"R",
+				"e_magnitude":"0.051",
+				"magnitude":"16.137",
+				"telescope":"Palomar 48",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55851.132",
+				"band":"I",
+				"e_magnitude":"0.085",
+				"magnitude":"16.597",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55851.133",
+				"band":"R",
+				"e_magnitude":"0.006",
+				"magnitude":"16.135",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55851.2",
+				"band":"R",
+				"e_magnitude":"0.053",
+				"magnitude":"16.154",
+				"telescope":"Palomar 48",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55851.2",
+				"band":"R",
+				"e_magnitude":"0.049",
+				"magnitude":"16.16",
+				"telescope":"Palomar 48",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55852.128",
+				"band":"I",
+				"e_magnitude":"0.064",
+				"magnitude":"16.63",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55852.129",
+				"band":"R",
+				"e_magnitude":"0.006",
+				"magnitude":"16.176",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55852.2",
+				"band":"R",
+				"e_magnitude":"0.067",
+				"magnitude":"16.144",
+				"telescope":"Palomar 48",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55852.2",
+				"band":"R",
+				"e_magnitude":"0.005",
+				"magnitude":"16.208",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55852.3",
+				"band":"R",
+				"e_magnitude":"0.072",
+				"magnitude":"16.159",
+				"telescope":"Palomar 48",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55853.129",
+				"band":"I",
+				"e_magnitude":"0.067",
+				"magnitude":"16.64",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55853.13",
+				"band":"R",
+				"e_magnitude":"0.006",
+				"magnitude":"16.323",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55853.2",
+				"band":"R",
+				"e_magnitude":"0.066",
+				"magnitude":"16.169",
+				"telescope":"Palomar 48",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55853.3",
+				"band":"R",
+				"e_magnitude":"0.059",
+				"magnitude":"16.186",
+				"telescope":"Palomar 48",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55853.31",
+				"band":"B",
+				"e_magnitude":"0.037",
+				"magnitude":"17.582",
+				"telescope":"Mount Laguna 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55853.31",
+				"band":"I",
+				"e_magnitude":"0.033",
+				"magnitude":"15.985",
+				"telescope":"Mount Laguna 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55853.31",
+				"band":"R",
+				"e_magnitude":"0.055",
+				"magnitude":"16.16",
+				"telescope":"Mount Laguna 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55853.31",
+				"band":"V",
+				"e_magnitude":"0.063",
+				"magnitude":"16.877",
+				"telescope":"Mount Laguna 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55854.128",
+				"band":"I",
+				"e_magnitude":"0.086",
+				"magnitude":"16.687",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55854.129",
+				"band":"R",
+				"e_magnitude":"0.006",
+				"magnitude":"16.33",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55854.2",
+				"band":"R",
+				"e_magnitude":"0.064",
+				"magnitude":"16.131",
+				"telescope":"Palomar 48",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55854.3",
+				"band":"R",
+				"e_magnitude":"0.072",
+				"magnitude":"16.137",
+				"telescope":"Palomar 48",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55856.1",
+				"band":"R",
+				"e_magnitude":"0.006",
+				"magnitude":"16.324",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55857.1",
+				"band":"R",
+				"e_magnitude":"0.006",
+				"magnitude":"16.269",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55858.1",
+				"band":"R",
+				"e_magnitude":"0.006",
+				"magnitude":"16.154",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55859.123",
+				"band":"I",
+				"e_magnitude":"0.053",
+				"magnitude":"16.813",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55861.28",
+				"band":"B",
+				"e_magnitude":"0.075",
+				"magnitude":"17.738",
+				"telescope":"Mount Laguna 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55861.28",
+				"band":"I",
+				"e_magnitude":"0.041",
+				"magnitude":"16.098",
+				"telescope":"Mount Laguna 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55861.28",
+				"band":"R",
+				"e_magnitude":"0.037",
+				"magnitude":"16.258",
+				"telescope":"Mount Laguna 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55861.28",
+				"band":"V",
+				"e_magnitude":"0.063",
+				"magnitude":"16.933",
+				"telescope":"Mount Laguna 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55862.112",
+				"band":"I",
+				"e_magnitude":"0.062",
+				"magnitude":"16.852",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55862.113",
+				"band":"R",
+				"e_magnitude":"0.007",
+				"magnitude":"16.555",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55863.11",
+				"band":"I",
+				"e_magnitude":"0.041",
+				"magnitude":"16.792",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55863.111",
+				"band":"R",
+				"e_magnitude":"0.007",
+				"magnitude":"16.481",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55864.1",
+				"band":"R",
+				"e_magnitude":"0.007",
+				"magnitude":"16.401",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55866.109",
+				"band":"I",
+				"e_magnitude":"0.069",
+				"magnitude":"16.868",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55866.11",
+				"band":"R",
+				"e_magnitude":"0.007",
+				"magnitude":"16.422",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55867.1",
+				"band":"R",
+				"e_magnitude":"0.009",
+				"magnitude":"16.467",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55867.26",
+				"band":"B",
+				"e_magnitude":"0.058",
+				"magnitude":"17.79",
+				"telescope":"Mount Laguna 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55867.26",
+				"band":"I",
+				"e_magnitude":"0.027",
+				"magnitude":"16.19",
+				"telescope":"Mount Laguna 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55867.26",
+				"band":"R",
+				"e_magnitude":"0.046",
+				"magnitude":"16.369",
+				"telescope":"Mount Laguna 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55867.26",
+				"band":"V",
+				"e_magnitude":"0.041",
+				"magnitude":"17.073",
+				"telescope":"Mount Laguna 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55868.104",
+				"band":"I",
+				"e_magnitude":"0.06",
+				"magnitude":"16.952",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55868.105",
+				"band":"R",
+				"e_magnitude":"0.008",
+				"magnitude":"16.693",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55869.1",
+				"band":"R",
+				"e_magnitude":"0.012",
+				"magnitude":"16.509",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55874.296",
+				"band":"I",
+				"e_magnitude":"0.065",
+				"magnitude":"17.083",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55874.297",
+				"band":"R",
+				"e_magnitude":"0.014",
+				"magnitude":"16.533",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55880.29",
+				"band":"B",
+				"e_magnitude":"0.041",
+				"magnitude":"18.13",
+				"telescope":"Mount Laguna 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55880.29",
+				"band":"I",
+				"e_magnitude":"0.027",
+				"magnitude":"16.546",
+				"telescope":"Mount Laguna 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55880.29",
+				"band":"R",
+				"e_magnitude":"0.024",
+				"magnitude":"16.717",
+				"telescope":"Mount Laguna 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55880.29",
+				"band":"V",
+				"e_magnitude":"0.068",
+				"magnitude":"17.525",
+				"telescope":"Mount Laguna 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55883.28",
+				"band":"B",
+				"e_magnitude":"0.043",
+				"magnitude":"18.191",
+				"telescope":"Mount Laguna 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55883.28",
+				"band":"I",
+				"e_magnitude":"0.027",
+				"magnitude":"16.71",
+				"telescope":"Mount Laguna 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55883.28",
+				"band":"R",
+				"e_magnitude":"0.032",
+				"magnitude":"16.832",
+				"telescope":"Mount Laguna 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55883.28",
+				"band":"V",
+				"e_magnitude":"0.036",
+				"magnitude":"17.644",
+				"telescope":"Mount Laguna 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55884.1",
+				"band":"R",
+				"e_magnitude":"0.012",
+				"magnitude":"16.892",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55889.111",
+				"band":"I",
+				"e_magnitude":"0.069",
+				"magnitude":"18.203",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55889.112",
+				"band":"R",
+				"e_magnitude":"0.01",
+				"magnitude":"17.194",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55891.296",
+				"band":"R",
+				"e_magnitude":"0.016",
+				"magnitude":"17.411",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55893.156",
+				"band":"I",
+				"e_magnitude":"0.075",
+				"magnitude":"18.604",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55893.157",
+				"band":"R",
+				"e_magnitude":"0.016",
+				"magnitude":"17.576",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55895.094",
+				"band":"I",
+				"e_magnitude":"0.074",
+				"magnitude":"18.62",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55895.23",
+				"band":"B",
+				"e_magnitude":"0.034",
+				"magnitude":"18.599",
+				"telescope":"Mount Laguna 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55895.23",
+				"band":"I",
+				"e_magnitude":"0.031",
+				"magnitude":"17.719",
+				"telescope":"Mount Laguna 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55895.23",
+				"band":"R",
+				"e_magnitude":"0.026",
+				"magnitude":"17.533",
+				"telescope":"Mount Laguna 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55895.23",
+				"band":"V",
+				"e_magnitude":"0.023",
+				"magnitude":"18.485",
+				"telescope":"Mount Laguna 40",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55902.245",
+				"band":"I",
+				"e_magnitude":"0.081",
+				"magnitude":"18.907",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55902.247",
+				"band":"R",
+				"e_magnitude":"0.024",
+				"magnitude":"17.524",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55903.11",
+				"band":"I",
+				"e_magnitude":"0.058",
+				"magnitude":"18.836",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55903.112",
+				"band":"R",
+				"e_magnitude":"0.017",
+				"magnitude":"17.927",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55904.109",
+				"band":"I",
+				"e_magnitude":"0.078",
+				"magnitude":"18.903",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55905.105",
+				"band":"I",
+				"magnitude":"19.76",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"upperlimit":true,
+				"source":"1"
+			},
+			{
+				"time":"55906.274",
+				"band":"I",
+				"e_magnitude":"0.095",
+				"magnitude":"19.04",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55906.276",
+				"band":"R",
+				"e_magnitude":"0.02",
+				"magnitude":"17.595",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55916.131",
+				"band":"I",
+				"e_magnitude":"0.099",
+				"magnitude":"19.12",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55916.133",
+				"band":"R",
+				"e_magnitude":"0.016",
+				"magnitude":"17.537",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56290.09",
+				"band":"I",
+				"magnitude":"21.69",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"upperlimit":true,
+				"source":"1"
+			},
+			{
+				"time":"56296.1",
+				"band":"R",
+				"e_magnitude":"0.332",
+				"magnitude":"20.647",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56297.139",
+				"band":"I",
+				"magnitude":"21.86",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"upperlimit":true,
+				"source":"1"
+			},
+			{
+				"time":"56297.14",
+				"band":"R",
+				"e_magnitude":"0.131",
+				"magnitude":"20.617",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56298.113",
+				"band":"I",
+				"magnitude":"22.33",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"upperlimit":true,
+				"source":"1"
+			},
+			{
+				"time":"56298.115",
+				"band":"R",
+				"e_magnitude":"0.109",
+				"magnitude":"20.723",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56301.081",
+				"band":"I",
+				"magnitude":"21.91",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"upperlimit":true,
+				"source":"1"
+			},
+			{
+				"time":"56301.084",
+				"band":"R",
+				"e_magnitude":"0.111",
+				"magnitude":"20.673",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56302.106",
+				"band":"I",
+				"magnitude":"19.96",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"upperlimit":true,
+				"source":"1"
+			},
+			{
+				"time":"56302.107",
+				"band":"R",
+				"e_magnitude":"1.151",
+				"magnitude":"21.423",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56324.1",
+				"band":"R",
+				"e_magnitude":"0.211",
+				"magnitude":"20.66",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56324.128",
+				"band":"I",
+				"magnitude":"22.19",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"upperlimit":true,
+				"source":"1"
+			},
+			{
+				"time":"56325.129",
+				"band":"I",
+				"magnitude":"20.21",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"upperlimit":true,
+				"source":"1"
+			},
+			{
+				"time":"56328.113",
+				"band":"I",
+				"magnitude":"21.92",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"upperlimit":true,
+				"source":"1"
+			},
+			{
+				"time":"56328.115",
+				"band":"R",
+				"e_magnitude":"0.165",
+				"magnitude":"21.129",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56330.11",
+				"band":"I",
+				"magnitude":"22.03",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"upperlimit":true,
+				"source":"1"
+			},
+			{
+				"time":"56330.112",
+				"band":"R",
+				"e_magnitude":"0.173",
+				"magnitude":"21.142",
+				"telescope":"Palomar 60",
+				"u_time":"MJD",
+				"source":"1"
 			}
 		]
 	}
