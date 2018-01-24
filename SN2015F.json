@@ -5,12 +5,20 @@
 			{
 				"bibcode":"2017arXiv171101275G",
 				"alias":"1"
+			},
+			{
+				"bibcode":"2017ApJ...835...64G",
+				"alias":"2"
 			}
 		],
 		"alias":[
 			{
 				"value":"SN2015F",
 				"source":"1"
+			},
+			{
+				"value":"OGLE15la",
+				"source":"2"
 			}
 		],
 		"photometry":[
