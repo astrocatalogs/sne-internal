@@ -36,6 +36,12 @@
 				"source":"1"
 			}
 		],
+		"claimedtype":[
+			{
+				"value":"SLSN-II",
+				"source":"1"
+			}
+		],
 		"photometry":[
 			{
 				"time":"57715.55",
