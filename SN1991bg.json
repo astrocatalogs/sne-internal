@@ -1,0 +1,82 @@
+{
+	"SN1991bg":{
+		"name":"SN1991bg",
+		"sources":[
+			{
+				"bibcode":"2004AJ....128.3034K",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN1991bg",
+				"source":"1"
+			}
+		],
+		"photometry":[
+			{
+				"time":"48605.55",
+				"band":"H",
+				"e_magnitude":"0.04",
+				"magnitude":"13.45",
+				"telescope":"KPNO 1.3m + SQIID",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48605.55",
+				"band":"J",
+				"e_magnitude":"0.03",
+				"magnitude":"13.49",
+				"telescope":"KPNO 1.3m + SQIID",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48605.55",
+				"band":"K",
+				"e_magnitude":"0.05",
+				"magnitude":"13.49",
+				"telescope":"KPNO 1.3m + SQIID",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48605.56",
+				"band":"H",
+				"e_magnitude":"0.03",
+				"magnitude":"13.44",
+				"telescope":"KPNO 1.3m + SQIID",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48605.56",
+				"band":"J",
+				"e_magnitude":"0.03",
+				"magnitude":"13.51",
+				"telescope":"KPNO 1.3m + SQIID",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48605.56",
+				"band":"K",
+				"e_magnitude":"0.05",
+				"magnitude":"13.41",
+				"telescope":"KPNO 1.3m + SQIID",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48606.55",
+				"band":"J",
+				"e_magnitude":"0.04",
+				"magnitude":"13.59",
+				"telescope":"KPNO 1.3m + SQIID",
+				"u_time":"MJD",
+				"source":"1"
+			}
+		]
+	}
+}

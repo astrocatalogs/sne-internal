@@ -1,75 +1,1252 @@
 {
 	"SN2002bo":{
 		"name":"SN2002bo",
-		"alias":[
+		"sources":[
 			{
-				"value":"SN2002bo"
+				"bibcode":"2004AJ....128.3034K",
+				"alias":"1"
 			}
 		],
-    "spectra":[
-      {
-        "filename":"2002bo_20020310_3363_7726_00.dat",
-        "exclude":[
-          {
-            "below":"3500.0",
-            "reason":"noise"
-          }
-        ]
-      },
-      {
-        "filename":"2002bo_20020310_3363_7726_01.dat",
-        "exclude":[
-          {
-            "below":"3500.0",
-            "reason":"noise"
-          }
-        ]
-      },
-      {
-        "filename":"2002bo_20020313_3360_7726_00.dat",
-        "exclude":[
-          {
-            "below":"3520.0",
-            "reason":"noise"
-          }
-        ]
-      },
-      {
-        "filename":"2002bo_20020311_3362_7721_00.dat",
-        "exclude":[
-          {
-            "below":"3500.0",
-            "reason":"noise"
-          }
-        ]
-      },
-      {
-        "filename":"2002bo_20020421_3500_9785_00.dat",
-        "exclude":[
-          {
-            "above":"9450.0",
-            "reason":"noise"
-          }
-        ]
-      },
-      {
-        "filename":"2002bo_20020506_3087_8090_00.dat",
-        "exclude":[
-          {
-            "below":"3200.0",
-            "reason":"noise"
-          }
-        ]
-      },
-      {
-        "filename":"2002bo_20020614_3746_9777_00.dat",
-        "exclude":[
-          {
-            "below":"3900.0",
-            "reason":"noise"
-          }
-        ]
-      }
-    ]
+		"alias":[
+			{
+				"value":"SN2002bo",
+				"source":"1"
+			}
+		],
+		"photometry":[
+			{
+				"time":"52345.17",
+				"band":"B",
+				"e_magnitude":"0.016",
+				"magnitude":"15.724",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52345.17",
+				"band":"I",
+				"e_magnitude":"0.026",
+				"magnitude":"14.906",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52345.17",
+				"band":"R",
+				"e_magnitude":"0.017",
+				"magnitude":"14.91",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52345.17",
+				"band":"U",
+				"e_magnitude":"0.094",
+				"magnitude":"16.295",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52345.17",
+				"band":"V",
+				"e_magnitude":"0.013",
+				"magnitude":"15.279",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52345.19",
+				"band":"H",
+				"e_magnitude":"0.039",
+				"magnitude":"14.613",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52345.19",
+				"band":"J",
+				"e_magnitude":"0.03",
+				"magnitude":"14.623",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52345.19",
+				"band":"K",
+				"e_magnitude":"0.071",
+				"magnitude":"14.767",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52346.18",
+				"band":"B",
+				"e_magnitude":"0.009",
+				"magnitude":"15.362",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52346.18",
+				"band":"H",
+				"e_magnitude":"0.029",
+				"magnitude":"14.469",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52346.18",
+				"band":"I",
+				"e_magnitude":"0.023",
+				"magnitude":"14.559",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52346.18",
+				"band":"J",
+				"e_magnitude":"0.057",
+				"magnitude":"14.478",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52346.18",
+				"band":"K",
+				"e_magnitude":"0.059",
+				"magnitude":"14.637",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52346.18",
+				"band":"R",
+				"e_magnitude":"0.011",
+				"magnitude":"14.582",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52346.18",
+				"band":"U",
+				"e_magnitude":"0.086",
+				"magnitude":"15.806",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52346.18",
+				"band":"V",
+				"e_magnitude":"0.011",
+				"magnitude":"14.954",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52350.06",
+				"band":"B",
+				"e_magnitude":"0.02",
+				"magnitude":"14.367",
+				"telescope":"CTIO 0.9m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52350.06",
+				"band":"I",
+				"e_magnitude":"0.013",
+				"magnitude":"13.802",
+				"telescope":"CTIO 0.9m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52350.06",
+				"band":"R",
+				"e_magnitude":"0.011",
+				"magnitude":"13.817",
+				"telescope":"CTIO 0.9m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52350.06",
+				"band":"U",
+				"e_magnitude":"0.064",
+				"magnitude":"14.454",
+				"telescope":"CTIO 0.9m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52350.06",
+				"band":"V",
+				"e_magnitude":"0.01",
+				"magnitude":"14.072",
+				"telescope":"CTIO 0.9m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52350.16",
+				"band":"B",
+				"e_magnitude":"0.022",
+				"magnitude":"14.444",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52350.16",
+				"band":"H",
+				"e_magnitude":"0.028",
+				"magnitude":"13.93",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52350.16",
+				"band":"I",
+				"e_magnitude":"0.011",
+				"magnitude":"13.785",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52350.16",
+				"band":"J",
+				"e_magnitude":"0.084",
+				"magnitude":"13.854",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52350.16",
+				"band":"K",
+				"e_magnitude":"0.041",
+				"magnitude":"13.987",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52350.16",
+				"band":"R",
+				"e_magnitude":"0.016",
+				"magnitude":"13.83",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52350.16",
+				"band":"U",
+				"e_magnitude":"0.071",
+				"magnitude":"14.702",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52350.16",
+				"band":"V",
+				"e_magnitude":"0.01",
+				"magnitude":"14.116",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52354.15",
+				"band":"B",
+				"e_magnitude":"0.014",
+				"magnitude":"14.098",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52354.15",
+				"band":"H",
+				"e_magnitude":"0.026",
+				"magnitude":"13.878",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52354.15",
+				"band":"I",
+				"e_magnitude":"0.01",
+				"magnitude":"13.592",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52354.15",
+				"band":"J",
+				"e_magnitude":"0.023",
+				"magnitude":"13.68",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52354.15",
+				"band":"K",
+				"e_magnitude":"0.041",
+				"magnitude":"13.883",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52354.15",
+				"band":"R",
+				"e_magnitude":"0.013",
+				"magnitude":"13.541",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52354.15",
+				"band":"U",
+				"e_magnitude":"0.081",
+				"magnitude":"14.218",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52354.15",
+				"band":"V",
+				"e_magnitude":"0.009",
+				"magnitude":"13.733",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52358.14",
+				"band":"B",
+				"e_magnitude":"0.01",
+				"magnitude":"14.085",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52358.14",
+				"band":"H",
+				"e_magnitude":"0.03",
+				"magnitude":"14.071",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52358.14",
+				"band":"I",
+				"e_magnitude":"0.019",
+				"magnitude":"13.635",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52358.14",
+				"band":"J",
+				"e_magnitude":"0.03",
+				"magnitude":"13.911",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52358.14",
+				"band":"K",
+				"e_magnitude":"0.074",
+				"magnitude":"14.021",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52358.14",
+				"band":"R",
+				"e_magnitude":"0.015",
+				"magnitude":"13.487",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52358.14",
+				"band":"U",
+				"e_magnitude":"0.099",
+				"magnitude":"14.313",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52358.14",
+				"band":"V",
+				"e_magnitude":"0.013",
+				"magnitude":"13.605",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52360.15",
+				"band":"B",
+				"e_magnitude":"0.047",
+				"magnitude":"14.12",
+				"telescope":"CTIO 1.5m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52360.15",
+				"band":"I",
+				"e_magnitude":"0.03",
+				"magnitude":"13.744",
+				"telescope":"CTIO 1.5m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52360.15",
+				"band":"R",
+				"e_magnitude":"0.03",
+				"magnitude":"13.513",
+				"telescope":"CTIO 1.5m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52360.15",
+				"band":"U",
+				"e_magnitude":"0.074",
+				"magnitude":"14.521",
+				"telescope":"CTIO 1.5m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52360.15",
+				"band":"V",
+				"e_magnitude":"0.04",
+				"magnitude":"13.638",
+				"telescope":"CTIO 1.5m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52361.16",
+				"band":"B",
+				"e_magnitude":"0.04",
+				"magnitude":"14.201",
+				"telescope":"CTIO 1.5m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52361.16",
+				"band":"I",
+				"e_magnitude":"0.03",
+				"magnitude":"13.778",
+				"telescope":"CTIO 1.5m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52361.16",
+				"band":"R",
+				"e_magnitude":"0.03",
+				"magnitude":"13.493",
+				"telescope":"CTIO 1.5m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52361.16",
+				"band":"U",
+				"e_magnitude":"0.074",
+				"magnitude":"14.582",
+				"telescope":"CTIO 1.5m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52361.16",
+				"band":"V",
+				"e_magnitude":"0.04",
+				"magnitude":"13.658",
+				"telescope":"CTIO 1.5m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52362.12",
+				"band":"B",
+				"e_magnitude":"0.012",
+				"magnitude":"14.277",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52362.12",
+				"band":"H",
+				"e_magnitude":"0.023",
+				"magnitude":"14.216",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52362.12",
+				"band":"I",
+				"e_magnitude":"0.032",
+				"magnitude":"13.762",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52362.12",
+				"band":"J",
+				"e_magnitude":"0.029",
+				"magnitude":"14.257",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52362.12",
+				"band":"K",
+				"e_magnitude":"0.051",
+				"magnitude":"14.269",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52362.12",
+				"band":"R",
+				"e_magnitude":"0.012",
+				"magnitude":"13.559",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52362.12",
+				"band":"U",
+				"e_magnitude":"0.073",
+				"magnitude":"14.73",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52362.12",
+				"band":"V",
+				"e_magnitude":"0.01",
+				"magnitude":"13.686",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52366.12",
+				"band":"B",
+				"e_magnitude":"0.025",
+				"magnitude":"14.632",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52366.12",
+				"band":"H",
+				"e_magnitude":"0.054",
+				"magnitude":"14.344",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52366.12",
+				"band":"I",
+				"e_magnitude":"0.033",
+				"magnitude":"14.004",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52366.12",
+				"band":"J",
+				"e_magnitude":"0.099",
+				"magnitude":"14.975",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52366.12",
+				"band":"K",
+				"e_magnitude":"0.07",
+				"magnitude":"14.519",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52366.12",
+				"band":"R",
+				"e_magnitude":"0.026",
+				"magnitude":"13.827",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52366.12",
+				"band":"U",
+				"e_magnitude":"0.069",
+				"magnitude":"15.18",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52366.12",
+				"band":"V",
+				"e_magnitude":"0.014",
+				"magnitude":"13.851",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52370.05",
+				"band":"B",
+				"e_magnitude":"0.013",
+				"magnitude":"15.075",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52370.05",
+				"band":"H",
+				"e_magnitude":"0.023",
+				"magnitude":"14.233",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52370.05",
+				"band":"I",
+				"e_magnitude":"0.034",
+				"magnitude":"14.159",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52370.05",
+				"band":"J",
+				"e_magnitude":"0.054",
+				"magnitude":"15.386",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52370.05",
+				"band":"K",
+				"e_magnitude":"0.061",
+				"magnitude":"14.283",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52370.05",
+				"band":"R",
+				"e_magnitude":"0.032",
+				"magnitude":"14.075",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52370.05",
+				"band":"U",
+				"e_magnitude":"0.098",
+				"magnitude":"15.708",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52370.05",
+				"band":"V",
+				"e_magnitude":"0.014",
+				"magnitude":"14.108",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52373.1",
+				"band":"B",
+				"e_magnitude":"0.02",
+				"magnitude":"15.411",
+				"telescope":"CTIO 0.9m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52373.1",
+				"band":"I",
+				"e_magnitude":"0.01",
+				"magnitude":"14.346",
+				"telescope":"CTIO 0.9m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52373.1",
+				"band":"R",
+				"e_magnitude":"0.011",
+				"magnitude":"14.188",
+				"telescope":"CTIO 0.9m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52373.1",
+				"band":"U",
+				"e_magnitude":"0.064",
+				"magnitude":"15.989",
+				"telescope":"CTIO 0.9m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52373.1",
+				"band":"V",
+				"e_magnitude":"0.014",
+				"magnitude":"14.326",
+				"telescope":"CTIO 0.9m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52376.08",
+				"band":"B",
+				"e_magnitude":"0.031",
+				"magnitude":"15.738",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52376.08",
+				"band":"H",
+				"e_magnitude":"0.032",
+				"magnitude":"13.956",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52376.08",
+				"band":"I",
+				"e_magnitude":"0.038",
+				"magnitude":"13.987",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52376.08",
+				"band":"J",
+				"e_magnitude":"0.075",
+				"magnitude":"15.105",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52376.08",
+				"band":"K",
+				"e_magnitude":"0.103",
+				"magnitude":"14.096",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52376.08",
+				"band":"R",
+				"e_magnitude":"0.029",
+				"magnitude":"14.162",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52376.08",
+				"band":"U",
+				"e_magnitude":"0.114",
+				"magnitude":"16.563",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52376.08",
+				"band":"V",
+				"e_magnitude":"0.015",
+				"magnitude":"14.46",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52381.08",
+				"band":"B",
+				"e_magnitude":"0.028",
+				"magnitude":"16.221",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52381.08",
+				"band":"H",
+				"e_magnitude":"0.02",
+				"magnitude":"13.82",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52381.08",
+				"band":"I",
+				"e_magnitude":"0.013",
+				"magnitude":"13.957",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52381.08",
+				"band":"J",
+				"e_magnitude":"0.047",
+				"magnitude":"14.752",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52381.08",
+				"band":"K",
+				"e_magnitude":"0.04",
+				"magnitude":"13.92",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52381.08",
+				"band":"R",
+				"e_magnitude":"0.022",
+				"magnitude":"14.261",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52381.08",
+				"band":"U",
+				"e_magnitude":"0.157",
+				"magnitude":"17.063",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52381.08",
+				"band":"V",
+				"e_magnitude":"0.011",
+				"magnitude":"14.71",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52385.07",
+				"band":"B",
+				"e_magnitude":"0.054",
+				"magnitude":"16.507",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52385.07",
+				"band":"H",
+				"e_magnitude":"0.029",
+				"magnitude":"13.953",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52385.07",
+				"band":"I",
+				"e_magnitude":"0.015",
+				"magnitude":"13.996",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52385.07",
+				"band":"J",
+				"e_magnitude":"0.043",
+				"magnitude":"14.683",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52385.07",
+				"band":"K",
+				"e_magnitude":"0.052",
+				"magnitude":"14.093",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52385.07",
+				"band":"R",
+				"e_magnitude":"0.026",
+				"magnitude":"14.437",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52385.07",
+				"band":"U",
+				"e_magnitude":"0.249",
+				"magnitude":"17.432",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52385.07",
+				"band":"V",
+				"e_magnitude":"0.027",
+				"magnitude":"14.952",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52389.07",
+				"band":"H",
+				"e_magnitude":"0.027",
+				"magnitude":"14.101",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52389.07",
+				"band":"J",
+				"e_magnitude":"0.025",
+				"magnitude":"14.819",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52389.07",
+				"band":"K",
+				"e_magnitude":"0.048",
+				"magnitude":"14.371",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52389.08",
+				"band":"B",
+				"e_magnitude":"0.039",
+				"magnitude":"16.78",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52389.08",
+				"band":"I",
+				"e_magnitude":"0.013",
+				"magnitude":"14.286",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52389.08",
+				"band":"R",
+				"e_magnitude":"0.014",
+				"magnitude":"14.736",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52389.08",
+				"band":"U",
+				"e_magnitude":"0.215",
+				"magnitude":"17.436",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52389.08",
+				"band":"V",
+				"e_magnitude":"0.022",
+				"magnitude":"15.274",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52390.03",
+				"band":"B",
+				"e_magnitude":"0.046",
+				"magnitude":"16.799",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52390.03",
+				"band":"H",
+				"e_magnitude":"0.027",
+				"magnitude":"14.292",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52390.03",
+				"band":"I",
+				"e_magnitude":"0.015",
+				"magnitude":"14.37",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52390.03",
+				"band":"J",
+				"e_magnitude":"0.038",
+				"magnitude":"14.882",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52390.03",
+				"band":"K",
+				"e_magnitude":"0.05",
+				"magnitude":"14.531",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52390.03",
+				"band":"R",
+				"e_magnitude":"0.014",
+				"magnitude":"14.797",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52390.03",
+				"band":"V",
+				"e_magnitude":"0.019",
+				"magnitude":"15.325",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52396.98",
+				"band":"B",
+				"e_magnitude":"0.057",
+				"magnitude":"17.045",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52396.98",
+				"band":"H",
+				"e_magnitude":"0.037",
+				"magnitude":"14.693",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52396.98",
+				"band":"I",
+				"e_magnitude":"0.014",
+				"magnitude":"14.827",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52396.98",
+				"band":"J",
+				"e_magnitude":"0.075",
+				"magnitude":"15.607",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52396.98",
+				"band":"K",
+				"e_magnitude":"0.071",
+				"magnitude":"14.912",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52396.98",
+				"band":"R",
+				"e_magnitude":"0.015",
+				"magnitude":"15.164",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52396.98",
+				"band":"V",
+				"e_magnitude":"0.016",
+				"magnitude":"15.6",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52400.04",
+				"band":"B",
+				"e_magnitude":"0.013",
+				"magnitude":"17.085",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52400.04",
+				"band":"H",
+				"e_magnitude":"0.03",
+				"magnitude":"14.872",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52400.04",
+				"band":"I",
+				"e_magnitude":"0.012",
+				"magnitude":"14.935",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52400.04",
+				"band":"J",
+				"e_magnitude":"0.037",
+				"magnitude":"15.71",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52400.04",
+				"band":"K",
+				"e_magnitude":"0.092",
+				"magnitude":"15.16",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52400.04",
+				"band":"R",
+				"e_magnitude":"0.018",
+				"magnitude":"15.284",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"52400.04",
+				"band":"V",
+				"e_magnitude":"0.015",
+				"magnitude":"15.71",
+				"telescope":"YALO 1.0m",
+				"u_time":"MJD",
+				"source":"1"
+			}
+		]
 	}
 }

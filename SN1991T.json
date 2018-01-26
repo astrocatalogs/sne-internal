@@ -3,17 +3,126 @@
 		"name":"SN1991T",
 		"sources":[
 			{
-				"bibcode":"2004MNRAS.349.1344A",
+				"bibcode":"2004AJ....128.3034K",
 				"alias":"1"
+			},
+			{
+				"bibcode":"2004MNRAS.349.1344A",
+				"alias":"2"
 			}
 		],
 		"alias":[
 			{
 				"value":"SN1991T",
-				"source":"1"
+				"source":"1,2"
 			}
 		],
 		"photometry":[
+			{
+				"time":"48363.96",
+				"band":"H",
+				"magnitude":"11.16",
+				"telescope":"2.3m Australian National Univ.",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48363.96",
+				"band":"J",
+				"magnitude":"11.73",
+				"telescope":"2.3m Australian National Univ.",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48363.96",
+				"band":"K",
+				"magnitude":"10.93",
+				"telescope":"2.3m Australian National Univ.",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48380.25",
+				"band":"H",
+				"e_magnitude":"0.1",
+				"magnitude":"12.44",
+				"telescope":"2.3m Australian National Univ.",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48380.25",
+				"band":"J",
+				"e_magnitude":"0.09",
+				"magnitude":"12.45",
+				"telescope":"2.3m Australian National Univ.",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48380.25",
+				"band":"K",
+				"e_magnitude":"0.1",
+				"magnitude":"12.28",
+				"telescope":"2.3m Australian National Univ.",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48381.3",
+				"band":"H",
+				"e_magnitude":"0.1",
+				"magnitude":"12.29",
+				"telescope":"2.3m Australian National Univ.",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48381.3",
+				"band":"J",
+				"e_magnitude":"0.1",
+				"magnitude":"12.58",
+				"telescope":"2.3m Australian National Univ.",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48381.3",
+				"band":"K",
+				"e_magnitude":"0.1",
+				"magnitude":"12.19",
+				"telescope":"2.3m Australian National Univ.",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48429.36",
+				"band":"H",
+				"e_magnitude":"0.14",
+				"magnitude":"13.72",
+				"telescope":"2.3m Australian National Univ.",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48429.36",
+				"band":"J",
+				"e_magnitude":"0.3",
+				"magnitude":"14.97",
+				"telescope":"2.3m Australian National Univ.",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"48429.36",
+				"band":"K",
+				"e_magnitude":"0.25",
+				"magnitude":"13.71",
+				"telescope":"2.3m Australian National Univ.",
+				"u_time":"MJD",
+				"source":"1"
+			},
 			{
 				"time":"48362.35",
 				"band":"B",
@@ -21,7 +130,7 @@
 				"magnitude":"12.98",
 				"telescope":"ESO 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48362.35",
@@ -30,7 +139,7 @@
 				"magnitude":"12.87",
 				"telescope":"ESO 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48362.35",
@@ -39,7 +148,7 @@
 				"magnitude":"12.67",
 				"telescope":"ESO 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48362.35",
@@ -48,7 +157,7 @@
 				"magnitude":"12.26",
 				"telescope":"ESO 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48362.35",
@@ -57,7 +166,7 @@
 				"magnitude":"12.84",
 				"telescope":"ESO 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48363.15",
@@ -67,7 +176,7 @@
 				"magnitude":"12.73",
 				"telescope":"MPG/ESO 2.2m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48363.15",
@@ -77,7 +186,7 @@
 				"magnitude":"12.61",
 				"telescope":"MPG/ESO 2.2m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48363.3",
@@ -86,7 +195,7 @@
 				"magnitude":"12.8",
 				"telescope":"ESO 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48363.3",
@@ -95,7 +204,7 @@
 				"magnitude":"12.04",
 				"telescope":"ESO 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48363.3",
@@ -104,7 +213,7 @@
 				"magnitude":"12.74",
 				"telescope":"ESO 1.0m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48364.14",
@@ -114,7 +223,7 @@
 				"magnitude":"12.46",
 				"telescope":"MPG/ESO 2.2m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48364.14",
@@ -124,7 +233,7 @@
 				"magnitude":"12.32",
 				"telescope":"MPG/ESO 2.2m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48364.14",
@@ -134,7 +243,7 @@
 				"magnitude":"12.34",
 				"telescope":"MPG/ESO 2.2m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48366.17",
@@ -144,7 +253,7 @@
 				"magnitude":"12.06",
 				"telescope":"ESO 3.6m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48366.17",
@@ -154,7 +263,7 @@
 				"magnitude":"11.97",
 				"telescope":"ESO 3.6m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48366.17",
@@ -164,7 +273,7 @@
 				"magnitude":"12",
 				"telescope":"ESO 3.6m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48367.15",
@@ -174,7 +283,7 @@
 				"magnitude":"11.89",
 				"telescope":"ESO 3.6m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48368.2",
@@ -184,7 +293,7 @@
 				"magnitude":"11.78",
 				"telescope":"ESO 3.6m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48368.2",
@@ -194,7 +303,7 @@
 				"magnitude":"11.7",
 				"telescope":"ESO 3.6m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48368.2",
@@ -204,7 +313,7 @@
 				"magnitude":"11.8",
 				"telescope":"ESO 3.6m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48396.06",
@@ -214,7 +323,7 @@
 				"magnitude":"13.39",
 				"telescope":"ESO 3.6m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48396.06",
@@ -224,7 +333,7 @@
 				"magnitude":"13.48",
 				"telescope":"ESO 3.6m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48396.06",
@@ -234,7 +343,7 @@
 				"magnitude":"12.32",
 				"telescope":"ESO 3.6m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48396.06",
@@ -244,7 +353,7 @@
 				"magnitude":"12.29",
 				"telescope":"ESO 3.6m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48396.06",
@@ -254,7 +363,7 @@
 				"magnitude":"12.32",
 				"telescope":"ESO 3.6m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48396.06",
@@ -264,7 +373,7 @@
 				"magnitude":"12.45",
 				"telescope":"ESO 3.6m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48427.17",
@@ -274,7 +383,7 @@
 				"magnitude":"14.77",
 				"telescope":"ESO 3.6m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48427.17",
@@ -284,7 +393,7 @@
 				"magnitude":"13.45",
 				"telescope":"ESO 3.6m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48427.17",
@@ -294,7 +403,7 @@
 				"magnitude":"13.51",
 				"telescope":"ESO 3.6m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48427.17",
@@ -304,7 +413,7 @@
 				"magnitude":"13.59",
 				"telescope":"ESO 3.6m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48427.17",
@@ -314,7 +423,7 @@
 				"magnitude":"13.6",
 				"telescope":"ESO 3.6m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48427.17",
@@ -324,7 +433,7 @@
 				"magnitude":"13.66",
 				"telescope":"ESO 3.6m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48469.01",
@@ -334,7 +443,7 @@
 				"magnitude":"15.42",
 				"telescope":"MPG/ESO 2.2m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48469.01",
@@ -344,7 +453,7 @@
 				"magnitude":"14.78",
 				"telescope":"MPG/ESO 2.2m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48479.99",
@@ -354,7 +463,7 @@
 				"magnitude":"15.29",
 				"telescope":"MPG/ESO 2.2m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48592.96",
@@ -364,7 +473,7 @@
 				"magnitude":"16.95",
 				"telescope":"Asiago 1.82m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48592.96",
@@ -374,7 +483,7 @@
 				"magnitude":"16.98",
 				"telescope":"Asiago 1.82m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48592.96",
@@ -384,7 +493,7 @@
 				"magnitude":"17.59",
 				"telescope":"Asiago 1.82m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48592.96",
@@ -394,7 +503,7 @@
 				"magnitude":"17.62",
 				"telescope":"Asiago 1.82m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48592.96",
@@ -404,7 +513,7 @@
 				"magnitude":"17.01",
 				"telescope":"Asiago 1.82m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48593.96",
@@ -414,7 +523,7 @@
 				"magnitude":"17.06",
 				"telescope":"Asiago 1.82m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48593.96",
@@ -424,7 +533,7 @@
 				"magnitude":"17.65",
 				"telescope":"Asiago 1.82m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48593.96",
@@ -434,7 +543,7 @@
 				"magnitude":"17.1",
 				"telescope":"Asiago 1.82m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48602.96",
@@ -444,7 +553,7 @@
 				"magnitude":"17.04",
 				"telescope":"Asiago 1.82m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48602.96",
@@ -454,7 +563,7 @@
 				"magnitude":"17.68",
 				"telescope":"Asiago 1.82m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48602.96",
@@ -464,7 +573,7 @@
 				"magnitude":"17.07",
 				"telescope":"Asiago 1.82m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48653.4",
@@ -474,7 +583,7 @@
 				"magnitude":"17.66",
 				"telescope":"MPG/ESO 2.2m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48653.4",
@@ -484,7 +593,7 @@
 				"magnitude":"18.54",
 				"telescope":"MPG/ESO 2.2m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48653.4",
@@ -494,7 +603,7 @@
 				"magnitude":"17.95",
 				"telescope":"MPG/ESO 2.2m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48657.1",
@@ -504,7 +613,7 @@
 				"magnitude":"17.88",
 				"telescope":"Asiago 1.82m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48657.32",
@@ -514,7 +623,7 @@
 				"magnitude":"17.74",
 				"telescope":"ESO 3.6m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48657.32",
@@ -524,7 +633,7 @@
 				"magnitude":"18.56",
 				"telescope":"ESO 3.6m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48657.32",
@@ -534,7 +643,7 @@
 				"magnitude":"17.96",
 				"telescope":"ESO 3.6m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48658.16",
@@ -544,7 +653,7 @@
 				"magnitude":"17.75",
 				"telescope":"Asiago 1.82m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48658.16",
@@ -554,7 +663,7 @@
 				"magnitude":"18.52",
 				"telescope":"Asiago 1.82m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48658.16",
@@ -564,7 +673,7 @@
 				"magnitude":"17.94",
 				"telescope":"Asiago 1.82m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48681.28",
@@ -574,7 +683,7 @@
 				"magnitude":"18.02",
 				"telescope":"MPG/ESO 2.2m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48681.28",
@@ -584,7 +693,7 @@
 				"magnitude":"18.97",
 				"telescope":"MPG/ESO 2.2m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48681.28",
@@ -594,7 +703,7 @@
 				"magnitude":"18.34",
 				"telescope":"MPG/ESO 2.2m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48685.96",
@@ -604,7 +713,7 @@
 				"magnitude":"18.25",
 				"telescope":"Asiago 1.82m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48685.96",
@@ -614,7 +723,7 @@
 				"magnitude":"19",
 				"telescope":"Asiago 1.82m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48685.96",
@@ -624,7 +733,7 @@
 				"magnitude":"18.27",
 				"telescope":"Asiago 1.82m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48687.96",
@@ -634,7 +743,7 @@
 				"magnitude":"18.25",
 				"telescope":"Asiago 1.82m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48687.96",
@@ -644,7 +753,7 @@
 				"magnitude":"19.05",
 				"telescope":"Asiago 1.82m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48687.96",
@@ -654,7 +763,7 @@
 				"magnitude":"18.35",
 				"telescope":"Asiago 1.82m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48692.17",
@@ -664,7 +773,7 @@
 				"magnitude":"18.42",
 				"telescope":"NTT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48692.17",
@@ -674,7 +783,7 @@
 				"magnitude":"19.07",
 				"telescope":"NTT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48692.17",
@@ -684,7 +793,7 @@
 				"magnitude":"18.42",
 				"telescope":"NTT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48746.19",
@@ -694,7 +803,7 @@
 				"magnitude":"18.99",
 				"telescope":"ESO 3.6m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48746.19",
@@ -704,7 +813,7 @@
 				"magnitude":"19",
 				"telescope":"ESO 3.6m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48746.19",
@@ -714,7 +823,7 @@
 				"magnitude":"19.58",
 				"telescope":"ESO 3.6m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48746.19",
@@ -724,7 +833,7 @@
 				"magnitude":"19.12",
 				"telescope":"ESO 3.6m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48829.17",
@@ -734,7 +843,7 @@
 				"magnitude":"19.97",
 				"telescope":"MPG/ESO 2.2m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48829.17",
@@ -744,7 +853,7 @@
 				"magnitude":"20.57",
 				"telescope":"MPG/ESO 2.2m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48829.17",
@@ -754,7 +863,7 @@
 				"magnitude":"20.27",
 				"telescope":"MPG/ESO 2.2m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48979.17",
@@ -764,7 +873,7 @@
 				"magnitude":"21.04",
 				"telescope":"ESO 3.6m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"48979.17",
@@ -774,7 +883,7 @@
 				"magnitude":"20.95",
 				"telescope":"ESO 3.6m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"49010.17",
@@ -784,7 +893,7 @@
 				"magnitude":"21.02",
 				"telescope":"ESO 3.6m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"49010.17",
@@ -794,7 +903,7 @@
 				"magnitude":"21.28",
 				"telescope":"ESO 3.6m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"49010.17",
@@ -804,7 +913,7 @@
 				"magnitude":"21",
 				"telescope":"ESO 3.6m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"49035.17",
@@ -814,7 +923,7 @@
 				"magnitude":"21.25",
 				"telescope":"NTT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"49035.17",
@@ -824,7 +933,7 @@
 				"magnitude":"20.97",
 				"telescope":"NTT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"49045.29",
@@ -834,7 +943,7 @@
 				"magnitude":"21.08",
 				"telescope":"MPG/ESO 2.2m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"49045.29",
@@ -844,7 +953,7 @@
 				"magnitude":"20.99",
 				"telescope":"MPG/ESO 2.2m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"49046.29",
@@ -854,7 +963,7 @@
 				"magnitude":"21.21",
 				"telescope":"MPG/ESO 2.2m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"49046.29",
@@ -864,7 +973,7 @@
 				"magnitude":"21.36",
 				"telescope":"MPG/ESO 2.2m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"49046.29",
@@ -874,7 +983,7 @@
 				"magnitude":"21.02",
 				"telescope":"MPG/ESO 2.2m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"49061.17",
@@ -884,7 +993,7 @@
 				"magnitude":"21.03",
 				"telescope":"ESO 3.6m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"49061.17",
@@ -894,7 +1003,7 @@
 				"magnitude":"21.17",
 				"telescope":"ESO 3.6m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"49061.17",
@@ -904,7 +1013,7 @@
 				"magnitude":"21.08",
 				"telescope":"ESO 3.6m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"49103.1",
@@ -914,7 +1023,7 @@
 				"magnitude":"21.06",
 				"telescope":"ESO 3.6m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"49103.1",
@@ -924,7 +1033,7 @@
 				"magnitude":"21.22",
 				"telescope":"ESO 3.6m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"49104.1",
@@ -934,7 +1043,7 @@
 				"magnitude":"21.06",
 				"telescope":"ESO 3.6m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"49104.1",
@@ -944,7 +1053,7 @@
 				"magnitude":"21.21",
 				"telescope":"ESO 3.6m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"49428.28",
@@ -954,7 +1063,7 @@
 				"magnitude":"21.43",
 				"telescope":"NTT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"49428.28",
@@ -964,7 +1073,7 @@
 				"magnitude":"21.45",
 				"telescope":"NTT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"49482.12",
@@ -974,7 +1083,7 @@
 				"magnitude":"21.13",
 				"telescope":"ESO 3.6m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"49487.15",
@@ -984,7 +1093,7 @@
 				"magnitude":"21.3",
 				"telescope":"MPG/ESO 2.2m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"50159.27",
@@ -994,7 +1103,7 @@
 				"magnitude":"21.49",
 				"telescope":"ESO 3.6m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"50159.27",
@@ -1004,7 +1113,7 @@
 				"magnitude":"21.48",
 				"telescope":"ESO 3.6m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			}
 		]
 	}
