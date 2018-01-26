@@ -11,6 +11,35 @@
 			{
 				"value":"HSC17auzg",
 				"source":"1"
+			},
+			{
+				"value":"SN2016jhn",
+				"source":"1"
+			}
+		],
+		"redshift":[
+			{
+				"value":"1.965",
+				"e_value":"0.004",
+				"source":"1"
+			}
+		],
+		"ra":[
+			{
+				"value":"09:59:00.42",
+				"source":"1"
+			}
+		],
+		"dec":[
+			{
+				"value":"+02:14:20.8",
+				"source":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"SLSN-II",
+				"source":"1"
 			}
 		],
 		"photometry":[

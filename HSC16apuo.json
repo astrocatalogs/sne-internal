@@ -11,6 +11,37 @@
 			{
 				"value":"HSC16apuo",
 				"source":"1"
+			},
+			{
+				"value":"AT2016jho",
+				"source":"1"
+			}
+		],
+		"redshift":[
+			{
+				"value":"2.8225",
+				"e_lower_value":"0.7032",
+				"e_upper_value":"0.4727",
+				"kind":"host",
+				"source":"1"
+			}
+		],
+		"ra":[
+			{
+				"value":"10:01:29.42",
+				"source":"1"
+			}
+		],
+		"dec":[
+			{
+				"value":"+02:28:33.8",
+				"source":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"SLSN?",
+				"source":"1"
 			}
 		],
 		"photometry":[
