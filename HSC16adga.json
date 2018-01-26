@@ -11,6 +11,28 @@
 			{
 				"value":"HSC16adga",
 				"source":"1"
+			},
+			{
+				"value":"SN2016jhm",
+				"source":"1"
+			}
+		],
+		"redshift":[
+			{
+				"value":"2.399",
+				"source":"1"
+			}
+		],
+		"ra":[
+			{
+				"value":"10:02:20.12",
+				"source":"1"
+			}
+		],
+		"dec":[
+			{
+				"value":"+02:48:43.3",
+				"source":"1"
 			}
 		],
 		"photometry":[
