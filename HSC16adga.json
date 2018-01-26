@@ -20,6 +20,7 @@
 		"redshift":[
 			{
 				"value":"2.399",
+				"e_value":"0.004",
 				"source":"1"
 			}
 		],
@@ -32,6 +33,12 @@
 		"dec":[
 			{
 				"value":"+02:48:43.3",
+				"source":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"SLSN-II",
 				"source":"1"
 			}
 		],
