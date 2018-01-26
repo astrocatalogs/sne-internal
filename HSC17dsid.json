@@ -11,6 +11,36 @@
 			{
 				"value":"HSC17dsid",
 				"source":"1"
+			},
+			{
+				"value":"AT2017fej",
+				"source":"1"
+			}
+		],
+		"redshift":[
+			{
+				"value":"4.1974",
+				"e_lower_value":"0.126",
+				"e_upper_value":"0.0908",
+				"source":"1"
+			}
+		],
+		"ra":[
+			{
+				"value":"10:02:58.12",
+				"source":"1"
+			}
+		],
+		"dec":[
+			{
+				"value":"+02:13:04.1",
+				"source":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"SLSN?",
+				"source":"1"
 			}
 		],
 		"photometry":[
