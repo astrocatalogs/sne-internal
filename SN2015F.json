@@ -3,25 +3,1079 @@
 		"name":"SN2015F",
 		"sources":[
 			{
-				"bibcode":"2017arXiv171101275G",
+				"bibcode":"2017ApJ...850..111N",
 				"alias":"1"
 			},
 			{
-				"bibcode":"2017ApJ...835...64G",
+				"bibcode":"2017arXiv171101275G",
 				"alias":"2"
+			},
+			{
+				"bibcode":"2017ApJ...835...64G",
+				"alias":"3"
 			}
 		],
 		"alias":[
 			{
 				"value":"SN2015F",
-				"source":"1"
+				"source":"1,2"
 			},
 			{
 				"value":"OGLE15la",
-				"source":"2"
+				"source":"3"
 			}
 		],
 		"photometry":[
+			{
+				"time":"53722.6424",
+				"band":"V",
+				"e_magnitude":"0.35",
+				"instrument":"CSS",
+				"magnitude":"18.36",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53737.6535",
+				"band":"V",
+				"e_magnitude":"0.28",
+				"instrument":"CSS",
+				"magnitude":"17.87",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53990.7616",
+				"band":"V",
+				"e_magnitude":"0.73",
+				"instrument":"CSS",
+				"magnitude":"19.67",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"54096.6101",
+				"band":"V",
+				"e_magnitude":"0.33",
+				"instrument":"CSS",
+				"magnitude":"18.16",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"54182.4927",
+				"band":"V",
+				"e_magnitude":"0.25",
+				"instrument":"CSS",
+				"magnitude":"18.11",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"54210.4364",
+				"band":"V",
+				"e_magnitude":"0.34",
+				"instrument":"CSS",
+				"magnitude":"18.7",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"54392.7095",
+				"band":"V",
+				"e_magnitude":"0.42",
+				"instrument":"CSS",
+				"magnitude":"18.61",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"54462.6572",
+				"band":"V",
+				"e_magnitude":"0.58",
+				"instrument":"CSS",
+				"magnitude":"18.93",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"54510.5838",
+				"band":"V",
+				"e_magnitude":"0.21",
+				"instrument":"CSS",
+				"magnitude":"17.96",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"54816.5922",
+				"band":"V",
+				"e_magnitude":"0.34",
+				"instrument":"CSS",
+				"magnitude":"18.49",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"54844.5859",
+				"band":"V",
+				"e_magnitude":"0.26",
+				"instrument":"CSS",
+				"magnitude":"18.58",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"54844.6004",
+				"band":"V",
+				"e_magnitude":"0.25",
+				"instrument":"CSS",
+				"magnitude":"18.47",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"54897.5271",
+				"band":"V",
+				"e_magnitude":"0.26",
+				"instrument":"CSS",
+				"magnitude":"18.55",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"54937.4827",
+				"band":"V",
+				"e_magnitude":"0.53",
+				"instrument":"CSS",
+				"magnitude":"19.32",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55123.7132",
+				"band":"V",
+				"e_magnitude":"0.32",
+				"instrument":"CSS",
+				"magnitude":"18.5",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55218.622",
+				"band":"V",
+				"e_magnitude":"0.28",
+				"instrument":"CSS",
+				"magnitude":"18.57",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55250.4892",
+				"band":"V",
+				"e_magnitude":"0.32",
+				"instrument":"CSS",
+				"magnitude":"18.76",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55250.4988",
+				"band":"V",
+				"e_magnitude":"0.22",
+				"instrument":"CSS",
+				"magnitude":"18.04",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55250.5085",
+				"band":"V",
+				"e_magnitude":"0.29",
+				"instrument":"CSS",
+				"magnitude":"18.57",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55304.4483",
+				"band":"V",
+				"e_magnitude":"0.47",
+				"instrument":"CSS",
+				"magnitude":"19.37",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55568.5875",
+				"band":"V",
+				"e_magnitude":"0.19",
+				"instrument":"CSS",
+				"magnitude":"18.0",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56001.473",
+				"band":"V",
+				"e_magnitude":"0.3",
+				"instrument":"CSS",
+				"magnitude":"18.38",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56065.3799",
+				"band":"V",
+				"e_magnitude":"0.22",
+				"instrument":"CSS",
+				"magnitude":"18.09",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56376.5069",
+				"band":"V",
+				"e_magnitude":"0.24",
+				"instrument":"CSS",
+				"magnitude":"18.53",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57140.445",
+				"band":"g",
+				"e_magnitude":"0.1",
+				"instrument":"SkyMapper",
+				"magnitude":"19.3",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57140.445",
+				"band":"r",
+				"e_magnitude":"0.09",
+				"instrument":"SkyMapper",
+				"magnitude":"19.28",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57148.33",
+				"band":"i",
+				"e_magnitude":"0.08",
+				"instrument":"SkyMapper",
+				"magnitude":"18.5",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57148.33",
+				"band":"v",
+				"e_magnitude":"0.09",
+				"instrument":"SkyMapper",
+				"magnitude":"18.43",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57148.4",
+				"band":"g",
+				"e_magnitude":"0.1",
+				"instrument":"SkyMapper",
+				"magnitude":"18.3",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57148.4",
+				"band":"r",
+				"e_magnitude":"0.07",
+				"instrument":"SkyMapper",
+				"magnitude":"18.27",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57151.41",
+				"band":"r",
+				"e_magnitude":"0.13",
+				"instrument":"SkyMapper",
+				"magnitude":"18.23",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57151.457",
+				"band":"g",
+				"e_magnitude":"0.14",
+				"instrument":"SkyMapper",
+				"magnitude":"18.13",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57152.355",
+				"band":"v",
+				"e_magnitude":"0.14",
+				"instrument":"SkyMapper",
+				"magnitude":"18.31",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57152.4",
+				"band":"r",
+				"e_magnitude":"0.07",
+				"instrument":"SkyMapper",
+				"magnitude":"18.24",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57154.42",
+				"band":"r",
+				"e_magnitude":"0.07",
+				"instrument":"SkyMapper",
+				"magnitude":"18.16",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57155.324",
+				"band":"v",
+				"e_magnitude":"0.1",
+				"instrument":"SkyMapper",
+				"magnitude":"18.4",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57155.363",
+				"band":"g",
+				"e_magnitude":"0.1",
+				"instrument":"SkyMapper",
+				"magnitude":"18.17",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57155.395",
+				"band":"i",
+				"e_magnitude":"0.07",
+				"instrument":"SkyMapper",
+				"magnitude":"18.27",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57155.41",
+				"band":"r",
+				"e_magnitude":"0.07",
+				"instrument":"SkyMapper",
+				"magnitude":"18.14",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57156.312",
+				"band":"i",
+				"e_magnitude":"0.1",
+				"instrument":"SkyMapper",
+				"magnitude":"18.25",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57157.3",
+				"band":"i",
+				"e_magnitude":"0.06",
+				"instrument":"SkyMapper",
+				"magnitude":"18.28",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57157.3",
+				"band":"v",
+				"e_magnitude":"0.07",
+				"instrument":"SkyMapper",
+				"magnitude":"18.28",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57157.34",
+				"band":"g",
+				"e_magnitude":"0.1",
+				"instrument":"SkyMapper",
+				"magnitude":"18.22",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57157.387",
+				"band":"r",
+				"e_magnitude":"0.07",
+				"instrument":"SkyMapper",
+				"magnitude":"18.21",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57158.293",
+				"band":"v",
+				"e_magnitude":"0.08",
+				"instrument":"SkyMapper",
+				"magnitude":"18.36",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57158.363",
+				"band":"i",
+				"e_magnitude":"0.08",
+				"instrument":"SkyMapper",
+				"magnitude":"18.4",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57158.375",
+				"band":"g",
+				"e_magnitude":"0.1",
+				"instrument":"SkyMapper",
+				"magnitude":"18.2",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57158.375",
+				"band":"r",
+				"e_magnitude":"0.06",
+				"instrument":"SkyMapper",
+				"magnitude":"18.21",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57159.35",
+				"band":"i",
+				"e_magnitude":"0.06",
+				"instrument":"SkyMapper",
+				"magnitude":"18.31",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57159.35",
+				"band":"v",
+				"e_magnitude":"0.08",
+				"instrument":"SkyMapper",
+				"magnitude":"18.47",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57159.41",
+				"band":"g",
+				"e_magnitude":"0.1",
+				"instrument":"SkyMapper",
+				"magnitude":"18.24",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57159.41",
+				"band":"r",
+				"e_magnitude":"0.06",
+				"instrument":"SkyMapper",
+				"magnitude":"18.24",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57166.33",
+				"band":"r",
+				"e_magnitude":"0.08",
+				"instrument":"SkyMapper",
+				"magnitude":"18.5",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57166.348",
+				"band":"i",
+				"e_magnitude":"0.13",
+				"instrument":"SkyMapper",
+				"magnitude":"18.6",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57166.348",
+				"band":"v",
+				"e_magnitude":"0.1",
+				"instrument":"SkyMapper",
+				"magnitude":"18.37",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57166.375",
+				"band":"g",
+				"e_magnitude":"0.1",
+				"instrument":"SkyMapper",
+				"magnitude":"18.5",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57173.273",
+				"band":"i",
+				"e_magnitude":"0.11",
+				"instrument":"SkyMapper",
+				"magnitude":"18.34",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57176.258",
+				"band":"r",
+				"e_magnitude":"0.09",
+				"instrument":"SkyMapper",
+				"magnitude":"17.7",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57176.305",
+				"band":"g",
+				"e_magnitude":"0.14",
+				"instrument":"SkyMapper",
+				"magnitude":"17.6",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57176.312",
+				"band":"v",
+				"e_magnitude":"0.09",
+				"instrument":"SkyMapper",
+				"magnitude":"17.57",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57176.383",
+				"band":"i",
+				"e_magnitude":"0.1",
+				"instrument":"SkyMapper",
+				"magnitude":"17.92",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57177.23",
+				"band":"v",
+				"e_magnitude":"0.06",
+				"instrument":"SkyMapper",
+				"magnitude":"17.46",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57177.34",
+				"band":"r",
+				"e_magnitude":"0.09",
+				"instrument":"SkyMapper",
+				"magnitude":"17.53",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57177.375",
+				"band":"i",
+				"e_magnitude":"0.1",
+				"instrument":"SkyMapper",
+				"magnitude":"17.7",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57177.434",
+				"band":"g",
+				"e_magnitude":"0.12",
+				"instrument":"SkyMapper",
+				"magnitude":"17.45",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57179.28",
+				"band":"v",
+				"e_magnitude":"0.07",
+				"instrument":"SkyMapper",
+				"magnitude":"17.18",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57179.316",
+				"band":"g",
+				"e_magnitude":"0.12",
+				"instrument":"SkyMapper",
+				"magnitude":"17.14",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57179.316",
+				"band":"r",
+				"e_magnitude":"0.09",
+				"instrument":"SkyMapper",
+				"magnitude":"17.2",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57179.35",
+				"band":"i",
+				"e_magnitude":"0.1",
+				"instrument":"SkyMapper",
+				"magnitude":"17.34",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57180.21",
+				"band":"g",
+				"e_magnitude":"0.12",
+				"instrument":"SkyMapper",
+				"magnitude":"17.02",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57180.34",
+				"band":"i",
+				"e_magnitude":"0.1",
+				"instrument":"SkyMapper",
+				"magnitude":"17.23",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57180.34",
+				"band":"v",
+				"e_magnitude":"0.03",
+				"instrument":"SkyMapper",
+				"magnitude":"16.95",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57180.35",
+				"band":"r",
+				"e_magnitude":"0.1",
+				"instrument":"SkyMapper",
+				"magnitude":"17.1",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57181.293",
+				"band":"g",
+				"e_magnitude":"0.11",
+				"instrument":"SkyMapper",
+				"magnitude":"16.91",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57181.293",
+				"band":"r",
+				"e_magnitude":"0.1",
+				"instrument":"SkyMapper",
+				"magnitude":"17.0",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57181.332",
+				"band":"i",
+				"e_magnitude":"0.1",
+				"instrument":"SkyMapper",
+				"magnitude":"17.13",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57181.332",
+				"band":"v",
+				"e_magnitude":"0.05",
+				"instrument":"SkyMapper",
+				"magnitude":"16.9",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57182.32",
+				"band":"i",
+				"e_magnitude":"0.09",
+				"instrument":"SkyMapper",
+				"magnitude":"17.04",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57182.32",
+				"band":"v",
+				"e_magnitude":"0.05",
+				"instrument":"SkyMapper",
+				"magnitude":"16.88",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57182.33",
+				"band":"g",
+				"e_magnitude":"0.11",
+				"instrument":"SkyMapper",
+				"magnitude":"16.9",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57182.33",
+				"band":"r",
+				"e_magnitude":"0.09",
+				"instrument":"SkyMapper",
+				"magnitude":"16.92",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57183.24",
+				"band":"i",
+				"e_magnitude":"0.15",
+				"instrument":"SkyMapper",
+				"magnitude":"16.92",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57183.24",
+				"band":"v",
+				"e_magnitude":"0.06",
+				"instrument":"SkyMapper",
+				"magnitude":"16.69",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57183.27",
+				"band":"g",
+				"e_magnitude":"0.14",
+				"instrument":"SkyMapper",
+				"magnitude":"16.74",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57183.363",
+				"band":"r",
+				"e_magnitude":"0.12",
+				"instrument":"SkyMapper",
+				"magnitude":"16.82",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57186.28",
+				"band":"r",
+				"e_magnitude":"0.09",
+				"instrument":"SkyMapper",
+				"magnitude":"17.1",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57186.33",
+				"band":"g",
+				"e_magnitude":"0.13",
+				"instrument":"SkyMapper",
+				"magnitude":"17.04",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57186.348",
+				"band":"v",
+				"e_magnitude":"0.05",
+				"instrument":"SkyMapper",
+				"magnitude":"17.08",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57186.418",
+				"band":"i",
+				"e_magnitude":"0.1",
+				"instrument":"SkyMapper",
+				"magnitude":"17.21",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57187.266",
+				"band":"v",
+				"e_magnitude":"0.13",
+				"instrument":"SkyMapper",
+				"magnitude":"17.07",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57187.27",
+				"band":"g",
+				"e_magnitude":"0.16",
+				"instrument":"SkyMapper",
+				"magnitude":"17.0",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57187.316",
+				"band":"r",
+				"e_magnitude":"0.13",
+				"instrument":"SkyMapper",
+				"magnitude":"17.1",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57187.34",
+				"band":"i",
+				"e_magnitude":"0.1",
+				"instrument":"SkyMapper",
+				"magnitude":"17.2",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57193.2",
+				"band":"r",
+				"e_magnitude":"0.11",
+				"instrument":"SkyMapper",
+				"magnitude":"16.8",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57193.246",
+				"band":"g",
+				"e_magnitude":"0.17",
+				"instrument":"SkyMapper",
+				"magnitude":"16.72",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57193.273",
+				"band":"v",
+				"e_magnitude":"0.05",
+				"instrument":"SkyMapper",
+				"magnitude":"16.71",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57193.344",
+				"band":"i",
+				"e_magnitude":"0.1",
+				"instrument":"SkyMapper",
+				"magnitude":"16.91",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57194.266",
+				"band":"v",
+				"e_magnitude":"0.06",
+				"instrument":"SkyMapper",
+				"magnitude":"16.67",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57194.336",
+				"band":"i",
+				"e_magnitude":"0.09",
+				"instrument":"SkyMapper",
+				"magnitude":"16.94",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57194.375",
+				"band":"g",
+				"e_magnitude":"0.14",
+				"instrument":"SkyMapper",
+				"magnitude":"16.71",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57194.375",
+				"band":"r",
+				"e_magnitude":"0.11",
+				"instrument":"SkyMapper",
+				"magnitude":"16.8",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57738.0",
+				"band":"I",
+				"e_magnitude":"0.08",
+				"instrument":"IMACS",
+				"magnitude":"18.61",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57738.0",
+				"band":"Ks",
+				"e_magnitude":"0.15",
+				"instrument":"FourStar",
+				"magnitude":"15.8",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57738.0",
+				"band":"V",
+				"e_magnitude":"0.07",
+				"instrument":"IMACS",
+				"magnitude":"19.68",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57748.1337",
+				"band":"R",
+				"e_magnitude":"0.2",
+				"instrument":"FORS2",
+				"magnitude":"18.8",
+				"system":"Vega",
+				"u_time":"MJD",
+				"source":"1"
+			},
 			{
 				"time":"57700.7",
 				"band":"438",
@@ -29,7 +1083,7 @@
 				"magnitude":"24.67",
 				"telescope":"HST",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"57700.8",
@@ -38,7 +1092,7 @@
 				"magnitude":"24.28",
 				"telescope":"HST",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"57700.8",
@@ -47,7 +1101,7 @@
 				"magnitude":"24.52",
 				"telescope":"HST",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"57700.8",
@@ -56,7 +1110,7 @@
 				"magnitude":"24.21",
 				"telescope":"HST",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"57747.6",
@@ -65,7 +1119,7 @@
 				"magnitude":"24.81",
 				"telescope":"HST",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"57800.2",
@@ -74,7 +1128,7 @@
 				"magnitude":"25.71",
 				"telescope":"HST",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"57800.2",
@@ -83,7 +1137,7 @@
 				"magnitude":"24.98",
 				"telescope":"HST",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"57800.2",
@@ -92,7 +1146,7 @@
 				"magnitude":"25.55",
 				"telescope":"HST",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"57800.2",
@@ -101,7 +1155,7 @@
 				"magnitude":"25.39",
 				"telescope":"HST",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"57852.4",
@@ -110,7 +1164,7 @@
 				"magnitude":"25.38",
 				"telescope":"HST",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"57852.4",
@@ -119,7 +1173,7 @@
 				"magnitude":"25.74",
 				"telescope":"HST",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"57877.6",
@@ -128,7 +1182,7 @@
 				"magnitude":"26.55",
 				"telescope":"HST",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"57877.6",
@@ -137,7 +1191,7 @@
 				"magnitude":"25.61",
 				"telescope":"HST",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"57877.6",
@@ -146,7 +1200,7 @@
 				"magnitude":"26.28",
 				"telescope":"HST",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"57877.6",
@@ -154,7 +1208,7 @@
 				"magnitude":"26.7",
 				"telescope":"HST",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"57922.2",
@@ -163,7 +1217,7 @@
 				"magnitude":"25.85",
 				"telescope":"HST",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"57933.0",
@@ -172,7 +1226,7 @@
 				"magnitude":"26.86",
 				"telescope":"HST",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"57971.3",
@@ -180,7 +1234,7 @@
 				"magnitude":"27.4",
 				"telescope":"HST",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"57971.3",
@@ -189,7 +1243,7 @@
 				"magnitude":"26.68",
 				"telescope":"HST",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"57971.3",
@@ -198,7 +1252,7 @@
 				"magnitude":"27.43",
 				"telescope":"HST",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"57971.3",
@@ -206,7 +1260,7 @@
 				"magnitude":"26.7",
 				"telescope":"HST",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"58028.9",
@@ -215,7 +1269,7 @@
 				"magnitude":"26.90",
 				"telescope":"HST",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			}
 		]
 	}
