@@ -252,7 +252,7 @@
 				"time":"55054.4",
 				"band":"g'",
 				"e_magnitude":"0.015",
-				"magnitude":"5.921",
+				"magnitude":"15.921",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
 				"source":"1"
@@ -297,7 +297,7 @@
 				"time":"55064.4",
 				"band":"g'",
 				"e_magnitude":"0.015",
-				"magnitude":"6.222",
+				"magnitude":"16.222",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
 				"source":"1"
@@ -342,7 +342,7 @@
 				"time":"55066.4",
 				"band":"g'",
 				"e_magnitude":"0.015",
-				"magnitude":"6.293",
+				"magnitude":"16.293",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
 				"source":"1"
@@ -387,7 +387,7 @@
 				"time":"55067.4",
 				"band":"g'",
 				"e_magnitude":"0.015",
-				"magnitude":"6.314",
+				"magnitude":"16.314",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
 				"source":"1"
