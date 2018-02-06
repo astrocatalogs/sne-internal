@@ -49,7 +49,7 @@
 				"band":"V",
 				"e_magnitude":"0.05",
 				"instrument":"HSC",
-				"magnitude":"2.97",
+				"magnitude":"22.97",
 				"telescope":"Subaru",
 				"u_time":"MJD",
 				"source":"1"
@@ -139,7 +139,7 @@
 				"band":"V",
 				"e_magnitude":"0.05",
 				"instrument":"HSC",
-				"magnitude":"2.63",
+				"magnitude":"22.63",
 				"telescope":"Subaru",
 				"u_time":"MJD",
 				"source":"1"
@@ -168,7 +168,7 @@
 				"time":"57486.0",
 				"band":"V",
 				"instrument":"HSC",
-				"magnitude":"2.5",
+				"magnitude":"22.50",
 				"telescope":"Subaru",
 				"u_time":"MJD",
 				"source":"1"
@@ -196,7 +196,7 @@
 				"time":"57495.0",
 				"band":"V",
 				"instrument":"ARCTIC",
-				"magnitude":"0.06",
+				"magnitude":"20.06",
 				"telescope":"ARC",
 				"u_time":"MJD",
 				"source":"1"
@@ -234,7 +234,7 @@
 				"time":"57504.0",
 				"band":"V",
 				"instrument":"KWFC",
-				"magnitude":"9.61",
+				"magnitude":"19.61",
 				"telescope":"Kiso",
 				"u_time":"MJD",
 				"source":"1"
@@ -262,7 +262,7 @@
 				"time":"57506.0",
 				"band":"V",
 				"instrument":"WFC",
-				"magnitude":"9.61",
+				"magnitude":"19.61",
 				"telescope":"INT",
 				"u_time":"MJD",
 				"source":"1"
@@ -319,7 +319,7 @@
 				"time":"57513.0",
 				"band":"V",
 				"instrument":"ALFOSC",
-				"magnitude":"9.76",
+				"magnitude":"19.76",
 				"telescope":"NOT",
 				"u_time":"MJD",
 				"source":"1"
@@ -328,7 +328,7 @@
 				"time":"57513.0",
 				"band":"V",
 				"instrument":"IO:O",
-				"magnitude":"9.79",
+				"magnitude":"19.79",
 				"telescope":"LT",
 				"u_time":"MJD",
 				"source":"1"
@@ -406,7 +406,7 @@
 				"time":"57519.0",
 				"band":"V",
 				"instrument":"IO:O",
-				"magnitude":"0.11",
+				"magnitude":"20.11",
 				"telescope":"LT",
 				"u_time":"MJD",
 				"source":"1"
@@ -454,7 +454,7 @@
 				"time":"57522.0",
 				"band":"V",
 				"instrument":"ARCTIC",
-				"magnitude":"0.22",
+				"magnitude":"20.22",
 				"telescope":"ARC",
 				"u_time":"MJD",
 				"source":"1"
@@ -502,7 +502,7 @@
 				"time":"57527.0",
 				"band":"V",
 				"instrument":"ALFOSC",
-				"magnitude":"0.43",
+				"magnitude":"20.43",
 				"telescope":"NOT",
 				"u_time":"MJD",
 				"source":"1"
@@ -550,7 +550,7 @@
 				"time":"57533.0",
 				"band":"V",
 				"instrument":"GMOS",
-				"magnitude":"0.62",
+				"magnitude":"20.62",
 				"telescope":"Gemini-N",
 				"u_time":"MJD",
 				"source":"1"
@@ -588,7 +588,7 @@
 				"time":"57536.0",
 				"band":"V",
 				"instrument":"IO:O",
-				"magnitude":"0.78",
+				"magnitude":"20.78",
 				"telescope":"LT",
 				"u_time":"MJD",
 				"source":"1"
@@ -636,7 +636,7 @@
 				"time":"57545.0",
 				"band":"V",
 				"instrument":"ALFOSC",
-				"magnitude":"1.26",
+				"magnitude":"21.26",
 				"telescope":"NOT",
 				"u_time":"MJD",
 				"source":"1"
