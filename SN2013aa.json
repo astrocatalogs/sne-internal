@@ -1,0 +1,43 @@
+{
+	"SN2013aa":{
+		"name":"SN2013aa",
+		"sources":[
+			{
+				"bibcode":"2018arXiv180202252J",
+				"alias":"1"
+			}
+		],
+		"photometry":[
+			{
+				"time":["57834", "57842"],
+				"magnitude":"27.969",
+				"e_magnitude":"0.082",
+				"band":"350LP",
+				"instrument":"WFC3",
+				"telescope":"HST",
+				"system":"AB",
+				"source":"1"
+			},
+			{
+				"time":["57834", "57842"],
+				"magnitude":"27.971",
+				"e_magnitude":"0.280",
+				"band":"555W",
+				"instrument":"WFC3",
+				"telescope":"HST",
+				"system":"AB",
+				"source":"1"
+			},
+			{
+				"time":["57834", "57842"],
+				"magnitude":"27.465",
+				"e_magnitude":"0.177",
+				"band":"814W",
+				"instrument":"WFC3",
+				"telescope":"HST",
+				"system":"AB",
+				"source":"1"
+			}
+		]
+	}
+}
