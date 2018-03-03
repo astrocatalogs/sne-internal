@@ -1,9 +1,15 @@
 {
 	"SN1572A":{
 		"name":"SN1572A",
-		"aliases":[
-			"SN1572A",
-			"Tycho's supernova"
+		"alias":[
+			{
+				"value":"SN1572A",
+				"source":"1"
+			},
+			{
+				"value":"Tycho's supernova",
+				"source":"1"
+			}
 		],
 		"sources":[
 			{
