@@ -5,12 +5,20 @@
 			{
 				"bibcode":"2014MNRAS.444.3258M",
 				"alias":"1"
+			},
+			{
+				"bibcode":"2017arXiv171000846J",
+				"alias":"2"
 			}
 		],
 		"alias":[
 			{
 				"value":"PTF12czu",
 				"source":"1"
+			},
+			{
+				"value":"PSc380087",
+				"source":"2"
 			}
 		],
 		"photometry":[
