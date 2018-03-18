@@ -1,6 +1,14 @@
 {
 	"SN2010fq":{
 		"name":"SN2010fq",
+		"alias":[
+			{
+				"value":"SN2010fq"
+			},
+			{
+				"value":"PSc050296"
+			}
+		],
 		"errors":[
 			{
 				"value":"1989A&AS...81..421B",
