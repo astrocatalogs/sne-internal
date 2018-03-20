@@ -1,6 +1,6 @@
 {
-	"ps1_11bbq":{
-		"name":"ps1_11bbq",
+	"PS1-11bbq":{
+		"name":"PS1-11bbq",
 		"sources":[
 			{
 				"bibcode":"2014ApJ...794...23D",
@@ -9,7 +9,7 @@
 		],
 		"alias":[
 			{
-				"value":"ps1_11bbq",
+				"value":"PS1-11bbq",
 				"source":"1"
 			}
 		],
