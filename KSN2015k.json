@@ -11,6 +11,12 @@
 				"value":"KSN2015k"
 			}
 		],
+		"redshift":[
+			{
+				"value":"0.090",
+				"kind":"host"
+			}
+		],
 		"photometry":[
 			{
 				"time":"2457236.523",
