@@ -1,0 +1,60 @@
+{
+	"KSN2015k":{
+		"name":"KSN2015k",
+		"sources":[
+			{
+				"doi":"10.1038/s41550-018-0423-2"
+			}
+		],
+		"alias":[
+			{
+				"value":"KSN2015k"
+			}
+		],
+		"photometry:[
+			{
+				"time":"2457236.523",
+				"magnitude":"19.55",
+				"e_magnitude":"0.02",
+				"band":"i",
+				"u_time":"JD",
+				"instrument":"DECam",
+				"telescope":"CTIO 4m"
+			},
+			{
+				"time":"2457248",
+				"magnitude":"22.41",
+				"band":"i",
+				"u_time":"JD",
+				"instrument":"DECam",
+				"telescope":"CTIO 4m",
+				"upperlimit":true
+			},
+			{
+				"time":"2457236.523",
+				"magnitude":"22.87",
+				"band":"i",
+				"u_time":"JD",
+				"instrument":"DECam",
+				"telescope":"CTIO 4m",
+				"upperlimit":true
+			},
+			{
+				"time":"2457242.906",
+				"magnitude":"20.01",
+				"e_magnitude":"0.12",
+				"band":"g",
+				"u_time":"JD",
+				"telescope":"SkyMapper"
+			},
+			{
+				"time":"2457242.906",
+				"magnitude":"20.18",
+				"e_magnitude":"0.17",
+				"band":"r",
+				"u_time":"JD",
+				"telescope":"SkyMapper"
+			}
+		]
+	}
+}
