@@ -3,17 +3,941 @@
 		"name":"SN2012cg",
 		"sources":[
 			{
-				"bibcode":"2016ApJ...819...31G",
+				"bibcode":"2018PASP..130f4101V",
 				"alias":"1"
+			},
+			{
+				"bibcode":"2016ApJ...819...31G",
+				"alias":"2"
 			}
 		],
 		"alias":[
 			{
 				"value":"SN2012cg",
-				"source":"1"
+				"source":"1,2"
 			}
 		],
 		"photometry":[
+			{
+				"time":"56066.8",
+				"band":"B",
+				"e_magnitude":"0.031",
+				"magnitude":"14.995",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56066.8",
+				"band":"I",
+				"e_magnitude":"0.048",
+				"magnitude":"14.420",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56066.8",
+				"band":"R",
+				"e_magnitude":"0.023",
+				"magnitude":"14.593",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56066.8",
+				"band":"V",
+				"e_magnitude":"0.025",
+				"magnitude":"14.679",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56067.9",
+				"band":"B",
+				"e_magnitude":"0.014",
+				"magnitude":"14.493",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56067.9",
+				"band":"I",
+				"e_magnitude":"0.018",
+				"magnitude":"13.974",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56067.9",
+				"band":"R",
+				"e_magnitude":"0.011",
+				"magnitude":"14.133",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56067.9",
+				"band":"V",
+				"e_magnitude":"0.010",
+				"magnitude":"14.221",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56069.8",
+				"band":"B",
+				"e_magnitude":"0.014",
+				"magnitude":"13.629",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56069.8",
+				"band":"I",
+				"e_magnitude":"0.018",
+				"magnitude":"13.229",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56069.8",
+				"band":"R",
+				"e_magnitude":"0.009",
+				"magnitude":"13.375",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56069.8",
+				"band":"V",
+				"e_magnitude":"0.010",
+				"magnitude":"13.490",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56072.9",
+				"band":"B",
+				"e_magnitude":"0.008",
+				"magnitude":"12.765",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56072.9",
+				"band":"I",
+				"e_magnitude":"0.017",
+				"magnitude":"12.462",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56072.9",
+				"band":"R",
+				"e_magnitude":"0.008",
+				"magnitude":"12.575",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56072.9",
+				"band":"V",
+				"e_magnitude":"0.010",
+				"magnitude":"12.674",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56073.8",
+				"band":"B",
+				"e_magnitude":"0.015",
+				"magnitude":"12.646",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56073.8",
+				"band":"I",
+				"e_magnitude":"0.019",
+				"magnitude":"12.360",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56073.8",
+				"band":"R",
+				"e_magnitude":"0.012",
+				"magnitude":"12.481",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56073.8",
+				"band":"V",
+				"e_magnitude":"0.016",
+				"magnitude":"12.475",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56075.8",
+				"band":"B",
+				"e_magnitude":"0.012",
+				"magnitude":"12.452",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56075.8",
+				"band":"I",
+				"e_magnitude":"0.017",
+				"magnitude":"12.179",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56075.8",
+				"band":"R",
+				"e_magnitude":"0.007",
+				"magnitude":"12.233",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56075.8",
+				"band":"V",
+				"e_magnitude":"0.012",
+				"magnitude":"12.175",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56076.8",
+				"band":"B",
+				"e_magnitude":"0.017",
+				"magnitude":"12.141",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56076.8",
+				"band":"I",
+				"e_magnitude":"0.022",
+				"magnitude":"12.110",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56076.8",
+				"band":"R",
+				"e_magnitude":"0.011",
+				"magnitude":"12.108",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56076.8",
+				"band":"V",
+				"e_magnitude":"0.011",
+				"magnitude":"12.172",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56077.8",
+				"band":"B",
+				"e_magnitude":"0.011",
+				"magnitude":"12.205",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56077.8",
+				"band":"I",
+				"e_magnitude":"0.017",
+				"magnitude":"12.061",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56077.8",
+				"band":"R",
+				"e_magnitude":"0.009",
+				"magnitude":"12.105",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56077.8",
+				"band":"V",
+				"e_magnitude":"0.009",
+				"magnitude":"12.150",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56079.9",
+				"band":"B",
+				"e_magnitude":"0.008",
+				"magnitude":"12.132",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56079.9",
+				"band":"I",
+				"e_magnitude":"0.015",
+				"magnitude":"12.032",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56079.9",
+				"band":"R",
+				"e_magnitude":"0.008",
+				"magnitude":"11.994",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56079.9",
+				"band":"V",
+				"e_magnitude":"0.010",
+				"magnitude":"12.018",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56080.8",
+				"band":"B",
+				"e_magnitude":"0.013",
+				"magnitude":"12.150",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56080.8",
+				"band":"I",
+				"e_magnitude":"0.018",
+				"magnitude":"12.058",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56080.8",
+				"band":"R",
+				"e_magnitude":"0.009",
+				"magnitude":"11.954",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56080.8",
+				"band":"V",
+				"e_magnitude":"0.012",
+				"magnitude":"11.995",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56081.8",
+				"band":"B",
+				"e_magnitude":"0.017",
+				"magnitude":"12.097",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56081.8",
+				"band":"I",
+				"e_magnitude":"0.022",
+				"magnitude":"12.055",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56081.8",
+				"band":"R",
+				"e_magnitude":"0.012",
+				"magnitude":"11.950",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56081.8",
+				"band":"V",
+				"e_magnitude":"0.015",
+				"magnitude":"11.951",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56084.9",
+				"band":"B",
+				"e_magnitude":"0.010",
+				"magnitude":"12.139",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56084.9",
+				"band":"I",
+				"e_magnitude":"0.023",
+				"magnitude":"12.097",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56084.9",
+				"band":"R",
+				"e_magnitude":"0.012",
+				"magnitude":"11.888",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56084.9",
+				"band":"V",
+				"e_magnitude":"0.013",
+				"magnitude":"11.904",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56089.9",
+				"band":"B",
+				"e_magnitude":"0.016",
+				"magnitude":"12.439",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56089.9",
+				"band":"I",
+				"e_magnitude":"0.030",
+				"magnitude":"12.352",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56089.9",
+				"band":"R",
+				"e_magnitude":"0.024",
+				"magnitude":"12.042",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56089.9",
+				"band":"V",
+				"e_magnitude":"0.023",
+				"magnitude":"12.055",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56092.9",
+				"band":"B",
+				"e_magnitude":"0.018",
+				"magnitude":"12.617",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56092.9",
+				"band":"I",
+				"e_magnitude":"0.019",
+				"magnitude":"12.540",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56092.9",
+				"band":"R",
+				"e_magnitude":"0.008",
+				"magnitude":"12.296",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56092.9",
+				"band":"V",
+				"e_magnitude":"0.010",
+				"magnitude":"12.258",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56093.9",
+				"band":"B",
+				"e_magnitude":"0.018",
+				"magnitude":"12.726",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56093.9",
+				"band":"I",
+				"e_magnitude":"0.032",
+				"magnitude":"12.606",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56093.9",
+				"band":"R",
+				"e_magnitude":"0.012",
+				"magnitude":"12.354",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56093.9",
+				"band":"V",
+				"e_magnitude":"0.021",
+				"magnitude":"12.325",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56094.9",
+				"band":"B",
+				"e_magnitude":"0.025",
+				"magnitude":"12.799",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56094.9",
+				"band":"I",
+				"e_magnitude":"0.034",
+				"magnitude":"12.635",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56094.9",
+				"band":"R",
+				"e_magnitude":"0.013",
+				"magnitude":"12.441",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56094.9",
+				"band":"V",
+				"e_magnitude":"0.020",
+				"magnitude":"12.355",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56095.9",
+				"band":"B",
+				"e_magnitude":"0.033",
+				"magnitude":"12.918",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56095.9",
+				"band":"I",
+				"e_magnitude":"0.031",
+				"magnitude":"12.659",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56095.9",
+				"band":"R",
+				"e_magnitude":"0.014",
+				"magnitude":"12.502",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56095.9",
+				"band":"V",
+				"e_magnitude":"0.021",
+				"magnitude":"12.462",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56097.9",
+				"band":"B",
+				"e_magnitude":"0.032",
+				"magnitude":"13.143",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56097.9",
+				"band":"I",
+				"e_magnitude":"0.032",
+				"magnitude":"12.659",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56097.9",
+				"band":"R",
+				"e_magnitude":"0.018",
+				"magnitude":"12.550",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56097.9",
+				"band":"V",
+				"e_magnitude":"0.022",
+				"magnitude":"12.576",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56098.9",
+				"band":"B",
+				"e_magnitude":"0.027",
+				"magnitude":"13.251",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56098.9",
+				"band":"I",
+				"e_magnitude":"0.028",
+				"magnitude":"12.647",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56098.9",
+				"band":"R",
+				"e_magnitude":"0.010",
+				"magnitude":"12.611",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56098.9",
+				"band":"V",
+				"e_magnitude":"0.022",
+				"magnitude":"12.629",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56099.9",
+				"band":"B",
+				"e_magnitude":"0.025",
+				"magnitude":"13.389",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56099.9",
+				"band":"I",
+				"e_magnitude":"0.031",
+				"magnitude":"12.630",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56099.9",
+				"band":"R",
+				"e_magnitude":"0.017",
+				"magnitude":"12.644",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56099.9",
+				"band":"V",
+				"e_magnitude":"0.021",
+				"magnitude":"12.677",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56101.9",
+				"band":"B",
+				"e_magnitude":"0.025",
+				"magnitude":"13.565",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56101.9",
+				"band":"I",
+				"e_magnitude":"0.027",
+				"magnitude":"12.607",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56101.9",
+				"band":"R",
+				"e_magnitude":"0.010",
+				"magnitude":"12.666",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56101.9",
+				"band":"V",
+				"e_magnitude":"0.020",
+				"magnitude":"12.834",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56102.9",
+				"band":"B",
+				"e_magnitude":"0.029",
+				"magnitude":"13.756",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56102.9",
+				"band":"I",
+				"e_magnitude":"0.031",
+				"magnitude":"12.571",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56102.9",
+				"band":"R",
+				"e_magnitude":"0.018",
+				"magnitude":"12.640",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56102.9",
+				"band":"V",
+				"e_magnitude":"0.023",
+				"magnitude":"12.884",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56104.9",
+				"band":"B",
+				"e_magnitude":"0.032",
+				"magnitude":"13.992",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56104.9",
+				"band":"I",
+				"e_magnitude":"0.032",
+				"magnitude":"12.568",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56104.9",
+				"band":"R",
+				"e_magnitude":"0.013",
+				"magnitude":"12.728",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56104.9",
+				"band":"V",
+				"e_magnitude":"0.026",
+				"magnitude":"12.951",
+				"system":"Vega",
+				"telescope":"Konkoly",
+				"u_time":"MJD",
+				"source":"1"
+			},
 			{
 				"time":"56650.9",
 				"band":"F350LP",
@@ -27,7 +951,7 @@
 				"u_fluxdensity":"µJy",
 				"u_time":"MJD",
 				"zeropoint":"26.982",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56650.9",
@@ -42,7 +966,7 @@
 				"u_fluxdensity":"µJy",
 				"u_time":"MJD",
 				"zeropoint":"25.824",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56658.2",
@@ -57,7 +981,7 @@
 				"u_fluxdensity":"µJy",
 				"u_time":"MJD",
 				"zeropoint":"26.982",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56658.2",
@@ -72,7 +996,7 @@
 				"u_fluxdensity":"µJy",
 				"u_time":"MJD",
 				"zeropoint":"25.139",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56665.8",
@@ -87,7 +1011,7 @@
 				"u_fluxdensity":"µJy",
 				"u_time":"MJD",
 				"zeropoint":"25.9463",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56665.8",
@@ -102,7 +1026,7 @@
 				"u_fluxdensity":"µJy",
 				"u_time":"MJD",
 				"zeropoint":"26.982",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56674.1",
@@ -117,7 +1041,7 @@
 				"u_fluxdensity":"µJy",
 				"u_time":"MJD",
 				"zeropoint":"25.9463",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56674.1",
@@ -132,7 +1056,7 @@
 				"u_fluxdensity":"µJy",
 				"u_time":"MJD",
 				"zeropoint":"26.982",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56680.6",
@@ -147,7 +1071,7 @@
 				"u_fluxdensity":"µJy",
 				"u_time":"MJD",
 				"zeropoint":"26.982",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56680.6",
@@ -162,7 +1086,7 @@
 				"u_fluxdensity":"µJy",
 				"u_time":"MJD",
 				"zeropoint":"25.139",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56685.9",
@@ -177,7 +1101,7 @@
 				"u_fluxdensity":"µJy",
 				"u_time":"MJD",
 				"zeropoint":"26.982",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56685.9",
@@ -192,7 +1116,7 @@
 				"u_fluxdensity":"µJy",
 				"u_time":"MJD",
 				"zeropoint":"25.139",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56692.0",
@@ -207,7 +1131,7 @@
 				"u_fluxdensity":"µJy",
 				"u_time":"MJD",
 				"zeropoint":"25.9463",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56692.0",
@@ -222,7 +1146,7 @@
 				"u_fluxdensity":"µJy",
 				"u_time":"MJD",
 				"zeropoint":"26.982",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56699.8",
@@ -237,7 +1161,7 @@
 				"u_fluxdensity":"µJy",
 				"u_time":"MJD",
 				"zeropoint":"25.9463",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56699.8",
@@ -252,7 +1176,7 @@
 				"u_fluxdensity":"µJy",
 				"u_time":"MJD",
 				"zeropoint":"26.982",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56708.8",
@@ -267,7 +1191,7 @@
 				"u_fluxdensity":"µJy",
 				"u_time":"MJD",
 				"zeropoint":"26.982",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56708.8",
@@ -282,7 +1206,7 @@
 				"u_fluxdensity":"µJy",
 				"u_time":"MJD",
 				"zeropoint":"25.824",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56715.5",
@@ -297,7 +1221,7 @@
 				"u_fluxdensity":"µJy",
 				"u_time":"MJD",
 				"zeropoint":"26.982",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56715.5",
@@ -312,7 +1236,7 @@
 				"u_fluxdensity":"µJy",
 				"u_time":"MJD",
 				"zeropoint":"25.139",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56725.6",
@@ -327,7 +1251,7 @@
 				"u_fluxdensity":"µJy",
 				"u_time":"MJD",
 				"zeropoint":"25.9463",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56725.6",
@@ -342,7 +1266,7 @@
 				"u_fluxdensity":"µJy",
 				"u_time":"MJD",
 				"zeropoint":"26.982",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"57007.5",
@@ -357,7 +1281,7 @@
 				"u_fluxdensity":"µJy",
 				"u_time":"MJD",
 				"zeropoint":"26.982",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"57059.9",
@@ -372,7 +1296,7 @@
 				"u_fluxdensity":"µJy",
 				"u_time":"MJD",
 				"zeropoint":"26.982",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"57138.6",
@@ -387,7 +1311,7 @@
 				"u_fluxdensity":"µJy",
 				"u_time":"MJD",
 				"zeropoint":"26.982",
-				"source":"1"
+				"source":"2"
 			}
 		]
 	}
