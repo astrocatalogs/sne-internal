@@ -13,6 +13,12 @@
 				"source":"1"
 			}
 		],
+		"redshift":[
+			{
+				"value":"0.187",
+				"source":"1"
+			}
+		],
 		"photometry":[
 			{
 				"time":"57519.26",
