@@ -1,0 +1,17 @@
+{
+	"SN2007in":{
+		"name":"SN2007in",
+		"errors":[
+			{
+				"value":"2007CBET.1063....1A",
+				"kind":"bibcode",
+				"extra":"ra"
+			},
+			{
+				"value":"Latest Supernovae",
+				"kind":"name",
+				"extra":"ra"
+			}
+		]
+	}
+}
