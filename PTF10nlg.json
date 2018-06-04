@@ -13,6 +13,28 @@
 				"source":"1"
 			}
 		],
+		"errors":[
+			{
+				"value":"2010ATel.2735....1H",
+				"kind":"bibcode",
+				"extra":"ra"
+			},
+			{
+				"value":"Latest Supernovae",
+				"kind":"name",
+				"extra":"ra"
+			},
+			{
+				"value":"2010ATel.2735....1H",
+				"kind":"bibcode",
+				"extra":"dec"
+			},
+			{
+				"value":"Latest Supernovae",
+				"kind":"name",
+				"extra":"dec"
+			}
+		],
 		"photometry":[
 			{
 				"time":"55373.402",

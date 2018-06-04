@@ -1,0 +1,17 @@
+{
+	"SN2004bv":{
+		"name":"SN2004bv",
+		"errors":[
+			{
+				"value":"2004IAUC.8344....3B",
+				"kind":"bibcode",
+				"extra":"ra"
+			},
+			{
+				"value":"Latest Supernovae",
+				"kind":"name",
+				"extra":"ra"
+			}
+		]
+	}
+}
