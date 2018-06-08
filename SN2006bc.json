@@ -1,0 +1,45 @@
+{
+	"SN2006bc":{
+		"name":"SN2006bc",
+		"sources":[
+			{
+				"bibcode":"2013A%26A...549A..79S, 2012ApJ...753..109G",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN2006bc",
+				"source":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"II-P",
+				"source":"1"
+			}
+		],
+		"photometry":[
+			{
+				"time":"54356",
+				"band":"I1",
+				"e_magnitude":"0.72",
+				"instrument":"IRAC",
+				"magnitude":"17.29",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"54356",
+				"band":"I2",
+				"e_magnitude":"0.67",
+				"instrument":"IRAC",
+				"magnitude":"16.71",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			}
+		]
+	}
+}

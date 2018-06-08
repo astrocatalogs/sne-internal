@@ -1,11 +1,51 @@
 {
 	"SN2008Q":{
 		"name":"SN2008Q",
+		"sources":[
+			{
+				"bibcode":"2013ApJ...767..119M",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN2008Q",
+				"source":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"Ia",
+				"source":"1"
+			}
+		],
 		"errors":[
 			{
-				"value":"1991ASSL..171...89H",
+				"extra":"comovingdist",
 				"kind":"bibcode",
-				"extra":"comovingdist"
+				"value":"1991ASSL..171...89H"
+			}
+		],
+		"photometry":[
+			{
+				"time":"54727",
+				"band":"I1",
+				"e_magnitude":"0.55",
+				"instrument":"IRAC",
+				"magnitude":"18.41",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"54727",
+				"band":"I2",
+				"e_magnitude":"0.60",
+				"instrument":"IRAC",
+				"magnitude":"18.20",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
 			}
 		]
 	}

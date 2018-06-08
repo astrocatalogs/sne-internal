@@ -3,17 +3,47 @@
 		"name":"SN2005at",
 		"sources":[
 			{
-				"bibcode":"2014A&A...572A..75K",
+				"name":"2014A%26A...572A..75K",
 				"alias":"1"
+			},
+			{
+				"bibcode":"2014A&A...572A..75K",
+				"alias":"2"
 			}
 		],
 		"alias":[
 			{
 				"value":"SN2005at",
+				"source":"1,2"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"Ic",
 				"source":"1"
 			}
 		],
 		"photometry":[
+			{
+				"time":"54003",
+				"band":"I1",
+				"e_magnitude":"0.37",
+				"instrument":"IRAC",
+				"magnitude":"16.87",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"54003",
+				"band":"I2",
+				"e_magnitude":"0.27",
+				"instrument":"IRAC",
+				"magnitude":"16.04",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
 			{
 				"time":"53434.14",
 				"band":"R",
@@ -21,7 +51,7 @@
 				"magnitude":"14.3",
 				"telescope":"Bronberg",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53448.13",
@@ -30,7 +60,7 @@
 				"magnitude":"14.50",
 				"telescope":"Bronberg",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53449.11",
@@ -39,7 +69,7 @@
 				"magnitude":"14.5",
 				"telescope":"Bronberg",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53453.07",
@@ -48,7 +78,7 @@
 				"magnitude":"14.8",
 				"telescope":"Bronberg",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53457.06",
@@ -57,7 +87,7 @@
 				"magnitude":"15.1",
 				"telescope":"Bronberg",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53460.14",
@@ -66,7 +96,7 @@
 				"magnitude":"15.3",
 				"telescope":"Bronberg",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53464.41",
@@ -75,7 +105,7 @@
 				"magnitude":"18.10",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53464.41",
@@ -84,7 +114,7 @@
 				"magnitude":"16.35",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53465.41",
@@ -93,7 +123,7 @@
 				"magnitude":"18.14",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53465.41",
@@ -102,7 +132,7 @@
 				"magnitude":"14.48",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53465.41",
@@ -111,7 +141,7 @@
 				"magnitude":"15.42",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53465.41",
@@ -120,7 +150,7 @@
 				"magnitude":"16.39",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53466.40",
@@ -129,7 +159,7 @@
 				"magnitude":"18.15",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53466.40",
@@ -138,7 +168,7 @@
 				"magnitude":"14.52",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53466.40",
@@ -147,7 +177,7 @@
 				"magnitude":"15.45",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53466.40",
@@ -156,7 +186,7 @@
 				"magnitude":"19.30",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53466.40",
@@ -165,7 +195,7 @@
 				"magnitude":"16.43",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53467.39",
@@ -174,7 +204,7 @@
 				"magnitude":"18.12",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53467.39",
@@ -183,7 +213,7 @@
 				"magnitude":"14.57",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53467.39",
@@ -192,7 +222,7 @@
 				"magnitude":"15.47",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53467.39",
@@ -201,7 +231,7 @@
 				"magnitude":"19.24",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53467.39",
@@ -210,7 +240,7 @@
 				"magnitude":"16.45",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53469.31",
@@ -219,7 +249,7 @@
 				"magnitude":"18.12",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53469.31",
@@ -228,7 +258,7 @@
 				"magnitude":"14.60",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53469.31",
@@ -237,7 +267,7 @@
 				"magnitude":"15.51",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53469.31",
@@ -246,7 +276,7 @@
 				"magnitude":"19.19",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53469.31",
@@ -255,7 +285,7 @@
 				"magnitude":"16.49",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53470.41",
@@ -264,7 +294,7 @@
 				"magnitude":"18.19",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53470.41",
@@ -273,7 +303,7 @@
 				"magnitude":"19.29",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53470.41",
@@ -282,7 +312,7 @@
 				"magnitude":"16.51",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53471.15",
@@ -291,7 +321,7 @@
 				"magnitude":"15.4",
 				"telescope":"Bronberg",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53471.32",
@@ -300,7 +330,7 @@
 				"magnitude":"18.17",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53471.32",
@@ -309,7 +339,7 @@
 				"magnitude":"14.59",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53471.32",
@@ -318,7 +348,7 @@
 				"magnitude":"15.59",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53471.32",
@@ -327,7 +357,7 @@
 				"magnitude":"19.17",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53471.32",
@@ -336,7 +366,7 @@
 				"magnitude":"16.52",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53472.39",
@@ -345,7 +375,7 @@
 				"magnitude":"18.22",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53472.39",
@@ -354,7 +384,7 @@
 				"magnitude":"14.63",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53472.39",
@@ -363,7 +393,7 @@
 				"magnitude":"15.63",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53472.39",
@@ -372,7 +402,7 @@
 				"magnitude":"19.28",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53472.39",
@@ -381,7 +411,7 @@
 				"magnitude":"16.59",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53473.40",
@@ -390,7 +420,7 @@
 				"magnitude":"18.26",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53473.40",
@@ -399,7 +429,7 @@
 				"magnitude":"14.65",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53473.40",
@@ -408,7 +438,7 @@
 				"magnitude":"15.65",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53473.40",
@@ -417,7 +447,7 @@
 				"magnitude":"19.21",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53473.40",
@@ -426,7 +456,7 @@
 				"magnitude":"16.61",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53474.40",
@@ -435,7 +465,7 @@
 				"magnitude":"18.23",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53474.40",
@@ -444,7 +474,7 @@
 				"magnitude":"14.69",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53474.40",
@@ -453,7 +483,7 @@
 				"magnitude":"15.67",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53474.40",
@@ -462,7 +492,7 @@
 				"magnitude":"19.17",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53474.40",
@@ -471,7 +501,7 @@
 				"magnitude":"16.61",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53475.40",
@@ -480,7 +510,7 @@
 				"magnitude":"18.26",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53475.40",
@@ -489,7 +519,7 @@
 				"magnitude":"14.69",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53475.40",
@@ -498,7 +528,7 @@
 				"magnitude":"15.68",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53475.40",
@@ -507,7 +537,7 @@
 				"magnitude":"19.28",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53475.40",
@@ -516,7 +546,7 @@
 				"magnitude":"16.61",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53476.32",
@@ -525,7 +555,7 @@
 				"magnitude":"18.25",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53476.32",
@@ -534,7 +564,7 @@
 				"magnitude":"14.71",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53476.32",
@@ -543,7 +573,7 @@
 				"magnitude":"15.71",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53476.32",
@@ -552,7 +582,7 @@
 				"magnitude":"19.23",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53476.32",
@@ -561,7 +591,7 @@
 				"magnitude":"16.65",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53477.05",
@@ -570,7 +600,7 @@
 				"magnitude":"15.71",
 				"telescope":"Bronberg",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53477.35",
@@ -579,7 +609,7 @@
 				"magnitude":"18.28",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53477.35",
@@ -588,7 +618,7 @@
 				"magnitude":"14.70",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53477.35",
@@ -597,7 +627,7 @@
 				"magnitude":"15.69",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53477.35",
@@ -606,7 +636,7 @@
 				"magnitude":"19.21",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53477.35",
@@ -615,7 +645,7 @@
 				"magnitude":"16.64",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53478.31",
@@ -624,7 +654,7 @@
 				"magnitude":"18.32",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53478.31",
@@ -633,7 +663,7 @@
 				"magnitude":"14.76",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53478.31",
@@ -642,7 +672,7 @@
 				"magnitude":"15.75",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53478.31",
@@ -651,7 +681,7 @@
 				"magnitude":"19.27",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53478.31",
@@ -660,7 +690,7 @@
 				"magnitude":"16.68",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53479.41",
@@ -669,7 +699,7 @@
 				"magnitude":"18.29",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53479.41",
@@ -678,7 +708,7 @@
 				"magnitude":"14.77",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53479.41",
@@ -687,7 +717,7 @@
 				"magnitude":"15.74",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53479.41",
@@ -696,7 +726,7 @@
 				"magnitude":"19.22",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53479.41",
@@ -705,7 +735,7 @@
 				"magnitude":"16.74",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53480.40",
@@ -714,7 +744,7 @@
 				"magnitude":"18.35",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53480.40",
@@ -723,7 +753,7 @@
 				"magnitude":"14.79",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53480.40",
@@ -732,7 +762,7 @@
 				"magnitude":"15.81",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53480.40",
@@ -741,7 +771,7 @@
 				"magnitude":"19.20",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53480.40",
@@ -750,7 +780,7 @@
 				"magnitude":"16.77",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53481.30",
@@ -759,7 +789,7 @@
 				"magnitude":"18.31",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53481.30",
@@ -768,7 +798,7 @@
 				"magnitude":"14.81",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53481.30",
@@ -777,7 +807,7 @@
 				"magnitude":"15.80",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53481.30",
@@ -786,7 +816,7 @@
 				"magnitude":"19.30",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53481.30",
@@ -795,7 +825,7 @@
 				"magnitude":"16.75",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53482.41",
@@ -804,7 +834,7 @@
 				"magnitude":"18.35",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53482.41",
@@ -813,7 +843,7 @@
 				"magnitude":"14.80",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53482.41",
@@ -822,7 +852,7 @@
 				"magnitude":"15.87",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53482.41",
@@ -831,7 +861,7 @@
 				"magnitude":"19.32",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53482.41",
@@ -840,7 +870,7 @@
 				"magnitude":"16.78",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53483.41",
@@ -849,7 +879,7 @@
 				"magnitude":"18.36",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53483.41",
@@ -858,7 +888,7 @@
 				"magnitude":"14.83",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53483.41",
@@ -867,7 +897,7 @@
 				"magnitude":"15.83",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53483.41",
@@ -876,7 +906,7 @@
 				"magnitude":"19.28",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53483.41",
@@ -885,7 +915,7 @@
 				"magnitude":"16.77",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53484.41",
@@ -894,7 +924,7 @@
 				"magnitude":"18.34",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53484.41",
@@ -903,7 +933,7 @@
 				"magnitude":"14.89",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53484.41",
@@ -912,7 +942,7 @@
 				"magnitude":"15.87",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53484.41",
@@ -921,7 +951,7 @@
 				"magnitude":"19.42",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53484.41",
@@ -930,7 +960,7 @@
 				"magnitude":"16.79",
 				"telescope":"DFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53491.91",
@@ -939,7 +969,7 @@
 				"magnitude":"16.0",
 				"telescope":"Bronberg",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53507.05",
@@ -948,7 +978,7 @@
 				"magnitude":"16.2",
 				"telescope":"Bronberg",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53526.06",
@@ -957,7 +987,7 @@
 				"magnitude":"16.6",
 				"telescope":"Bronberg",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53539.06",
@@ -966,7 +996,7 @@
 				"magnitude":"16.74",
 				"telescope":"Bronberg",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53590.72",
@@ -975,7 +1005,7 @@
 				"magnitude":"17.4",
 				"telescope":"Bronberg",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53593.89",
@@ -984,7 +1014,7 @@
 				"magnitude":"19.72",
 				"telescope":"SALT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53593.89",
@@ -993,7 +1023,7 @@
 				"magnitude":"16.67",
 				"telescope":"SALT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53593.89",
@@ -1002,7 +1032,7 @@
 				"magnitude":"18.62",
 				"telescope":"SALT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			}
 		]
 	}

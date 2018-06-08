@@ -1,8 +1,55 @@
 {
 	"SN2011dq":{
 		"name":"SN2011dq",
+		"sources":[
+			{
+				"bibcode":"2018arXiv180302571S",
+				"alias":"1"
+			},
+			{
+				"bibcode":"2017ApJ...835...64G",
+				"alias":"2"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN2011dq",
+				"source":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"II",
+				"source":"1"
+			}
+		],
 		"distinctfrom":[
-			"SN2014cx"
+			{
+				"value":"SN2014cx",
+				"source":"2"
+			}
+		],
+		"photometry":[
+			{
+				"time":"56955",
+				"band":"I1",
+				"e_magnitude":"0.06",
+				"instrument":"IRAC",
+				"magnitude":"13.38",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56955",
+				"band":"I2",
+				"e_magnitude":"0.10",
+				"instrument":"IRAC",
+				"magnitude":"13.17",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			}
 		]
 	}
 }

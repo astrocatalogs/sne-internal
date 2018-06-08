@@ -3,17 +3,215 @@
 		"name":"SN2013ej",
 		"sources":[
 			{
-				"bibcode":"2015ApJ...807...59H",
+				"bibcode":"2016ApJ...833..231T, 2017ApJ...834..118M",
 				"alias":"1"
+			},
+			{
+				"bibcode":"2017ApJ...834..118M",
+				"alias":"2"
+			},
+			{
+				"bibcode":"2018arXiv180302571S",
+				"alias":"3"
+			},
+			{
+				"bibcode":"2015ApJ...807...59H",
+				"alias":"4"
 			}
 		],
 		"alias":[
 			{
 				"value":"SN2013ej",
-				"source":"1"
+				"source":"1,4"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"II-P/L",
+				"source":"1,2,3"
 			}
 		],
 		"photometry":[
+			{
+				"time":"56735",
+				"band":"I1",
+				"e_magnitude":"0.13",
+				"instrument":"IRAC",
+				"magnitude":"13.83",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56735",
+				"band":"I2",
+				"e_magnitude":"0.07",
+				"instrument":"IRAC",
+				"magnitude":"12.68",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56758",
+				"band":"I1",
+				"e_magnitude":"0.13",
+				"instrument":"IRAC",
+				"magnitude":"14.12",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56758",
+				"band":"I2",
+				"e_magnitude":"0.05",
+				"instrument":"IRAC",
+				"magnitude":"12.94",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56937",
+				"band":"I1",
+				"e_magnitude":"0.18",
+				"instrument":"IRAC",
+				"magnitude":"17.08",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56937",
+				"band":"I2",
+				"e_magnitude":"0.12",
+				"instrument":"IRAC",
+				"magnitude":"15.33",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56965",
+				"band":"I1",
+				"e_magnitude":"0.39",
+				"instrument":"IRAC",
+				"magnitude":"17.59",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"2"
+			},
+			{
+				"time":"56965",
+				"band":"I2",
+				"e_magnitude":"0.17",
+				"instrument":"IRAC",
+				"magnitude":"15.72",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"2"
+			},
+			{
+				"time":"56970",
+				"band":"I1",
+				"e_magnitude":"0.11",
+				"instrument":"IRAC",
+				"magnitude":"17.50",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"2"
+			},
+			{
+				"time":"56970",
+				"band":"I2",
+				"e_magnitude":"0.17",
+				"instrument":"IRAC",
+				"magnitude":"15.89",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"2"
+			},
+			{
+				"time":"57321",
+				"band":"I2",
+				"e_magnitude":"0.43",
+				"instrument":"IRAC",
+				"magnitude":"18.75",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"2"
+			},
+			{
+				"time":"57334",
+				"band":"I2",
+				"e_magnitude":"0.47",
+				"instrument":"IRAC",
+				"magnitude":"18.84",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"2"
+			},
+			{
+				"time":"57475",
+				"band":"I2",
+				"e_magnitude":"0.35",
+				"instrument":"IRAC",
+				"magnitude":"18.52",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"2"
+			},
+			{
+				"time":"57482",
+				"band":"I2",
+				"e_magnitude":"0.24",
+				"instrument":"IRAC",
+				"magnitude":"17.91",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"2"
+			},
+			{
+				"time":"57504",
+				"band":"I2",
+				"e_magnitude":"0.21",
+				"instrument":"IRAC",
+				"magnitude":"17.83",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"2"
+			},
+			{
+				"time":"57680",
+				"band":"I2",
+				"e_magnitude":"0.58",
+				"instrument":"IRAC",
+				"magnitude":"18.14",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"3"
+			},
+			{
+				"time":"57695",
+				"band":"I2",
+				"e_magnitude":"0.52",
+				"instrument":"IRAC",
+				"magnitude":"18.02",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"3"
+			},
+			{
+				"time":"57855",
+				"band":"I2",
+				"e_magnitude":"0.45",
+				"instrument":"IRAC",
+				"magnitude":"18.40",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"3"
+			},
 			{
 				"time":"56503.78",
 				"band":"B",
@@ -21,7 +219,7 @@
 				"magnitude":"12.62",
 				"telescope":"Lijiang 2.4m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56503.78",
@@ -30,7 +228,7 @@
 				"magnitude":"12.572",
 				"telescope":"Lijiang 2.4m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56503.78",
@@ -39,7 +237,7 @@
 				"magnitude":"12.66",
 				"telescope":"Lijiang 2.4m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56503.78",
@@ -48,7 +246,7 @@
 				"magnitude":"12.58",
 				"telescope":"Lijiang 2.4m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56503.96",
@@ -58,7 +256,7 @@
 				"magnitude":"12.02",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56503.96",
@@ -68,7 +266,7 @@
 				"magnitude":"12.69",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56503.96",
@@ -78,7 +276,7 @@
 				"magnitude":"11.71",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56503.96",
@@ -88,7 +286,7 @@
 				"magnitude":"12.37",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56504.82",
@@ -98,7 +296,7 @@
 				"magnitude":"12.2",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56504.82",
@@ -108,7 +306,7 @@
 				"magnitude":"12.61",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56504.82",
@@ -118,7 +316,7 @@
 				"magnitude":"11.81",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56504.82",
@@ -128,7 +326,7 @@
 				"magnitude":"12.58",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56505.88",
@@ -137,7 +335,7 @@
 				"magnitude":"12.58",
 				"telescope":"Lijiang 2.4m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56505.88",
@@ -146,7 +344,7 @@
 				"magnitude":"12.31",
 				"telescope":"Lijiang 2.4m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56505.88",
@@ -155,7 +353,7 @@
 				"magnitude":"12.44",
 				"telescope":"Lijiang 2.4m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56505.88",
@@ -164,7 +362,7 @@
 				"magnitude":"12.49",
 				"telescope":"Lijiang 2.4m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56506.82",
@@ -173,7 +371,7 @@
 				"magnitude":"12.54",
 				"telescope":"Lijiang 2.4m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56506.82",
@@ -182,7 +380,7 @@
 				"magnitude":"12.211",
 				"telescope":"Lijiang 2.4m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56506.82",
@@ -191,7 +389,7 @@
 				"magnitude":"12.28",
 				"telescope":"Lijiang 2.4m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56506.82",
@@ -200,7 +398,7 @@
 				"magnitude":"12.48",
 				"telescope":"Lijiang 2.4m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56507.05",
@@ -210,7 +408,7 @@
 				"magnitude":"12.62",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56507.05",
@@ -220,7 +418,7 @@
 				"magnitude":"12.7",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56507.05",
@@ -230,7 +428,7 @@
 				"magnitude":"11.68",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56507.05",
@@ -240,7 +438,7 @@
 				"magnitude":"13.05",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56508.84",
@@ -250,7 +448,7 @@
 				"magnitude":"12.61",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56508.84",
@@ -260,7 +458,7 @@
 				"magnitude":"13.16",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56508.84",
@@ -270,7 +468,7 @@
 				"magnitude":"11.81",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56508.84",
@@ -280,7 +478,7 @@
 				"magnitude":"13.38",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56511.45",
@@ -290,7 +488,7 @@
 				"magnitude":"12.95",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56511.45",
@@ -300,7 +498,7 @@
 				"magnitude":"13.93",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56512.18",
@@ -310,7 +508,7 @@
 				"magnitude":"12.75",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56512.18",
@@ -320,7 +518,7 @@
 				"magnitude":"13.97",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56512.18",
@@ -330,7 +528,7 @@
 				"magnitude":"12.2",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56512.18",
@@ -340,7 +538,7 @@
 				"magnitude":"12.48",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56512.18",
@@ -350,7 +548,7 @@
 				"magnitude":"13.13",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56512.18",
@@ -360,7 +558,7 @@
 				"magnitude":"14.12",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56513.21",
@@ -370,7 +568,7 @@
 				"magnitude":"12.91",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56513.21",
@@ -380,7 +578,7 @@
 				"magnitude":"14.41",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56513.21",
@@ -390,7 +588,7 @@
 				"magnitude":"12.33",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56513.21",
@@ -400,7 +598,7 @@
 				"magnitude":"12.54",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56513.21",
@@ -410,7 +608,7 @@
 				"magnitude":"13.38",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56513.21",
@@ -420,7 +618,7 @@
 				"magnitude":"14.39",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56515.78",
@@ -430,7 +628,7 @@
 				"magnitude":"12.98",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56515.78",
@@ -440,7 +638,7 @@
 				"magnitude":"15.15",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56515.78",
@@ -450,7 +648,7 @@
 				"magnitude":"12.66",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56515.78",
@@ -460,7 +658,7 @@
 				"magnitude":"12.58",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56515.78",
@@ -470,7 +668,7 @@
 				"magnitude":"13.91",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56515.78",
@@ -480,7 +678,7 @@
 				"magnitude":"15.11",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56516.81",
@@ -489,7 +687,7 @@
 				"magnitude":"13.05",
 				"telescope":"Lijiang 2.4m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56516.81",
@@ -498,7 +696,7 @@
 				"magnitude":"12.203",
 				"telescope":"Lijiang 2.4m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56516.81",
@@ -507,7 +705,7 @@
 				"magnitude":"12.31",
 				"telescope":"Lijiang 2.4m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56516.81",
@@ -516,7 +714,7 @@
 				"magnitude":"12.52",
 				"telescope":"Lijiang 2.4m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56517.83",
@@ -526,7 +724,7 @@
 				"magnitude":"13.11",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56517.83",
@@ -536,7 +734,7 @@
 				"magnitude":"15.96",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56517.83",
@@ -546,7 +744,7 @@
 				"magnitude":"12.98",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56517.83",
@@ -556,7 +754,7 @@
 				"magnitude":"12.6",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56517.83",
@@ -566,7 +764,7 @@
 				"magnitude":"14.45",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56517.83",
@@ -576,7 +774,7 @@
 				"magnitude":"15.65",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56519.99",
@@ -586,7 +784,7 @@
 				"magnitude":"13.22",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56519.99",
@@ -596,7 +794,7 @@
 				"magnitude":"13.31",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56519.99",
@@ -606,7 +804,7 @@
 				"magnitude":"12.57",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56519.99",
@@ -616,7 +814,7 @@
 				"magnitude":"14.91",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56519.99",
@@ -626,7 +824,7 @@
 				"magnitude":"16.21",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56520.74",
@@ -635,7 +833,7 @@
 				"magnitude":"13.33",
 				"telescope":"Lijiang 2.4m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56520.74",
@@ -644,7 +842,7 @@
 				"magnitude":"12.183",
 				"telescope":"Lijiang 2.4m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56520.74",
@@ -653,7 +851,7 @@
 				"magnitude":"12.45",
 				"telescope":"Lijiang 2.4m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56520.74",
@@ -662,7 +860,7 @@
 				"magnitude":"12.61",
 				"telescope":"Lijiang 2.4m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56521.27",
@@ -672,7 +870,7 @@
 				"magnitude":"11.97",
 				"telescope":"3.58 m ESO NTT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56521.27",
@@ -682,7 +880,7 @@
 				"magnitude":"11.87",
 				"telescope":"3.58 m ESO NTT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56521.27",
@@ -692,7 +890,7 @@
 				"magnitude":"11.87",
 				"telescope":"3.58 m ESO NTT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56521.65",
@@ -702,7 +900,7 @@
 				"magnitude":"13.29",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56521.65",
@@ -712,7 +910,7 @@
 				"magnitude":"17.11",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56521.65",
@@ -722,7 +920,7 @@
 				"magnitude":"13.6",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56521.65",
@@ -732,7 +930,7 @@
 				"magnitude":"12.66",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56521.65",
@@ -742,7 +940,7 @@
 				"magnitude":"15.2",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56521.65",
@@ -752,7 +950,7 @@
 				"magnitude":"16.59",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56523.72",
@@ -762,7 +960,7 @@
 				"magnitude":"13.48",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56523.72",
@@ -772,7 +970,7 @@
 				"magnitude":"17.55",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56523.72",
@@ -782,7 +980,7 @@
 				"magnitude":"13.96",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56523.72",
@@ -792,7 +990,7 @@
 				"magnitude":"12.69",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56523.72",
@@ -802,7 +1000,7 @@
 				"magnitude":"15.49",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56523.72",
@@ -812,7 +1010,7 @@
 				"magnitude":"16.82",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56526.84",
@@ -822,7 +1020,7 @@
 				"magnitude":"13.63",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56526.84",
@@ -832,7 +1030,7 @@
 				"magnitude":"18.22",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56526.84",
@@ -842,7 +1040,7 @@
 				"magnitude":"14.35",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56526.84",
@@ -852,7 +1050,7 @@
 				"magnitude":"12.89",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56526.84",
@@ -862,7 +1060,7 @@
 				"magnitude":"15.88",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56526.84",
@@ -872,7 +1070,7 @@
 				"magnitude":"17.21",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56531.74",
@@ -882,7 +1080,7 @@
 				"magnitude":"13.92",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56531.74",
@@ -892,7 +1090,7 @@
 				"magnitude":"18.57",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56531.74",
@@ -902,7 +1100,7 @@
 				"magnitude":"14.84",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56531.74",
@@ -912,7 +1110,7 @@
 				"magnitude":"12.97",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56531.74",
@@ -922,7 +1120,7 @@
 				"magnitude":"16.36",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56531.74",
@@ -932,7 +1130,7 @@
 				"magnitude":"17.75",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56533.2",
@@ -942,7 +1140,7 @@
 				"magnitude":"11.89",
 				"telescope":"3.58 m ESO NTT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56533.2",
@@ -952,7 +1150,7 @@
 				"magnitude":"11.99",
 				"telescope":"3.58 m ESO NTT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56533.2",
@@ -962,7 +1160,7 @@
 				"magnitude":"11.52",
 				"telescope":"3.58 m ESO NTT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56536.51",
@@ -971,7 +1169,7 @@
 				"magnitude":"14.55",
 				"telescope":"Lijiang 2.4m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56536.51",
@@ -980,7 +1178,7 @@
 				"magnitude":"12.381",
 				"telescope":"Lijiang 2.4m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56536.51",
@@ -989,7 +1187,7 @@
 				"magnitude":"12.88",
 				"telescope":"Lijiang 2.4m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56536.51",
@@ -998,7 +1196,7 @@
 				"magnitude":"15.53",
 				"telescope":"Lijiang 2.4m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56536.51",
@@ -1007,7 +1205,7 @@
 				"magnitude":"13.22",
 				"telescope":"Lijiang 2.4m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56541.41",
@@ -1017,7 +1215,7 @@
 				"magnitude":"14.37",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56541.41",
@@ -1027,7 +1225,7 @@
 				"magnitude":"19.14",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56541.41",
@@ -1037,7 +1235,7 @@
 				"magnitude":"15.57",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56541.41",
@@ -1047,7 +1245,7 @@
 				"magnitude":"13.23",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56541.41",
@@ -1057,7 +1255,7 @@
 				"magnitude":"16.79",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56541.41",
@@ -1067,7 +1265,7 @@
 				"magnitude":"18.13",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56551.73",
@@ -1077,7 +1275,7 @@
 				"magnitude":"14.75",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56551.73",
@@ -1087,7 +1285,7 @@
 				"magnitude":"19.49",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56551.73",
@@ -1097,7 +1295,7 @@
 				"magnitude":"16.29",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56551.73",
@@ -1107,7 +1305,7 @@
 				"magnitude":"13.47",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56551.73",
@@ -1117,7 +1315,7 @@
 				"magnitude":"17.29",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56551.73",
@@ -1127,7 +1325,7 @@
 				"magnitude":"18.69",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56561.44",
@@ -1137,7 +1335,7 @@
 				"magnitude":"14.92",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56561.44",
@@ -1147,7 +1345,7 @@
 				"magnitude":"16.59",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56561.44",
@@ -1157,7 +1355,7 @@
 				"magnitude":"13.6",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56561.44",
@@ -1167,7 +1365,7 @@
 				"magnitude":"17.56",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56561.44",
@@ -1177,7 +1375,7 @@
 				"magnitude":"18.79",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56563.64",
@@ -1186,7 +1384,7 @@
 				"magnitude":"14.91",
 				"telescope":"Lijiang 2.4m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56563.64",
@@ -1195,7 +1393,7 @@
 				"magnitude":"12.599",
 				"telescope":"Lijiang 2.4m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56563.64",
@@ -1204,7 +1402,7 @@
 				"magnitude":"13.2",
 				"telescope":"Lijiang 2.4m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56563.64",
@@ -1213,7 +1411,7 @@
 				"magnitude":"16.4",
 				"telescope":"Lijiang 2.4m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56563.64",
@@ -1222,7 +1420,7 @@
 				"magnitude":"13.57",
 				"telescope":"Lijiang 2.4m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56569.23",
@@ -1232,7 +1430,7 @@
 				"magnitude":"12.33",
 				"telescope":"3.58 m ESO NTT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56569.23",
@@ -1242,7 +1440,7 @@
 				"magnitude":"12.3",
 				"telescope":"3.58 m ESO NTT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56569.23",
@@ -1252,7 +1450,7 @@
 				"magnitude":"12.08",
 				"telescope":"3.58 m ESO NTT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56571.82",
@@ -1262,7 +1460,7 @@
 				"magnitude":"19.88",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56571.82",
@@ -1272,7 +1470,7 @@
 				"magnitude":"17.06",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56571.82",
@@ -1282,7 +1480,7 @@
 				"magnitude":"17.92",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56571.82",
@@ -1292,7 +1490,7 @@
 				"magnitude":"19.24",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56572.75",
@@ -1301,7 +1499,7 @@
 				"magnitude":"15.14",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56572.75",
@@ -1310,7 +1508,7 @@
 				"magnitude":"13.124",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56572.75",
@@ -1319,7 +1517,7 @@
 				"magnitude":"13.33",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56572.75",
@@ -1328,7 +1526,7 @@
 				"magnitude":"16.55",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56572.75",
@@ -1337,7 +1535,7 @@
 				"magnitude":"13.74",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56574.75",
@@ -1346,7 +1544,7 @@
 				"magnitude":"15.23",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56574.75",
@@ -1355,7 +1553,7 @@
 				"magnitude":"13.015",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56574.75",
@@ -1364,7 +1562,7 @@
 				"magnitude":"13.28",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56574.75",
@@ -1373,7 +1571,7 @@
 				"magnitude":"16.5",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56574.75",
@@ -1382,7 +1580,7 @@
 				"magnitude":"13.81",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56575.75",
@@ -1391,7 +1589,7 @@
 				"magnitude":"15.32",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56575.75",
@@ -1400,7 +1598,7 @@
 				"magnitude":"13.053",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56575.75",
@@ -1409,7 +1607,7 @@
 				"magnitude":"13.35",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56575.75",
@@ -1418,7 +1616,7 @@
 				"magnitude":"16.79",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56575.75",
@@ -1427,7 +1625,7 @@
 				"magnitude":"13.81",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56578.75",
@@ -1436,7 +1634,7 @@
 				"magnitude":"15.39",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56578.75",
@@ -1445,7 +1643,7 @@
 				"magnitude":"13.088",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56578.75",
@@ -1454,7 +1652,7 @@
 				"magnitude":"13.4",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56578.75",
@@ -1463,7 +1661,7 @@
 				"magnitude":"16.85",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56578.75",
@@ -1472,7 +1670,7 @@
 				"magnitude":"13.91",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56581.78",
@@ -1482,7 +1680,7 @@
 				"magnitude":"15.46",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56581.78",
@@ -1492,7 +1690,7 @@
 				"magnitude":"17.41",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56581.78",
@@ -1502,7 +1700,7 @@
 				"magnitude":"14.03",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56581.78",
@@ -1512,7 +1710,7 @@
 				"magnitude":"18.13",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56581.78",
@@ -1522,7 +1720,7 @@
 				"magnitude":"19.29",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56584.75",
@@ -1531,7 +1729,7 @@
 				"magnitude":"15.56",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56584.75",
@@ -1540,7 +1738,7 @@
 				"magnitude":"13.246",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56584.75",
@@ -1549,7 +1747,7 @@
 				"magnitude":"13.6",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56584.75",
@@ -1558,7 +1756,7 @@
 				"magnitude":"16.71",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56584.75",
@@ -1567,7 +1765,7 @@
 				"magnitude":"14.05",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56585.75",
@@ -1576,7 +1774,7 @@
 				"magnitude":"15.67",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56585.75",
@@ -1585,7 +1783,7 @@
 				"magnitude":"13.407",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56585.75",
@@ -1594,7 +1792,7 @@
 				"magnitude":"13.66",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56585.75",
@@ -1603,7 +1801,7 @@
 				"magnitude":"16.83",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56585.75",
@@ -1612,7 +1810,7 @@
 				"magnitude":"14.09",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56587.75",
@@ -1621,7 +1819,7 @@
 				"magnitude":"15.69",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56587.75",
@@ -1630,7 +1828,7 @@
 				"magnitude":"13.328",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56587.75",
@@ -1639,7 +1837,7 @@
 				"magnitude":"13.59",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56587.75",
@@ -1648,7 +1846,7 @@
 				"magnitude":"14.19",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56588.75",
@@ -1657,7 +1855,7 @@
 				"magnitude":"15.77",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56588.75",
@@ -1666,7 +1864,7 @@
 				"magnitude":"13.303",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56588.75",
@@ -1675,7 +1873,7 @@
 				"magnitude":"13.71",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56588.75",
@@ -1684,7 +1882,7 @@
 				"magnitude":"14.27",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56591.93",
@@ -1694,7 +1892,7 @@
 				"magnitude":"17.51",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56591.93",
@@ -1704,7 +1902,7 @@
 				"magnitude":"18.25",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56599.06",
@@ -1714,7 +1912,7 @@
 				"magnitude":"13.75",
 				"telescope":"3.58 m ESO NTT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56599.06",
@@ -1724,7 +1922,7 @@
 				"magnitude":"13.83",
 				"telescope":"3.58 m ESO NTT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56599.06",
@@ -1734,7 +1932,7 @@
 				"magnitude":"13.56",
 				"telescope":"3.58 m ESO NTT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56600.75",
@@ -1743,7 +1941,7 @@
 				"magnitude":"17.47",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56600.75",
@@ -1752,7 +1950,7 @@
 				"magnitude":"14.797",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56600.75",
@@ -1761,7 +1959,7 @@
 				"magnitude":"15.15",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56600.75",
@@ -1770,7 +1968,7 @@
 				"magnitude":"18.2",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56600.75",
@@ -1779,7 +1977,7 @@
 				"magnitude":"16.02",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56602.5",
@@ -1788,7 +1986,7 @@
 				"magnitude":"17.57",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56602.5",
@@ -1797,7 +1995,7 @@
 				"magnitude":"14.969",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56602.5",
@@ -1806,7 +2004,7 @@
 				"magnitude":"15.36",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56602.5",
@@ -1815,7 +2013,7 @@
 				"magnitude":"18.43",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56602.5",
@@ -1824,7 +2022,7 @@
 				"magnitude":"16.2",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56605.5",
@@ -1833,7 +2031,7 @@
 				"magnitude":"17.76",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56605.5",
@@ -1842,7 +2040,7 @@
 				"magnitude":"15.093",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56605.5",
@@ -1851,7 +2049,7 @@
 				"magnitude":"15.42",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56605.5",
@@ -1860,7 +2058,7 @@
 				"magnitude":"16.39",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56606.75",
@@ -1869,7 +2067,7 @@
 				"magnitude":"17.79",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56606.75",
@@ -1878,7 +2076,7 @@
 				"magnitude":"15.049",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56606.75",
@@ -1887,7 +2085,7 @@
 				"magnitude":"15.43",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56606.75",
@@ -1896,7 +2094,7 @@
 				"magnitude":"18.44",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56606.75",
@@ -1905,7 +2103,7 @@
 				"magnitude":"16.4",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56607.5",
@@ -1914,7 +2112,7 @@
 				"magnitude":"17.62",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56607.5",
@@ -1923,7 +2121,7 @@
 				"magnitude":"15.157",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56607.5",
@@ -1932,7 +2130,7 @@
 				"magnitude":"15.52",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56607.5",
@@ -1941,7 +2139,7 @@
 				"magnitude":"16.45",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56608.75",
@@ -1950,7 +2148,7 @@
 				"magnitude":"15.45",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56608.75",
@@ -1959,7 +2157,7 @@
 				"magnitude":"16.55",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56609.24",
@@ -1969,7 +2167,7 @@
 				"magnitude":"14.24",
 				"telescope":"3.58 m ESO NTT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56609.24",
@@ -1979,7 +2177,7 @@
 				"magnitude":"14.45",
 				"telescope":"3.58 m ESO NTT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56609.24",
@@ -1989,7 +2187,7 @@
 				"magnitude":"14.1",
 				"telescope":"3.58 m ESO NTT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56609.68",
@@ -1999,7 +2197,7 @@
 				"magnitude":"17.97",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56609.68",
@@ -2009,7 +2207,7 @@
 				"magnitude":"19.06",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56609.68",
@@ -2019,7 +2217,7 @@
 				"magnitude":"16.64",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56609.68",
@@ -2029,7 +2227,7 @@
 				"magnitude":"19.52",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56612.5",
@@ -2038,7 +2236,7 @@
 				"magnitude":"15.26",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56612.5",
@@ -2047,7 +2245,7 @@
 				"magnitude":"15.6",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56612.5",
@@ -2056,7 +2254,7 @@
 				"magnitude":"16.6",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56613.75",
@@ -2065,7 +2263,7 @@
 				"magnitude":"17.65",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56613.75",
@@ -2074,7 +2272,7 @@
 				"magnitude":"15.23",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56613.75",
@@ -2083,7 +2281,7 @@
 				"magnitude":"15.58",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56613.75",
@@ -2092,7 +2290,7 @@
 				"magnitude":"16.6",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56615.5",
@@ -2101,7 +2299,7 @@
 				"magnitude":"17.93",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56615.5",
@@ -2110,7 +2308,7 @@
 				"magnitude":"15.2",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56615.5",
@@ -2119,7 +2317,7 @@
 				"magnitude":"15.64",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56615.5",
@@ -2128,7 +2326,7 @@
 				"magnitude":"16.61",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56616.36",
@@ -2138,7 +2336,7 @@
 				"magnitude":"17.89",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56616.36",
@@ -2148,7 +2346,7 @@
 				"magnitude":"18.98",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56616.36",
@@ -2158,7 +2356,7 @@
 				"magnitude":"16.72",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56616.5",
@@ -2167,7 +2365,7 @@
 				"magnitude":"17.92",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56616.5",
@@ -2176,7 +2374,7 @@
 				"magnitude":"15.26",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56616.5",
@@ -2185,7 +2383,7 @@
 				"magnitude":"15.66",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56616.5",
@@ -2194,7 +2392,7 @@
 				"magnitude":"18.84",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56616.5",
@@ -2203,7 +2401,7 @@
 				"magnitude":"16.58",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56617.5",
@@ -2212,7 +2410,7 @@
 				"magnitude":"17.93",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56617.5",
@@ -2221,7 +2419,7 @@
 				"magnitude":"15.25",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56617.5",
@@ -2230,7 +2428,7 @@
 				"magnitude":"15.57",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56617.5",
@@ -2239,7 +2437,7 @@
 				"magnitude":"16.58",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56618.5",
@@ -2248,7 +2446,7 @@
 				"magnitude":"17.97",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56618.5",
@@ -2257,7 +2455,7 @@
 				"magnitude":"15.32",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56618.5",
@@ -2266,7 +2464,7 @@
 				"magnitude":"15.69",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56618.5",
@@ -2275,7 +2473,7 @@
 				"magnitude":"18.87",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56618.5",
@@ -2284,7 +2482,7 @@
 				"magnitude":"16.64",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56620.5",
@@ -2293,7 +2491,7 @@
 				"magnitude":"18",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56620.5",
@@ -2302,7 +2500,7 @@
 				"magnitude":"15.38",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56620.5",
@@ -2311,7 +2509,7 @@
 				"magnitude":"15.69",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56620.5",
@@ -2320,7 +2518,7 @@
 				"magnitude":"18.83",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56620.5",
@@ -2329,7 +2527,7 @@
 				"magnitude":"16.64",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56621.5",
@@ -2339,7 +2537,7 @@
 				"magnitude":"19.16",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56626.09",
@@ -2349,7 +2547,7 @@
 				"magnitude":"18.16",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56626.09",
@@ -2359,7 +2557,7 @@
 				"magnitude":"19.34",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56626.09",
@@ -2369,7 +2567,7 @@
 				"magnitude":"16.83",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56626.09",
@@ -2379,7 +2577,7 @@
 				"magnitude":"19.73",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56628.5",
@@ -2388,7 +2586,7 @@
 				"magnitude":"18.06",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56628.5",
@@ -2397,7 +2595,7 @@
 				"magnitude":"15.47",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56628.5",
@@ -2406,7 +2604,7 @@
 				"magnitude":"15.76",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56628.5",
@@ -2415,7 +2613,7 @@
 				"magnitude":"18.81",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56628.5",
@@ -2424,7 +2622,7 @@
 				"magnitude":"16.72",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56630.5",
@@ -2433,7 +2631,7 @@
 				"magnitude":"18.11",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56630.5",
@@ -2442,7 +2640,7 @@
 				"magnitude":"15.64",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56630.5",
@@ -2451,7 +2649,7 @@
 				"magnitude":"15.79",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56630.5",
@@ -2460,7 +2658,7 @@
 				"magnitude":"16.81",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56631.5",
@@ -2469,7 +2667,7 @@
 				"magnitude":"18.12",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56631.5",
@@ -2478,7 +2676,7 @@
 				"magnitude":"15.58",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56631.5",
@@ -2487,7 +2685,7 @@
 				"magnitude":"15.78",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56631.5",
@@ -2496,7 +2694,7 @@
 				"magnitude":"16.81",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56632.5",
@@ -2505,7 +2703,7 @@
 				"magnitude":"15.79",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56632.5",
@@ -2514,7 +2712,7 @@
 				"magnitude":"16.79",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56633.5",
@@ -2523,7 +2721,7 @@
 				"magnitude":"18",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56633.5",
@@ -2532,7 +2730,7 @@
 				"magnitude":"15.57",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56633.5",
@@ -2541,7 +2739,7 @@
 				"magnitude":"15.86",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56633.5",
@@ -2550,7 +2748,7 @@
 				"magnitude":"16.9",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56635.65",
@@ -2560,7 +2758,7 @@
 				"magnitude":"18.2",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56635.65",
@@ -2570,7 +2768,7 @@
 				"magnitude":"19.34",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56635.65",
@@ -2580,7 +2778,7 @@
 				"magnitude":"16.93",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56635.65",
@@ -2590,7 +2788,7 @@
 				"magnitude":"19.81",
 				"telescope":"Swift",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56636.03",
@@ -2600,7 +2798,7 @@
 				"magnitude":"14.71",
 				"telescope":"3.58 m ESO NTT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56636.03",
@@ -2610,7 +2808,7 @@
 				"magnitude":"15.1",
 				"telescope":"3.58 m ESO NTT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56636.03",
@@ -2620,7 +2818,7 @@
 				"magnitude":"14.24",
 				"telescope":"3.58 m ESO NTT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56640.5",
@@ -2629,7 +2827,7 @@
 				"magnitude":"18.22",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56640.5",
@@ -2638,7 +2836,7 @@
 				"magnitude":"15.66",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56640.5",
@@ -2647,7 +2845,7 @@
 				"magnitude":"15.97",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56640.5",
@@ -2656,7 +2854,7 @@
 				"magnitude":"17.01",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56642.5",
@@ -2665,7 +2863,7 @@
 				"magnitude":"18.17",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56642.5",
@@ -2674,7 +2872,7 @@
 				"magnitude":"15.67",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56642.5",
@@ -2683,7 +2881,7 @@
 				"magnitude":"15.91",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56642.5",
@@ -2692,7 +2890,7 @@
 				"magnitude":"17.07",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56644.5",
@@ -2701,7 +2899,7 @@
 				"magnitude":"18.54",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56644.5",
@@ -2710,7 +2908,7 @@
 				"magnitude":"15.71",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56644.5",
@@ -2719,7 +2917,7 @@
 				"magnitude":"15.98",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56644.5",
@@ -2728,7 +2926,7 @@
 				"magnitude":"17.04",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56645.5",
@@ -2737,7 +2935,7 @@
 				"magnitude":"18.46",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56645.5",
@@ -2746,7 +2944,7 @@
 				"magnitude":"15.69",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56645.5",
@@ -2755,7 +2953,7 @@
 				"magnitude":"16.04",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56645.5",
@@ -2764,7 +2962,7 @@
 				"magnitude":"17.16",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56646.5",
@@ -2773,7 +2971,7 @@
 				"magnitude":"18.25",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56646.5",
@@ -2782,7 +2980,7 @@
 				"magnitude":"15.79",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56646.5",
@@ -2791,7 +2989,7 @@
 				"magnitude":"16.09",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56646.5",
@@ -2800,7 +2998,7 @@
 				"magnitude":"17.12",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56647.5",
@@ -2809,7 +3007,7 @@
 				"magnitude":"18.38",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56647.5",
@@ -2818,7 +3016,7 @@
 				"magnitude":"15.83",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56647.5",
@@ -2827,7 +3025,7 @@
 				"magnitude":"16.15",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56647.5",
@@ -2836,7 +3034,7 @@
 				"magnitude":"17.1",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56648.5",
@@ -2845,7 +3043,7 @@
 				"magnitude":"18.34",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56648.5",
@@ -2854,7 +3052,7 @@
 				"magnitude":"15.78",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56648.5",
@@ -2863,7 +3061,7 @@
 				"magnitude":"16.13",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56648.5",
@@ -2872,7 +3070,7 @@
 				"magnitude":"17.03",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56650.5",
@@ -2881,7 +3079,7 @@
 				"magnitude":"18.44",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56650.5",
@@ -2890,7 +3088,7 @@
 				"magnitude":"15.89",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56650.5",
@@ -2899,7 +3097,7 @@
 				"magnitude":"16.12",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56650.5",
@@ -2908,7 +3106,7 @@
 				"magnitude":"17.13",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56651.5",
@@ -2917,7 +3115,7 @@
 				"magnitude":"18.34",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56651.5",
@@ -2926,7 +3124,7 @@
 				"magnitude":"15.81",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56651.5",
@@ -2935,7 +3133,7 @@
 				"magnitude":"16.08",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56651.5",
@@ -2944,7 +3142,7 @@
 				"magnitude":"17.11",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56656.5",
@@ -2953,7 +3151,7 @@
 				"magnitude":"18.41",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56656.5",
@@ -2962,7 +3160,7 @@
 				"magnitude":"15.97",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56656.5",
@@ -2971,7 +3169,7 @@
 				"magnitude":"16.23",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56656.5",
@@ -2980,7 +3178,7 @@
 				"magnitude":"17.2",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56657.5",
@@ -2989,7 +3187,7 @@
 				"magnitude":"18.35",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56657.5",
@@ -2998,7 +3196,7 @@
 				"magnitude":"16.01",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56657.5",
@@ -3007,7 +3205,7 @@
 				"magnitude":"16.24",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56657.5",
@@ -3016,7 +3214,7 @@
 				"magnitude":"17.22",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56658.5",
@@ -3025,7 +3223,7 @@
 				"magnitude":"18.42",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56658.5",
@@ -3034,7 +3232,7 @@
 				"magnitude":"16.01",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56658.5",
@@ -3043,7 +3241,7 @@
 				"magnitude":"16.23",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56658.5",
@@ -3052,7 +3250,7 @@
 				"magnitude":"17.23",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56659.5",
@@ -3061,7 +3259,7 @@
 				"magnitude":"18.61",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56659.5",
@@ -3070,7 +3268,7 @@
 				"magnitude":"16.01",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56659.5",
@@ -3079,7 +3277,7 @@
 				"magnitude":"16.23",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56659.5",
@@ -3088,7 +3286,7 @@
 				"magnitude":"17.26",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56660.5",
@@ -3097,7 +3295,7 @@
 				"magnitude":"18.41",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56660.5",
@@ -3106,7 +3304,7 @@
 				"magnitude":"16.03",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56660.5",
@@ -3115,7 +3313,7 @@
 				"magnitude":"16.19",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56660.5",
@@ -3124,7 +3322,7 @@
 				"magnitude":"17.21",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56661.5",
@@ -3133,7 +3331,7 @@
 				"magnitude":"18.55",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56661.5",
@@ -3142,7 +3340,7 @@
 				"magnitude":"16.05",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56661.5",
@@ -3151,7 +3349,7 @@
 				"magnitude":"16.32",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56661.5",
@@ -3160,7 +3358,7 @@
 				"magnitude":"17.32",
 				"telescope":"Tsinghua 0.8m NAOC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56682.02",
@@ -3170,7 +3368,7 @@
 				"magnitude":"15.8",
 				"telescope":"3.58 m ESO NTT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56682.02",
@@ -3180,7 +3378,7 @@
 				"magnitude":"15.95",
 				"telescope":"3.58 m ESO NTT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			},
 			{
 				"time":"56682.02",
@@ -3190,7 +3388,7 @@
 				"magnitude":"14.95",
 				"telescope":"3.58 m ESO NTT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"4"
 			}
 		]
 	}

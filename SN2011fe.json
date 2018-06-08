@@ -1,17 +1,139 @@
 {
-  "SN2011fe":{
-    "name":"SN2011fe",
-    "aliases":[
-      "SN2011fe",
-      "PTF11kly"
-    ],
+	"SN2011fe":{
+		"name":"SN2011fe",
 		"sources":[
 			{
-				"bibcode":"2017MNRAS.472.3437G",
+				"bibcode":"2017MNRAS.466.3442J, 2013ApJ...767..119M",
 				"alias":"1"
+			},
+			{
+				"bibcode":"2017MNRAS.472.3437G",
+				"alias":"2"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN2011fe",
+				"source":"1"
+			}
+		],
+		"aliases":[
+			{
+				"value":"SN2011fe",
+				"source":"2"
+			},
+			{
+				"value":"PTF11kly",
+				"source":"2"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"Ia",
+				"source":"1"
 			}
 		],
 		"photometry":[
+			{
+				"time":"55961",
+				"band":"I1",
+				"e_magnitude":"0.05",
+				"instrument":"IRAC",
+				"magnitude":"14.06",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55961",
+				"band":"I2",
+				"e_magnitude":"0.03",
+				"instrument":"IRAC",
+				"magnitude":"15.20",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55981",
+				"band":"I1",
+				"e_magnitude":"0.03",
+				"instrument":"IRAC",
+				"magnitude":"14.38",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55981",
+				"band":"I2",
+				"e_magnitude":"0.03",
+				"instrument":"IRAC",
+				"magnitude":"15.49",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56048",
+				"band":"I1",
+				"e_magnitude":"0.03",
+				"instrument":"IRAC",
+				"magnitude":"15.32",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56048",
+				"band":"I2",
+				"e_magnitude":"0.07",
+				"instrument":"IRAC",
+				"magnitude":"15.91",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56165",
+				"band":"I1",
+				"e_magnitude":"0.16",
+				"instrument":"IRAC",
+				"magnitude":"17.16",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56165",
+				"band":"I2",
+				"e_magnitude":"0.24",
+				"instrument":"IRAC",
+				"magnitude":"17.18",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56337",
+				"band":"I2",
+				"e_magnitude":"0.50",
+				"instrument":"IRAC",
+				"magnitude":"17.77",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56348",
+				"band":"I2",
+				"e_magnitude":"0.39",
+				"instrument":"IRAC",
+				"magnitude":"17.66",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
 			{
 				"time":"55798.653565",
 				"band":"r",
@@ -20,7 +142,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55799.672824",
@@ -30,7 +152,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55802.642500",
@@ -40,7 +162,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55803.661586",
@@ -50,7 +172,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55804.639421",
@@ -60,7 +182,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55804.695926",
@@ -70,7 +192,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55804.696748",
@@ -80,7 +202,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55805.633935",
@@ -90,7 +212,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55805.637222",
@@ -100,7 +222,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55805.654190",
@@ -110,7 +232,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55805.672766",
@@ -120,7 +242,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55805.691481",
@@ -130,7 +252,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55806.645613",
@@ -140,7 +262,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55806.666620",
@@ -150,7 +272,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55806.687963",
@@ -160,7 +282,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55807.645729",
@@ -170,7 +292,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55807.666030",
@@ -180,7 +302,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55807.686319",
@@ -190,7 +312,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55808.650266",
@@ -200,7 +322,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55808.655208",
@@ -210,7 +332,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55808.681852",
@@ -220,7 +342,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55809.658588",
@@ -230,7 +352,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55809.661296",
@@ -240,7 +362,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55810.632315",
@@ -250,7 +372,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55810.653924",
@@ -260,7 +382,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55810.677014",
@@ -270,7 +392,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55811.636192",
@@ -280,7 +402,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55811.655162",
@@ -290,7 +412,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55811.674398",
@@ -300,7 +422,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55812.627419",
@@ -310,7 +432,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55812.642477",
@@ -320,7 +442,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55812.659282",
@@ -330,7 +452,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55812.675532",
@@ -340,7 +462,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55813.626007",
@@ -350,7 +472,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55813.637245",
@@ -360,7 +482,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55813.649560",
@@ -370,7 +492,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55813.662153",
@@ -380,7 +502,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55814.646933",
@@ -390,7 +512,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55816.629699",
@@ -400,7 +522,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55816.645579",
@@ -410,7 +532,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55816.661910",
@@ -420,7 +542,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55818.615787",
@@ -430,7 +552,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55818.630613",
@@ -440,7 +562,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55818.646019",
@@ -450,7 +572,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55819.618391",
@@ -460,7 +582,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55819.634711",
@@ -470,7 +592,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55819.654387",
@@ -480,7 +602,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55820.616354",
@@ -490,7 +612,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55820.636319",
@@ -500,7 +622,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55821.637130",
@@ -510,7 +632,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55822.622789",
@@ -520,7 +642,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55822.642593",
@@ -530,7 +652,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55823.631250",
@@ -540,7 +662,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55824.614109",
@@ -550,7 +672,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55824.614630",
@@ -560,7 +682,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55824.625625",
@@ -570,7 +692,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55824.626100",
@@ -580,7 +702,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55825.619132",
@@ -590,7 +712,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55825.640347",
@@ -600,7 +722,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55826.636991",
@@ -610,7 +732,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55827.615625",
@@ -620,7 +742,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55827.631447",
@@ -630,7 +752,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55829.612801",
@@ -640,7 +762,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55829.622859",
@@ -650,7 +772,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55830.616007",
@@ -660,7 +782,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55831.609387",
@@ -670,7 +792,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55831.616667",
@@ -680,7 +802,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55831.624016",
@@ -690,7 +812,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55832.604745",
@@ -700,7 +822,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55832.612141",
@@ -710,7 +832,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55832.619398",
@@ -720,7 +842,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55833.608461",
@@ -730,7 +852,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55833.613692",
@@ -740,7 +862,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55834.606806",
@@ -750,7 +872,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55834.611782",
@@ -760,7 +882,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55835.605370",
@@ -770,7 +892,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55835.610046",
@@ -780,7 +902,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55836.606238",
@@ -790,7 +912,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55836.606597",
@@ -800,7 +922,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55836.607002",
@@ -810,7 +932,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55837.604931",
@@ -820,7 +942,7 @@
 				"system":"AB",
 				"telescope":"BOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55798.649745",
@@ -830,7 +952,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55799.645799",
@@ -840,7 +962,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55799.652986",
@@ -850,7 +972,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55799.656574",
@@ -860,7 +982,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55799.677130",
@@ -870,7 +992,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55799.688819",
@@ -880,7 +1002,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55800.649757",
@@ -890,7 +1012,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55800.657928",
@@ -900,7 +1022,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55802.639456",
@@ -910,7 +1032,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55803.651516",
@@ -920,7 +1042,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55803.664560",
@@ -930,7 +1052,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55803.669850",
@@ -940,7 +1062,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55803.679190",
@@ -950,7 +1072,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55803.684549",
@@ -960,7 +1082,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55803.694641",
@@ -970,7 +1092,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55804.634178",
@@ -980,7 +1102,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55804.638113",
@@ -990,7 +1112,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55804.642523",
@@ -1000,7 +1122,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55804.646088",
@@ -1010,7 +1132,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55804.649606",
@@ -1020,7 +1142,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55804.653113",
@@ -1030,7 +1152,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55804.656620",
@@ -1040,7 +1162,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55804.660162",
@@ -1050,7 +1172,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55804.663727",
@@ -1060,7 +1182,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55804.667269",
@@ -1070,7 +1192,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55804.670845",
@@ -1080,7 +1202,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55804.674398",
@@ -1090,7 +1212,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55804.677986",
@@ -1100,7 +1222,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55804.681551",
@@ -1110,7 +1232,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55804.685139",
@@ -1120,7 +1242,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55804.688692",
@@ -1130,7 +1252,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55804.692234",
@@ -1140,7 +1262,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55805.636181",
@@ -1150,7 +1272,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55805.643519",
@@ -1160,7 +1282,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55805.646111",
@@ -1170,7 +1292,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55805.648727",
@@ -1180,7 +1302,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55805.651458",
@@ -1190,7 +1312,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55805.655683",
@@ -1200,7 +1322,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55805.658380",
@@ -1210,7 +1332,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55805.664792",
@@ -1220,7 +1342,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55805.667257",
@@ -1230,7 +1352,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55805.670093",
@@ -1240,7 +1362,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55805.674155",
@@ -1250,7 +1372,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55805.676852",
@@ -1260,7 +1382,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55805.679456",
@@ -1270,7 +1392,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55805.685995",
@@ -1280,7 +1402,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55805.688657",
@@ -1290,7 +1412,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55805.693044",
@@ -1300,7 +1422,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55806.632766",
@@ -1310,7 +1432,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55806.634896",
@@ -1320,7 +1442,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55806.637014",
@@ -1330,7 +1452,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55806.639144",
@@ -1340,7 +1462,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55806.641262",
@@ -1350,7 +1472,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55806.643391",
@@ -1360,7 +1482,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55806.646794",
@@ -1370,7 +1492,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55806.648912",
@@ -1380,7 +1502,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55806.651088",
@@ -1390,7 +1512,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55806.653287",
@@ -1400,7 +1522,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55806.655475",
@@ -1410,7 +1532,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55806.657616",
@@ -1420,7 +1542,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55806.659792",
@@ -1430,7 +1552,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55806.662083",
@@ -1440,7 +1562,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55806.664306",
@@ -1450,7 +1572,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55806.667859",
@@ -1460,7 +1582,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55806.670116",
@@ -1470,7 +1592,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55806.672326",
@@ -1480,7 +1602,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55806.674514",
@@ -1490,7 +1612,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55806.676725",
@@ -1500,7 +1622,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55806.678889",
@@ -1510,7 +1632,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55806.681042",
@@ -1520,7 +1642,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55806.683310",
@@ -1530,7 +1652,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55806.685544",
@@ -1540,7 +1662,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55806.689201",
@@ -1550,7 +1672,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55806.691389",
@@ -1560,7 +1682,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55807.632951",
@@ -1570,7 +1692,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55807.635069",
@@ -1580,7 +1702,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55807.637188",
@@ -1590,7 +1712,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55807.639294",
@@ -1600,7 +1722,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55807.641412",
@@ -1610,7 +1732,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55807.643519",
@@ -1620,7 +1742,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55807.646910",
@@ -1630,7 +1752,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55807.649028",
@@ -1640,7 +1762,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55807.651134",
@@ -1650,7 +1772,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55807.653252",
@@ -1660,7 +1782,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55807.655359",
@@ -1670,7 +1792,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55807.657477",
@@ -1680,7 +1802,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55807.659595",
@@ -1690,7 +1812,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55807.661701",
@@ -1700,7 +1822,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55807.663819",
@@ -1710,7 +1832,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55807.667199",
@@ -1720,7 +1842,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55807.669317",
@@ -1730,7 +1852,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55807.671424",
@@ -1740,7 +1862,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55807.673542",
@@ -1750,7 +1872,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55807.675660",
@@ -1760,7 +1882,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55807.677766",
@@ -1770,7 +1892,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55807.679884",
@@ -1780,7 +1902,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55807.681991",
@@ -1790,7 +1912,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55807.684109",
@@ -1800,7 +1922,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55807.687500",
@@ -1810,7 +1932,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55808.649502",
@@ -1820,7 +1942,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55808.652326",
@@ -1830,7 +1952,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55808.654583",
@@ -1840,7 +1962,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55808.656991",
@@ -1850,7 +1972,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55808.659005",
@@ -1860,7 +1982,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55808.661030",
@@ -1870,7 +1992,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55808.673368",
@@ -1880,7 +2002,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55808.682963",
@@ -1890,7 +2012,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55809.657824",
@@ -1900,7 +2022,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55809.660440",
@@ -1910,7 +2032,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55810.631505",
@@ -1920,7 +2042,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55810.634213",
@@ -1930,7 +2052,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55810.638623",
@@ -1940,7 +2062,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55810.640787",
@@ -1950,7 +2072,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55810.642940",
@@ -1960,7 +2082,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55810.645093",
@@ -1970,7 +2092,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55810.647280",
@@ -1980,7 +2102,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55810.649456",
@@ -1990,7 +2112,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55810.651632",
@@ -2000,7 +2122,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55810.655162",
@@ -2010,7 +2132,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55810.657326",
@@ -2020,7 +2142,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55810.659456",
@@ -2030,7 +2152,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55810.661644",
@@ -2040,7 +2162,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55810.663854",
@@ -2050,7 +2172,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55810.666065",
@@ -2060,7 +2182,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55810.668287",
@@ -2070,7 +2192,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55810.670440",
@@ -2080,7 +2202,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55810.672546",
@@ -2090,7 +2212,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55810.674769",
@@ -2100,7 +2222,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55810.678241",
@@ -2110,7 +2232,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55810.680428",
@@ -2120,7 +2242,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55811.629479",
@@ -2130,7 +2252,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55811.631736",
@@ -2140,7 +2262,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55811.633912",
@@ -2150,7 +2272,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55811.637396",
@@ -2160,7 +2282,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55811.639641",
@@ -2170,7 +2292,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55811.641852",
@@ -2180,7 +2302,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55811.644062",
@@ -2190,7 +2312,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55811.646215",
@@ -2200,7 +2322,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55811.648414",
@@ -2210,7 +2332,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55811.650648",
@@ -2220,7 +2342,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55811.652859",
@@ -2230,7 +2352,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55811.656528",
@@ -2240,7 +2362,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55811.658785",
@@ -2250,7 +2372,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55811.660903",
@@ -2260,7 +2382,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55811.663194",
@@ -2270,7 +2392,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55811.665405",
@@ -2280,7 +2402,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55811.667685",
@@ -2290,7 +2412,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55811.669873",
@@ -2300,7 +2422,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55811.672130",
@@ -2310,7 +2432,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55811.675637",
@@ -2320,7 +2442,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55811.677812",
@@ -2330,7 +2452,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55812.626782",
@@ -2340,7 +2462,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55812.629039",
@@ -2350,7 +2472,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55812.632755",
@@ -2360,7 +2482,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55812.634769",
@@ -2370,7 +2492,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55812.636678",
@@ -2380,7 +2502,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55812.638542",
@@ -2390,7 +2512,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55812.640463",
@@ -2400,7 +2522,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55812.643565",
@@ -2410,7 +2532,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55812.645486",
@@ -2420,7 +2542,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55812.647454",
@@ -2430,7 +2552,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55812.649387",
@@ -2440,7 +2562,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55812.651250",
@@ -2450,7 +2572,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55812.653206",
@@ -2460,7 +2582,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55812.655289",
@@ -2470,7 +2592,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55812.657211",
@@ -2480,7 +2602,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55812.660347",
@@ -2490,7 +2612,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55812.662500",
@@ -2500,7 +2622,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55812.664375",
@@ -2510,7 +2632,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55812.671748",
@@ -2520,7 +2642,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55813.625417",
@@ -2530,7 +2652,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55813.627593",
@@ -2540,7 +2662,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55813.629606",
@@ -2550,7 +2672,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55813.631493",
@@ -2560,7 +2682,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55813.633345",
@@ -2570,7 +2692,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55813.635243",
@@ -2580,7 +2702,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55813.638345",
@@ -2590,7 +2712,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55813.640139",
@@ -2600,7 +2722,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55813.641979",
@@ -2610,7 +2732,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55813.643831",
@@ -2620,7 +2742,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55813.645660",
@@ -2630,7 +2752,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55813.647512",
@@ -2640,7 +2762,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55813.650671",
@@ -2650,7 +2772,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55813.652546",
@@ -2660,7 +2782,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55813.660162",
@@ -2670,7 +2792,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55813.663299",
@@ -2680,7 +2802,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55813.667373",
@@ -2690,7 +2812,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55813.669225",
@@ -2700,7 +2822,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55813.671146",
@@ -2710,7 +2832,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55813.672963",
@@ -2720,7 +2842,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55814.633669",
@@ -2730,7 +2852,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55814.635579",
@@ -2740,7 +2862,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55814.637454",
@@ -2750,7 +2872,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55814.639352",
@@ -2760,7 +2882,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55814.641215",
@@ -2770,7 +2892,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55814.643056",
@@ -2780,7 +2902,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55814.645012",
@@ -2790,7 +2912,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55814.647986",
@@ -2800,7 +2922,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55814.649792",
@@ -2810,7 +2932,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55816.629062",
@@ -2820,7 +2942,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55816.631354",
@@ -2830,7 +2952,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55816.633287",
@@ -2840,7 +2962,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55816.635220",
@@ -2850,7 +2972,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55816.637130",
@@ -2860,7 +2982,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55816.639977",
@@ -2870,7 +2992,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55816.641817",
@@ -2880,7 +3002,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55816.643681",
@@ -2890,7 +3012,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55816.646644",
@@ -2900,7 +3022,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55816.648576",
@@ -2910,7 +3032,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55816.650475",
@@ -2920,7 +3042,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55816.652419",
@@ -2930,7 +3052,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55816.654271",
@@ -2940,7 +3062,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55816.656169",
@@ -2950,7 +3072,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55816.658021",
@@ -2960,7 +3082,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55816.664907",
@@ -2970,7 +3092,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55818.615116",
@@ -2980,7 +3102,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55818.617431",
@@ -2990,7 +3112,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55818.619282",
@@ -3000,7 +3122,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55818.624850",
@@ -3010,7 +3132,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55818.635787",
@@ -3020,7 +3142,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55818.641377",
@@ -3030,7 +3152,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55818.643218",
@@ -3040,7 +3162,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55819.617627",
@@ -3050,7 +3172,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55819.620463",
@@ -3060,7 +3182,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55819.622836",
@@ -3070,7 +3192,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55819.625197",
@@ -3080,7 +3202,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55819.627593",
@@ -3090,7 +3212,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55819.643090",
@@ -3100,7 +3222,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55819.653565",
@@ -3110,7 +3232,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55819.656493",
@@ -3120,7 +3242,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55820.615544",
@@ -3130,7 +3252,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55820.622025",
@@ -3140,7 +3262,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55820.626748",
@@ -3150,7 +3272,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55820.629340",
@@ -3160,7 +3282,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55820.631632",
@@ -3170,7 +3292,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55820.647894",
@@ -3180,7 +3302,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55820.650174",
@@ -3190,7 +3312,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55820.652477",
@@ -3200,7 +3322,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55821.622604",
@@ -3210,7 +3332,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55821.625556",
@@ -3220,7 +3342,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55821.627847",
@@ -3230,7 +3352,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55821.642905",
@@ -3240,7 +3362,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55822.621852",
@@ -3250,7 +3372,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55822.624815",
@@ -3260,7 +3382,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55822.627106",
@@ -3270,7 +3392,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55822.629468",
@@ -3280,7 +3402,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55822.631759",
@@ -3290,7 +3412,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55822.634074",
@@ -3300,7 +3422,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55822.636377",
@@ -3310,7 +3432,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55822.648368",
@@ -3320,7 +3442,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55823.630457",
@@ -3330,7 +3452,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55823.633814",
@@ -3340,7 +3462,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55823.641047",
@@ -3350,7 +3472,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55824.617812",
@@ -3360,7 +3482,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55824.618507",
@@ -3370,7 +3492,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55825.618310",
@@ -3380,7 +3502,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55825.621238",
@@ -3390,7 +3512,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55825.623750",
@@ -3400,7 +3522,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55825.628843",
@@ -3410,7 +3532,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55825.631343",
@@ -3420,7 +3542,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55826.636227",
@@ -3430,7 +3552,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55827.614618",
@@ -3440,7 +3562,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55827.619792",
@@ -3450,7 +3572,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55827.622616",
@@ -3460,7 +3582,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55827.625532",
@@ -3470,7 +3592,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55827.628391",
@@ -3480,7 +3602,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55827.634375",
@@ -3490,7 +3612,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55829.611863",
@@ -3500,7 +3622,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55829.616620",
@@ -3510,7 +3632,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55829.619225",
@@ -3520,7 +3642,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55829.621921",
@@ -3530,7 +3652,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55829.626701",
@@ -3540,7 +3662,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55829.629259",
@@ -3550,7 +3672,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55830.615012",
@@ -3560,7 +3682,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55830.623981",
@@ -3570,7 +3692,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55830.626586",
@@ -3580,7 +3702,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55831.608403",
@@ -3590,7 +3712,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55831.613229",
@@ -3600,7 +3722,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55831.615706",
@@ -3610,7 +3732,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55831.620486",
@@ -3620,7 +3742,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55831.622998",
@@ -3630,7 +3752,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55832.603762",
@@ -3640,7 +3762,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55832.608600",
@@ -3650,7 +3772,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55832.611134",
@@ -3660,7 +3782,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55832.615949",
@@ -3670,7 +3792,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55832.618461",
@@ -3680,7 +3802,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55833.607396",
@@ -3690,7 +3812,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55833.612616",
@@ -3700,7 +3822,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55834.600856",
@@ -3710,7 +3832,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55834.610822",
@@ -3720,7 +3842,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55835.604421",
@@ -3730,7 +3852,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55835.609097",
@@ -3740,7 +3862,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55836.604560",
@@ -3750,7 +3872,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55836.605046",
@@ -3760,7 +3882,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55836.605637",
@@ -3770,7 +3892,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55837.604317",
@@ -3780,7 +3902,7 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55838.604641",
@@ -3790,36 +3912,8 @@
 				"system":"AB",
 				"telescope":"BBOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			}
-		],
-    "spectra":[
-      {
-        "filename":"2011fe_20140623_MODS1.dat",
-        "exclude":[
-          {
-            "below":"3320",
-            "reason":"noise"
-          },
-          {
-            "above":"9910",
-            "reason":"noise"
-          }
-        ]
-      },
-      {
-        "filename":"PTF11kly.LRIS.20140501.ms.ReduxB.dat",
-        "exclude":[
-          {
-            "below":"3400",
-            "reason":"noise"
-          },
-          {
-            "above":"10000",
-            "reason":"noise"
-          }
-        ]
-      }
-    ]
-  }
+		]
+	}
 }

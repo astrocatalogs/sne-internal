@@ -3,17 +3,67 @@
 		"name":"SN2012aw",
 		"sources":[
 			{
-				"bibcode":"2014ApJ...787..139D",
+				"bibcode":"2018arXiv180302571S",
 				"alias":"1"
+			},
+			{
+				"bibcode":"2014ApJ...787..139D",
+				"alias":"2"
 			}
 		],
 		"alias":[
 			{
 				"value":"SN2012aw",
+				"source":"1,2"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"II-P",
 				"source":"1"
 			}
 		],
 		"photometry":[
+			{
+				"time":"56360",
+				"band":"I1",
+				"e_magnitude":"0.10",
+				"instrument":"IRAC",
+				"magnitude":"15.79",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56360",
+				"band":"I2",
+				"e_magnitude":"0.10",
+				"instrument":"IRAC",
+				"magnitude":"13.84",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56489",
+				"band":"I1",
+				"e_magnitude":"0.19",
+				"instrument":"IRAC",
+				"magnitude":"16.92",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56489",
+				"band":"I2",
+				"e_magnitude":"0.10",
+				"instrument":"IRAC",
+				"magnitude":"15.02",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
 			{
 				"time":"56003.91",
 				"band":"B",
@@ -21,7 +71,7 @@
 				"magnitude":"13.79",
 				"telescope":"Munari",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56003.91",
@@ -30,7 +80,7 @@
 				"magnitude":"13.72",
 				"telescope":"Munari",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56003.91",
@@ -39,7 +89,7 @@
 				"magnitude":"13.82",
 				"telescope":"Munari",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56003.91",
@@ -48,7 +98,7 @@
 				"magnitude":"13.86",
 				"telescope":"Munari",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56005.07",
@@ -57,7 +107,7 @@
 				"magnitude":"13.52",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56005.07",
@@ -66,7 +116,7 @@
 				"magnitude":"13.53",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56005.07",
@@ -75,7 +125,7 @@
 				"magnitude":"13.53",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56005.07",
@@ -84,7 +134,7 @@
 				"magnitude":"13.68",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56005.07",
@@ -93,7 +143,7 @@
 				"magnitude":"13.57",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56005.07",
@@ -102,7 +152,7 @@
 				"magnitude":"13.87",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56005.07",
@@ -111,7 +161,7 @@
 				"magnitude":"13.68",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56005.07",
@@ -120,7 +170,7 @@
 				"magnitude":"14",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56005.91",
@@ -129,7 +179,7 @@
 				"magnitude":"13.6",
 				"telescope":"Munari",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56005.91",
@@ -138,7 +188,7 @@
 				"magnitude":"13.31",
 				"telescope":"Munari",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56005.91",
@@ -147,7 +197,7 @@
 				"magnitude":"13.43",
 				"telescope":"Munari",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56005.91",
@@ -156,7 +206,7 @@
 				"magnitude":"13.58",
 				"telescope":"Munari",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56005.94",
@@ -165,7 +215,7 @@
 				"magnitude":"13.54",
 				"telescope":"Asiago Schmidt",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56005.94",
@@ -174,7 +224,7 @@
 				"magnitude":"13.41",
 				"telescope":"Asiago Schmidt",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56005.94",
@@ -183,7 +233,7 @@
 				"magnitude":"13.35",
 				"telescope":"Asiago Schmidt",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56005.94",
@@ -192,7 +242,7 @@
 				"magnitude":"13.56",
 				"telescope":"Asiago Schmidt",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56006.08",
@@ -201,7 +251,7 @@
 				"magnitude":"13.46",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56006.08",
@@ -210,7 +260,7 @@
 				"magnitude":"13.73",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56006.08",
@@ -219,7 +269,7 @@
 				"magnitude":"13.57",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56006.08",
@@ -228,7 +278,7 @@
 				"magnitude":"13.84",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56006.21",
@@ -237,7 +287,7 @@
 				"magnitude":"13.47",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56006.21",
@@ -246,7 +296,7 @@
 				"magnitude":"13.39",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56006.21",
@@ -255,7 +305,7 @@
 				"magnitude":"13.4",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56006.21",
@@ -264,7 +314,7 @@
 				"magnitude":"13.59",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56006.81",
@@ -273,7 +323,7 @@
 				"magnitude":"13.53",
 				"telescope":"Asiago Schmidt",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56006.81",
@@ -282,7 +332,7 @@
 				"magnitude":"13.39",
 				"telescope":"Asiago Schmidt",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56006.81",
@@ -291,7 +341,7 @@
 				"magnitude":"13.38",
 				"telescope":"Asiago Schmidt",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56006.81",
@@ -300,7 +350,7 @@
 				"magnitude":"13.52",
 				"telescope":"Asiago Schmidt",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56007.07",
@@ -309,7 +359,7 @@
 				"magnitude":"13.47",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56007.07",
@@ -318,7 +368,7 @@
 				"magnitude":"13.28",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56007.07",
@@ -327,7 +377,7 @@
 				"magnitude":"13.29",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56007.07",
@@ -336,7 +386,7 @@
 				"magnitude":"13.52",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56007.07",
@@ -345,7 +395,7 @@
 				"magnitude":"13.5",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56007.07",
@@ -354,7 +404,7 @@
 				"magnitude":"13.62",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56007.07",
@@ -363,7 +413,7 @@
 				"magnitude":"13.46",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56007.07",
@@ -372,7 +422,7 @@
 				"magnitude":"13.75",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56007.81",
@@ -381,7 +431,7 @@
 				"magnitude":"13.41",
 				"telescope":"Asiago Schmidt",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56007.81",
@@ -390,7 +440,7 @@
 				"magnitude":"13.22",
 				"telescope":"Asiago Schmidt",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56007.81",
@@ -399,7 +449,7 @@
 				"magnitude":"13.27",
 				"telescope":"Asiago Schmidt",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56007.81",
@@ -408,7 +458,7 @@
 				"magnitude":"13.44",
 				"telescope":"Asiago Schmidt",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56008.07",
@@ -417,7 +467,7 @@
 				"magnitude":"13.38",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56008.07",
@@ -426,7 +476,7 @@
 				"magnitude":"13.2",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56008.07",
@@ -435,7 +485,7 @@
 				"magnitude":"13.22",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56008.07",
@@ -444,7 +494,7 @@
 				"magnitude":"13.39",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56008.07",
@@ -453,7 +503,7 @@
 				"magnitude":"13.4",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56008.07",
@@ -462,7 +512,7 @@
 				"magnitude":"13.54",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56008.07",
@@ -471,7 +521,7 @@
 				"magnitude":"13.38",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56008.07",
@@ -480,7 +530,7 @@
 				"magnitude":"13.34",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56008.07",
@@ -489,7 +539,7 @@
 				"magnitude":"13.67",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56008.81",
@@ -498,7 +548,7 @@
 				"magnitude":"13.42",
 				"telescope":"Asiago Schmidt",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56008.81",
@@ -507,7 +557,7 @@
 				"magnitude":"13.16",
 				"telescope":"Asiago Schmidt",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56008.81",
@@ -516,7 +566,7 @@
 				"magnitude":"13.19",
 				"telescope":"Asiago Schmidt",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56008.81",
@@ -525,7 +575,7 @@
 				"magnitude":"13.36",
 				"telescope":"Asiago Schmidt",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56009.08",
@@ -534,7 +584,7 @@
 				"magnitude":"13.42",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56009.08",
@@ -543,7 +593,7 @@
 				"magnitude":"13.13",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56009.08",
@@ -552,7 +602,7 @@
 				"magnitude":"13.11",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56009.08",
@@ -561,7 +611,7 @@
 				"magnitude":"13.38",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56009.08",
@@ -570,7 +620,7 @@
 				"magnitude":"13.38",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56009.08",
@@ -579,7 +629,7 @@
 				"magnitude":"13.49",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56009.08",
@@ -588,7 +638,7 @@
 				"magnitude":"13.32",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56009.08",
@@ -597,7 +647,7 @@
 				"magnitude":"13.62",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56009.57",
@@ -606,7 +656,7 @@
 				"magnitude":"12.95",
 				"telescope":"REM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56009.57",
@@ -615,7 +665,7 @@
 				"magnitude":"13",
 				"telescope":"REM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56009.57",
@@ -624,7 +674,7 @@
 				"magnitude":"12.66",
 				"telescope":"REM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56009.85",
@@ -633,7 +683,7 @@
 				"magnitude":"13.35",
 				"telescope":"CAFOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56009.85",
@@ -642,7 +692,7 @@
 				"magnitude":"13.43",
 				"telescope":"Asiago Schmidt",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56009.85",
@@ -651,7 +701,7 @@
 				"magnitude":"13.07",
 				"telescope":"CAFOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56009.85",
@@ -660,7 +710,7 @@
 				"magnitude":"13.11",
 				"telescope":"Asiago Schmidt",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56009.85",
@@ -669,7 +719,7 @@
 				"magnitude":"13.1",
 				"telescope":"CAFOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56009.85",
@@ -678,7 +728,7 @@
 				"magnitude":"13.18",
 				"telescope":"Asiago Schmidt",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56009.85",
@@ -687,7 +737,7 @@
 				"magnitude":"12.5",
 				"telescope":"CAFOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56009.85",
@@ -696,7 +746,7 @@
 				"magnitude":"13.3",
 				"telescope":"CAFOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56009.85",
@@ -705,7 +755,7 @@
 				"magnitude":"13.34",
 				"telescope":"Asiago Schmidt",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56009.86",
@@ -714,7 +764,7 @@
 				"magnitude":"13.39",
 				"telescope":"Asiago Schmidt",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56009.86",
@@ -723,7 +773,7 @@
 				"magnitude":"13.12",
 				"telescope":"Asiago Schmidt",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56009.86",
@@ -732,7 +782,7 @@
 				"magnitude":"13.12",
 				"telescope":"Asiago Schmidt",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56009.86",
@@ -741,7 +791,7 @@
 				"magnitude":"13.3",
 				"telescope":"Asiago Schmidt",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56009.86",
@@ -750,7 +800,7 @@
 				"magnitude":"13.26",
 				"telescope":"Asiago Schmidt",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56009.86",
@@ -759,7 +809,7 @@
 				"magnitude":"13.43",
 				"telescope":"Asiago Schmidt",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56009.86",
@@ -768,7 +818,7 @@
 				"magnitude":"13.3",
 				"telescope":"Asiago Schmidt",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56009.86",
@@ -777,7 +827,7 @@
 				"magnitude":"13.29",
 				"telescope":"Asiago Schmidt",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56009.86",
@@ -786,7 +836,7 @@
 				"magnitude":"13.52",
 				"telescope":"Asiago Schmidt",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56010.04",
@@ -795,7 +845,7 @@
 				"magnitude":"13.36",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56010.04",
@@ -804,7 +854,7 @@
 				"magnitude":"13.11",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56010.04",
@@ -813,7 +863,7 @@
 				"magnitude":"13.11",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56010.04",
@@ -822,7 +872,7 @@
 				"magnitude":"13.34",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56010.04",
@@ -831,7 +881,7 @@
 				"magnitude":"13.33",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56010.04",
@@ -840,7 +890,7 @@
 				"magnitude":"13.47",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56010.04",
@@ -849,7 +899,7 @@
 				"magnitude":"13.31",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56010.04",
@@ -858,7 +908,7 @@
 				"magnitude":"13.58",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56010.59",
@@ -867,7 +917,7 @@
 				"magnitude":"12.87",
 				"telescope":"REM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56010.59",
@@ -876,7 +926,7 @@
 				"magnitude":"13.04",
 				"telescope":"REM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56010.59",
@@ -885,7 +935,7 @@
 				"magnitude":"12.71",
 				"telescope":"REM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56010.86",
@@ -894,7 +944,7 @@
 				"magnitude":"13.32",
 				"telescope":"CAFOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56010.86",
@@ -903,7 +953,7 @@
 				"magnitude":"13.06",
 				"telescope":"CAFOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56010.86",
@@ -912,7 +962,7 @@
 				"magnitude":"13.12",
 				"telescope":"CAFOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56010.86",
@@ -921,7 +971,7 @@
 				"magnitude":"12.55",
 				"telescope":"CAFOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56010.86",
@@ -930,7 +980,7 @@
 				"magnitude":"13.29",
 				"telescope":"CAFOS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56011.04",
@@ -939,7 +989,7 @@
 				"magnitude":"13.38",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56011.04",
@@ -948,7 +998,7 @@
 				"magnitude":"13.07",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56011.04",
@@ -957,7 +1007,7 @@
 				"magnitude":"13.11",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56011.04",
@@ -966,7 +1016,7 @@
 				"magnitude":"13.28",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56011.04",
@@ -975,7 +1025,7 @@
 				"magnitude":"13.33",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56011.04",
@@ -984,7 +1034,7 @@
 				"magnitude":"13.41",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56011.04",
@@ -993,7 +1043,7 @@
 				"magnitude":"13.28",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56011.04",
@@ -1002,7 +1052,7 @@
 				"magnitude":"13.54",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56011.56",
@@ -1011,7 +1061,7 @@
 				"magnitude":"13.3",
 				"telescope":"Faulkes North",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56011.56",
@@ -1020,7 +1070,7 @@
 				"magnitude":"13.45",
 				"telescope":"Faulkes North",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56011.56",
@@ -1029,7 +1079,7 @@
 				"magnitude":"13.24",
 				"telescope":"Faulkes North",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56011.56",
@@ -1038,7 +1088,7 @@
 				"magnitude":"13.54",
 				"telescope":"Faulkes North",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56011.62",
@@ -1047,7 +1097,7 @@
 				"magnitude":"12.78",
 				"telescope":"REM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56011.62",
@@ -1056,7 +1106,7 @@
 				"magnitude":"12.9",
 				"telescope":"REM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56011.62",
@@ -1065,7 +1115,7 @@
 				"magnitude":"12.52",
 				"telescope":"REM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56012.86",
@@ -1074,7 +1124,7 @@
 				"magnitude":"13.43",
 				"telescope":"AFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56012.86",
@@ -1083,7 +1133,7 @@
 				"magnitude":"12.74",
 				"telescope":"AFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56012.89",
@@ -1092,7 +1142,7 @@
 				"magnitude":"13.08",
 				"telescope":"Asiago Schmidt",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56012.89",
@@ -1101,7 +1151,7 @@
 				"magnitude":"13.16",
 				"telescope":"Asiago Schmidt",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56012.89",
@@ -1110,7 +1160,7 @@
 				"magnitude":"13.33",
 				"telescope":"Asiago Schmidt",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56012.99",
@@ -1119,7 +1169,7 @@
 				"magnitude":"13.27",
 				"telescope":"RATCAM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56012.99",
@@ -1128,7 +1178,7 @@
 				"magnitude":"13.4",
 				"telescope":"RATCAM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56012.99",
@@ -1137,7 +1187,7 @@
 				"magnitude":"13.26",
 				"telescope":"RATCAM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56012.99",
@@ -1146,7 +1196,7 @@
 				"magnitude":"13.55",
 				"telescope":"RATCAM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56012.99",
@@ -1155,7 +1205,7 @@
 				"magnitude":"13.49",
 				"telescope":"RATCAM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56013.94",
@@ -1164,7 +1214,7 @@
 				"magnitude":"13.43",
 				"telescope":"Asiago Schmidt",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56013.94",
@@ -1173,7 +1223,7 @@
 				"magnitude":"13.31",
 				"telescope":"Asiago Schmidt",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56014.89",
@@ -1182,7 +1232,7 @@
 				"magnitude":"13.5",
 				"telescope":"AFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56014.89",
@@ -1191,7 +1241,7 @@
 				"magnitude":"13.07",
 				"telescope":"AFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56014.89",
@@ -1200,7 +1250,7 @@
 				"magnitude":"13.12",
 				"telescope":"AFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56014.89",
@@ -1209,7 +1259,7 @@
 				"magnitude":"12.84",
 				"telescope":"AFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56014.89",
@@ -1218,7 +1268,7 @@
 				"magnitude":"13.35",
 				"telescope":"AFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56015.03",
@@ -1227,7 +1277,7 @@
 				"magnitude":"13.51",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56015.03",
@@ -1236,7 +1286,7 @@
 				"magnitude":"13.07",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56015.03",
@@ -1245,7 +1295,7 @@
 				"magnitude":"13.13",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56015.03",
@@ -1254,7 +1304,7 @@
 				"magnitude":"13.35",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56015.03",
@@ -1263,7 +1313,7 @@
 				"magnitude":"13.38",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56015.03",
@@ -1272,7 +1322,7 @@
 				"magnitude":"13.38",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56015.03",
@@ -1281,7 +1331,7 @@
 				"magnitude":"13.29",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56015.03",
@@ -1290,7 +1340,7 @@
 				"magnitude":"13.47",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56015.87",
@@ -1299,7 +1349,7 @@
 				"magnitude":"13.46",
 				"telescope":"Asiago Schmidt",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56015.87",
@@ -1308,7 +1358,7 @@
 				"magnitude":"13.01",
 				"telescope":"Asiago Schmidt",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56015.87",
@@ -1317,7 +1367,7 @@
 				"magnitude":"13.12",
 				"telescope":"Asiago Schmidt",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56015.87",
@@ -1326,7 +1376,7 @@
 				"magnitude":"13.3",
 				"telescope":"Asiago Schmidt",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56016.01",
@@ -1335,7 +1385,7 @@
 				"magnitude":"13.48",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56016.01",
@@ -1344,7 +1394,7 @@
 				"magnitude":"13.03",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56016.01",
@@ -1353,7 +1403,7 @@
 				"magnitude":"13.11",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56016.01",
@@ -1362,7 +1412,7 @@
 				"magnitude":"13.35",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56016.01",
@@ -1371,7 +1421,7 @@
 				"magnitude":"13.37",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56016.01",
@@ -1380,7 +1430,7 @@
 				"magnitude":"13.4",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56016.01",
@@ -1389,7 +1439,7 @@
 				"magnitude":"13.27",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56016.01",
@@ -1398,7 +1448,7 @@
 				"magnitude":"13.5",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56016.18",
@@ -1407,7 +1457,7 @@
 				"magnitude":"12.63",
 				"telescope":"NICS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56016.18",
@@ -1416,7 +1466,7 @@
 				"magnitude":"12.82",
 				"telescope":"NICS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56016.18",
@@ -1425,7 +1475,7 @@
 				"magnitude":"12.45",
 				"telescope":"NICS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56016.87",
@@ -1434,7 +1484,7 @@
 				"magnitude":"13.02",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56016.87",
@@ -1443,7 +1493,7 @@
 				"magnitude":"13.08",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56016.87",
@@ -1452,7 +1502,7 @@
 				"magnitude":"13.34",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56016.87",
@@ -1461,7 +1511,7 @@
 				"magnitude":"13.37",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56016.87",
@@ -1470,7 +1520,7 @@
 				"magnitude":"13.32",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56016.87",
@@ -1479,7 +1529,7 @@
 				"magnitude":"13.43",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56017.07",
@@ -1488,7 +1538,7 @@
 				"magnitude":"13.61",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56017.07",
@@ -1497,7 +1547,7 @@
 				"magnitude":"12.98",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56017.07",
@@ -1506,7 +1556,7 @@
 				"magnitude":"13.14",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56017.07",
@@ -1515,7 +1565,7 @@
 				"magnitude":"13.34",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56017.93",
@@ -1524,7 +1574,7 @@
 				"magnitude":"13.53",
 				"telescope":"Asiago Schmidt",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56017.93",
@@ -1533,7 +1583,7 @@
 				"magnitude":"12.98",
 				"telescope":"Asiago Schmidt",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56017.93",
@@ -1542,7 +1592,7 @@
 				"magnitude":"13.13",
 				"telescope":"Asiago Schmidt",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56017.93",
@@ -1551,7 +1601,7 @@
 				"magnitude":"13.29",
 				"telescope":"Asiago Schmidt",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56018.57",
@@ -1560,7 +1610,7 @@
 				"magnitude":"12.62",
 				"telescope":"REM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56018.57",
@@ -1569,7 +1619,7 @@
 				"magnitude":"12.8",
 				"telescope":"REM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56018.57",
@@ -1578,7 +1628,7 @@
 				"magnitude":"12.56",
 				"telescope":"REM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56019.82",
@@ -1587,7 +1637,7 @@
 				"magnitude":"13.58",
 				"telescope":"Asiago Schmidt",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56019.82",
@@ -1596,7 +1646,7 @@
 				"magnitude":"12.92",
 				"telescope":"Asiago Schmidt",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56019.82",
@@ -1605,7 +1655,7 @@
 				"magnitude":"13.13",
 				"telescope":"Asiago Schmidt",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56019.82",
@@ -1614,7 +1664,7 @@
 				"magnitude":"13.34",
 				"telescope":"Asiago Schmidt",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56021.58",
@@ -1623,7 +1673,7 @@
 				"magnitude":"12.57",
 				"telescope":"REM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56021.58",
@@ -1632,7 +1682,7 @@
 				"magnitude":"12.74",
 				"telescope":"REM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56021.58",
@@ -1641,7 +1691,7 @@
 				"magnitude":"12.42",
 				"telescope":"REM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56023.91",
@@ -1650,7 +1700,7 @@
 				"magnitude":"13.42",
 				"telescope":"RATCAM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56023.91",
@@ -1659,7 +1709,7 @@
 				"magnitude":"13.26",
 				"telescope":"RATCAM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56023.91",
@@ -1668,7 +1718,7 @@
 				"magnitude":"13.18",
 				"telescope":"RATCAM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56023.91",
@@ -1677,7 +1727,7 @@
 				"magnitude":"14.39",
 				"telescope":"RATCAM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56023.91",
@@ -1686,7 +1736,7 @@
 				"magnitude":"13.28",
 				"telescope":"RATCAM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56024.57",
@@ -1695,7 +1745,7 @@
 				"magnitude":"12.55",
 				"telescope":"REM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56024.57",
@@ -1704,7 +1754,7 @@
 				"magnitude":"12.35",
 				"telescope":"REM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56029.03",
@@ -1713,7 +1763,7 @@
 				"magnitude":"12.9",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56029.03",
@@ -1722,7 +1772,7 @@
 				"magnitude":"13.06",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56029.03",
@@ -1731,7 +1781,7 @@
 				"magnitude":"13.37",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56029.03",
@@ -1740,7 +1790,7 @@
 				"magnitude":"13.28",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56029.03",
@@ -1749,7 +1799,7 @@
 				"magnitude":"13.21",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56029.03",
@@ -1758,7 +1808,7 @@
 				"magnitude":"13.34",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56030.87",
@@ -1767,7 +1817,7 @@
 				"magnitude":"12.39",
 				"telescope":"TCS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56030.87",
@@ -1776,7 +1826,7 @@
 				"magnitude":"12.56",
 				"telescope":"TCS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56032.1",
@@ -1785,7 +1835,7 @@
 				"magnitude":"12.9",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56032.1",
@@ -1794,7 +1844,7 @@
 				"magnitude":"13.05",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56032.1",
@@ -1803,7 +1853,7 @@
 				"magnitude":"13.4",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56032.1",
@@ -1812,7 +1862,7 @@
 				"magnitude":"13.29",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56032.1",
@@ -1821,7 +1871,7 @@
 				"magnitude":"13.24",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56032.1",
@@ -1830,7 +1880,7 @@
 				"magnitude":"13.27",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56034.06",
@@ -1839,7 +1889,7 @@
 				"magnitude":"13.76",
 				"telescope":"RATCAM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56034.06",
@@ -1848,7 +1898,7 @@
 				"magnitude":"13.26",
 				"telescope":"RATCAM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56034.06",
@@ -1857,7 +1907,7 @@
 				"magnitude":"13.21",
 				"telescope":"RATCAM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56034.51",
@@ -1866,7 +1916,7 @@
 				"magnitude":"12.34",
 				"telescope":"REM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56034.51",
@@ -1875,7 +1925,7 @@
 				"magnitude":"12.54",
 				"telescope":"REM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56034.51",
@@ -1884,7 +1934,7 @@
 				"magnitude":"12.26",
 				"telescope":"REM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56035.05",
@@ -1893,7 +1943,7 @@
 				"magnitude":"12.88",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56035.05",
@@ -1902,7 +1952,7 @@
 				"magnitude":"13.09",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56035.05",
@@ -1911,7 +1961,7 @@
 				"magnitude":"13.44",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56035.05",
@@ -1920,7 +1970,7 @@
 				"magnitude":"13.31",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56035.05",
@@ -1929,7 +1979,7 @@
 				"magnitude":"13.25",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56035.05",
@@ -1938,7 +1988,7 @@
 				"magnitude":"13.26",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56038.91",
@@ -1947,7 +1997,7 @@
 				"magnitude":"13.82",
 				"telescope":"RATCAM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56038.91",
@@ -1956,7 +2006,7 @@
 				"magnitude":"13.27",
 				"telescope":"RATCAM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56038.91",
@@ -1965,7 +2015,7 @@
 				"magnitude":"13.25",
 				"telescope":"RATCAM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56038.91",
@@ -1974,7 +2024,7 @@
 				"magnitude":"16.18",
 				"telescope":"RATCAM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56038.91",
@@ -1983,7 +2033,7 @@
 				"magnitude":"13.24",
 				"telescope":"RATCAM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56039.88",
@@ -1992,7 +2042,7 @@
 				"magnitude":"11.96",
 				"telescope":"TCS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56041.62",
@@ -2001,7 +2051,7 @@
 				"magnitude":"12.34",
 				"telescope":"REM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56041.62",
@@ -2010,7 +2060,7 @@
 				"magnitude":"12.49",
 				"telescope":"REM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56041.62",
@@ -2019,7 +2069,7 @@
 				"magnitude":"12.14",
 				"telescope":"REM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56041.93",
@@ -2028,7 +2078,7 @@
 				"magnitude":"14.41",
 				"telescope":"Asiago Schmidt",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56041.93",
@@ -2037,7 +2087,7 @@
 				"magnitude":"12.86",
 				"telescope":"Asiago Schmidt",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56041.93",
@@ -2046,7 +2096,7 @@
 				"magnitude":"13.13",
 				"telescope":"Asiago Schmidt",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56041.93",
@@ -2055,7 +2105,7 @@
 				"magnitude":"13.42",
 				"telescope":"Asiago Schmidt",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56042.9",
@@ -2064,7 +2114,7 @@
 				"magnitude":"14.41",
 				"telescope":"Asiago Schmidt",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56042.9",
@@ -2073,7 +2123,7 @@
 				"magnitude":"12.84",
 				"telescope":"Asiago Schmidt",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56042.9",
@@ -2082,7 +2132,7 @@
 				"magnitude":"13.08",
 				"telescope":"Asiago Schmidt",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56042.9",
@@ -2091,7 +2141,7 @@
 				"magnitude":"13.44",
 				"telescope":"Asiago Schmidt",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56042.99",
@@ -2100,7 +2150,7 @@
 				"magnitude":"14.43",
 				"telescope":"ALFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56042.99",
@@ -2109,7 +2159,7 @@
 				"magnitude":"12.91",
 				"telescope":"ALFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56042.99",
@@ -2118,7 +2168,7 @@
 				"magnitude":"13.06",
 				"telescope":"ALFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56042.99",
@@ -2127,7 +2177,7 @@
 				"magnitude":"13.45",
 				"telescope":"ALFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56048.05",
@@ -2136,7 +2186,7 @@
 				"magnitude":"14.45",
 				"telescope":"EFOSC2",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56048.05",
@@ -2145,7 +2195,7 @@
 				"magnitude":"12.84",
 				"telescope":"EFOSC2",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56048.05",
@@ -2154,7 +2204,7 @@
 				"magnitude":"13.07",
 				"telescope":"EFOSC2",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56048.05",
@@ -2163,7 +2213,7 @@
 				"magnitude":"15.43",
 				"telescope":"EFOSC2",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56048.05",
@@ -2172,7 +2222,7 @@
 				"magnitude":"13.46",
 				"telescope":"EFOSC2",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56049.44",
@@ -2181,7 +2231,7 @@
 				"magnitude":"12.8",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56049.44",
@@ -2190,7 +2240,7 @@
 				"magnitude":"13.05",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56049.44",
@@ -2199,7 +2249,7 @@
 				"magnitude":"13.5",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56049.49",
@@ -2208,7 +2258,7 @@
 				"magnitude":"12.21",
 				"telescope":"REM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56049.49",
@@ -2217,7 +2267,7 @@
 				"magnitude":"12.41",
 				"telescope":"REM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56049.49",
@@ -2226,7 +2276,7 @@
 				"magnitude":"12.08",
 				"telescope":"REM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56050.07",
@@ -2235,7 +2285,7 @@
 				"magnitude":"14.54",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56050.07",
@@ -2244,7 +2294,7 @@
 				"magnitude":"12.79",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56050.07",
@@ -2253,7 +2303,7 @@
 				"magnitude":"13.07",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56050.07",
@@ -2262,7 +2312,7 @@
 				"magnitude":"13.46",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56051.92",
@@ -2271,7 +2321,7 @@
 				"magnitude":"12.03",
 				"telescope":"TCS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56051.92",
@@ -2280,7 +2330,7 @@
 				"magnitude":"12.34",
 				"telescope":"TCS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56052.9",
@@ -2289,7 +2339,7 @@
 				"magnitude":"14.72",
 				"telescope":"ACAM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56052.9",
@@ -2298,7 +2348,7 @@
 				"magnitude":"12.82",
 				"telescope":"ACAM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56052.9",
@@ -2307,7 +2357,7 @@
 				"magnitude":"13.07",
 				"telescope":"ACAM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56052.9",
@@ -2316,7 +2366,7 @@
 				"magnitude":"15.7",
 				"telescope":"ACAM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56052.9",
@@ -2325,7 +2375,7 @@
 				"magnitude":"13.54",
 				"telescope":"ACAM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56056.11",
@@ -2334,7 +2384,7 @@
 				"magnitude":"12.81",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56056.11",
@@ -2343,7 +2393,7 @@
 				"magnitude":"13.08",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56056.11",
@@ -2352,7 +2402,7 @@
 				"magnitude":"13.53",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56056.11",
@@ -2361,7 +2411,7 @@
 				"magnitude":"13.23",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56056.11",
@@ -2370,7 +2420,7 @@
 				"magnitude":"13.27",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56056.11",
@@ -2379,7 +2429,7 @@
 				"magnitude":"13.14",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56059.15",
@@ -2388,7 +2438,7 @@
 				"magnitude":"14.71",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56059.15",
@@ -2397,7 +2447,7 @@
 				"magnitude":"12.8",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56059.15",
@@ -2406,7 +2456,7 @@
 				"magnitude":"13.1",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56059.15",
@@ -2415,7 +2465,7 @@
 				"magnitude":"13.53",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56061.08",
@@ -2424,7 +2474,7 @@
 				"magnitude":"14.11",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56061.08",
@@ -2433,7 +2483,7 @@
 				"magnitude":"13.21",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56061.08",
@@ -2442,7 +2492,7 @@
 				"magnitude":"13.26",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56061.08",
@@ -2451,7 +2501,7 @@
 				"magnitude":"13.12",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56062.91",
@@ -2460,7 +2510,7 @@
 				"magnitude":"12.74",
 				"telescope":"TCS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56062.91",
@@ -2469,7 +2519,7 @@
 				"magnitude":"12.49",
 				"telescope":"TCS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56069.05",
@@ -2478,7 +2528,7 @@
 				"magnitude":"15.1",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56069.05",
@@ -2487,7 +2537,7 @@
 				"magnitude":"12.76",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56069.05",
@@ -2496,7 +2546,7 @@
 				"magnitude":"13.02",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56069.05",
@@ -2505,7 +2555,7 @@
 				"magnitude":"13.56",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56069.05",
@@ -2514,7 +2564,7 @@
 				"magnitude":"13.22",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56069.05",
@@ -2523,7 +2573,7 @@
 				"magnitude":"13.27",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56069.05",
@@ -2532,7 +2582,7 @@
 				"magnitude":"13.04",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56071.07",
@@ -2541,7 +2591,7 @@
 				"magnitude":"12.9",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56071.07",
@@ -2550,7 +2600,7 @@
 				"magnitude":"13.02",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56071.07",
@@ -2559,7 +2609,7 @@
 				"magnitude":"13.59",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56071.07",
@@ -2568,7 +2618,7 @@
 				"magnitude":"13.22",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56071.07",
@@ -2577,7 +2627,7 @@
 				"magnitude":"13.3",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56073.88",
@@ -2586,7 +2636,7 @@
 				"magnitude":"14.97",
 				"telescope":"ALFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56073.88",
@@ -2595,7 +2645,7 @@
 				"magnitude":"12.83",
 				"telescope":"ALFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56073.88",
@@ -2604,7 +2654,7 @@
 				"magnitude":"13.08",
 				"telescope":"ALFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56073.88",
@@ -2613,7 +2663,7 @@
 				"magnitude":"16.56",
 				"telescope":"ALFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56073.88",
@@ -2622,7 +2672,7 @@
 				"magnitude":"13.6",
 				"telescope":"ALFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56073.93",
@@ -2631,7 +2681,7 @@
 				"magnitude":"14.22",
 				"telescope":"RATCAM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56073.93",
@@ -2640,7 +2690,7 @@
 				"magnitude":"13.19",
 				"telescope":"RATCAM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56073.93",
@@ -2649,7 +2699,7 @@
 				"magnitude":"13.27",
 				"telescope":"RATCAM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56073.93",
@@ -2658,7 +2708,7 @@
 				"magnitude":"17.67",
 				"telescope":"RATCAM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56073.93",
@@ -2667,7 +2717,7 @@
 				"magnitude":"13.1",
 				"telescope":"RATCAM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56075.11",
@@ -2676,7 +2726,7 @@
 				"magnitude":"12.75",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56075.11",
@@ -2685,7 +2735,7 @@
 				"magnitude":"13.02",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56075.11",
@@ -2694,7 +2744,7 @@
 				"magnitude":"13.59",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56075.11",
@@ -2703,7 +2753,7 @@
 				"magnitude":"13.27",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56075.11",
@@ -2712,7 +2762,7 @@
 				"magnitude":"13.11",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56078.91",
@@ -2721,7 +2771,7 @@
 				"magnitude":"14.22",
 				"telescope":"RATCAM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56078.91",
@@ -2730,7 +2780,7 @@
 				"magnitude":"13.2",
 				"telescope":"RATCAM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56078.91",
@@ -2739,7 +2789,7 @@
 				"magnitude":"13.3",
 				"telescope":"RATCAM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56078.91",
@@ -2748,7 +2798,7 @@
 				"magnitude":"17.9",
 				"telescope":"RATCAM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56078.91",
@@ -2757,7 +2807,7 @@
 				"magnitude":"13.11",
 				"telescope":"RATCAM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56079.91",
@@ -2766,7 +2816,7 @@
 				"magnitude":"14.26",
 				"telescope":"RATCAM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56079.91",
@@ -2775,7 +2825,7 @@
 				"magnitude":"13.21",
 				"telescope":"RATCAM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56079.91",
@@ -2784,7 +2834,7 @@
 				"magnitude":"13.27",
 				"telescope":"RATCAM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56079.91",
@@ -2793,7 +2843,7 @@
 				"magnitude":"17.84",
 				"telescope":"RATCAM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56079.91",
@@ -2802,7 +2852,7 @@
 				"magnitude":"13.09",
 				"telescope":"RATCAM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56084.9",
@@ -2811,7 +2861,7 @@
 				"magnitude":"12.18",
 				"telescope":"TCS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56084.9",
@@ -2820,7 +2870,7 @@
 				"magnitude":"12.31",
 				"telescope":"TCS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56086.05",
@@ -2829,7 +2879,7 @@
 				"magnitude":"13.11",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56086.05",
@@ -2838,7 +2888,7 @@
 				"magnitude":"13.64",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56086.05",
@@ -2847,7 +2897,7 @@
 				"magnitude":"13.29",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56086.05",
@@ -2856,7 +2906,7 @@
 				"magnitude":"13.29",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56086.05",
@@ -2865,7 +2915,7 @@
 				"magnitude":"13.21",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56087.91",
@@ -2874,7 +2924,7 @@
 				"magnitude":"12.12",
 				"telescope":"TCS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56087.91",
@@ -2883,7 +2933,7 @@
 				"magnitude":"12.34",
 				"telescope":"TCS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56087.91",
@@ -2892,7 +2942,7 @@
 				"magnitude":"11.97",
 				"telescope":"TCS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56092.01",
@@ -2901,7 +2951,7 @@
 				"magnitude":"13.11",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56092.01",
@@ -2910,7 +2960,7 @@
 				"magnitude":"13.67",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56095.91",
@@ -2919,7 +2969,7 @@
 				"magnitude":"15.19",
 				"telescope":"ALFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56095.91",
@@ -2928,7 +2978,7 @@
 				"magnitude":"12.88",
 				"telescope":"ALFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56095.91",
@@ -2937,7 +2987,7 @@
 				"magnitude":"13.17",
 				"telescope":"ALFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56095.91",
@@ -2946,7 +2996,7 @@
 				"magnitude":"17.17",
 				"telescope":"ALFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56095.91",
@@ -2955,7 +3005,7 @@
 				"magnitude":"13.75",
 				"telescope":"ALFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56095.94",
@@ -2964,7 +3014,7 @@
 				"magnitude":"12.23",
 				"telescope":"TCS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56095.94",
@@ -2973,7 +3023,7 @@
 				"magnitude":"12.42",
 				"telescope":"TCS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56095.94",
@@ -2982,7 +3032,7 @@
 				"magnitude":"12.04",
 				"telescope":"TCS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56103.03",
@@ -2991,7 +3041,7 @@
 				"magnitude":"12.88",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56103.03",
@@ -3000,7 +3050,7 @@
 				"magnitude":"13.18",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56103.03",
@@ -3009,7 +3059,7 @@
 				"magnitude":"13.82",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56103.03",
@@ -3018,7 +3068,7 @@
 				"magnitude":"13.36",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56103.03",
@@ -3027,7 +3077,7 @@
 				"magnitude":"13.42",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56103.03",
@@ -3036,7 +3086,7 @@
 				"magnitude":"13.23",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56104.9",
@@ -3045,7 +3095,7 @@
 				"magnitude":"15.45",
 				"telescope":"ACAM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56104.9",
@@ -3054,7 +3104,7 @@
 				"magnitude":"12.85",
 				"telescope":"ACAM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56104.9",
@@ -3063,7 +3113,7 @@
 				"magnitude":"13.21",
 				"telescope":"ACAM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56104.9",
@@ -3072,7 +3122,7 @@
 				"magnitude":"13.88",
 				"telescope":"ACAM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56110.98",
@@ -3081,7 +3131,7 @@
 				"magnitude":"15.31",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56110.98",
@@ -3090,7 +3140,7 @@
 				"magnitude":"12.95",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56110.98",
@@ -3099,7 +3149,7 @@
 				"magnitude":"13.29",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56110.98",
@@ -3108,7 +3158,7 @@
 				"magnitude":"13.9",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56114.99",
@@ -3117,7 +3167,7 @@
 				"magnitude":"15.45",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56114.99",
@@ -3126,7 +3176,7 @@
 				"magnitude":"13.08",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56114.99",
@@ -3135,7 +3185,7 @@
 				"magnitude":"13.37",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56114.99",
@@ -3144,7 +3194,7 @@
 				"magnitude":"14.01",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56115.9",
@@ -3153,7 +3203,7 @@
 				"magnitude":"15.47",
 				"telescope":"ALFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56115.9",
@@ -3162,7 +3212,7 @@
 				"magnitude":"13.11",
 				"telescope":"ALFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56115.9",
@@ -3171,7 +3221,7 @@
 				"magnitude":"13.4",
 				"telescope":"ALFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56115.9",
@@ -3180,7 +3230,7 @@
 				"magnitude":"17.62",
 				"telescope":"ALFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56115.9",
@@ -3189,7 +3239,7 @@
 				"magnitude":"14.03",
 				"telescope":"ALFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56115.98",
@@ -3198,7 +3248,7 @@
 				"magnitude":"13.54",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56115.98",
@@ -3207,7 +3257,7 @@
 				"magnitude":"13.62",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56115.98",
@@ -3216,7 +3266,7 @@
 				"magnitude":"13.36",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56116.98",
@@ -3225,7 +3275,7 @@
 				"magnitude":"15.49",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56116.98",
@@ -3234,7 +3284,7 @@
 				"magnitude":"13.12",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56116.98",
@@ -3243,7 +3293,7 @@
 				"magnitude":"13.4",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56116.98",
@@ -3252,7 +3302,7 @@
 				"magnitude":"14.02",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56117.99",
@@ -3261,7 +3311,7 @@
 				"magnitude":"15.52",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56117.99",
@@ -3270,7 +3320,7 @@
 				"magnitude":"13.08",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56117.99",
@@ -3279,7 +3329,7 @@
 				"magnitude":"13.37",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56117.99",
@@ -3288,7 +3338,7 @@
 				"magnitude":"14.05",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56125.98",
@@ -3297,7 +3347,7 @@
 				"magnitude":"15.87",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56125.98",
@@ -3306,7 +3356,7 @@
 				"magnitude":"13.28",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56125.98",
@@ -3315,7 +3365,7 @@
 				"magnitude":"13.63",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56125.98",
@@ -3324,7 +3374,7 @@
 				"magnitude":"14.32",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56127.98",
@@ -3333,7 +3383,7 @@
 				"magnitude":"15.92",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56127.98",
@@ -3342,7 +3392,7 @@
 				"magnitude":"14.46",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56128.98",
@@ -3351,7 +3401,7 @@
 				"magnitude":"13.57",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56128.98",
@@ -3360,7 +3410,7 @@
 				"magnitude":"13.88",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56131.97",
@@ -3369,7 +3419,7 @@
 				"magnitude":"13.88",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56131.97",
@@ -3378,7 +3428,7 @@
 				"magnitude":"14.67",
 				"telescope":"PROMPT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56288.2",
@@ -3387,7 +3437,7 @@
 				"magnitude":"18.55",
 				"telescope":"ALFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56288.2",
@@ -3396,7 +3446,7 @@
 				"magnitude":"15.9",
 				"telescope":"ALFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56288.2",
@@ -3405,7 +3455,7 @@
 				"magnitude":"16.36",
 				"telescope":"ALFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56288.2",
@@ -3414,7 +3464,7 @@
 				"magnitude":"17.37",
 				"telescope":"ALFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56335.13",
@@ -3423,7 +3473,7 @@
 				"magnitude":"18.98",
 				"telescope":"ACAM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56335.13",
@@ -3432,7 +3482,7 @@
 				"magnitude":"16.32",
 				"telescope":"ACAM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56335.13",
@@ -3441,7 +3491,7 @@
 				"magnitude":"16.85",
 				"telescope":"ACAM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56335.13",
@@ -3450,7 +3500,7 @@
 				"magnitude":"20.34",
 				"telescope":"ACAM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56335.13",
@@ -3459,7 +3509,7 @@
 				"magnitude":"17.8",
 				"telescope":"ACAM",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			}
 		]
 	}

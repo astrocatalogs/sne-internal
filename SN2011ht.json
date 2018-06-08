@@ -3,17 +3,37 @@
 		"name":"SN2011ht",
 		"sources":[
 			{
-				"bibcode":"2013MNRAS.431.2599M",
+				"bibcode":"2018arXiv180302571S",
 				"alias":"1"
+			},
+			{
+				"bibcode":"2013MNRAS.431.2599M",
+				"alias":"2"
 			}
 		],
 		"alias":[
 			{
 				"value":"SN2011ht",
+				"source":"1,2"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"IIn",
 				"source":"1"
 			}
 		],
 		"photometry":[
+			{
+				"time":"55833",
+				"band":"I2",
+				"e_magnitude":"0.64",
+				"instrument":"IRAC",
+				"magnitude":"18.35",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
 			{
 				"time":"55861.5",
 				"band":"H",
@@ -21,7 +41,7 @@
 				"magnitude":"13.97",
 				"telescope":"PAIRITEL",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55861.5",
@@ -30,7 +50,7 @@
 				"magnitude":"14.23",
 				"telescope":"PAIRITEL",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55861.5",
@@ -39,7 +59,7 @@
 				"magnitude":"13.72",
 				"telescope":"PAIRITEL",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55864.5",
@@ -48,7 +68,7 @@
 				"magnitude":"13.86",
 				"telescope":"PAIRITEL",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55864.5",
@@ -57,7 +77,7 @@
 				"magnitude":"14.05",
 				"telescope":"PAIRITEL",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55864.5",
@@ -66,7 +86,7 @@
 				"magnitude":"13.61",
 				"telescope":"PAIRITEL",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55866.5",
@@ -75,7 +95,7 @@
 				"magnitude":"13.88",
 				"telescope":"PAIRITEL",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55866.5",
@@ -84,7 +104,7 @@
 				"magnitude":"14.00",
 				"telescope":"PAIRITEL",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55866.5",
@@ -93,7 +113,7 @@
 				"magnitude":"13.67",
 				"telescope":"PAIRITEL",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55882.5",
@@ -102,7 +122,7 @@
 				"magnitude":"13.78",
 				"telescope":"PAIRITEL",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55882.5",
@@ -111,7 +131,7 @@
 				"magnitude":"13.92",
 				"telescope":"PAIRITEL",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55882.5",
@@ -120,7 +140,7 @@
 				"magnitude":"13.51",
 				"telescope":"PAIRITEL",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55888.4",
@@ -129,7 +149,7 @@
 				"magnitude":"13.68",
 				"telescope":"PAIRITEL",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55888.4",
@@ -138,7 +158,7 @@
 				"magnitude":"13.89",
 				"telescope":"PAIRITEL",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55888.4",
@@ -147,7 +167,7 @@
 				"magnitude":"13.43",
 				"telescope":"PAIRITEL",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55892.4",
@@ -156,7 +176,7 @@
 				"magnitude":"13.70",
 				"telescope":"PAIRITEL",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55892.4",
@@ -165,7 +185,7 @@
 				"magnitude":"13.88",
 				"telescope":"PAIRITEL",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55892.4",
@@ -174,7 +194,7 @@
 				"magnitude":"13.62",
 				"telescope":"PAIRITEL",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55894.4",
@@ -183,7 +203,7 @@
 				"magnitude":"13.70",
 				"telescope":"PAIRITEL",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55894.4",
@@ -192,7 +212,7 @@
 				"magnitude":"13.86",
 				"telescope":"PAIRITEL",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55894.4",
@@ -201,7 +221,7 @@
 				"magnitude":"13.48",
 				"telescope":"PAIRITEL",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55900.5",
@@ -210,7 +230,7 @@
 				"magnitude":"13.75",
 				"telescope":"PAIRITEL",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55900.5",
@@ -219,7 +239,7 @@
 				"magnitude":"13.94",
 				"telescope":"PAIRITEL",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55900.5",
@@ -228,7 +248,7 @@
 				"magnitude":"13.62",
 				"telescope":"PAIRITEL",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55903.5",
@@ -237,7 +257,7 @@
 				"magnitude":"13.77",
 				"telescope":"PAIRITEL",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55903.5",
@@ -246,7 +266,7 @@
 				"magnitude":"13.94",
 				"telescope":"PAIRITEL",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55903.5",
@@ -255,7 +275,7 @@
 				"magnitude":"13.54",
 				"telescope":"PAIRITEL",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55922.4",
@@ -264,7 +284,7 @@
 				"magnitude":"13.94",
 				"telescope":"PAIRITEL",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55922.4",
@@ -273,7 +293,7 @@
 				"magnitude":"14.09",
 				"telescope":"PAIRITEL",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55922.4",
@@ -282,7 +302,7 @@
 				"magnitude":"13.65",
 				"telescope":"PAIRITEL",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55928.4",
@@ -291,7 +311,7 @@
 				"magnitude":"13.92",
 				"telescope":"PAIRITEL",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55928.4",
@@ -300,7 +320,7 @@
 				"magnitude":"14.11",
 				"telescope":"PAIRITEL",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55928.4",
@@ -309,7 +329,7 @@
 				"magnitude":"13.63",
 				"telescope":"PAIRITEL",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55932.4",
@@ -318,7 +338,7 @@
 				"magnitude":"13.94",
 				"telescope":"PAIRITEL",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55932.4",
@@ -327,7 +347,7 @@
 				"magnitude":"14.17",
 				"telescope":"PAIRITEL",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55932.4",
@@ -336,7 +356,7 @@
 				"magnitude":"13.70",
 				"telescope":"PAIRITEL",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55936.4",
@@ -345,7 +365,7 @@
 				"magnitude":"13.94",
 				"telescope":"PAIRITEL",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55936.4",
@@ -354,7 +374,7 @@
 				"magnitude":"14.21",
 				"telescope":"PAIRITEL",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55936.4",
@@ -363,7 +383,7 @@
 				"magnitude":"13.82",
 				"telescope":"PAIRITEL",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55949.4",
@@ -372,7 +392,7 @@
 				"magnitude":"14.07",
 				"telescope":"PAIRITEL",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55949.4",
@@ -381,7 +401,7 @@
 				"magnitude":"14.34",
 				"telescope":"PAIRITEL",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55949.4",
@@ -390,7 +410,7 @@
 				"magnitude":"13.83",
 				"telescope":"PAIRITEL",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55953.4",
@@ -399,7 +419,7 @@
 				"magnitude":"14.10",
 				"telescope":"PAIRITEL",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55953.4",
@@ -408,7 +428,7 @@
 				"magnitude":"14.33",
 				"telescope":"PAIRITEL",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55953.4",
@@ -417,7 +437,7 @@
 				"magnitude":"13.97",
 				"telescope":"PAIRITEL",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55959.4",
@@ -426,7 +446,7 @@
 				"magnitude":"14.37",
 				"telescope":"PAIRITEL",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55959.4",
@@ -435,7 +455,7 @@
 				"magnitude":"14.66",
 				"telescope":"PAIRITEL",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55959.4",
@@ -444,7 +464,7 @@
 				"magnitude":"14.17",
 				"telescope":"PAIRITEL",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55961.4",
@@ -453,7 +473,7 @@
 				"magnitude":"14.76",
 				"telescope":"PAIRITEL",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55961.4",
@@ -462,7 +482,7 @@
 				"magnitude":"15.01",
 				"telescope":"PAIRITEL",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55961.4",
@@ -471,7 +491,7 @@
 				"magnitude":"14.61",
 				"telescope":"PAIRITEL",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55977.4",
@@ -480,7 +500,7 @@
 				"magnitude":"17.03",
 				"telescope":"PAIRITEL",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55977.4",
@@ -489,7 +509,7 @@
 				"magnitude":"18.28",
 				"telescope":"PAIRITEL",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55977.4",
@@ -498,7 +518,7 @@
 				"magnitude":"16.28",
 				"telescope":"PAIRITEL",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			}
 		]
 	}
