@@ -3,17 +3,127 @@
 		"name":"SN2013df",
 		"sources":[
 			{
-				"bibcode":"2014MNRAS.445.1647M",
+				"bibcode":"2016ApJ...833..231T, 2016MNRAS.460.1500S",
 				"alias":"1"
+			},
+			{
+				"bibcode":"2014MNRAS.445.1647M",
+				"alias":"2"
 			}
 		],
 		"alias":[
 			{
 				"value":"SN2013df",
+				"source":"1,2"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"IIb",
 				"source":"1"
 			}
 		],
 		"photometry":[
+			{
+				"time":"56715",
+				"band":"I1",
+				"e_magnitude":"0.34",
+				"instrument":"IRAC",
+				"magnitude":"16.91",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56715",
+				"band":"I2",
+				"e_magnitude":"0.34",
+				"instrument":"IRAC",
+				"magnitude":"15.62",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56742",
+				"band":"I1",
+				"e_magnitude":"0.44",
+				"instrument":"IRAC",
+				"magnitude":"17.53",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56742",
+				"band":"I2",
+				"e_magnitude":"0.37",
+				"instrument":"IRAC",
+				"magnitude":"15.93",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56871",
+				"band":"I1",
+				"e_magnitude":"0.49",
+				"instrument":"IRAC",
+				"magnitude":"18.33",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56871",
+				"band":"I2",
+				"e_magnitude":"0.33",
+				"instrument":"IRAC",
+				"magnitude":"17.10",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56906",
+				"band":"I1",
+				"e_magnitude":"0.52",
+				"instrument":"IRAC",
+				"magnitude":"18.41",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56906",
+				"band":"I2",
+				"e_magnitude":"0.35",
+				"instrument":"IRAC",
+				"magnitude":"17.23",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57272",
+				"band":"I1",
+				"e_magnitude":"0.55",
+				"instrument":"IRAC",
+				"magnitude":"18.51",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"57272",
+				"band":"I2",
+				"e_magnitude":"0.42",
+				"instrument":"IRAC",
+				"magnitude":"17.62",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
 			{
 				"time":"56450.87",
 				"band":"R",
@@ -22,7 +132,7 @@
 				"magnitude":"14.25",
 				"telescope":"FLI Proline",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56451.9",
@@ -32,7 +142,7 @@
 				"magnitude":"13.77",
 				"telescope":"SBIG ST10",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56452.91",
@@ -42,7 +152,7 @@
 				"magnitude":"13.74",
 				"telescope":"KAF-1001E",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56452.91",
@@ -52,7 +162,7 @@
 				"magnitude":"14.1",
 				"telescope":"ST10",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56453.07",
@@ -62,7 +172,7 @@
 				"magnitude":"14.36",
 				"telescope":"Orion Star Shoot Pro V2",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56453.07",
@@ -72,7 +182,7 @@
 				"magnitude":"13.85",
 				"telescope":"Orion Star Shoot Pro V2",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56453.07",
@@ -82,7 +192,7 @@
 				"magnitude":"14.2",
 				"telescope":"Orion Star Shoot Pro V2",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56454.2",
@@ -92,7 +202,7 @@
 				"magnitude":"14.46",
 				"telescope":"SBIG STL-6303",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56454.93",
@@ -102,7 +212,7 @@
 				"magnitude":"14.55",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56454.93",
@@ -112,7 +222,7 @@
 				"magnitude":"13.96",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56454.93",
@@ -122,7 +232,7 @@
 				"magnitude":"14.11",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56454.93",
@@ -132,7 +242,7 @@
 				"magnitude":"14.53",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56455.92",
@@ -142,7 +252,7 @@
 				"magnitude":"14.77",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56455.92",
@@ -152,7 +262,7 @@
 				"magnitude":"14.13",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56455.92",
@@ -162,7 +272,7 @@
 				"magnitude":"14.34",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56455.92",
@@ -172,7 +282,7 @@
 				"magnitude":"14.11",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56455.92",
@@ -182,7 +292,7 @@
 				"magnitude":"14.55",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56456.07",
@@ -192,7 +302,7 @@
 				"magnitude":"15.05",
 				"telescope":"Orion Star Shoot Pro V2",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56456.07",
@@ -202,7 +312,7 @@
 				"magnitude":"14.37",
 				"telescope":"Orion Star Shoot Pro V2",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56456.07",
@@ -212,7 +322,7 @@
 				"magnitude":"14.4",
 				"telescope":"Orion Star Shoot Pro V2",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56456.2",
@@ -222,7 +332,7 @@
 				"magnitude":"14.55",
 				"telescope":"SBIG STL-6303",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56456.4",
@@ -232,7 +342,7 @@
 				"magnitude":"14.98",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56456.4",
@@ -242,7 +352,7 @@
 				"magnitude":"15.21",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56456.4",
@@ -252,7 +362,7 @@
 				"magnitude":"14.15",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56456.4",
@@ -262,7 +372,7 @@
 				"magnitude":"14.73",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56456.4",
@@ -272,7 +382,7 @@
 				"magnitude":"14.77",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56456.4",
@@ -282,7 +392,7 @@
 				"magnitude":"15.57",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56457.93",
@@ -292,7 +402,7 @@
 				"magnitude":"15.22",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56457.93",
@@ -302,7 +412,7 @@
 				"magnitude":"14.39",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56457.93",
@@ -312,7 +422,7 @@
 				"magnitude":"14.62",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56457.93",
@@ -322,7 +432,7 @@
 				"magnitude":"14.66",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56458.85",
@@ -332,7 +442,7 @@
 				"magnitude":"15.4",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56458.85",
@@ -342,7 +452,7 @@
 				"magnitude":"16",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56458.85",
@@ -352,7 +462,7 @@
 				"magnitude":"14.79",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56458.85",
@@ -362,7 +472,7 @@
 				"magnitude":"15.02",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56458.85",
@@ -372,7 +482,7 @@
 				"magnitude":"15.5",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56458.85",
@@ -382,7 +492,7 @@
 				"magnitude":"16.32",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56458.93",
@@ -392,7 +502,7 @@
 				"magnitude":"15.24",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56458.93",
@@ -402,7 +512,7 @@
 				"magnitude":"14.51",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56458.93",
@@ -412,7 +522,7 @@
 				"magnitude":"14.66",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56458.93",
@@ -422,7 +532,7 @@
 				"magnitude":"14.67",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56458.93",
@@ -432,7 +542,7 @@
 				"magnitude":"14.95",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56459.67",
@@ -442,7 +552,7 @@
 				"magnitude":"15.41",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56459.67",
@@ -452,7 +562,7 @@
 				"magnitude":"16.1",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56459.67",
@@ -462,7 +572,7 @@
 				"magnitude":"14.88",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56459.67",
@@ -472,7 +582,7 @@
 				"magnitude":"15.06",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56459.67",
@@ -482,7 +592,7 @@
 				"magnitude":"15.37",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56459.67",
@@ -492,7 +602,7 @@
 				"magnitude":"16.35",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56459.92",
@@ -502,7 +612,7 @@
 				"magnitude":"15.31",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56459.92",
@@ -512,7 +622,7 @@
 				"magnitude":"14.79",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56460.09",
@@ -522,7 +632,7 @@
 				"magnitude":"15.45",
 				"telescope":"Orion Star Shoot Pro V2",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56460.09",
@@ -532,7 +642,7 @@
 				"magnitude":"14.5",
 				"telescope":"Orion Star Shoot Pro V2",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56460.09",
@@ -542,7 +652,7 @@
 				"magnitude":"14.98",
 				"telescope":"Orion Star Shoot Pro V2",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56461.25",
@@ -552,7 +662,7 @@
 				"magnitude":"16.67",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56461.42",
@@ -562,7 +672,7 @@
 				"magnitude":"15.34",
 				"telescope":"RATCam",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56461.42",
@@ -572,7 +682,7 @@
 				"magnitude":"14.46",
 				"telescope":"RATCam",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56461.42",
@@ -582,7 +692,7 @@
 				"magnitude":"14.42",
 				"telescope":"RATCam",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56461.42",
@@ -592,7 +702,7 @@
 				"magnitude":"15.16",
 				"telescope":"RATCam",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56461.42",
@@ -602,7 +712,7 @@
 				"magnitude":"14.87",
 				"telescope":"RATCam",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56461.42",
@@ -612,7 +722,7 @@
 				"magnitude":"14.78",
 				"telescope":"RATCam",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56461.42",
@@ -622,7 +732,7 @@
 				"magnitude":"14.63",
 				"telescope":"RATCam",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56461.42",
@@ -632,7 +742,7 @@
 				"magnitude":"15.94",
 				"telescope":"RATCam",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56462.32",
@@ -642,7 +752,7 @@
 				"magnitude":"16.73",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56463.32",
@@ -652,7 +762,7 @@
 				"magnitude":"15.39",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56463.32",
@@ -662,7 +772,7 @@
 				"magnitude":"16.58",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56463.32",
@@ -672,7 +782,7 @@
 				"magnitude":"15.14",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56463.32",
@@ -682,7 +792,7 @@
 				"magnitude":"14.85",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56463.32",
@@ -692,7 +802,7 @@
 				"magnitude":"15.72",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56463.32",
@@ -702,7 +812,7 @@
 				"magnitude":"16.81",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56463.37",
@@ -712,7 +822,7 @@
 				"magnitude":"14.74",
 				"telescope":"RATCam",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56463.37",
@@ -722,7 +832,7 @@
 				"magnitude":"14.64",
 				"telescope":"RATCam",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56463.38",
@@ -732,7 +842,7 @@
 				"magnitude":"15.31",
 				"telescope":"RATCam",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56463.38",
@@ -742,7 +852,7 @@
 				"magnitude":"14.44",
 				"telescope":"RATCam",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56463.38",
@@ -752,7 +862,7 @@
 				"magnitude":"14.34",
 				"telescope":"RATCam",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56463.38",
@@ -762,7 +872,7 @@
 				"magnitude":"14.77",
 				"telescope":"RATCam",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56465.42",
@@ -772,7 +882,7 @@
 				"magnitude":"15.25",
 				"telescope":"RATCam",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56465.42",
@@ -782,7 +892,7 @@
 				"magnitude":"14.21",
 				"telescope":"RATCam",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56465.42",
@@ -792,7 +902,7 @@
 				"magnitude":"14.38",
 				"telescope":"RATCam",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56465.42",
@@ -802,7 +912,7 @@
 				"magnitude":"15.2",
 				"telescope":"RATCam",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56465.42",
@@ -812,7 +922,7 @@
 				"magnitude":"14.63",
 				"telescope":"RATCam",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56465.42",
@@ -822,7 +932,7 @@
 				"magnitude":"14.58",
 				"telescope":"RATCam",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56465.42",
@@ -832,7 +942,7 @@
 				"magnitude":"14.53",
 				"telescope":"RATCam",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56465.42",
@@ -842,7 +952,7 @@
 				"magnitude":"15.99",
 				"telescope":"RATCam",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56465.69",
@@ -852,7 +962,7 @@
 				"magnitude":"15.28",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56465.69",
@@ -862,7 +972,7 @@
 				"magnitude":"16.45",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56465.69",
@@ -872,7 +982,7 @@
 				"magnitude":"15.21",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56465.69",
@@ -882,7 +992,7 @@
 				"magnitude":"14.65",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56465.69",
@@ -892,7 +1002,7 @@
 				"magnitude":"15.79",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56465.69",
@@ -902,7 +1012,7 @@
 				"magnitude":"16.82",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56465.92",
@@ -912,7 +1022,7 @@
 				"magnitude":"15.26",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56465.92",
@@ -922,7 +1032,7 @@
 				"magnitude":"14.13",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56465.92",
@@ -932,7 +1042,7 @@
 				"magnitude":"14.26",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56465.92",
@@ -942,7 +1052,7 @@
 				"magnitude":"15.03",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56465.92",
@@ -952,7 +1062,7 @@
 				"magnitude":"14.61",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56466.92",
@@ -962,7 +1072,7 @@
 				"magnitude":"15.18",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56466.92",
@@ -972,7 +1082,7 @@
 				"magnitude":"14.16",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56466.92",
@@ -982,7 +1092,7 @@
 				"magnitude":"14.24",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56466.92",
@@ -992,7 +1102,7 @@
 				"magnitude":"15.13",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56466.92",
@@ -1002,7 +1112,7 @@
 				"magnitude":"14.65",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56467.47",
@@ -1012,7 +1122,7 @@
 				"magnitude":"15.31",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56467.47",
@@ -1022,7 +1132,7 @@
 				"magnitude":"16.63",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56467.47",
@@ -1032,7 +1142,7 @@
 				"magnitude":"15.35",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56467.47",
@@ -1042,7 +1152,7 @@
 				"magnitude":"14.55",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56467.47",
@@ -1052,7 +1162,7 @@
 				"magnitude":"15.76",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56467.47",
@@ -1062,7 +1172,7 @@
 				"magnitude":"16.91",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56467.92",
@@ -1072,7 +1182,7 @@
 				"magnitude":"15.15",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56467.92",
@@ -1082,7 +1192,7 @@
 				"magnitude":"15.18",
 				"telescope":"LRS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56467.92",
@@ -1092,7 +1202,7 @@
 				"magnitude":"14.12",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56467.92",
@@ -1102,7 +1212,7 @@
 				"magnitude":"14.18",
 				"telescope":"LRS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56467.92",
@@ -1112,7 +1222,7 @@
 				"magnitude":"14.19",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56467.92",
@@ -1122,7 +1232,7 @@
 				"magnitude":"14.21",
 				"telescope":"LRS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56467.92",
@@ -1132,7 +1242,7 @@
 				"magnitude":"15.15",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56467.92",
@@ -1142,7 +1252,7 @@
 				"magnitude":"15.32",
 				"telescope":"LRS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56467.92",
@@ -1152,7 +1262,7 @@
 				"magnitude":"14.57",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56467.92",
@@ -1162,7 +1272,7 @@
 				"magnitude":"14.67",
 				"telescope":"LRS",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56468.92",
@@ -1172,7 +1282,7 @@
 				"magnitude":"15.13",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56468.92",
@@ -1182,7 +1292,7 @@
 				"magnitude":"14.06",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56468.92",
@@ -1192,7 +1302,7 @@
 				"magnitude":"14.17",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56468.92",
@@ -1202,7 +1312,7 @@
 				"magnitude":"15.14",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56468.92",
@@ -1212,7 +1322,7 @@
 				"magnitude":"14.57",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56469.06",
@@ -1222,7 +1332,7 @@
 				"magnitude":"15.22",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56469.06",
@@ -1232,7 +1342,7 @@
 				"magnitude":"16.81",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56469.06",
@@ -1242,7 +1352,7 @@
 				"magnitude":"15.39",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56469.06",
@@ -1252,7 +1362,7 @@
 				"magnitude":"14.63",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56469.06",
@@ -1262,7 +1372,7 @@
 				"magnitude":"15.95",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56469.06",
@@ -1272,7 +1382,7 @@
 				"magnitude":"17.08",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56469.92",
@@ -1282,7 +1392,7 @@
 				"magnitude":"15.2",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56469.92",
@@ -1292,7 +1402,7 @@
 				"magnitude":"14.02",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56469.92",
@@ -1302,7 +1412,7 @@
 				"magnitude":"14.16",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56469.92",
@@ -1312,7 +1422,7 @@
 				"magnitude":"15.18",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56469.92",
@@ -1322,7 +1432,7 @@
 				"magnitude":"14.55",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56471.94",
@@ -1332,7 +1442,7 @@
 				"magnitude":"15.3",
 				"telescope":"AFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56471.94",
@@ -1342,7 +1452,7 @@
 				"magnitude":"14.03",
 				"telescope":"AFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56471.94",
@@ -1352,7 +1462,7 @@
 				"magnitude":"14.22",
 				"telescope":"AFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56471.94",
@@ -1362,7 +1472,7 @@
 				"magnitude":"15.39",
 				"telescope":"AFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56471.94",
@@ -1372,7 +1482,7 @@
 				"magnitude":"14.55",
 				"telescope":"AFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56472.92",
@@ -1382,7 +1492,7 @@
 				"magnitude":"15.47",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56472.92",
@@ -1392,7 +1502,7 @@
 				"magnitude":"14.08",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56472.92",
@@ -1402,7 +1512,7 @@
 				"magnitude":"14.18",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56472.92",
@@ -1412,7 +1522,7 @@
 				"magnitude":"15.4",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56472.92",
@@ -1422,7 +1532,7 @@
 				"magnitude":"14.62",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56473.79",
@@ -1432,7 +1542,7 @@
 				"magnitude":"15.6",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56473.79",
@@ -1442,7 +1552,7 @@
 				"magnitude":"16.99",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56473.79",
@@ -1452,7 +1562,7 @@
 				"magnitude":"15.78",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56473.79",
@@ -1462,7 +1572,7 @@
 				"magnitude":"14.76",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56473.79",
@@ -1472,7 +1582,7 @@
 				"magnitude":"16.15",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56473.79",
@@ -1482,7 +1592,7 @@
 				"magnitude":"17.25",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56473.92",
@@ -1492,7 +1602,7 @@
 				"magnitude":"15.63",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56473.92",
@@ -1502,7 +1612,7 @@
 				"magnitude":"14.08",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56473.92",
@@ -1512,7 +1622,7 @@
 				"magnitude":"14.22",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56473.92",
@@ -1522,7 +1632,7 @@
 				"magnitude":"15.69",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56473.92",
@@ -1532,7 +1642,7 @@
 				"magnitude":"14.68",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56475.41",
@@ -1542,7 +1652,7 @@
 				"magnitude":"15.87",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56475.41",
@@ -1552,7 +1662,7 @@
 				"magnitude":"17.15",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56475.41",
@@ -1562,7 +1672,7 @@
 				"magnitude":"16.07",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56475.41",
@@ -1572,7 +1682,7 @@
 				"magnitude":"14.94",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56475.41",
@@ -1582,7 +1692,7 @@
 				"magnitude":"16.43",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56475.41",
@@ -1592,7 +1702,7 @@
 				"magnitude":"17.49",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56476.92",
@@ -1602,7 +1712,7 @@
 				"magnitude":"15.98",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56476.92",
@@ -1612,7 +1722,7 @@
 				"magnitude":"14.26",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56476.92",
@@ -1622,7 +1732,7 @@
 				"magnitude":"14.43",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56476.92",
@@ -1632,7 +1742,7 @@
 				"magnitude":"16.19",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56476.92",
@@ -1642,7 +1752,7 @@
 				"magnitude":"15.02",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56477.63",
@@ -1652,7 +1762,7 @@
 				"magnitude":"16.2",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56477.63",
@@ -1662,7 +1772,7 @@
 				"magnitude":"17.39",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56477.63",
@@ -1672,7 +1782,7 @@
 				"magnitude":"16.39",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56477.63",
@@ -1682,7 +1792,7 @@
 				"magnitude":"15.11",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56477.63",
@@ -1692,7 +1802,7 @@
 				"magnitude":"16.44",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56477.63",
@@ -1702,7 +1812,7 @@
 				"magnitude":"17.68",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56477.92",
@@ -1712,7 +1822,7 @@
 				"magnitude":"16.16",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56477.92",
@@ -1722,7 +1832,7 @@
 				"magnitude":"14.43",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56477.92",
@@ -1732,7 +1842,7 @@
 				"magnitude":"14.55",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56477.92",
@@ -1742,7 +1852,7 @@
 				"magnitude":"16.27",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56477.92",
@@ -1752,7 +1862,7 @@
 				"magnitude":"15.15",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56478.92",
@@ -1762,7 +1872,7 @@
 				"magnitude":"16.34",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56478.92",
@@ -1772,7 +1882,7 @@
 				"magnitude":"14.52",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56478.92",
@@ -1782,7 +1892,7 @@
 				"magnitude":"14.55",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56478.92",
@@ -1792,7 +1902,7 @@
 				"magnitude":"16.48",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56478.92",
@@ -1802,7 +1912,7 @@
 				"magnitude":"15.23",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56479.26",
@@ -1812,7 +1922,7 @@
 				"magnitude":"16.32",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56479.26",
@@ -1822,7 +1932,7 @@
 				"magnitude":"17.54",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56479.26",
@@ -1832,7 +1942,7 @@
 				"magnitude":"16.78",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56479.26",
@@ -1842,7 +1952,7 @@
 				"magnitude":"15.35",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56479.26",
@@ -1852,7 +1962,7 @@
 				"magnitude":"16.6",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56479.26",
@@ -1862,7 +1972,7 @@
 				"magnitude":"17.7",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56479.92",
@@ -1872,7 +1982,7 @@
 				"magnitude":"16.48",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56479.92",
@@ -1882,7 +1992,7 @@
 				"magnitude":"14.5",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56479.92",
@@ -1892,7 +2002,7 @@
 				"magnitude":"14.65",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56479.92",
@@ -1902,7 +2012,7 @@
 				"magnitude":"16.49",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56479.92",
@@ -1912,7 +2022,7 @@
 				"magnitude":"15.34",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56480.08",
@@ -1922,7 +2032,7 @@
 				"magnitude":"16.4",
 				"telescope":"Orion Star Shoot Pro V2",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56480.08",
@@ -1932,7 +2042,7 @@
 				"magnitude":"14.6",
 				"telescope":"Orion Star Shoot Pro V2",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56480.08",
@@ -1942,7 +2052,7 @@
 				"magnitude":"15.43",
 				"telescope":"Orion Star Shoot Pro V2",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56480.92",
@@ -1952,7 +2062,7 @@
 				"magnitude":"16.62",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56480.92",
@@ -1962,7 +2072,7 @@
 				"magnitude":"14.51",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56480.92",
@@ -1972,7 +2082,7 @@
 				"magnitude":"14.73",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56480.92",
@@ -1982,7 +2092,7 @@
 				"magnitude":"16.66",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56480.92",
@@ -1992,7 +2102,7 @@
 				"magnitude":"15.43",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56481.26",
@@ -2002,7 +2112,7 @@
 				"magnitude":"16.63",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56481.26",
@@ -2012,7 +2122,7 @@
 				"magnitude":"17.43",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56481.26",
@@ -2022,7 +2132,7 @@
 				"magnitude":"16.82",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56481.26",
@@ -2032,7 +2142,7 @@
 				"magnitude":"15.52",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56481.26",
@@ -2042,7 +2152,7 @@
 				"magnitude":"16.81",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56481.26",
@@ -2052,7 +2162,7 @@
 				"magnitude":"17.76",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56482.08",
@@ -2062,7 +2172,7 @@
 				"magnitude":"16.73",
 				"telescope":"Orion Star Shoot Pro V2",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56482.08",
@@ -2072,7 +2182,7 @@
 				"magnitude":"14.96",
 				"telescope":"Orion Star Shoot Pro V2",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56482.08",
@@ -2082,7 +2192,7 @@
 				"magnitude":"15.52",
 				"telescope":"Orion Star Shoot Pro V2",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56483.75",
@@ -2092,7 +2202,7 @@
 				"magnitude":"16.93",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56483.75",
@@ -2102,7 +2212,7 @@
 				"magnitude":"17.72",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56483.75",
@@ -2112,7 +2222,7 @@
 				"magnitude":"17.06",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56483.75",
@@ -2122,7 +2232,7 @@
 				"magnitude":"15.84",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56483.75",
@@ -2132,7 +2242,7 @@
 				"magnitude":"17.01",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56483.75",
@@ -2142,7 +2252,7 @@
 				"magnitude":"18.18",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56485.83",
@@ -2152,7 +2262,7 @@
 				"magnitude":"17",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56485.83",
@@ -2162,7 +2272,7 @@
 				"magnitude":"17.73",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56485.83",
@@ -2172,7 +2282,7 @@
 				"magnitude":"17.2",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56485.83",
@@ -2182,7 +2292,7 @@
 				"magnitude":"15.73",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56485.83",
@@ -2192,7 +2302,7 @@
 				"magnitude":"16.96",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56485.83",
@@ -2202,7 +2312,7 @@
 				"magnitude":"17.97",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56487.14",
@@ -2212,7 +2322,7 @@
 				"magnitude":"17.05",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56487.14",
@@ -2222,7 +2332,7 @@
 				"magnitude":"17.67",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56487.14",
@@ -2232,7 +2342,7 @@
 				"magnitude":"17.24",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56487.14",
@@ -2242,7 +2352,7 @@
 				"magnitude":"15.79",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56487.14",
@@ -2252,7 +2362,7 @@
 				"magnitude":"17.11",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56487.14",
@@ -2262,7 +2372,7 @@
 				"magnitude":"17.84",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56488.08",
@@ -2272,7 +2382,7 @@
 				"magnitude":"17.05",
 				"telescope":"Orion Star Shoot Pro V2",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56488.08",
@@ -2282,7 +2392,7 @@
 				"magnitude":"15.26",
 				"telescope":"Orion Star Shoot Pro V2",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56488.08",
@@ -2292,7 +2402,7 @@
 				"magnitude":"15.8",
 				"telescope":"Orion Star Shoot Pro V2",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56489.25",
@@ -2302,7 +2412,7 @@
 				"magnitude":"17.18",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56489.25",
@@ -2312,7 +2422,7 @@
 				"magnitude":"17.73",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56489.25",
@@ -2322,7 +2432,7 @@
 				"magnitude":"17.33",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56489.25",
@@ -2332,7 +2442,7 @@
 				"magnitude":"16.18",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56489.25",
@@ -2342,7 +2452,7 @@
 				"magnitude":"17.16",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56489.25",
@@ -2352,7 +2462,7 @@
 				"magnitude":"18.2",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56491.88",
@@ -2362,7 +2472,7 @@
 				"magnitude":"17.19",
 				"telescope":"AFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56491.88",
@@ -2372,7 +2482,7 @@
 				"magnitude":"14.93",
 				"telescope":"AFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56491.88",
@@ -2382,7 +2492,7 @@
 				"magnitude":"15.3",
 				"telescope":"AFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56491.88",
@@ -2392,7 +2502,7 @@
 				"magnitude":"15.99",
 				"telescope":"AFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56493.43",
@@ -2402,7 +2512,7 @@
 				"magnitude":"17.33",
 				"telescope":"IO:O",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56493.43",
@@ -2412,7 +2522,7 @@
 				"magnitude":"15.18",
 				"telescope":"IO:O",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56493.43",
@@ -2422,7 +2532,7 @@
 				"magnitude":"15.25",
 				"telescope":"IO:O",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56493.43",
@@ -2432,7 +2542,7 @@
 				"magnitude":"17.77",
 				"telescope":"IO:O",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56493.43",
@@ -2442,7 +2552,7 @@
 				"magnitude":"16.03",
 				"telescope":"IO:O",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56493.43",
@@ -2452,7 +2562,7 @@
 				"magnitude":"15.52",
 				"telescope":"IO:O",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56493.43",
@@ -2462,7 +2572,7 @@
 				"magnitude":"15.54",
 				"telescope":"IO:O",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56493.43",
@@ -2472,7 +2582,7 @@
 				"magnitude":"18.71",
 				"telescope":"IO:O",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56495.44",
@@ -2482,7 +2592,7 @@
 				"magnitude":"17.34",
 				"telescope":"IO:O",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56495.44",
@@ -2492,7 +2602,7 @@
 				"magnitude":"15.16",
 				"telescope":"IO:O",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56495.44",
@@ -2502,7 +2612,7 @@
 				"magnitude":"15.34",
 				"telescope":"IO:O",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56495.44",
@@ -2512,7 +2622,7 @@
 				"magnitude":"17.89",
 				"telescope":"IO:O",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56495.44",
@@ -2522,7 +2632,7 @@
 				"magnitude":"16.05",
 				"telescope":"IO:O",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56495.44",
@@ -2532,7 +2642,7 @@
 				"magnitude":"15.52",
 				"telescope":"IO:O",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56495.44",
@@ -2542,7 +2652,7 @@
 				"magnitude":"15.59",
 				"telescope":"IO:O",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56495.44",
@@ -2552,7 +2662,7 @@
 				"magnitude":"18.85",
 				"telescope":"IO:O",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56495.92",
@@ -2562,7 +2672,7 @@
 				"magnitude":"17.39",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56495.92",
@@ -2572,7 +2682,7 @@
 				"magnitude":"15.08",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56495.92",
@@ -2582,7 +2692,7 @@
 				"magnitude":"15.37",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56495.92",
@@ -2592,7 +2702,7 @@
 				"magnitude":"16.13",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56496.18",
@@ -2602,7 +2712,7 @@
 				"magnitude":"17.26",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56496.18",
@@ -2612,7 +2722,7 @@
 				"magnitude":"18.11",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56496.18",
@@ -2622,7 +2732,7 @@
 				"magnitude":"17.62",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56496.18",
@@ -2632,7 +2742,7 @@
 				"magnitude":"16.19",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56496.18",
@@ -2642,7 +2752,7 @@
 				"magnitude":"17.39",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56496.18",
@@ -2652,7 +2762,7 @@
 				"magnitude":"18.29",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56497.9",
@@ -2662,7 +2772,7 @@
 				"magnitude":"17.41",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56497.9",
@@ -2672,7 +2782,7 @@
 				"magnitude":"15.11",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56497.9",
@@ -2682,7 +2792,7 @@
 				"magnitude":"17.57",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56497.9",
@@ -2692,7 +2802,7 @@
 				"magnitude":"16.13",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56500.53",
@@ -2702,7 +2812,7 @@
 				"magnitude":"17.5",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56500.53",
@@ -2712,7 +2822,7 @@
 				"magnitude":"18.01",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56500.53",
@@ -2722,7 +2832,7 @@
 				"magnitude":"17.75",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56500.53",
@@ -2732,7 +2842,7 @@
 				"magnitude":"16.23",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56500.53",
@@ -2742,7 +2852,7 @@
 				"magnitude":"17.44",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56500.53",
@@ -2752,7 +2862,7 @@
 				"magnitude":"18.25",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56502.9",
@@ -2762,7 +2872,7 @@
 				"magnitude":"17.46",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56502.9",
@@ -2772,7 +2882,7 @@
 				"magnitude":"15.17",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56502.9",
@@ -2782,7 +2892,7 @@
 				"magnitude":"15.49",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56502.9",
@@ -2792,7 +2902,7 @@
 				"magnitude":"16.27",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56503.9",
@@ -2802,7 +2912,7 @@
 				"magnitude":"17.4",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56503.9",
@@ -2812,7 +2922,7 @@
 				"magnitude":"15.2",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56503.9",
@@ -2822,7 +2932,7 @@
 				"magnitude":"15.56",
 				"telescope":"MEIA",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56504.23",
@@ -2832,7 +2942,7 @@
 				"magnitude":"17.5",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56504.23",
@@ -2842,7 +2952,7 @@
 				"magnitude":"18.28",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56504.23",
@@ -2852,7 +2962,7 @@
 				"magnitude":"17.77",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56504.23",
@@ -2862,7 +2972,7 @@
 				"magnitude":"16.38",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56504.23",
@@ -2872,7 +2982,7 @@
 				"magnitude":"17.57",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56504.23",
@@ -2882,7 +2992,7 @@
 				"magnitude":"18.23",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56508.93",
@@ -2892,7 +3002,7 @@
 				"magnitude":"18.68",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56508.93",
@@ -2902,7 +3012,7 @@
 				"magnitude":"17.39",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56508.93",
@@ -2912,7 +3022,7 @@
 				"magnitude":"18.83",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56510.51",
@@ -2922,7 +3032,7 @@
 				"magnitude":"17.54",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56510.51",
@@ -2932,7 +3042,7 @@
 				"magnitude":"18.24",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56510.51",
@@ -2942,7 +3052,7 @@
 				"magnitude":"17.78",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56510.51",
@@ -2952,7 +3062,7 @@
 				"magnitude":"16.52",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56510.51",
@@ -2962,7 +3072,7 @@
 				"magnitude":"17.59",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56510.51",
@@ -2972,7 +3082,7 @@
 				"magnitude":"18.49",
 				"telescope":"UVOT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56616.71",
@@ -2982,7 +3092,7 @@
 				"magnitude":"18.73",
 				"telescope":"IO:O",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56616.71",
@@ -2992,7 +3102,7 @@
 				"magnitude":"17.01",
 				"telescope":"IO:O",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56616.71",
@@ -3002,7 +3112,7 @@
 				"magnitude":"17.88",
 				"telescope":"IO:O",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56616.71",
@@ -3012,7 +3122,7 @@
 				"magnitude":"18.28",
 				"telescope":"IO:O",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56616.71",
@@ -3022,7 +3132,7 @@
 				"magnitude":"17.53",
 				"telescope":"IO:O",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56616.71",
@@ -3032,7 +3142,7 @@
 				"magnitude":"18.05",
 				"telescope":"IO:O",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56632.22",
@@ -3042,7 +3152,7 @@
 				"magnitude":"17.12",
 				"telescope":"AFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56632.22",
@@ -3052,7 +3162,7 @@
 				"magnitude":"17.92",
 				"telescope":"AFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56632.22",
@@ -3062,7 +3172,7 @@
 				"magnitude":"18.42",
 				"telescope":"AFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56638.18",
@@ -3072,7 +3182,7 @@
 				"magnitude":"19.18",
 				"telescope":"AFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56638.18",
@@ -3082,7 +3192,7 @@
 				"magnitude":"17.19",
 				"telescope":"AFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56638.18",
@@ -3092,7 +3202,7 @@
 				"magnitude":"17.97",
 				"telescope":"AFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56638.18",
@@ -3102,7 +3212,7 @@
 				"magnitude":"18.81",
 				"telescope":"AFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56644.63",
@@ -3112,7 +3222,7 @@
 				"magnitude":"19.1",
 				"telescope":"IO:O",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56644.63",
@@ -3122,7 +3232,7 @@
 				"magnitude":"17.38",
 				"telescope":"IO:O",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56644.63",
@@ -3132,7 +3242,7 @@
 				"magnitude":"18.34",
 				"telescope":"IO:O",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56644.63",
@@ -3142,7 +3252,7 @@
 				"magnitude":"18.69",
 				"telescope":"IO:O",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56644.63",
@@ -3152,7 +3262,7 @@
 				"magnitude":"17.92",
 				"telescope":"IO:O",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56644.63",
@@ -3162,7 +3272,7 @@
 				"magnitude":"18.5",
 				"telescope":"IO:O",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56651.78",
@@ -3172,7 +3282,7 @@
 				"magnitude":"19.3",
 				"telescope":"IO:O",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56651.78",
@@ -3182,7 +3292,7 @@
 				"magnitude":"17.46",
 				"telescope":"IO:O",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56651.78",
@@ -3192,7 +3302,7 @@
 				"magnitude":"18.51",
 				"telescope":"IO:O",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56651.78",
@@ -3202,7 +3312,7 @@
 				"magnitude":"18.84",
 				"telescope":"IO:O",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56651.78",
@@ -3212,7 +3322,7 @@
 				"magnitude":"18.02",
 				"telescope":"IO:O",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56651.78",
@@ -3222,7 +3332,7 @@
 				"magnitude":"18.65",
 				"telescope":"IO:O",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56666.23",
@@ -3232,7 +3342,7 @@
 				"magnitude":"19.51",
 				"telescope":"AFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56666.23",
@@ -3242,7 +3352,7 @@
 				"magnitude":"17.55",
 				"telescope":"AFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56666.23",
@@ -3252,7 +3362,7 @@
 				"magnitude":"18.39",
 				"telescope":"AFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56666.23",
@@ -3262,7 +3372,7 @@
 				"magnitude":"19.23",
 				"telescope":"AFOSC",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56684.71",
@@ -3272,7 +3382,7 @@
 				"magnitude":"19.62",
 				"telescope":"IO:O",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56684.71",
@@ -3282,7 +3392,7 @@
 				"magnitude":"18.03",
 				"telescope":"IO:O",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56684.71",
@@ -3292,7 +3402,7 @@
 				"magnitude":"19.1",
 				"telescope":"IO:O",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56684.71",
@@ -3302,7 +3412,7 @@
 				"magnitude":"19.44",
 				"telescope":"IO:O",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56684.71",
@@ -3312,7 +3422,7 @@
 				"magnitude":"18.59",
 				"telescope":"IO:O",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56684.71",
@@ -3322,7 +3432,7 @@
 				"magnitude":"19.22",
 				"telescope":"IO:O",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56699.67",
@@ -3332,7 +3442,7 @@
 				"magnitude":"20.07",
 				"telescope":"IO:O",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56699.67",
@@ -3342,7 +3452,7 @@
 				"magnitude":"18.28",
 				"telescope":"IO:O",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56699.67",
@@ -3352,7 +3462,7 @@
 				"magnitude":"19.38",
 				"telescope":"IO:O",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56699.67",
@@ -3362,7 +3472,7 @@
 				"magnitude":"19.91",
 				"telescope":"IO:O",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56699.67",
@@ -3372,7 +3482,7 @@
 				"magnitude":"18.85",
 				"telescope":"IO:O",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56699.67",
@@ -3382,7 +3492,7 @@
 				"magnitude":"19.58",
 				"telescope":"IO:O",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			}
 		]
 	}

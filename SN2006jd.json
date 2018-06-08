@@ -1,21 +1,129 @@
 {
 	"SN2006jd":{
 		"name":"SN2006jd",
+		"sources":[
+			{
+				"bibcode":"2011ApJ...741....7F",
+				"alias":"1"
+			},
+			{
+				"bibcode":"2013AJ....146....2F",
+				"alias":"2"
+			},
+			{
+				"bibcode":"2018arXiv180302571S",
+				"alias":"3"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN2006jd",
+				"source":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"IIn",
+				"source":"1,2,3"
+			}
+		],
 		"errors":[
 			{
-				"value":"2006IAUC.8762....2Y",
+				"extra":"claimedtype",
 				"kind":"bibcode",
-				"extra":"claimedtype"
+				"value":"2006IAUC.8762....2Y"
 			},
 			{
-				"value":"Transient Name Server",
+				"extra":"claimedtype",
 				"kind":"name",
-				"extra":"claimedtype"
+				"value":"Transient Name Server"
 			},
 			{
-				"value":"Latest Supernovae",
+				"extra":"claimedtype",
 				"kind":"name",
-				"extra":"claimedtype"
+				"value":"Latest Supernovae"
+			}
+		],
+		"photometry":[
+			{
+				"time":"55169",
+				"band":"I1",
+				"e_magnitude":"0.10",
+				"instrument":"IRAC",
+				"magnitude":"13.03",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55169",
+				"band":"I2",
+				"e_magnitude":"0.10",
+				"instrument":"IRAC",
+				"magnitude":"12.26",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55734",
+				"band":"I1",
+				"e_magnitude":"0.10",
+				"instrument":"IRAC",
+				"magnitude":"13.75",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"2"
+			},
+			{
+				"time":"55734",
+				"band":"I2",
+				"e_magnitude":"0.10",
+				"instrument":"IRAC",
+				"magnitude":"12.81",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"2"
+			},
+			{
+				"time":"56453",
+				"band":"I1",
+				"e_magnitude":"0.09",
+				"instrument":"IRAC",
+				"magnitude":"14.75",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"3"
+			},
+			{
+				"time":"56453",
+				"band":"I2",
+				"e_magnitude":"0.05",
+				"instrument":"IRAC",
+				"magnitude":"13.69",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"3"
+			},
+			{
+				"time":"56820",
+				"band":"I1",
+				"e_magnitude":"0.11",
+				"instrument":"IRAC",
+				"magnitude":"15.13",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"3"
+			},
+			{
+				"time":"56820",
+				"band":"I2",
+				"e_magnitude":"0.08",
+				"instrument":"IRAC",
+				"magnitude":"14.12",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"3"
 			}
 		]
 	}

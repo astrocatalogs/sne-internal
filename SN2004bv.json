@@ -1,16 +1,46 @@
 {
 	"SN2004bv":{
 		"name":"SN2004bv",
+		"sources":[
+			{
+				"bibcode":"2018arXiv180302571S",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN2004bv",
+				"source":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"Ia",
+				"source":"1"
+			}
+		],
 		"errors":[
 			{
-				"value":"2004IAUC.8344....3B",
+				"extra":"ra",
 				"kind":"bibcode",
-				"extra":"ra"
+				"value":"2004IAUC.8344....3B"
 			},
 			{
-				"value":"Latest Supernovae",
+				"extra":"ra",
 				"kind":"name",
-				"extra":"ra"
+				"value":"Latest Supernovae"
+			}
+		],
+		"photometry":[
+			{
+				"time":"53308",
+				"band":"I1",
+				"e_magnitude":"0.24",
+				"instrument":"IRAC",
+				"magnitude":"17.75",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
 			}
 		]
 	}

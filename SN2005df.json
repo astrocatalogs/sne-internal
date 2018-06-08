@@ -3,17 +3,87 @@
 		"name":"SN2005df",
 		"sources":[
 			{
-				"bibcode":"2017arXiv171110345K",
+				"bibcode":"2007ApJ...661..995G",
 				"alias":"1"
+			},
+			{
+				"bibcode":"2017arXiv171110345K",
+				"alias":"2"
 			}
 		],
 		"alias":[
 			{
 				"value":"SN2005df",
+				"source":"1,2"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"Ia",
 				"source":"1"
 			}
 		],
 		"photometry":[
+			{
+				"time":"53676",
+				"band":"I1",
+				"e_magnitude":"0.08",
+				"instrument":"IRAC",
+				"magnitude":"14.88",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53676",
+				"band":"I2",
+				"e_magnitude":"0.22",
+				"instrument":"IRAC",
+				"magnitude":"16.15",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53773",
+				"band":"I1",
+				"e_magnitude":"0.22",
+				"instrument":"IRAC",
+				"magnitude":"16.53",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53773",
+				"band":"I2",
+				"e_magnitude":"0.43",
+				"instrument":"IRAC",
+				"magnitude":"17.46",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53955",
+				"band":"I1",
+				"e_magnitude":"0.52",
+				"instrument":"IRAC",
+				"magnitude":"18.21",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53955",
+				"band":"I2",
+				"e_magnitude":"0.73",
+				"instrument":"IRAC",
+				"magnitude":"18.52",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
 			{
 				"time":"53591.37",
 				"band":"B",
@@ -21,7 +91,7 @@
 				"magnitude":"12.865",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53591.37",
@@ -30,7 +100,7 @@
 				"magnitude":"13.237",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53591.37",
@@ -39,7 +109,7 @@
 				"magnitude":"12.962",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53591.37",
@@ -48,7 +118,7 @@
 				"magnitude":"13.123",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53591.37",
@@ -57,7 +127,7 @@
 				"magnitude":"13.137",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53591.37",
@@ -66,7 +136,7 @@
 				"magnitude":"12.846",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53591.37",
@@ -75,7 +145,7 @@
 				"magnitude":"12.909",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53591.37",
@@ -84,7 +154,7 @@
 				"magnitude":"13.076",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53596.39",
@@ -93,7 +163,7 @@
 				"magnitude":"12.398",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53596.39",
@@ -102,7 +172,7 @@
 				"magnitude":"13.126",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53596.39",
@@ -111,7 +181,7 @@
 				"magnitude":"12.707",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53596.39",
@@ -120,7 +190,7 @@
 				"magnitude":"12.947",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53596.39",
@@ -129,7 +199,7 @@
 				"magnitude":"12.956",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53596.39",
@@ -138,7 +208,7 @@
 				"magnitude":"12.464",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53596.39",
@@ -147,7 +217,7 @@
 				"magnitude":"12.484",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53596.39",
@@ -156,7 +226,7 @@
 				"magnitude":"13.01",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53600.36",
@@ -165,7 +235,7 @@
 				"magnitude":"12.371",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53600.36",
@@ -174,7 +244,7 @@
 				"magnitude":"13.316",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53600.36",
@@ -183,7 +253,7 @@
 				"magnitude":"12.836",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53600.36",
@@ -192,7 +262,7 @@
 				"magnitude":"13.2",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53600.36",
@@ -201,7 +271,7 @@
 				"magnitude":"13.298",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53600.36",
@@ -210,7 +280,7 @@
 				"magnitude":"12.425",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53600.36",
@@ -219,7 +289,7 @@
 				"magnitude":"12.416",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53600.36",
@@ -228,7 +298,7 @@
 				"magnitude":"13.357",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53606.41",
@@ -237,7 +307,7 @@
 				"magnitude":"12.677",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53606.41",
@@ -246,7 +316,7 @@
 				"magnitude":"13.427",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53606.41",
@@ -255,7 +325,7 @@
 				"magnitude":"13.099",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53606.41",
@@ -264,7 +334,7 @@
 				"magnitude":"13.874",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53606.41",
@@ -273,7 +343,7 @@
 				"magnitude":"13.48",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53606.41",
@@ -282,7 +352,7 @@
 				"magnitude":"12.579",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53606.41",
@@ -291,7 +361,7 @@
 				"magnitude":"12.561",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53606.41",
@@ -300,7 +370,7 @@
 				"magnitude":"13.764",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53614.37",
@@ -309,7 +379,7 @@
 				"magnitude":"13.511",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53614.37",
@@ -318,7 +388,7 @@
 				"magnitude":"13.342",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53614.37",
@@ -327,7 +397,7 @@
 				"magnitude":"13.412",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53614.37",
@@ -336,7 +406,7 @@
 				"magnitude":"14.619",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53614.37",
@@ -345,7 +415,7 @@
 				"magnitude":"13.359",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53614.37",
@@ -354,7 +424,7 @@
 				"magnitude":"13.018",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53614.37",
@@ -363,7 +433,7 @@
 				"magnitude":"13.029",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53614.37",
@@ -372,7 +442,7 @@
 				"magnitude":"13.724",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53618.34",
@@ -381,7 +451,7 @@
 				"magnitude":"13.992",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53618.34",
@@ -390,7 +460,7 @@
 				"magnitude":"13.229",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53618.34",
@@ -399,7 +469,7 @@
 				"magnitude":"13.287",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53618.34",
@@ -408,7 +478,7 @@
 				"magnitude":"14.499",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53618.34",
@@ -417,7 +487,7 @@
 				"magnitude":"13.271",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53618.34",
@@ -426,7 +496,7 @@
 				"magnitude":"13.091",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53618.34",
@@ -435,7 +505,7 @@
 				"magnitude":"13.262",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53618.34",
@@ -444,7 +514,7 @@
 				"magnitude":"13.449",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53624.3",
@@ -453,7 +523,7 @@
 				"magnitude":"14.57",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53624.3",
@@ -462,7 +532,7 @@
 				"magnitude":"13.143",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53624.3",
@@ -471,7 +541,7 @@
 				"magnitude":"13.179",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53624.3",
@@ -480,7 +550,7 @@
 				"magnitude":"14.349",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53624.3",
@@ -489,7 +559,7 @@
 				"magnitude":"13.143",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53624.3",
@@ -498,7 +568,7 @@
 				"magnitude":"13.25",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53624.3",
@@ -507,7 +577,7 @@
 				"magnitude":"13.56",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53624.3",
@@ -516,7 +586,7 @@
 				"magnitude":"13.149",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53629.32",
@@ -525,7 +595,7 @@
 				"magnitude":"14.939",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53629.32",
@@ -534,7 +604,7 @@
 				"magnitude":"13.279",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53629.32",
@@ -543,7 +613,7 @@
 				"magnitude":"13.222",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53629.32",
@@ -552,7 +622,7 @@
 				"magnitude":"14.072",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53629.32",
@@ -561,7 +631,7 @@
 				"magnitude":"13.331",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53629.32",
@@ -570,7 +640,7 @@
 				"magnitude":"13.484",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53629.32",
@@ -579,7 +649,7 @@
 				"magnitude":"13.854",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53629.32",
@@ -588,7 +658,7 @@
 				"magnitude":"12.886",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53632.26",
@@ -597,7 +667,7 @@
 				"magnitude":"15.104",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53632.26",
@@ -606,7 +676,7 @@
 				"magnitude":"13.44",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53632.26",
@@ -615,7 +685,7 @@
 				"magnitude":"13.402",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53632.26",
@@ -624,7 +694,7 @@
 				"magnitude":"14.111",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53632.26",
@@ -633,7 +703,7 @@
 				"magnitude":"13.717",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53632.26",
@@ -642,7 +712,7 @@
 				"magnitude":"13.695",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53632.26",
@@ -651,7 +721,7 @@
 				"magnitude":"14.038",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53632.26",
@@ -660,7 +730,7 @@
 				"magnitude":"12.919",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53635.22",
@@ -669,7 +739,7 @@
 				"magnitude":"15.241",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53635.22",
@@ -678,7 +748,7 @@
 				"magnitude":"13.691",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53635.22",
@@ -687,7 +757,7 @@
 				"magnitude":"13.6",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53635.22",
@@ -696,7 +766,7 @@
 				"magnitude":"14.409",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53635.22",
@@ -705,7 +775,7 @@
 				"magnitude":"13.935",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53635.22",
@@ -714,7 +784,7 @@
 				"magnitude":"13.878",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53635.22",
@@ -723,7 +793,7 @@
 				"magnitude":"14.196",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53635.22",
@@ -732,7 +802,7 @@
 				"magnitude":"13.085",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53700.29",
@@ -741,7 +811,7 @@
 				"magnitude":"16.401",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53700.29",
@@ -750,7 +820,7 @@
 				"magnitude":"16.333",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53700.29",
@@ -759,7 +829,7 @@
 				"magnitude":"16.012",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"53700.29",
@@ -768,7 +838,7 @@
 				"magnitude":"15.935",
 				"telescope":"CTIO 1.3m",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			}
 		]
 	}

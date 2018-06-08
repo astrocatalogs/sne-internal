@@ -1,0 +1,49 @@
+{
+	"SN2003gd":{
+		"name":"SN2003gd",
+		"sources":[
+			{
+				"bibcode":"2006Sci...313..196S, 2007ApJ...665..608M",
+				"alias":"1"
+			},
+			{
+				"bibcode":"2007ApJ...665..608M, 2007ApJ...665..608M",
+				"alias":"2"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN2003gd",
+				"source":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"II-P",
+				"source":"1,2"
+			}
+		],
+		"photometry":[
+			{
+				"time":"53211",
+				"band":"I1",
+				"e_magnitude":"0.49",
+				"instrument":"IRAC",
+				"magnitude":"17.86",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"53211",
+				"band":"I2",
+				"e_magnitude":"0.22",
+				"instrument":"IRAC",
+				"magnitude":"16.01",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			}
+		]
+	}
+}

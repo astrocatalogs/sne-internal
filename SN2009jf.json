@@ -3,17 +3,47 @@
 		"name":"SN2009jf",
 		"sources":[
 			{
-				"bibcode":"2011MNRAS.413.2583S",
+				"bibcode":"2018arXiv180302571S",
 				"alias":"1"
+			},
+			{
+				"bibcode":"2011MNRAS.413.2583S",
+				"alias":"2"
 			}
 		],
 		"alias":[
 			{
 				"value":"SN2009jf",
+				"source":"1,2"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"Ib",
 				"source":"1"
 			}
 		],
 		"photometry":[
+			{
+				"time":"55201",
+				"band":"I1",
+				"e_magnitude":"0.08",
+				"instrument":"IRAC",
+				"magnitude":"15.47",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55201",
+				"band":"I2",
+				"e_magnitude":"0.08",
+				"instrument":"IRAC",
+				"magnitude":"14.41",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
 			{
 				"time":"55103.671",
 				"band":"B",
@@ -22,7 +52,7 @@
 				"magnitude":"17.622",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55103.671",
@@ -32,7 +62,7 @@
 				"magnitude":"16.578",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55103.671",
@@ -42,7 +72,7 @@
 				"magnitude":"16.733",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55103.671",
@@ -52,7 +82,7 @@
 				"magnitude":"17.557",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55103.671",
@@ -62,7 +92,7 @@
 				"magnitude":"17.047",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55104.673",
@@ -72,7 +102,7 @@
 				"magnitude":"17.275",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55104.673",
@@ -82,7 +112,7 @@
 				"magnitude":"16.317",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55104.673",
@@ -92,7 +122,7 @@
 				"magnitude":"16.443",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55104.673",
@@ -102,7 +132,7 @@
 				"magnitude":"17.168",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55104.673",
@@ -112,7 +142,7 @@
 				"magnitude":"16.739",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55105.604",
@@ -122,7 +152,7 @@
 				"magnitude":"16.990",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55105.604",
@@ -132,7 +162,7 @@
 				"magnitude":"16.077",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55105.604",
@@ -142,7 +172,7 @@
 				"magnitude":"16.219",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55105.604",
@@ -152,7 +182,7 @@
 				"magnitude":"16.945",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55105.604",
@@ -162,7 +192,7 @@
 				"magnitude":"16.508",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55107.761",
@@ -172,7 +202,7 @@
 				"magnitude":"16.441",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55107.761",
@@ -182,7 +212,7 @@
 				"magnitude":"15.594",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55107.761",
@@ -192,7 +222,7 @@
 				"magnitude":"15.774",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55107.761",
@@ -202,7 +232,7 @@
 				"magnitude":"16.001",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55108.694",
@@ -212,7 +242,7 @@
 				"magnitude":"16.275",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55108.694",
@@ -222,7 +252,7 @@
 				"magnitude":"15.458",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55108.694",
@@ -232,7 +262,7 @@
 				"magnitude":"15.611",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55108.694",
@@ -242,7 +272,7 @@
 				"magnitude":"16.078",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55108.694",
@@ -252,7 +282,7 @@
 				"magnitude":"15.842",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55112.619",
@@ -262,7 +292,7 @@
 				"magnitude":"15.752",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55112.619",
@@ -272,7 +302,7 @@
 				"magnitude":"14.980",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55112.619",
@@ -282,7 +312,7 @@
 				"magnitude":"15.159",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55112.619",
@@ -292,7 +322,7 @@
 				"magnitude":"15.572",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55112.619",
@@ -302,7 +332,7 @@
 				"magnitude":"15.365",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55118.808",
@@ -312,7 +342,7 @@
 				"magnitude":"15.594",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55118.808",
@@ -322,7 +352,7 @@
 				"magnitude":"14.643",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55118.808",
@@ -332,7 +362,7 @@
 				"magnitude":"14.857",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55118.808",
@@ -342,7 +372,7 @@
 				"magnitude":"15.582",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55118.808",
@@ -352,7 +382,7 @@
 				"magnitude":"15.092",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55119.620",
@@ -362,7 +392,7 @@
 				"magnitude":"15.575",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55119.620",
@@ -372,7 +402,7 @@
 				"magnitude":"14.638",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55119.620",
@@ -382,7 +412,7 @@
 				"magnitude":"14.826",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55119.620",
@@ -392,7 +422,7 @@
 				"magnitude":"15.517",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55119.620",
@@ -402,7 +432,7 @@
 				"magnitude":"15.078",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55120.813",
@@ -412,7 +442,7 @@
 				"magnitude":"15.618",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55120.813",
@@ -422,7 +452,7 @@
 				"magnitude":"14.600",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55120.813",
@@ -432,7 +462,7 @@
 				"magnitude":"14.816",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55120.813",
@@ -442,7 +472,7 @@
 				"magnitude":"15.580",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55120.813",
@@ -452,7 +482,7 @@
 				"magnitude":"15.082",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55126.671",
@@ -462,7 +492,7 @@
 				"magnitude":"15.855",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55126.671",
@@ -472,7 +502,7 @@
 				"magnitude":"14.588",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55126.671",
@@ -482,7 +512,7 @@
 				"magnitude":"14.832",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55126.671",
@@ -492,7 +522,7 @@
 				"magnitude":"15.992",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55126.671",
@@ -502,7 +532,7 @@
 				"magnitude":"15.136",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55128.765",
@@ -512,7 +542,7 @@
 				"magnitude":"15.988",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55128.765",
@@ -522,7 +552,7 @@
 				"magnitude":"14.597",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55128.765",
@@ -532,7 +562,7 @@
 				"magnitude":"14.864",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55128.765",
@@ -542,7 +572,7 @@
 				"magnitude":"16.153",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55128.765",
@@ -552,7 +582,7 @@
 				"magnitude":"15.186",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55131.788",
@@ -562,7 +592,7 @@
 				"magnitude":"16.277",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55131.788",
@@ -572,7 +602,7 @@
 				"magnitude":"14.649",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55131.788",
@@ -582,7 +612,7 @@
 				"magnitude":"14.950",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55131.788",
@@ -592,7 +622,7 @@
 				"magnitude":"16.574",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55131.788",
@@ -602,7 +632,7 @@
 				"magnitude":"15.318",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55135.687",
@@ -612,7 +642,7 @@
 				"magnitude":"16.687",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55135.687",
@@ -622,7 +652,7 @@
 				"magnitude":"14.777",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55135.687",
@@ -632,7 +662,7 @@
 				"magnitude":"15.132",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55135.687",
@@ -642,7 +672,7 @@
 				"magnitude":"15.604",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55141.547",
@@ -652,7 +682,7 @@
 				"magnitude":"17.118",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55141.547",
@@ -662,7 +692,7 @@
 				"magnitude":"15.024",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55141.547",
@@ -672,7 +702,7 @@
 				"magnitude":"15.403",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55141.547",
@@ -682,7 +712,7 @@
 				"magnitude":"15.933",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55145.646",
@@ -692,7 +722,7 @@
 				"magnitude":"17.291",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55145.646",
@@ -702,7 +732,7 @@
 				"magnitude":"15.138",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55145.646",
@@ -712,7 +742,7 @@
 				"magnitude":"15.565",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55145.646",
@@ -722,7 +752,7 @@
 				"magnitude":"17.534",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55145.646",
@@ -732,7 +762,7 @@
 				"magnitude":"16.108",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55149.557",
@@ -742,7 +772,7 @@
 				"magnitude":"17.421",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55149.557",
@@ -752,7 +782,7 @@
 				"magnitude":"15.246",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55149.557",
@@ -762,7 +792,7 @@
 				"magnitude":"15.720",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55149.557",
@@ -772,7 +802,7 @@
 				"magnitude":"17.598",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55149.557",
@@ -782,7 +812,7 @@
 				"magnitude":"16.268",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55152.656",
@@ -792,7 +822,7 @@
 				"magnitude":"17.454",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55152.656",
@@ -802,7 +832,7 @@
 				"magnitude":"15.328",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55152.656",
@@ -812,7 +842,7 @@
 				"magnitude":"15.823",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55152.656",
@@ -822,7 +852,7 @@
 				"magnitude":"16.353",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55156.71",
@@ -832,7 +862,7 @@
 				"magnitude":"17.547",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55156.71",
@@ -842,7 +872,7 @@
 				"magnitude":"15.439",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55156.71",
@@ -852,7 +882,7 @@
 				"magnitude":"15.946",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55156.71",
@@ -862,7 +892,7 @@
 				"magnitude":"16.455",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55160.548",
@@ -872,7 +902,7 @@
 				"magnitude":"17.603",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55160.548",
@@ -882,7 +912,7 @@
 				"magnitude":"15.537",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55160.548",
@@ -892,7 +922,7 @@
 				"magnitude":"16.026",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55160.548",
@@ -902,7 +932,7 @@
 				"magnitude":"16.510",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55165.688",
@@ -912,7 +942,7 @@
 				"magnitude":"17.647",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55165.688",
@@ -922,7 +952,7 @@
 				"magnitude":"15.596",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55165.688",
@@ -932,7 +962,7 @@
 				"magnitude":"16.116",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55165.688",
@@ -942,7 +972,7 @@
 				"magnitude":"16.594",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55168.530",
@@ -952,7 +982,7 @@
 				"magnitude":"17.654",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55168.530",
@@ -962,7 +992,7 @@
 				"magnitude":"15.653",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55168.530",
@@ -972,7 +1002,7 @@
 				"magnitude":"16.173",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55168.530",
@@ -982,7 +1012,7 @@
 				"magnitude":"16.624",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55183.540",
@@ -992,7 +1022,7 @@
 				"magnitude":"17.751",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55183.540",
@@ -1002,7 +1032,7 @@
 				"magnitude":"15.855",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55183.540",
@@ -1012,7 +1042,7 @@
 				"magnitude":"16.393",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55183.540",
@@ -1022,7 +1052,7 @@
 				"magnitude":"16.815",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55188.536",
@@ -1032,7 +1062,7 @@
 				"magnitude":"17.812",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55188.536",
@@ -1042,7 +1072,7 @@
 				"magnitude":"15.964",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55188.536",
@@ -1052,7 +1082,7 @@
 				"magnitude":"16.478",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55188.536",
@@ -1062,7 +1092,7 @@
 				"magnitude":"16.890",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55194.651",
@@ -1072,7 +1102,7 @@
 				"magnitude":"17.847",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55194.651",
@@ -1082,7 +1112,7 @@
 				"magnitude":"16.061",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55194.651",
@@ -1092,7 +1122,7 @@
 				"magnitude":"16.541",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55194.651",
@@ -1102,7 +1132,7 @@
 				"magnitude":"16.947",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55205.541",
@@ -1112,7 +1142,7 @@
 				"magnitude":"17.887",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55205.541",
@@ -1122,7 +1152,7 @@
 				"magnitude":"16.213",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55205.541",
@@ -1132,7 +1162,7 @@
 				"magnitude":"16.692",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55205.541",
@@ -1142,7 +1172,7 @@
 				"magnitude":"17.079",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55216.573",
@@ -1152,7 +1182,7 @@
 				"magnitude":"18.003",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55216.573",
@@ -1162,7 +1192,7 @@
 				"magnitude":"16.326",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55216.573",
@@ -1172,7 +1202,7 @@
 				"magnitude":"16.819",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55216.573",
@@ -1182,7 +1212,7 @@
 				"magnitude":"17.203",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55223.573",
@@ -1192,7 +1222,7 @@
 				"magnitude":"18.151",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55223.573",
@@ -1202,7 +1232,7 @@
 				"magnitude":"16.464",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55223.573",
@@ -1212,7 +1242,7 @@
 				"magnitude":"16.946",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55223.573",
@@ -1222,7 +1252,7 @@
 				"magnitude":"17.295",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55228.571",
@@ -1232,7 +1262,7 @@
 				"magnitude":"18.181",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55228.571",
@@ -1242,7 +1272,7 @@
 				"magnitude":"16.563",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55228.571",
@@ -1252,7 +1282,7 @@
 				"magnitude":"17.011",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55228.571",
@@ -1262,7 +1292,7 @@
 				"magnitude":"17.410",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55317.942",
@@ -1272,7 +1302,7 @@
 				"magnitude":"17.785",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55317.942",
@@ -1282,7 +1312,7 @@
 				"magnitude":"17.979",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55317.942",
@@ -1292,7 +1322,7 @@
 				"magnitude":"18.524",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55340.918",
@@ -1302,7 +1332,7 @@
 				"magnitude":"19.212",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55340.918",
@@ -1312,7 +1342,7 @@
 				"magnitude":"18.013",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55340.918",
@@ -1322,7 +1352,7 @@
 				"magnitude":"18.126",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55340.918",
@@ -1332,7 +1362,7 @@
 				"magnitude":"18.753",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55342.906",
@@ -1342,7 +1372,7 @@
 				"magnitude":"19.296",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55342.906",
@@ -1352,7 +1382,7 @@
 				"magnitude":"18.019",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55342.906",
@@ -1362,7 +1392,7 @@
 				"magnitude":"18.177",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55342.906",
@@ -1372,7 +1402,7 @@
 				"magnitude":"18.808",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55358.930",
@@ -1382,7 +1412,7 @@
 				"magnitude":"19.456",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55358.930",
@@ -1392,7 +1422,7 @@
 				"magnitude":"18.336",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55358.930",
@@ -1402,7 +1432,7 @@
 				"magnitude":"18.427",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55358.930",
@@ -1412,7 +1442,7 @@
 				"magnitude":"19.075",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55368.853",
@@ -1422,7 +1452,7 @@
 				"magnitude":"19.462",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55368.853",
@@ -1432,7 +1462,7 @@
 				"magnitude":"18.373",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55368.853",
@@ -1442,7 +1472,7 @@
 				"magnitude":"18.539",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"55368.853",
@@ -1452,7 +1482,7 @@
 				"magnitude":"19.109",
 				"telescope":"HCT",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			}
 		]
 	}

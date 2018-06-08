@@ -1,0 +1,45 @@
+{
+	"SN2005gn":{
+		"name":"SN2005gn",
+		"sources":[
+			{
+				"bibcode":"2013AJ....146....2F, 2011ApJ...741....7F",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN2005gn",
+				"source":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"IIn",
+				"source":"1"
+			}
+		],
+		"photometry":[
+			{
+				"time":"55065",
+				"band":"I1",
+				"e_magnitude":"0.33",
+				"instrument":"IRAC",
+				"magnitude":"16.01",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55065",
+				"band":"I2",
+				"e_magnitude":"0.27",
+				"instrument":"IRAC",
+				"magnitude":"15.44",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			}
+		]
+	}
+}

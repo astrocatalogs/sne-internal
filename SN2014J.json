@@ -3,17 +3,216 @@
 		"name":"SN2014J",
 		"sources":[
 			{
-				"bibcode":"2018PASP..130f4101V",
+				"bibcode":"2017MNRAS.466.3442J, 2016ApJ...833..231T",
 				"alias":"1"
+			},
+			{
+				"bibcode":"2018PASP..130f4101V",
+				"alias":"2"
 			}
 		],
 		"alias":[
 			{
 				"value":"SN2014J",
+				"source":"1,2"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"Ia",
 				"source":"1"
 			}
 		],
 		"photometry":[
+			{
+				"time":"56685",
+				"band":"I2",
+				"e_magnitude":"0.03",
+				"instrument":"IRAC",
+				"magnitude":"8.98",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56695",
+				"band":"I1",
+				"e_magnitude":"0.05",
+				"instrument":"IRAC",
+				"magnitude":"9.59",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56695",
+				"band":"I2",
+				"e_magnitude":"0.05",
+				"instrument":"IRAC",
+				"magnitude":"9.69",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56700",
+				"band":"I1",
+				"e_magnitude":"0.05",
+				"instrument":"IRAC",
+				"magnitude":"10.01",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56700",
+				"band":"I2",
+				"e_magnitude":"0.05",
+				"instrument":"IRAC",
+				"magnitude":"10.49",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56707",
+				"band":"I1",
+				"e_magnitude":"0.05",
+				"instrument":"IRAC",
+				"magnitude":"10.32",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56707",
+				"band":"I2",
+				"e_magnitude":"0.05",
+				"instrument":"IRAC",
+				"magnitude":"10.91",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56712",
+				"band":"I1",
+				"instrument":"IRAC",
+				"magnitude":"10.44",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56712",
+				"band":"I2",
+				"e_magnitude":"0.05",
+				"instrument":"IRAC",
+				"magnitude":"11.11",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56718",
+				"band":"I1",
+				"e_magnitude":"0.05",
+				"instrument":"IRAC",
+				"magnitude":"10.59",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56718",
+				"band":"I2",
+				"e_magnitude":"0.05",
+				"instrument":"IRAC",
+				"magnitude":"11.27",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56807",
+				"band":"I1",
+				"e_magnitude":"0.05",
+				"instrument":"IRAC",
+				"magnitude":"12.03",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56807",
+				"band":"I2",
+				"e_magnitude":"0.09",
+				"instrument":"IRAC",
+				"magnitude":"13.19",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56816",
+				"band":"I1",
+				"e_magnitude":"0.05",
+				"instrument":"IRAC",
+				"magnitude":"12.19",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56816",
+				"band":"I2",
+				"e_magnitude":"0.11",
+				"instrument":"IRAC",
+				"magnitude":"13.34",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56831",
+				"band":"I1",
+				"e_magnitude":"0.05",
+				"instrument":"IRAC",
+				"magnitude":"12.56",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56831",
+				"band":"I2",
+				"e_magnitude":"0.14",
+				"instrument":"IRAC",
+				"magnitude":"13.60",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56846",
+				"band":"I1",
+				"e_magnitude":"0.07",
+				"instrument":"IRAC",
+				"magnitude":"12.77",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56846",
+				"band":"I2",
+				"e_magnitude":"0.19",
+				"instrument":"IRAC",
+				"magnitude":"13.92",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
 			{
 				"time":"56684.0",
 				"band":"B",
@@ -22,7 +221,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56684.0",
@@ -32,7 +231,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56684.0",
@@ -42,7 +241,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56684.0",
@@ -52,7 +251,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56688.8",
@@ -62,7 +261,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56688.8",
@@ -72,7 +271,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56688.8",
@@ -82,7 +281,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56688.8",
@@ -92,7 +291,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56691.0",
@@ -102,7 +301,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56691.0",
@@ -112,7 +311,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56691.0",
@@ -122,7 +321,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56691.0",
@@ -132,7 +331,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56692.0",
@@ -142,7 +341,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56692.0",
@@ -152,7 +351,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56692.0",
@@ -162,7 +361,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56692.0",
@@ -172,7 +371,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56693.0",
@@ -182,7 +381,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56693.0",
@@ -192,7 +391,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56693.0",
@@ -202,7 +401,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56693.0",
@@ -212,7 +411,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56703.0",
@@ -222,7 +421,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56703.0",
@@ -232,7 +431,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56703.0",
@@ -242,7 +441,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56703.0",
@@ -252,7 +451,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56706.2",
@@ -262,7 +461,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56706.2",
@@ -272,7 +471,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56706.2",
@@ -282,7 +481,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56706.2",
@@ -292,7 +491,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56709.0",
@@ -302,7 +501,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56709.0",
@@ -312,7 +511,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56709.0",
@@ -322,7 +521,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56709.0",
@@ -332,7 +531,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56712.0",
@@ -342,7 +541,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56712.0",
@@ -352,7 +551,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56712.0",
@@ -362,7 +561,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56712.0",
@@ -372,7 +571,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56717.8",
@@ -382,7 +581,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56717.8",
@@ -392,7 +591,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56717.8",
@@ -402,7 +601,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56717.8",
@@ -412,7 +611,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56724.9",
@@ -422,7 +621,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56724.9",
@@ -432,7 +631,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56724.9",
@@ -442,7 +641,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56724.9",
@@ -452,7 +651,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56726.0",
@@ -462,7 +661,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56726.0",
@@ -472,7 +671,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56726.0",
@@ -482,7 +681,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56726.0",
@@ -492,7 +691,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56727.0",
@@ -502,7 +701,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56727.0",
@@ -512,7 +711,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56727.0",
@@ -522,7 +721,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56727.0",
@@ -532,7 +731,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56728.0",
@@ -542,7 +741,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56728.0",
@@ -552,7 +751,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56728.0",
@@ -562,7 +761,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56728.0",
@@ -572,7 +771,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56729.0",
@@ -582,7 +781,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56729.0",
@@ -592,7 +791,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56729.0",
@@ -602,7 +801,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56729.0",
@@ -612,7 +811,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56730.9",
@@ -622,7 +821,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56730.9",
@@ -632,7 +831,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56730.9",
@@ -642,7 +841,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56730.9",
@@ -652,7 +851,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56736.9",
@@ -662,7 +861,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56736.9",
@@ -672,7 +871,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56736.9",
@@ -682,7 +881,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56736.9",
@@ -692,7 +891,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56739.0",
@@ -702,7 +901,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56739.0",
@@ -712,7 +911,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56739.0",
@@ -722,7 +921,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56739.0",
@@ -732,7 +931,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56741.9",
@@ -742,7 +941,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56741.9",
@@ -752,7 +951,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56741.9",
@@ -762,7 +961,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56741.9",
@@ -772,7 +971,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56742.8",
@@ -782,7 +981,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56742.8",
@@ -792,7 +991,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56742.8",
@@ -802,7 +1001,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56742.8",
@@ -812,7 +1011,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56744.8",
@@ -822,7 +1021,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56744.8",
@@ -832,7 +1031,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56744.8",
@@ -842,7 +1041,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56744.8",
@@ -852,7 +1051,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56746.0",
@@ -862,7 +1061,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56746.0",
@@ -872,7 +1071,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56746.0",
@@ -882,7 +1081,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56746.0",
@@ -892,7 +1091,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56746.9",
@@ -902,7 +1101,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56746.9",
@@ -912,7 +1111,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56746.9",
@@ -922,7 +1121,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56746.9",
@@ -932,7 +1131,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56751.8",
@@ -942,7 +1141,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56751.8",
@@ -952,7 +1151,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56751.8",
@@ -962,7 +1161,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56751.8",
@@ -972,7 +1171,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56754.8",
@@ -982,7 +1181,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56754.8",
@@ -992,7 +1191,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56754.8",
@@ -1002,7 +1201,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56754.8",
@@ -1012,7 +1211,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56774.8",
@@ -1022,7 +1221,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56774.8",
@@ -1032,7 +1231,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56774.8",
@@ -1042,7 +1241,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56774.8",
@@ -1052,7 +1251,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56777.9",
@@ -1062,7 +1261,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56777.9",
@@ -1072,7 +1271,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56777.9",
@@ -1082,7 +1281,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56777.9",
@@ -1092,7 +1291,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56785.8",
@@ -1102,7 +1301,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56785.8",
@@ -1112,7 +1311,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56785.8",
@@ -1122,7 +1321,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56785.8",
@@ -1132,7 +1331,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56798.9",
@@ -1142,7 +1341,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56798.9",
@@ -1152,7 +1351,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56798.9",
@@ -1162,7 +1361,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56798.9",
@@ -1172,7 +1371,7 @@
 				"system":"Vega",
 				"telescope":"Konkoly",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56680.05",
@@ -1182,7 +1381,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56680.05",
@@ -1192,7 +1391,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56680.05",
@@ -1202,7 +1401,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56680.05",
@@ -1212,7 +1411,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56682.97",
@@ -1222,7 +1421,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56682.97",
@@ -1232,7 +1431,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56682.97",
@@ -1242,7 +1441,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56682.97",
@@ -1252,7 +1451,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56683.97",
@@ -1262,7 +1461,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56683.97",
@@ -1272,7 +1471,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56683.97",
@@ -1282,7 +1481,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56683.97",
@@ -1292,7 +1491,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56691.07",
@@ -1302,7 +1501,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56691.07",
@@ -1312,7 +1511,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56691.07",
@@ -1322,7 +1521,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56691.07",
@@ -1332,7 +1531,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56692.10",
@@ -1342,7 +1541,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56692.10",
@@ -1352,7 +1551,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56692.10",
@@ -1362,7 +1561,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56692.10",
@@ -1372,7 +1571,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56692.97",
@@ -1382,7 +1581,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56692.97",
@@ -1392,7 +1591,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56692.97",
@@ -1402,7 +1601,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56692.97",
@@ -1412,7 +1611,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56698.12",
@@ -1422,7 +1621,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56698.12",
@@ -1432,7 +1631,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56698.12",
@@ -1442,7 +1641,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56698.12",
@@ -1452,7 +1651,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56700.98",
@@ -1462,7 +1661,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56700.98",
@@ -1472,7 +1671,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56700.98",
@@ -1482,7 +1681,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56700.98",
@@ -1492,7 +1691,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56701.79",
@@ -1502,7 +1701,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56701.79",
@@ -1512,7 +1711,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56701.79",
@@ -1522,7 +1721,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56701.79",
@@ -1532,7 +1731,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56702.97",
@@ -1542,7 +1741,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56702.97",
@@ -1552,7 +1751,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56702.97",
@@ -1562,7 +1761,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56702.97",
@@ -1572,7 +1771,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56703.76",
@@ -1582,7 +1781,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56703.76",
@@ -1592,7 +1791,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56703.76",
@@ -1602,7 +1801,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56703.76",
@@ -1612,7 +1811,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56713.90",
@@ -1622,7 +1821,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56713.90",
@@ -1632,7 +1831,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56713.90",
@@ -1642,7 +1841,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56713.90",
@@ -1652,7 +1851,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56714.84",
@@ -1662,7 +1861,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56714.84",
@@ -1672,7 +1871,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56714.84",
@@ -1682,7 +1881,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56714.84",
@@ -1692,7 +1891,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56715.77",
@@ -1702,7 +1901,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56715.77",
@@ -1712,7 +1911,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56715.77",
@@ -1722,7 +1921,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56715.77",
@@ -1732,7 +1931,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56717.85",
@@ -1742,7 +1941,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56717.85",
@@ -1752,7 +1951,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56717.85",
@@ -1762,7 +1961,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56717.85",
@@ -1772,7 +1971,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56719.91",
@@ -1782,7 +1981,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56719.91",
@@ -1792,7 +1991,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56719.91",
@@ -1802,7 +2001,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56719.91",
@@ -1812,7 +2011,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56724.97",
@@ -1822,7 +2021,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56724.97",
@@ -1832,7 +2031,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56724.97",
@@ -1842,7 +2041,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56724.97",
@@ -1852,7 +2051,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56725.86",
@@ -1862,7 +2061,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56725.86",
@@ -1872,7 +2071,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56725.86",
@@ -1882,7 +2081,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56725.86",
@@ -1892,7 +2091,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56727.93",
@@ -1902,7 +2101,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56727.93",
@@ -1912,7 +2111,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56727.93",
@@ -1922,7 +2121,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56727.93",
@@ -1932,7 +2131,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56728.93",
@@ -1942,7 +2141,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56728.93",
@@ -1952,7 +2151,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56728.93",
@@ -1962,7 +2161,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56728.93",
@@ -1972,7 +2171,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56729.95",
@@ -1982,7 +2181,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56729.95",
@@ -1992,7 +2191,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56729.95",
@@ -2002,7 +2201,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56729.95",
@@ -2012,7 +2211,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56730.80",
@@ -2022,7 +2221,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56730.80",
@@ -2032,7 +2231,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56730.80",
@@ -2042,7 +2241,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56730.80",
@@ -2052,7 +2251,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56733.93",
@@ -2062,7 +2261,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56733.93",
@@ -2072,7 +2271,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56733.93",
@@ -2082,7 +2281,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56733.93",
@@ -2092,7 +2291,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56734.75",
@@ -2102,7 +2301,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56734.75",
@@ -2112,7 +2311,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56734.75",
@@ -2122,7 +2321,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56734.75",
@@ -2132,7 +2331,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56737.85",
@@ -2142,7 +2341,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56737.85",
@@ -2152,7 +2351,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56737.85",
@@ -2162,7 +2361,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56737.85",
@@ -2172,7 +2371,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56745.79",
@@ -2182,7 +2381,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56745.79",
@@ -2192,7 +2391,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56745.79",
@@ -2202,7 +2401,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56745.79",
@@ -2212,7 +2411,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56746.92",
@@ -2222,7 +2421,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56746.92",
@@ -2232,7 +2431,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56746.92",
@@ -2242,7 +2441,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56746.92",
@@ -2252,7 +2451,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56754.82",
@@ -2262,7 +2461,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56754.82",
@@ -2272,7 +2471,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56754.82",
@@ -2282,7 +2481,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56754.82",
@@ -2292,7 +2491,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56768.80",
@@ -2302,7 +2501,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56768.80",
@@ -2312,7 +2511,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56768.80",
@@ -2322,7 +2521,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56768.80",
@@ -2332,7 +2531,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56769.88",
@@ -2342,7 +2541,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56769.88",
@@ -2352,7 +2551,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56769.88",
@@ -2362,7 +2561,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56769.88",
@@ -2372,7 +2571,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56773.86",
@@ -2382,7 +2581,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56773.86",
@@ -2392,7 +2591,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56773.86",
@@ -2402,7 +2601,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56773.86",
@@ -2412,7 +2611,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56775.88",
@@ -2422,7 +2621,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56775.88",
@@ -2432,7 +2631,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56775.88",
@@ -2442,7 +2641,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56775.88",
@@ -2452,7 +2651,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56782.84",
@@ -2462,7 +2661,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56782.84",
@@ -2472,7 +2671,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56782.84",
@@ -2482,7 +2681,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56782.84",
@@ -2492,7 +2691,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56783.84",
@@ -2502,7 +2701,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56783.84",
@@ -2512,7 +2711,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56783.84",
@@ -2522,7 +2721,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56783.84",
@@ -2532,7 +2731,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56785.81",
@@ -2542,7 +2741,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56785.81",
@@ -2552,7 +2751,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56785.81",
@@ -2562,7 +2761,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56785.81",
@@ -2572,7 +2771,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56787.86",
@@ -2582,7 +2781,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56787.86",
@@ -2592,7 +2791,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56787.86",
@@ -2602,7 +2801,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56787.86",
@@ -2612,7 +2811,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56796.91",
@@ -2622,7 +2821,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56796.91",
@@ -2632,7 +2831,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56796.91",
@@ -2642,7 +2841,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56796.91",
@@ -2652,7 +2851,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56797.88",
@@ -2662,7 +2861,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56797.88",
@@ -2672,7 +2871,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56797.88",
@@ -2682,7 +2881,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56797.88",
@@ -2692,7 +2891,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56798.84",
@@ -2702,7 +2901,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56798.84",
@@ -2712,7 +2911,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56798.84",
@@ -2722,7 +2921,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56798.84",
@@ -2732,7 +2931,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56799.89",
@@ -2742,7 +2941,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56799.89",
@@ -2752,7 +2951,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56799.89",
@@ -2762,7 +2961,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56799.89",
@@ -2772,7 +2971,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56805.87",
@@ -2782,7 +2981,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56805.87",
@@ -2792,7 +2991,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56805.87",
@@ -2802,7 +3001,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56805.87",
@@ -2812,7 +3011,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56811.86",
@@ -2822,7 +3021,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56811.86",
@@ -2832,7 +3031,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56811.86",
@@ -2842,7 +3041,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			},
 			{
 				"time":"56811.86",
@@ -2852,7 +3051,7 @@
 				"system":"AB",
 				"telescope":"BART",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"2"
 			}
 		]
 	}

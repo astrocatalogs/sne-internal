@@ -1,12 +1,84 @@
 {
 	"SN2014L":{
 		"name":"SN2014L",
+		"sources":[
+			{
+				"bibcode":"2016ApJ...833..231T",
+				"alias":"1"
+			}
+		],
 		"alias":[
 			{
-				"value":"SN2014L"
+				"value":"SN2014L",
+				"source":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"Ic",
+				"source":"1"
+			}
+		],
+		"photometry":[
+			{
+				"time":"56723",
+				"band":"I1",
+				"e_magnitude":"0.23",
+				"instrument":"IRAC",
+				"magnitude":"13.63",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
 			},
 			{
-				"value":"PS1-14kd"
+				"time":"56723",
+				"band":"I2",
+				"e_magnitude":"0.22",
+				"instrument":"IRAC",
+				"magnitude":"13.08",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56750",
+				"band":"I1",
+				"e_magnitude":"0.23",
+				"instrument":"IRAC",
+				"magnitude":"14.11",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56750",
+				"band":"I2",
+				"e_magnitude":"0.23",
+				"instrument":"IRAC",
+				"magnitude":"13.20",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56890",
+				"band":"I1",
+				"e_magnitude":"0.23",
+				"instrument":"IRAC",
+				"magnitude":"15.60",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"56890",
+				"band":"I2",
+				"e_magnitude":"0.23",
+				"instrument":"IRAC",
+				"magnitude":"14.45",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
 			}
 		]
 	}

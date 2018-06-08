@@ -1,0 +1,35 @@
+{
+	"SN2014df":{
+		"name":"SN2014df",
+		"sources":[
+			{
+				"bibcode":"2016ApJ...833..231T",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN2014df",
+				"source":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"Ib",
+				"source":"1"
+			}
+		],
+		"photometry":[
+			{
+				"time":"56929",
+				"band":"I1",
+				"e_magnitude":"0.20",
+				"instrument":"IRAC",
+				"magnitude":"15.09",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			}
+		]
+	}
+}

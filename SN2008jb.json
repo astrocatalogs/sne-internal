@@ -13,7 +13,53 @@
 				"source":"1"
 			}
 		],
+		"claimedtype":[
+			{
+				"value":"II",
+				"source":"1"
+			}
+		],
 		"photometry":[
+			{
+				"time":"55076",
+				"band":"I1",
+				"e_magnitude":"0.04",
+				"instrument":"IRAC",
+				"magnitude":"14.43",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55076",
+				"band":"I2",
+				"e_magnitude":"0.04",
+				"instrument":"IRAC",
+				"magnitude":"13.28",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55113",
+				"band":"I1",
+				"e_magnitude":"0.04",
+				"instrument":"IRAC",
+				"magnitude":"14.87",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"55113",
+				"band":"I2",
+				"e_magnitude":"0.04",
+				"instrument":"IRAC",
+				"magnitude":"13.73",
+				"telescope":"Spitzer",
+				"u_time":"MJD",
+				"source":"1"
+			},
 			{
 				"time":"54773.71",
 				"band":"V",
