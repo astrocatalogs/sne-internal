@@ -3,20 +3,24 @@
 		"name":"SN2005gn",
 		"sources":[
 			{
-				"bibcode":"2013AJ....146....2F, 2011ApJ...741....7F",
+				"bibcode":"2013AJ....146....2F",
 				"alias":"1"
+			},
+			{
+				"bibcode":"2011ApJ...741....7F",
+				"alias":"2"
 			}
 		],
 		"alias":[
 			{
 				"value":"SN2005gn",
-				"source":"1"
+				"source":"1,2"
 			}
 		],
 		"claimedtype":[
 			{
 				"value":"IIn",
-				"source":"1"
+				"source":"1,2"
 			}
 		],
 		"photometry":[
@@ -28,7 +32,7 @@
 				"magnitude":"16.01",
 				"telescope":"Spitzer",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"1,2"
 			},
 			{
 				"time":"55065",
@@ -38,7 +42,7 @@
 				"magnitude":"15.44",
 				"telescope":"Spitzer",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"1,2"
 			}
 		]
 	}

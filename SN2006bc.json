@@ -3,20 +3,24 @@
 		"name":"SN2006bc",
 		"sources":[
 			{
-				"bibcode":"2013A%26A...549A..79S, 2012ApJ...753..109G",
+				"bibcode":"2013A%26A...549A..79S",
 				"alias":"1"
+			},
+			{
+				"bibcode":"2012ApJ...753..109G",
+				"alias":"2"
 			}
 		],
 		"alias":[
 			{
 				"value":"SN2006bc",
-				"source":"1"
+				"source":"1,2"
 			}
 		],
 		"claimedtype":[
 			{
 				"value":"II-P",
-				"source":"1"
+				"source":"1,2"
 			}
 		],
 		"photometry":[
@@ -28,7 +32,7 @@
 				"magnitude":"17.29",
 				"telescope":"Spitzer",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"1,2"
 			},
 			{
 				"time":"54356",
@@ -38,7 +42,7 @@
 				"magnitude":"16.71",
 				"telescope":"Spitzer",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"1,2"
 			}
 		]
 	}

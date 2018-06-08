@@ -3,18 +3,22 @@
 		"name":"SN2011fe",
 		"sources":[
 			{
-				"bibcode":"2017MNRAS.466.3442J, 2013ApJ...767..119M",
+				"bibcode":"2017MNRAS.466.3442J",
 				"alias":"1"
 			},
 			{
 				"bibcode":"2017MNRAS.472.3437G",
 				"alias":"2"
+			},
+			{
+				"bibcode":"2013ApJ...767..119M",
+				"alias":"3"
 			}
 		],
 		"alias":[
 			{
 				"value":"SN2011fe",
-				"source":"1"
+				"source":"1,3"
 			}
 		],
 		"aliases":[
@@ -30,7 +34,7 @@
 		"claimedtype":[
 			{
 				"value":"Ia",
-				"source":"1"
+				"source":"1,3"
 			}
 		],
 		"photometry":[
@@ -42,7 +46,7 @@
 				"magnitude":"14.06",
 				"telescope":"Spitzer",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"1,3"
 			},
 			{
 				"time":"55961",
@@ -52,7 +56,7 @@
 				"magnitude":"15.20",
 				"telescope":"Spitzer",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"1,3"
 			},
 			{
 				"time":"55981",
@@ -62,7 +66,7 @@
 				"magnitude":"14.38",
 				"telescope":"Spitzer",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"1,3"
 			},
 			{
 				"time":"55981",
@@ -72,7 +76,7 @@
 				"magnitude":"15.49",
 				"telescope":"Spitzer",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"1,3"
 			},
 			{
 				"time":"56048",
@@ -82,7 +86,7 @@
 				"magnitude":"15.32",
 				"telescope":"Spitzer",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"1,3"
 			},
 			{
 				"time":"56048",
@@ -92,7 +96,7 @@
 				"magnitude":"15.91",
 				"telescope":"Spitzer",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"1,3"
 			},
 			{
 				"time":"56165",
@@ -102,7 +106,7 @@
 				"magnitude":"17.16",
 				"telescope":"Spitzer",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"1,3"
 			},
 			{
 				"time":"56165",
@@ -112,7 +116,7 @@
 				"magnitude":"17.18",
 				"telescope":"Spitzer",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"1,3"
 			},
 			{
 				"time":"56337",
@@ -122,7 +126,7 @@
 				"magnitude":"17.77",
 				"telescope":"Spitzer",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"1,3"
 			},
 			{
 				"time":"56348",
@@ -132,7 +136,7 @@
 				"magnitude":"17.66",
 				"telescope":"Spitzer",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"1,3"
 			},
 			{
 				"time":"55798.653565",

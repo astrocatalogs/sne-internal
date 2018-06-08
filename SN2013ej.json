@@ -3,7 +3,7 @@
 		"name":"SN2013ej",
 		"sources":[
 			{
-				"bibcode":"2016ApJ...833..231T, 2017ApJ...834..118M",
+				"bibcode":"2016ApJ...833..231T",
 				"alias":"1"
 			},
 			{
@@ -40,7 +40,7 @@
 				"magnitude":"13.83",
 				"telescope":"Spitzer",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"1,2"
 			},
 			{
 				"time":"56735",
@@ -50,7 +50,7 @@
 				"magnitude":"12.68",
 				"telescope":"Spitzer",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"1,2"
 			},
 			{
 				"time":"56758",
@@ -60,7 +60,7 @@
 				"magnitude":"14.12",
 				"telescope":"Spitzer",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"1,2"
 			},
 			{
 				"time":"56758",
@@ -70,7 +70,7 @@
 				"magnitude":"12.94",
 				"telescope":"Spitzer",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"1,2"
 			},
 			{
 				"time":"56937",
@@ -80,7 +80,7 @@
 				"magnitude":"17.08",
 				"telescope":"Spitzer",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"1,2"
 			},
 			{
 				"time":"56937",
@@ -90,7 +90,7 @@
 				"magnitude":"15.33",
 				"telescope":"Spitzer",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"1,2"
 			},
 			{
 				"time":"56965",

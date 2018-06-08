@@ -3,20 +3,24 @@
 		"name":"SN2009ig",
 		"sources":[
 			{
-				"bibcode":"2017MNRAS.466.3442J, 2013ApJ...767..119M",
+				"bibcode":"2017MNRAS.466.3442J",
 				"alias":"1"
+			},
+			{
+				"bibcode":"2013ApJ...767..119M",
+				"alias":"2"
 			}
 		],
 		"alias":[
 			{
 				"value":"SN2009ig",
-				"source":"1"
+				"source":"1,2"
 			}
 		],
 		"claimedtype":[
 			{
 				"value":"Ia",
-				"source":"1"
+				"source":"1,2"
 			}
 		],
 		"photometry":[
@@ -28,7 +32,7 @@
 				"magnitude":"14.23",
 				"telescope":"Spitzer",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"1,2"
 			},
 			{
 				"time":"55076",
@@ -38,7 +42,7 @@
 				"magnitude":"14.03",
 				"telescope":"Spitzer",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"1,2"
 			},
 			{
 				"time":"55115",
@@ -48,7 +52,7 @@
 				"magnitude":"15.49",
 				"telescope":"Spitzer",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"1,2"
 			},
 			{
 				"time":"55115",
@@ -58,7 +62,7 @@
 				"magnitude":"16.37",
 				"telescope":"Spitzer",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"1,2"
 			}
 		]
 	}

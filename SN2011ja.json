@@ -3,7 +3,7 @@
 		"name":"SN2011ja",
 		"sources":[
 			{
-				"bibcode":"2016ApJ...833..231T, 2016MNRAS.457.3241A",
+				"bibcode":"2016MNRAS.457.3241A",
 				"alias":"1"
 			},
 			{
@@ -14,7 +14,7 @@
 		"alias":[
 			{
 				"value":"SN2011ja",
-				"source":"1"
+				"source":"1,2"
 			}
 		],
 		"claimedtype":[
@@ -32,7 +32,7 @@
 				"magnitude":"11.68",
 				"telescope":"Spitzer",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"1,2"
 			},
 			{
 				"time":"56012",
@@ -42,7 +42,7 @@
 				"magnitude":"10.91",
 				"telescope":"Spitzer",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"1,2"
 			},
 			{
 				"time":"56393",
@@ -52,7 +52,7 @@
 				"magnitude":"11.65",
 				"telescope":"Spitzer",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"1,2"
 			},
 			{
 				"time":"56393",
@@ -62,7 +62,7 @@
 				"magnitude":"10.83",
 				"telescope":"Spitzer",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"1,2"
 			},
 			{
 				"time":"56544",
@@ -72,7 +72,7 @@
 				"magnitude":"12.42",
 				"telescope":"Spitzer",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"1,2"
 			},
 			{
 				"time":"56544",
@@ -82,7 +82,7 @@
 				"magnitude":"11.43",
 				"telescope":"Spitzer",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"1,2"
 			},
 			{
 				"time":"56764",
@@ -92,7 +92,7 @@
 				"magnitude":"13.53",
 				"telescope":"Spitzer",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"1,2"
 			},
 			{
 				"time":"56764",
@@ -102,7 +102,7 @@
 				"magnitude":"12.20",
 				"telescope":"Spitzer",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"1,2"
 			},
 			{
 				"time":"56787",

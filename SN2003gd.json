@@ -3,18 +3,18 @@
 		"name":"SN2003gd",
 		"sources":[
 			{
-				"bibcode":"2006Sci...313..196S, 2007ApJ...665..608M",
+				"bibcode":"2006Sci...313..196S",
 				"alias":"1"
 			},
 			{
-				"bibcode":"2007ApJ...665..608M, 2007ApJ...665..608M",
+				"bibcode":"2007ApJ...665..608M",
 				"alias":"2"
 			}
 		],
 		"alias":[
 			{
 				"value":"SN2003gd",
-				"source":"1"
+				"source":"1,2"
 			}
 		],
 		"claimedtype":[
@@ -32,7 +32,7 @@
 				"magnitude":"17.86",
 				"telescope":"Spitzer",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"1,2"
 			},
 			{
 				"time":"53211",
@@ -42,7 +42,7 @@
 				"magnitude":"16.01",
 				"telescope":"Spitzer",
 				"u_time":"MJD",
-				"source":"1"
+				"source":"1,2"
 			}
 		]
 	}
