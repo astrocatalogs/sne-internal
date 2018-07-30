@@ -1,0 +1,36 @@
+{
+	"CGS2004A":{
+		"name":"CGS2004A",
+		"sources":[
+			{
+				"name":"Jorge Stockler de Moraes",
+				"url":"https://cgs.obs.carnegiescience.edu/CGS/object_html_pages/NGC1892.html"
+			}
+		],
+		"alias":[
+			{
+				"value":"CGS2004A"
+			}
+		],
+		"ra":[
+			{
+				"value":"05:17:11.70"
+			}
+		],
+		"dec":[
+			{
+				"value":"-64:57:29.60"
+			}
+		],
+		"host":[
+			{
+				"value":"NGC 1892"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"Candidate"
+			}
+		]
+	}
+}
