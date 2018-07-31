@@ -3,33 +3,77 @@
 		"name":"CGS2004A",
 		"sources":[
 			{
-				"name":"Jorge Stockler de Moraes",
-				"url":"https://cgs.obs.carnegiescience.edu/CGS/object_html_pages/NGC1892.html"
+				"name":"Jorge Stockler de Moraes & CGS-Irvine Survey",
+				"url":"https://cgs.obs.carnegiescience.edu/CGS/object_html_pages/NGC1892.html",
+				"alias":"1"
+			},
+			{
+				"name":"Katie Auchettl",
+				"alias":"2"
 			}
 		],
 		"alias":[
 			{
-				"value":"CGS2004A"
+				"value":"CGS2004A",
+				"source":"1"
 			}
 		],
 		"ra":[
 			{
-				"value":"05:17:11.70"
+				"value":"05:17:11.53",
+				"source":"1"
 			}
 		],
 		"dec":[
 			{
-				"value":"-64:57:29.60"
+				"value":"-64:57:31.6",
+				"source":"1"
 			}
 		],
 		"host":[
 			{
-				"value":"NGC 1892"
+				"value":"NGC 1892",
+				"source":"1"
 			}
 		],
 		"claimedtype":[
 			{
-				"value":"Candidate"
+				"value":"Candidate",
+				"source":"1"
+			}
+		],
+		"photometry":[
+			{
+				"time":"2004/01/20",
+				"magnitude":"14.8",
+				"band":"B",
+				"source":"1"
+			},
+			{
+				"time":"57257.153692115",
+				"energy":[
+					"0.3",
+					"10.0"
+				],
+				"countrate":"5.4E-4",
+				"instrument":"Chandra ACIS-S",
+				"upperlimit":true,
+				"u_energy":"keV",
+				"u_time":"MJD",
+				"source":"2"
+			},
+			{
+				"time":"57257.153692115",
+				"energy":[
+					"0.3",
+					"2.0"
+				],
+				"countrate":"2E-4",
+				"instrument":"Chandra ACIS-S",
+				"upperlimit":true,
+				"u_energy":"keV",
+				"u_time":"MJD",
+				"source":"2"
 			}
 		]
 	}
