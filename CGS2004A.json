@@ -57,7 +57,7 @@
 				],
 				"countrate":"5.4E-4",
 				"instrument":"Chandra ACIS-S",
-				"upperlimit":True,
+				"upperlimit":true,
 				"u_energy":"keV",
 				"u_time":"MJD",
 				"source":"2"
@@ -70,7 +70,7 @@
 				],
 				"countrate":"2E-4",
 				"instrument":"Chandra ACIS-S",
-				"upperlimit":True,
+				"upperlimit":true,
 				"u_energy":"keV",
 				"u_time":"MJD",
 				"source":"2"
