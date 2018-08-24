@@ -5,12 +5,41 @@
 			{
 				"bibcode":"2018ApJ...854...37S",
 				"alias":"1"
+			},
+			{
+				"name":"ATel #9700",
+				"alias":"2"
 			}
 		],
 		"alias":[
 			{
 				"value":"DES16C2nm",
 				"source":"1"
+			}
+		],
+		"ra":[
+			{
+				"value":"03:40:14.83"
+			}
+		],
+		"dec":[
+			{
+				"value":"-29:05:53.5"
+			}
+		],
+		"redshift":[
+			{
+				"value":"1.998"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"SLSN-I"
+			}
+		],
+		"discoverdate":[
+			{
+				"value":"2016/08/22"
 			}
 		],
 		"photometry":[
