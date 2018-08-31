@@ -90,6 +90,15 @@
 				"source":"1"
 			},
 			{
+				"time":"57656.49",
+				"band":"g",
+				"e_magnitude":"0.30",
+				"magnitude":"20.94",
+				"telescope":"P48",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
 				"time":"57662.49",
 				"band":"g",
 				"e_magnitude":"0.16",
