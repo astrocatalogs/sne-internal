@@ -42,6 +42,13 @@
 				"e_value":"21600",
 				"source":"1"
 			}
+		],
+		"errors":[
+			{
+				"value":"2009JHA....40...31S",
+				"kind":"bibcode",
+				"extra":"discoverdate"
+			}
 		]
 	}
 }
