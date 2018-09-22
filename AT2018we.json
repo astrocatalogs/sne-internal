@@ -1,0 +1,169 @@
+{
+	"AT2018we":{
+		"name":"AT2018we",
+		"sources":[
+			{
+				"bibcode":"2018arXiv180904479W",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"AT2018we",
+				"source":"1"
+			}
+		],
+		"photometry":[
+			{
+				"time":"58169.70",
+				"band":"R",
+				"e_magnitude":"0.2",
+				"instrument":"SBIG ST-7",
+				"magnitude":"16.6",
+				"telescope":"RC",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"58170.87",
+				"band":"B",
+				"e_magnitude":"0.3",
+				"instrument":"SBIG ST-7",
+				"magnitude":"16.0",
+				"telescope":"RC",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"58170.87",
+				"band":"R",
+				"e_magnitude":"0.2",
+				"instrument":"SBIG ST-7",
+				"magnitude":"16.4",
+				"telescope":"RC",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"58173.95",
+				"band":"B",
+				"e_magnitude":"0.3",
+				"instrument":"SBIG ST-7",
+				"magnitude":"15.7",
+				"telescope":"RC",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"58173.95",
+				"band":"R",
+				"e_magnitude":"0.1",
+				"instrument":"SBIG ST-7",
+				"magnitude":"16.2",
+				"telescope":"RC",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"58193.87",
+				"band":"B",
+				"e_magnitude":"0.3",
+				"instrument":"SBIG ST-7",
+				"magnitude":"17.8",
+				"telescope":"RC",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"58193.87",
+				"band":"R",
+				"e_magnitude":"0.1",
+				"instrument":"SBIG ST-7",
+				"magnitude":"16.8",
+				"telescope":"RC",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"58204.87",
+				"band":"R",
+				"e_magnitude":"0.2",
+				"instrument":"SBIG ST-7",
+				"magnitude":"17.0",
+				"telescope":"RC",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"58211.83",
+				"band":"R",
+				"e_magnitude":"0.1",
+				"instrument":"SBIG ST-7",
+				"magnitude":"17.4",
+				"telescope":"RC",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"58221.92",
+				"band":"R",
+				"e_magnitude":"0.2",
+				"instrument":"SBIG ST-7",
+				"magnitude":"18.0",
+				"telescope":"RC",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"58227.85",
+				"band":"R",
+				"e_magnitude":"0.2",
+				"instrument":"SBIG ST-7",
+				"magnitude":"18.1",
+				"telescope":"RC",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"58233.92",
+				"band":"R",
+				"e_magnitude":"0.1",
+				"instrument":"SBIG ST-7",
+				"magnitude":"18.3",
+				"telescope":"RC",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"58235.85",
+				"band":"R",
+				"e_magnitude":"0.1",
+				"instrument":"SBIG ST-7",
+				"magnitude":"18.3",
+				"telescope":"RC",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"58243.90",
+				"band":"B",
+				"e_magnitude":"0.5",
+				"instrument":"SBIG ST-7",
+				"magnitude":"19.2",
+				"telescope":"RC",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"58243.90",
+				"band":"R",
+				"e_magnitude":"0.1",
+				"instrument":"SBIG ST-7",
+				"magnitude":"18.5",
+				"telescope":"RC",
+				"u_time":"MJD",
+				"source":"1"
+			}
+		]
+	}
+}
