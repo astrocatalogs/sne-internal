@@ -10,6 +10,10 @@
 			{
 				"bibcode":"2016ApJ...826...39N",
 				"alias":"1"
+			},
+			{
+				"bibcode":"2018arXiv180902755N",
+				"alias":"2"
 			}
 		],
 		"redshift":[
@@ -29,7 +33,7 @@
 				"telescope":"HST",
 				"instrument":"ACS",
 				"u_time":"MJD",
-				"source":"18"
+				"source":"2"
 			},
 			{
 				"time":"58291.35",
@@ -39,7 +43,7 @@
 				"telescope":"HST",
 				"instrument":"ACS",
 				"u_time":"MJD",
-				"source":"18"
+				"source":"2"
 			},
 			{
 				"time":"57905.35",
@@ -49,7 +53,7 @@
 				"telescope":"HST",
 				"instrument":"ACS",
 				"u_time":"MJD",
-				"source":"18"
+				"source":"2"
 			},
 			{
 				"time":"58291.29",
@@ -59,7 +63,7 @@
 				"telescope":"HST",
 				"instrument":"ACS",
 				"u_time":"MJD",
-				"source":"18"
+				"source":"2"
 			},
 			{
 				"time":"57905.28",
@@ -69,7 +73,7 @@
 				"telescope":"HST",
 				"instrument":"ACS",
 				"u_time":"MJD",
-				"source":"18"
+				"source":"2"
 			},
 			{
 				"time":"58291.22",
@@ -79,7 +83,7 @@
 				"telescope":"HST",
 				"instrument":"ACS",
 				"u_time":"MJD",
-				"source":"18"
+				"source":"2"
 			},
 			{
 				"time":"57785.30",
@@ -89,7 +93,7 @@
 				"telescope":"Magellan",
 				"instrument":"LDSS",
 				"u_time":"MJD",
-				"source":"18"
+				"source":"2"
 			},
 			{
 				"time":"58195.69",
@@ -99,7 +103,7 @@
 				"telescope":"Magellan",
 				"instrument":"LDSS",
 				"u_time":"MJD",
-				"source":"18"
+				"source":"2"
 			}
 		]
 	}
