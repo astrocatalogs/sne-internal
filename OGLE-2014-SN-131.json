@@ -1,0 +1,29 @@
+{
+	"OGLE-2014-SN-131":{
+		"name":"OGLE-2014-SN-131",
+		"sources":[
+			{
+				"bibcode":"2017A&A...602A..93K",
+				"alias":"1"
+			}
+		],
+		"errors":[
+			{
+				"value":"2014ATel.6700....1W",
+				"kind":"bibcode",
+				"extra":"redshift"
+			},
+			{
+				"value":"Latest Supernovae",
+				"kind":"name",
+				"extra":"redshift"
+			}
+		],
+		"redshift":[
+			{
+				"value":"0.085",
+				"e_value":"0.002"
+			}
+		]
+	}
+}
