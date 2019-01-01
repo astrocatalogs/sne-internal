@@ -1,0 +1,22 @@
+{
+	"SN2005kr":{
+		"name":"SN2005kr",
+		"alias":[
+			{
+				"value":"SN2005kr"
+			}
+		],
+		"sources":[
+			{
+				"bibcode":"2015A&A...574A..60T",
+				"alias":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"Ic BL",
+				"source":"1"
+			}
+		]
+	}
+}
