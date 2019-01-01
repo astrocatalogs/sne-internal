@@ -1,0 +1,23 @@
+{
+	"SN2009dr":{
+		"name":"SN2009dr",
+		"alias":[
+			{
+				"value":"SN2009dr"
+			}
+		],
+    "sources":[
+      {
+        "name":"Prentice et al. (2016)",
+        "bibcode":"2016MNRAS.458.2973P",
+        "alias":"1"
+      }
+    ],
+    "claimedtype":[
+      {
+        "value":"Ic BL",
+        "source":"1"
+      }
+    ]
+	}
+}
