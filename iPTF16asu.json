@@ -19,6 +19,12 @@
 				"source":"1"
 			}
 		],
+		"claimedtype":[
+			{
+				"value":"Ic BL",
+				"source":"1"
+			}
+		],
 		"photometry":[
 			{
 				"time":"57519.26",
