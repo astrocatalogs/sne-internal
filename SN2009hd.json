@@ -5,12 +5,39 @@
 			{
 				"bibcode":"2011ApJ...742....6E",
 				"alias":"1"
+			},
+			{
+				"bibcode":"2011ApJ...742....6E",
+				"alias":"2"
 			}
 		],
 		"alias":[
 			{
 				"value":"SN2009hd",
 				"source":"1"
+			}
+		],
+		"redshift":[
+			{
+				"value":"0.0024",
+				"source":"2"
+			}
+		],
+		"errors":[
+			{
+				"value":"2009CBET.1867....1M",
+				"kind":"bibcode",
+				"extra":"redshift"
+			},
+			{
+				"value":"Latest Supernovae",
+				"kind":"name",
+				"extra":"redshift"
+			},
+			{
+				"value":"2012PASP..124..668Y",
+				"kind":"bibcode",
+				"extra":"redshift"
 			}
 		],
 		"photometry":[
