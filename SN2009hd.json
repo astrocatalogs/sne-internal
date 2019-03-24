@@ -5,10 +5,6 @@
 			{
 				"bibcode":"2011ApJ...742....6E",
 				"alias":"1"
-			},
-			{
-				"bibcode":"2011ApJ...742....6E",
-				"alias":"2"
 			}
 		],
 		"alias":[
@@ -20,7 +16,7 @@
 		"redshift":[
 			{
 				"value":"0.0024",
-				"source":"2"
+				"source":"1"
 			}
 		],
 		"errors":[
