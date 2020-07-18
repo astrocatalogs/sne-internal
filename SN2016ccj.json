@@ -8,6 +8,18 @@
 			{
 				"value":"Gaia16arz"
 			}
+		],
+		"sources":[
+			{
+				"bibcode":"2018MNRAS.475..193F",
+				"alias":"1"
+			}
+		],
+		"redshift":[
+			{
+				"value":0.041376,
+				"source":"1"
+			}
 		]
 	}
 }
