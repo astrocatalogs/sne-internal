@@ -1,0 +1,15 @@
+{
+	"ASASSN-16ex":{
+		"name":"ASASSN-16ex",
+		"sources":[
+			{
+				"bibcode":"2018MNRAS.475..193F"
+			}
+		],
+		"redshift":[
+			{
+				"value":"0.041376"
+			}
+		]
+	}
+}
