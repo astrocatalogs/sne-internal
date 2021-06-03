@@ -1,0 +1,5198 @@
+{
+    "SN2018hti": {
+        "schema":"https://github.com/astrocatalogs/schema/README.md",
+        "sources": [
+            {
+                "alias": "1",
+                "bibcode": "2020MNRAS.497..318L",
+                "name": "2020MNRAS.497..318L",
+                "reference": "Lin et al. (2020)"
+            }
+        ],
+        "photometry": [
+            {
+                "e_magnitude": "0.018",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "17.524",
+                "u_time": "MJD",
+                "time": "58429.784"
+            },
+            {
+                "e_magnitude": "0.025",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "17.938",
+                "u_time": "MJD",
+                "time": "58429.784"
+            },
+            {
+                "e_magnitude": "0.025",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "17.64",
+                "u_time": "MJD",
+                "time": "58429.7854"
+            },
+            {
+                "e_magnitude": "0.012",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "17.57",
+                "u_time": "MJD",
+                "time": "58429.7868"
+            },
+            {
+                "e_magnitude": "0.017",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "17.712",
+                "u_time": "MJD",
+                "time": "58429.7876"
+            },
+            {
+                "e_magnitude": "0.13",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "v",
+                "magnitude": "17.37",
+                "u_time": "MJD",
+                "time": "58430.52"
+            },
+            {
+                "e_magnitude": "0.08",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "b",
+                "magnitude": "17.76",
+                "u_time": "MJD",
+                "time": "58430.52"
+            },
+            {
+                "e_magnitude": "0.06",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "u",
+                "magnitude": "16.79",
+                "u_time": "MJD",
+                "time": "58430.52"
+            },
+            {
+                "e_magnitude": "0.08",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "w1",
+                "magnitude": "17.42",
+                "u_time": "MJD",
+                "time": "58430.52"
+            },
+            {
+                "e_magnitude": "0.11",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "m2",
+                "magnitude": "18.05",
+                "u_time": "MJD",
+                "time": "58430.52"
+            },
+            {
+                "e_magnitude": "0.1",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "w2",
+                "magnitude": "18.49",
+                "u_time": "MJD",
+                "time": "58430.52"
+            },
+            {
+                "e_magnitude": "0.11",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "v",
+                "magnitude": "17.25",
+                "u_time": "MJD",
+                "time": "58431.53"
+            },
+            {
+                "e_magnitude": "0.07",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "b",
+                "magnitude": "17.68",
+                "u_time": "MJD",
+                "time": "58431.53"
+            },
+            {
+                "e_magnitude": "0.06",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "u",
+                "magnitude": "16.67",
+                "u_time": "MJD",
+                "time": "58431.53"
+            },
+            {
+                "e_magnitude": "0.07",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "w1",
+                "magnitude": "17.1",
+                "u_time": "MJD",
+                "time": "58431.53"
+            },
+            {
+                "e_magnitude": "0.1",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "m2",
+                "magnitude": "18.02",
+                "u_time": "MJD",
+                "time": "58431.53"
+            },
+            {
+                "e_magnitude": "0.1",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "w2",
+                "magnitude": "18.6",
+                "u_time": "MJD",
+                "time": "58431.53"
+            },
+            {
+                "e_magnitude": "0.022",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "17.321",
+                "u_time": "MJD",
+                "time": "58431.695"
+            },
+            {
+                "e_magnitude": "0.027",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "17.747",
+                "u_time": "MJD",
+                "time": "58431.695"
+            },
+            {
+                "e_magnitude": "0.022",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "17.413",
+                "u_time": "MJD",
+                "time": "58431.6969"
+            },
+            {
+                "e_magnitude": "0.01",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "17.355",
+                "u_time": "MJD",
+                "time": "58431.6989"
+            },
+            {
+                "e_magnitude": "0.011",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "17.358",
+                "u_time": "MJD",
+                "time": "58431.7001"
+            },
+            {
+                "e_magnitude": "0.017",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "17.266",
+                "u_time": "MJD",
+                "time": "58431.756"
+            },
+            {
+                "e_magnitude": "0.024",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "17.672",
+                "u_time": "MJD",
+                "time": "58431.756"
+            },
+            {
+                "e_magnitude": "0.04",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "17.426",
+                "u_time": "MJD",
+                "time": "58431.761"
+            },
+            {
+                "e_magnitude": "0.048",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "17.329",
+                "u_time": "MJD",
+                "time": "58431.765"
+            },
+            {
+                "e_magnitude": "0.047",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "17.247",
+                "u_time": "MJD",
+                "time": "58431.77"
+            },
+            {
+                "e_magnitude": "0.12",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "v",
+                "magnitude": "17.15",
+                "u_time": "MJD",
+                "time": "58433.85"
+            },
+            {
+                "e_magnitude": "0.07",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "b",
+                "magnitude": "17.41",
+                "u_time": "MJD",
+                "time": "58433.85"
+            },
+            {
+                "e_magnitude": "0.06",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "u",
+                "magnitude": "16.45",
+                "u_time": "MJD",
+                "time": "58433.85"
+            },
+            {
+                "e_magnitude": "0.07",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "w1",
+                "magnitude": "16.99",
+                "u_time": "MJD",
+                "time": "58433.85"
+            },
+            {
+                "e_magnitude": "0.11",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "m2",
+                "magnitude": "17.85",
+                "u_time": "MJD",
+                "time": "58433.85"
+            },
+            {
+                "e_magnitude": "0.09",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "w2",
+                "magnitude": "18.24",
+                "u_time": "MJD",
+                "time": "58433.85"
+            },
+            {
+                "e_magnitude": "0.022",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "17.066",
+                "u_time": "MJD",
+                "time": "58434.727"
+            },
+            {
+                "e_magnitude": "0.027",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "17.478",
+                "u_time": "MJD",
+                "time": "58434.727"
+            },
+            {
+                "e_magnitude": "0.012",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "17.16",
+                "u_time": "MJD",
+                "time": "58434.7285"
+            },
+            {
+                "e_magnitude": "0.013",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "17.172",
+                "u_time": "MJD",
+                "time": "58434.7303"
+            },
+            {
+                "e_magnitude": "0.11",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "v",
+                "magnitude": "17.1",
+                "u_time": "MJD",
+                "time": "58434.85"
+            },
+            {
+                "e_magnitude": "0.07",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "b",
+                "magnitude": "17.4",
+                "u_time": "MJD",
+                "time": "58434.85"
+            },
+            {
+                "e_magnitude": "0.05",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "u",
+                "magnitude": "16.38",
+                "u_time": "MJD",
+                "time": "58434.85"
+            },
+            {
+                "e_magnitude": "0.07",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "w1",
+                "magnitude": "17.0",
+                "u_time": "MJD",
+                "time": "58434.85"
+            },
+            {
+                "e_magnitude": "0.1",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "m2",
+                "magnitude": "17.85",
+                "u_time": "MJD",
+                "time": "58434.85"
+            },
+            {
+                "e_magnitude": "0.09",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "w2",
+                "magnitude": "18.2",
+                "u_time": "MJD",
+                "time": "58434.85"
+            },
+            {
+                "e_magnitude": "0.1",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "v",
+                "magnitude": "17.02",
+                "u_time": "MJD",
+                "time": "58436.05"
+            },
+            {
+                "e_magnitude": "0.06",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "b",
+                "magnitude": "17.28",
+                "u_time": "MJD",
+                "time": "58436.05"
+            },
+            {
+                "e_magnitude": "0.05",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "u",
+                "magnitude": "16.35",
+                "u_time": "MJD",
+                "time": "58436.05"
+            },
+            {
+                "e_magnitude": "0.06",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "w1",
+                "magnitude": "16.88",
+                "u_time": "MJD",
+                "time": "58436.05"
+            },
+            {
+                "e_magnitude": "0.09",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "m2",
+                "magnitude": "17.74",
+                "u_time": "MJD",
+                "time": "58436.05"
+            },
+            {
+                "e_magnitude": "0.08",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "w2",
+                "magnitude": "18.2",
+                "u_time": "MJD",
+                "time": "58436.05"
+            },
+            {
+                "e_magnitude": "0.02",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "16.957",
+                "u_time": "MJD",
+                "time": "58436.727"
+            },
+            {
+                "e_magnitude": "0.028",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "17.378",
+                "u_time": "MJD",
+                "time": "58436.727"
+            },
+            {
+                "e_magnitude": "0.023",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "17.035",
+                "u_time": "MJD",
+                "time": "58436.7286"
+            },
+            {
+                "e_magnitude": "0.008",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "16.968",
+                "u_time": "MJD",
+                "time": "58436.7298"
+            },
+            {
+                "e_magnitude": "0.012",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "17.07",
+                "u_time": "MJD",
+                "time": "58436.7305"
+            },
+            {
+                "e_magnitude": "0.02",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "16.779",
+                "u_time": "MJD",
+                "time": "58438.525"
+            },
+            {
+                "e_magnitude": "0.041",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "17.165",
+                "u_time": "MJD",
+                "time": "58438.525"
+            },
+            {
+                "e_magnitude": "0.033",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "16.954",
+                "u_time": "MJD",
+                "time": "58438.53"
+            },
+            {
+                "e_magnitude": "0.056",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "16.817",
+                "u_time": "MJD",
+                "time": "58438.534"
+            },
+            {
+                "e_magnitude": "0.045",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "16.799",
+                "u_time": "MJD",
+                "time": "58438.538"
+            },
+            {
+                "e_magnitude": "0.02",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "16.823",
+                "u_time": "MJD",
+                "time": "58438.709"
+            },
+            {
+                "e_magnitude": "0.026",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "17.241",
+                "u_time": "MJD",
+                "time": "58438.709"
+            },
+            {
+                "e_magnitude": "0.047",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "16.94",
+                "u_time": "MJD",
+                "time": "58438.7107"
+            },
+            {
+                "e_magnitude": "0.009",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "16.872",
+                "u_time": "MJD",
+                "time": "58438.7118"
+            },
+            {
+                "e_magnitude": "0.01",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "16.916",
+                "u_time": "MJD",
+                "time": "58438.7126"
+            },
+            {
+                "e_magnitude": "0.02",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "16.78",
+                "u_time": "MJD",
+                "time": "58439.782"
+            },
+            {
+                "e_magnitude": "0.026",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "17.188",
+                "u_time": "MJD",
+                "time": "58439.782"
+            },
+            {
+                "e_magnitude": "0.039",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "16.856",
+                "u_time": "MJD",
+                "time": "58439.7831"
+            },
+            {
+                "e_magnitude": "0.01",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "16.789",
+                "u_time": "MJD",
+                "time": "58439.7843"
+            },
+            {
+                "e_magnitude": "0.01",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "16.815",
+                "u_time": "MJD",
+                "time": "58439.7852"
+            },
+            {
+                "e_magnitude": "0.16",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "v",
+                "magnitude": "16.87",
+                "u_time": "MJD",
+                "time": "58440.36"
+            },
+            {
+                "e_magnitude": "0.09",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "b",
+                "magnitude": "17.03",
+                "u_time": "MJD",
+                "time": "58440.36"
+            },
+            {
+                "e_magnitude": "0.07",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "u",
+                "magnitude": "16.12",
+                "u_time": "MJD",
+                "time": "58440.36"
+            },
+            {
+                "e_magnitude": "0.1",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "w1",
+                "magnitude": "16.71",
+                "u_time": "MJD",
+                "time": "58440.36"
+            },
+            {
+                "e_magnitude": "0.15",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "m2",
+                "magnitude": "17.75",
+                "u_time": "MJD",
+                "time": "58440.36"
+            },
+            {
+                "e_magnitude": "0.14",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "w2",
+                "magnitude": "18.21",
+                "u_time": "MJD",
+                "time": "58440.36"
+            },
+            {
+                "e_magnitude": "0.017",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "16.727",
+                "u_time": "MJD",
+                "time": "58440.69"
+            },
+            {
+                "e_magnitude": "0.023",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "17.133",
+                "u_time": "MJD",
+                "time": "58440.69"
+            },
+            {
+                "e_magnitude": "0.019",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "16.728",
+                "u_time": "MJD",
+                "time": "58440.693"
+            },
+            {
+                "e_magnitude": "0.025",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "17.147",
+                "u_time": "MJD",
+                "time": "58440.693"
+            },
+            {
+                "e_magnitude": "0.042",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "16.864",
+                "u_time": "MJD",
+                "time": "58440.695"
+            },
+            {
+                "e_magnitude": "0.018",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "16.852",
+                "u_time": "MJD",
+                "time": "58440.6961"
+            },
+            {
+                "e_magnitude": "0.017",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "16.8",
+                "u_time": "MJD",
+                "time": "58440.6971"
+            },
+            {
+                "e_magnitude": "0.016",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "16.784",
+                "u_time": "MJD",
+                "time": "58440.6978"
+            },
+            {
+                "e_magnitude": "0.021",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "16.733",
+                "u_time": "MJD",
+                "time": "58440.699"
+            },
+            {
+                "e_magnitude": "0.048",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "16.679",
+                "u_time": "MJD",
+                "time": "58440.703"
+            },
+            {
+                "e_magnitude": "0.037",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "16.693",
+                "u_time": "MJD",
+                "time": "58441.614"
+            },
+            {
+                "e_magnitude": "0.065",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "16.953",
+                "u_time": "MJD",
+                "time": "58441.614"
+            },
+            {
+                "e_magnitude": "0.044",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "16.866",
+                "u_time": "MJD",
+                "time": "58441.619"
+            },
+            {
+                "e_magnitude": "0.057",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "16.713",
+                "u_time": "MJD",
+                "time": "58441.623"
+            },
+            {
+                "e_magnitude": "0.084",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "16.66",
+                "u_time": "MJD",
+                "time": "58441.627"
+            },
+            {
+                "e_magnitude": "0.018",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "16.69",
+                "u_time": "MJD",
+                "time": "58441.733"
+            },
+            {
+                "e_magnitude": "0.03",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "17.108",
+                "u_time": "MJD",
+                "time": "58441.733"
+            },
+            {
+                "e_magnitude": "0.018",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "16.804",
+                "u_time": "MJD",
+                "time": "58441.735"
+            },
+            {
+                "e_magnitude": "0.019",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "16.735",
+                "u_time": "MJD",
+                "time": "58441.7361"
+            },
+            {
+                "e_magnitude": "0.014",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "16.742",
+                "u_time": "MJD",
+                "time": "58441.7369"
+            },
+            {
+                "e_magnitude": "0.09",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "v",
+                "magnitude": "16.64",
+                "u_time": "MJD",
+                "time": "58442.69"
+            },
+            {
+                "e_magnitude": "0.05",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "b",
+                "magnitude": "16.95",
+                "u_time": "MJD",
+                "time": "58442.69"
+            },
+            {
+                "e_magnitude": "0.05",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "u",
+                "magnitude": "16.1",
+                "u_time": "MJD",
+                "time": "58442.69"
+            },
+            {
+                "e_magnitude": "0.06",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "w1",
+                "magnitude": "16.71",
+                "u_time": "MJD",
+                "time": "58442.69"
+            },
+            {
+                "e_magnitude": "0.09",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "m2",
+                "magnitude": "17.56",
+                "u_time": "MJD",
+                "time": "58442.69"
+            },
+            {
+                "e_magnitude": "0.08",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "w2",
+                "magnitude": "17.99",
+                "u_time": "MJD",
+                "time": "58442.69"
+            },
+            {
+                "e_magnitude": "0.03",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "16.501",
+                "u_time": "MJD",
+                "time": "58446.563"
+            },
+            {
+                "e_magnitude": "0.053",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "16.909",
+                "u_time": "MJD",
+                "time": "58446.563"
+            },
+            {
+                "e_magnitude": "0.06",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "16.651",
+                "u_time": "MJD",
+                "time": "58446.568"
+            },
+            {
+                "e_magnitude": "0.091",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "16.435",
+                "u_time": "MJD",
+                "time": "58446.572"
+            },
+            {
+                "e_magnitude": "0.098",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "16.464",
+                "u_time": "MJD",
+                "time": "58446.576"
+            },
+            {
+                "e_magnitude": "0.08",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "v",
+                "magnitude": "16.58",
+                "u_time": "MJD",
+                "time": "58446.67"
+            },
+            {
+                "e_magnitude": "0.05",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "b",
+                "magnitude": "16.91",
+                "u_time": "MJD",
+                "time": "58446.67"
+            },
+            {
+                "e_magnitude": "0.04",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "u",
+                "magnitude": "16.01",
+                "u_time": "MJD",
+                "time": "58446.67"
+            },
+            {
+                "e_magnitude": "0.06",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "w1",
+                "magnitude": "16.82",
+                "u_time": "MJD",
+                "time": "58446.67"
+            },
+            {
+                "e_magnitude": "0.09",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "m2",
+                "magnitude": "17.8",
+                "u_time": "MJD",
+                "time": "58446.67"
+            },
+            {
+                "e_magnitude": "0.08",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "w2",
+                "magnitude": "18.06",
+                "u_time": "MJD",
+                "time": "58446.67"
+            },
+            {
+                "e_magnitude": "0.028",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "16.581",
+                "u_time": "MJD",
+                "time": "58446.729"
+            },
+            {
+                "e_magnitude": "0.032",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "17.008",
+                "u_time": "MJD",
+                "time": "58446.729"
+            },
+            {
+                "e_magnitude": "0.022",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "16.559",
+                "u_time": "MJD",
+                "time": "58447.596"
+            },
+            {
+                "e_magnitude": "0.037",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "16.912",
+                "u_time": "MJD",
+                "time": "58447.596"
+            },
+            {
+                "e_magnitude": "0.045",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "16.627",
+                "u_time": "MJD",
+                "time": "58447.6"
+            },
+            {
+                "e_magnitude": "0.087",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "16.533",
+                "u_time": "MJD",
+                "time": "58447.604"
+            },
+            {
+                "e_magnitude": "0.048",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "16.416",
+                "u_time": "MJD",
+                "time": "58447.608"
+            },
+            {
+                "e_magnitude": "0.07",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "v",
+                "magnitude": "16.45",
+                "u_time": "MJD",
+                "time": "58448.6"
+            },
+            {
+                "e_magnitude": "0.05",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "b",
+                "magnitude": "16.84",
+                "u_time": "MJD",
+                "time": "58448.6"
+            },
+            {
+                "e_magnitude": "0.04",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "u",
+                "magnitude": "15.9",
+                "u_time": "MJD",
+                "time": "58448.6"
+            },
+            {
+                "e_magnitude": "0.06",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "w1",
+                "magnitude": "16.83",
+                "u_time": "MJD",
+                "time": "58448.6"
+            },
+            {
+                "e_magnitude": "0.09",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "m2",
+                "magnitude": "17.69",
+                "u_time": "MJD",
+                "time": "58448.6"
+            },
+            {
+                "e_magnitude": "0.07",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "w2",
+                "magnitude": "18.0",
+                "u_time": "MJD",
+                "time": "58448.6"
+            },
+            {
+                "e_magnitude": "0.039",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "16.586",
+                "u_time": "MJD",
+                "time": "58448.746"
+            },
+            {
+                "e_magnitude": "0.04",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "16.966",
+                "u_time": "MJD",
+                "time": "58448.746"
+            },
+            {
+                "e_magnitude": "0.012",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "16.519",
+                "u_time": "MJD",
+                "time": "58448.7486"
+            },
+            {
+                "e_magnitude": "0.011",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "16.48",
+                "u_time": "MJD",
+                "time": "58448.7493"
+            },
+            {
+                "e_magnitude": "0.016",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "16.467",
+                "u_time": "MJD",
+                "time": "58449.577"
+            },
+            {
+                "e_magnitude": "0.022",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "16.883",
+                "u_time": "MJD",
+                "time": "58449.577"
+            },
+            {
+                "e_magnitude": "0.04",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "16.564",
+                "u_time": "MJD",
+                "time": "58449.582"
+            },
+            {
+                "e_magnitude": "0.042",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "16.488",
+                "u_time": "MJD",
+                "time": "58449.586"
+            },
+            {
+                "e_magnitude": "0.045",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "16.394",
+                "u_time": "MJD",
+                "time": "58449.59"
+            },
+            {
+                "e_magnitude": "0.043",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "16.511",
+                "u_time": "MJD",
+                "time": "58449.751"
+            },
+            {
+                "e_magnitude": "0.03",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "16.911",
+                "u_time": "MJD",
+                "time": "58449.751"
+            },
+            {
+                "e_magnitude": "0.038",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "16.56",
+                "u_time": "MJD",
+                "time": "58449.7528"
+            },
+            {
+                "e_magnitude": "0.018",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "16.508",
+                "u_time": "MJD",
+                "time": "58449.7538"
+            },
+            {
+                "e_magnitude": "0.008",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "16.49",
+                "u_time": "MJD",
+                "time": "58449.7545"
+            },
+            {
+                "e_magnitude": "0.07",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "v",
+                "magnitude": "16.39",
+                "u_time": "MJD",
+                "time": "58450.53"
+            },
+            {
+                "e_magnitude": "0.04",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "b",
+                "magnitude": "16.75",
+                "u_time": "MJD",
+                "time": "58450.53"
+            },
+            {
+                "e_magnitude": "0.04",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "u",
+                "magnitude": "15.95",
+                "u_time": "MJD",
+                "time": "58450.53"
+            },
+            {
+                "e_magnitude": "0.06",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "w1",
+                "magnitude": "16.8",
+                "u_time": "MJD",
+                "time": "58450.53"
+            },
+            {
+                "e_magnitude": "0.09",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "m2",
+                "magnitude": "17.73",
+                "u_time": "MJD",
+                "time": "58450.53"
+            },
+            {
+                "e_magnitude": "0.08",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "w2",
+                "magnitude": "18.08",
+                "u_time": "MJD",
+                "time": "58450.53"
+            },
+            {
+                "e_magnitude": "0.015",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "16.45",
+                "u_time": "MJD",
+                "time": "58450.58"
+            },
+            {
+                "e_magnitude": "0.02",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "16.857",
+                "u_time": "MJD",
+                "time": "58450.58"
+            },
+            {
+                "e_magnitude": "0.036",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "16.561",
+                "u_time": "MJD",
+                "time": "58450.585"
+            },
+            {
+                "e_magnitude": "0.048",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "16.447",
+                "u_time": "MJD",
+                "time": "58450.589"
+            },
+            {
+                "e_magnitude": "0.043",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "16.382",
+                "u_time": "MJD",
+                "time": "58450.593"
+            },
+            {
+                "e_magnitude": "0.015",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "16.43",
+                "u_time": "MJD",
+                "time": "58451.576"
+            },
+            {
+                "e_magnitude": "0.018",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "16.853",
+                "u_time": "MJD",
+                "time": "58451.576"
+            },
+            {
+                "e_magnitude": "0.036",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "16.555",
+                "u_time": "MJD",
+                "time": "58451.58"
+            },
+            {
+                "e_magnitude": "0.039",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "16.419",
+                "u_time": "MJD",
+                "time": "58451.584"
+            },
+            {
+                "e_magnitude": "0.03",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "16.361",
+                "u_time": "MJD",
+                "time": "58451.588"
+            },
+            {
+                "e_magnitude": "0.023",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "16.477",
+                "u_time": "MJD",
+                "time": "58451.716"
+            },
+            {
+                "e_magnitude": "0.028",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "16.888",
+                "u_time": "MJD",
+                "time": "58451.716"
+            },
+            {
+                "e_magnitude": "0.039",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "16.53",
+                "u_time": "MJD",
+                "time": "58451.7167"
+            },
+            {
+                "e_magnitude": "0.007",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "16.444",
+                "u_time": "MJD",
+                "time": "58451.7177"
+            },
+            {
+                "e_magnitude": "0.01",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "16.438",
+                "u_time": "MJD",
+                "time": "58451.7187"
+            },
+            {
+                "e_magnitude": "0.014",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "16.422",
+                "u_time": "MJD",
+                "time": "58452.59"
+            },
+            {
+                "e_magnitude": "0.018",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "16.843",
+                "u_time": "MJD",
+                "time": "58452.59"
+            },
+            {
+                "e_magnitude": "0.035",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "16.542",
+                "u_time": "MJD",
+                "time": "58452.594"
+            },
+            {
+                "e_magnitude": "0.03",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "16.425",
+                "u_time": "MJD",
+                "time": "58452.599"
+            },
+            {
+                "e_magnitude": "0.032",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "16.368",
+                "u_time": "MJD",
+                "time": "58452.603"
+            },
+            {
+                "e_magnitude": "0.07",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "v",
+                "magnitude": "16.32",
+                "u_time": "MJD",
+                "time": "58453.12"
+            },
+            {
+                "e_magnitude": "0.04",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "b",
+                "magnitude": "16.71",
+                "u_time": "MJD",
+                "time": "58453.12"
+            },
+            {
+                "e_magnitude": "0.04",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "u",
+                "magnitude": "15.85",
+                "u_time": "MJD",
+                "time": "58453.12"
+            },
+            {
+                "e_magnitude": "0.06",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "w1",
+                "magnitude": "16.8",
+                "u_time": "MJD",
+                "time": "58453.12"
+            },
+            {
+                "e_magnitude": "0.12",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "m2",
+                "magnitude": "17.95",
+                "u_time": "MJD",
+                "time": "58453.12"
+            },
+            {
+                "e_magnitude": "0.08",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "w2",
+                "magnitude": "18.21",
+                "u_time": "MJD",
+                "time": "58453.12"
+            },
+            {
+                "e_magnitude": "0.06",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "v",
+                "magnitude": "16.31",
+                "u_time": "MJD",
+                "time": "58454.25"
+            },
+            {
+                "e_magnitude": "0.04",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "b",
+                "magnitude": "16.75",
+                "u_time": "MJD",
+                "time": "58454.25"
+            },
+            {
+                "e_magnitude": "0.04",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "u",
+                "magnitude": "15.82",
+                "u_time": "MJD",
+                "time": "58454.25"
+            },
+            {
+                "e_magnitude": "0.06",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "w1",
+                "magnitude": "16.76",
+                "u_time": "MJD",
+                "time": "58454.25"
+            },
+            {
+                "e_magnitude": "0.1",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "m2",
+                "magnitude": "17.77",
+                "u_time": "MJD",
+                "time": "58454.25"
+            },
+            {
+                "e_magnitude": "0.08",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "w2",
+                "magnitude": "18.24",
+                "u_time": "MJD",
+                "time": "58454.25"
+            },
+            {
+                "e_magnitude": "0.017",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "16.379",
+                "u_time": "MJD",
+                "time": "58455.708"
+            },
+            {
+                "e_magnitude": "0.024",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "16.795",
+                "u_time": "MJD",
+                "time": "58455.708"
+            },
+            {
+                "e_magnitude": "0.054",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "16.495",
+                "u_time": "MJD",
+                "time": "58455.713"
+            },
+            {
+                "e_magnitude": "0.061",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "16.421",
+                "u_time": "MJD",
+                "time": "58455.717"
+            },
+            {
+                "e_magnitude": "0.066",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "16.296",
+                "u_time": "MJD",
+                "time": "58455.721"
+            },
+            {
+                "e_magnitude": "0.06",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "v",
+                "magnitude": "16.31",
+                "u_time": "MJD",
+                "time": "58456.51"
+            },
+            {
+                "e_magnitude": "0.04",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "b",
+                "magnitude": "16.71",
+                "u_time": "MJD",
+                "time": "58456.51"
+            },
+            {
+                "e_magnitude": "0.04",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "u",
+                "magnitude": "15.92",
+                "u_time": "MJD",
+                "time": "58456.51"
+            },
+            {
+                "e_magnitude": "0.06",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "w1",
+                "magnitude": "16.79",
+                "u_time": "MJD",
+                "time": "58456.51"
+            },
+            {
+                "e_magnitude": "0.1",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "m2",
+                "magnitude": "17.85",
+                "u_time": "MJD",
+                "time": "58456.51"
+            },
+            {
+                "e_magnitude": "0.08",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "w2",
+                "magnitude": "18.15",
+                "u_time": "MJD",
+                "time": "58456.51"
+            },
+            {
+                "e_magnitude": "0.02",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "16.399",
+                "u_time": "MJD",
+                "time": "58456.724"
+            },
+            {
+                "e_magnitude": "0.025",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "16.796",
+                "u_time": "MJD",
+                "time": "58456.724"
+            },
+            {
+                "e_magnitude": "0.045",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "16.454",
+                "u_time": "MJD",
+                "time": "58456.7253"
+            },
+            {
+                "e_magnitude": "0.006",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "16.391",
+                "u_time": "MJD",
+                "time": "58456.7264"
+            },
+            {
+                "e_magnitude": "0.008",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "16.345",
+                "u_time": "MJD",
+                "time": "58456.7272"
+            },
+            {
+                "e_magnitude": "0.017",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "16.398",
+                "u_time": "MJD",
+                "time": "58457.689"
+            },
+            {
+                "e_magnitude": "0.025",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "16.801",
+                "u_time": "MJD",
+                "time": "58457.689"
+            },
+            {
+                "e_magnitude": "0.042",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "16.45",
+                "u_time": "MJD",
+                "time": "58457.6902"
+            },
+            {
+                "e_magnitude": "0.009",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "16.389",
+                "u_time": "MJD",
+                "time": "58457.6914"
+            },
+            {
+                "e_magnitude": "0.007",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "16.341",
+                "u_time": "MJD",
+                "time": "58457.6921"
+            },
+            {
+                "e_magnitude": "0.016",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "16.35",
+                "u_time": "MJD",
+                "time": "58459.642"
+            },
+            {
+                "e_magnitude": "0.02",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "16.759",
+                "u_time": "MJD",
+                "time": "58459.642"
+            },
+            {
+                "e_magnitude": "0.038",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "16.471",
+                "u_time": "MJD",
+                "time": "58459.647"
+            },
+            {
+                "e_magnitude": "0.045",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "16.372",
+                "u_time": "MJD",
+                "time": "58459.651"
+            },
+            {
+                "e_magnitude": "0.046",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "16.238",
+                "u_time": "MJD",
+                "time": "58459.655"
+            },
+            {
+                "e_magnitude": "0.07",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "v",
+                "magnitude": "16.33",
+                "u_time": "MJD",
+                "time": "58459.74"
+            },
+            {
+                "e_magnitude": "0.05",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "b",
+                "magnitude": "16.74",
+                "u_time": "MJD",
+                "time": "58459.74"
+            },
+            {
+                "e_magnitude": "0.04",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "u",
+                "magnitude": "15.84",
+                "u_time": "MJD",
+                "time": "58459.74"
+            },
+            {
+                "e_magnitude": "0.09",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "w1",
+                "magnitude": "17.02",
+                "u_time": "MJD",
+                "time": "58459.74"
+            },
+            {
+                "e_magnitude": "0.08",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "m2",
+                "magnitude": "17.99",
+                "u_time": "MJD",
+                "time": "58459.74"
+            },
+            {
+                "e_magnitude": "0.09",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "w2",
+                "magnitude": "18.32",
+                "u_time": "MJD",
+                "time": "58459.74"
+            },
+            {
+                "e_magnitude": "0.07",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "v",
+                "magnitude": "16.31",
+                "u_time": "MJD",
+                "time": "58460.02"
+            },
+            {
+                "e_magnitude": "0.05",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "b",
+                "magnitude": "16.73",
+                "u_time": "MJD",
+                "time": "58460.02"
+            },
+            {
+                "e_magnitude": "0.05",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "u",
+                "magnitude": "15.88",
+                "u_time": "MJD",
+                "time": "58460.02"
+            },
+            {
+                "e_magnitude": "0.09",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "w1",
+                "magnitude": "16.92",
+                "u_time": "MJD",
+                "time": "58460.02"
+            },
+            {
+                "e_magnitude": "0.08",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "m2",
+                "magnitude": "18.02",
+                "u_time": "MJD",
+                "time": "58460.02"
+            },
+            {
+                "e_magnitude": "0.09",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "w2",
+                "magnitude": "18.21",
+                "u_time": "MJD",
+                "time": "58460.02"
+            },
+            {
+                "e_magnitude": "0.02",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "16.411",
+                "u_time": "MJD",
+                "time": "58460.708"
+            },
+            {
+                "e_magnitude": "0.029",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "16.803",
+                "u_time": "MJD",
+                "time": "58460.708"
+            },
+            {
+                "e_magnitude": "0.019",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "16.45",
+                "u_time": "MJD",
+                "time": "58460.7093"
+            },
+            {
+                "e_magnitude": "0.01",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "16.378",
+                "u_time": "MJD",
+                "time": "58460.7104"
+            },
+            {
+                "e_magnitude": "0.005",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "16.389",
+                "u_time": "MJD",
+                "time": "58460.7112"
+            },
+            {
+                "e_magnitude": "0.015",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "16.374",
+                "u_time": "MJD",
+                "time": "58461.631"
+            },
+            {
+                "e_magnitude": "0.019",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "16.78",
+                "u_time": "MJD",
+                "time": "58461.631"
+            },
+            {
+                "e_magnitude": "0.037",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "16.503",
+                "u_time": "MJD",
+                "time": "58461.636"
+            },
+            {
+                "e_magnitude": "0.041",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "16.351",
+                "u_time": "MJD",
+                "time": "58461.64"
+            },
+            {
+                "e_magnitude": "0.043",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "16.259",
+                "u_time": "MJD",
+                "time": "58461.644"
+            },
+            {
+                "e_magnitude": "0.014",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "16.379",
+                "u_time": "MJD",
+                "time": "58463.57"
+            },
+            {
+                "e_magnitude": "0.018",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "16.797",
+                "u_time": "MJD",
+                "time": "58463.57"
+            },
+            {
+                "e_magnitude": "0.042",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "16.476",
+                "u_time": "MJD",
+                "time": "58463.574"
+            },
+            {
+                "e_magnitude": "0.038",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "16.364",
+                "u_time": "MJD",
+                "time": "58463.578"
+            },
+            {
+                "e_magnitude": "0.052",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "16.268",
+                "u_time": "MJD",
+                "time": "58463.582"
+            },
+            {
+                "e_magnitude": "0.016",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "16.371",
+                "u_time": "MJD",
+                "time": "58464.543"
+            },
+            {
+                "e_magnitude": "0.02",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "16.789",
+                "u_time": "MJD",
+                "time": "58464.543"
+            },
+            {
+                "e_magnitude": "0.041",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "16.473",
+                "u_time": "MJD",
+                "time": "58464.547"
+            },
+            {
+                "e_magnitude": "0.057",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "16.341",
+                "u_time": "MJD",
+                "time": "58464.551"
+            },
+            {
+                "e_magnitude": "0.046",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "16.261",
+                "u_time": "MJD",
+                "time": "58464.555"
+            },
+            {
+                "e_magnitude": "0.07",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "v",
+                "magnitude": "16.29",
+                "u_time": "MJD",
+                "time": "58465.01"
+            },
+            {
+                "e_magnitude": "0.05",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "b",
+                "magnitude": "16.62",
+                "u_time": "MJD",
+                "time": "58465.01"
+            },
+            {
+                "e_magnitude": "0.05",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "u",
+                "magnitude": "15.91",
+                "u_time": "MJD",
+                "time": "58465.01"
+            },
+            {
+                "e_magnitude": "0.09",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "w1",
+                "magnitude": "17.21",
+                "u_time": "MJD",
+                "time": "58465.01"
+            },
+            {
+                "e_magnitude": "0.1",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "m2",
+                "magnitude": "18.19",
+                "u_time": "MJD",
+                "time": "58465.01"
+            },
+            {
+                "e_magnitude": "0.09",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "w2",
+                "magnitude": "18.36",
+                "u_time": "MJD",
+                "time": "58465.01"
+            },
+            {
+                "e_magnitude": "0.014",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "16.397",
+                "u_time": "MJD",
+                "time": "58465.566"
+            },
+            {
+                "e_magnitude": "0.018",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "16.806",
+                "u_time": "MJD",
+                "time": "58465.566"
+            },
+            {
+                "e_magnitude": "0.036",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "16.509",
+                "u_time": "MJD",
+                "time": "58465.57"
+            },
+            {
+                "e_magnitude": "0.035",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "16.37",
+                "u_time": "MJD",
+                "time": "58465.574"
+            },
+            {
+                "e_magnitude": "0.031",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "16.273",
+                "u_time": "MJD",
+                "time": "58465.578"
+            },
+            {
+                "e_magnitude": "0.016",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "16.411",
+                "u_time": "MJD",
+                "time": "58466.535"
+            },
+            {
+                "e_magnitude": "0.022",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "16.808",
+                "u_time": "MJD",
+                "time": "58466.535"
+            },
+            {
+                "e_magnitude": "0.04",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "16.536",
+                "u_time": "MJD",
+                "time": "58466.54"
+            },
+            {
+                "e_magnitude": "0.057",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "16.363",
+                "u_time": "MJD",
+                "time": "58466.544"
+            },
+            {
+                "e_magnitude": "0.049",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "16.281",
+                "u_time": "MJD",
+                "time": "58466.548"
+            },
+            {
+                "e_magnitude": "0.07",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "v",
+                "magnitude": "16.29",
+                "u_time": "MJD",
+                "time": "58467.45"
+            },
+            {
+                "e_magnitude": "0.05",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "b",
+                "magnitude": "16.62",
+                "u_time": "MJD",
+                "time": "58467.45"
+            },
+            {
+                "e_magnitude": "0.05",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "u",
+                "magnitude": "15.91",
+                "u_time": "MJD",
+                "time": "58467.45"
+            },
+            {
+                "e_magnitude": "0.09",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "w1",
+                "magnitude": "17.21",
+                "u_time": "MJD",
+                "time": "58467.45"
+            },
+            {
+                "e_magnitude": "0.1",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "m2",
+                "magnitude": "18.19",
+                "u_time": "MJD",
+                "time": "58467.45"
+            },
+            {
+                "e_magnitude": "0.1",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "w2",
+                "magnitude": "18.48",
+                "u_time": "MJD",
+                "time": "58467.45"
+            },
+            {
+                "e_magnitude": "0.019",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "16.388",
+                "u_time": "MJD",
+                "time": "58467.676"
+            },
+            {
+                "e_magnitude": "0.022",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "16.842",
+                "u_time": "MJD",
+                "time": "58467.676"
+            },
+            {
+                "e_magnitude": "0.05",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "16.509",
+                "u_time": "MJD",
+                "time": "58467.681"
+            },
+            {
+                "e_magnitude": "0.049",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "16.393",
+                "u_time": "MJD",
+                "time": "58467.685"
+            },
+            {
+                "e_magnitude": "0.049",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "16.275",
+                "u_time": "MJD",
+                "time": "58467.689"
+            },
+            {
+                "e_magnitude": "0.015",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "16.428",
+                "u_time": "MJD",
+                "time": "58468.585"
+            },
+            {
+                "e_magnitude": "0.022",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "16.872",
+                "u_time": "MJD",
+                "time": "58468.585"
+            },
+            {
+                "e_magnitude": "0.05",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "16.547",
+                "u_time": "MJD",
+                "time": "58468.589"
+            },
+            {
+                "e_magnitude": "0.014",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "16.407",
+                "u_time": "MJD",
+                "time": "58468.593"
+            },
+            {
+                "e_magnitude": "0.051",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "16.288",
+                "u_time": "MJD",
+                "time": "58468.597"
+            },
+            {
+                "e_magnitude": "0.018",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "16.433",
+                "u_time": "MJD",
+                "time": "58469.642"
+            },
+            {
+                "e_magnitude": "0.025",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "16.9",
+                "u_time": "MJD",
+                "time": "58469.642"
+            },
+            {
+                "e_magnitude": "0.07",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "16.581",
+                "u_time": "MJD",
+                "time": "58469.646"
+            },
+            {
+                "e_magnitude": "0.049",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "16.406",
+                "u_time": "MJD",
+                "time": "58469.65"
+            },
+            {
+                "e_magnitude": "0.059",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "16.271",
+                "u_time": "MJD",
+                "time": "58469.654"
+            },
+            {
+                "e_magnitude": "0.07",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "v",
+                "magnitude": "16.32",
+                "u_time": "MJD",
+                "time": "58474.02"
+            },
+            {
+                "e_magnitude": "0.05",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "b",
+                "magnitude": "16.92",
+                "u_time": "MJD",
+                "time": "58474.02"
+            },
+            {
+                "e_magnitude": "0.05",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "u",
+                "magnitude": "16.13",
+                "u_time": "MJD",
+                "time": "58474.02"
+            },
+            {
+                "e_magnitude": "0.1",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "w1",
+                "magnitude": "17.13",
+                "u_time": "MJD",
+                "time": "58474.02"
+            },
+            {
+                "e_magnitude": "0.09",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "m2",
+                "magnitude": "18.48",
+                "u_time": "MJD",
+                "time": "58474.02"
+            },
+            {
+                "e_magnitude": "0.1",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "w2",
+                "magnitude": "18.53",
+                "u_time": "MJD",
+                "time": "58474.02"
+            },
+            {
+                "e_magnitude": "0.022",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "16.46",
+                "u_time": "MJD",
+                "time": "58476.595"
+            },
+            {
+                "e_magnitude": "0.045",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "16.964",
+                "u_time": "MJD",
+                "time": "58476.595"
+            },
+            {
+                "e_magnitude": "0.057",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "16.435",
+                "u_time": "MJD",
+                "time": "58476.604"
+            },
+            {
+                "e_magnitude": "0.12",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "16.233",
+                "u_time": "MJD",
+                "time": "58476.608"
+            },
+            {
+                "e_magnitude": "0.1",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "v",
+                "magnitude": "16.44",
+                "u_time": "MJD",
+                "time": "58476.75"
+            },
+            {
+                "e_magnitude": "0.07",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "b",
+                "magnitude": "16.88",
+                "u_time": "MJD",
+                "time": "58476.75"
+            },
+            {
+                "e_magnitude": "0.06",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "u",
+                "magnitude": "16.16",
+                "u_time": "MJD",
+                "time": "58476.75"
+            },
+            {
+                "e_magnitude": "0.1",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "w1",
+                "magnitude": "17.4",
+                "u_time": "MJD",
+                "time": "58476.75"
+            },
+            {
+                "e_magnitude": "0.17",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "m2",
+                "magnitude": "18.57",
+                "u_time": "MJD",
+                "time": "58476.75"
+            },
+            {
+                "e_magnitude": "0.16",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "w2",
+                "magnitude": "18.94",
+                "u_time": "MJD",
+                "time": "58476.75"
+            },
+            {
+                "e_magnitude": "0.017",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "16.487",
+                "u_time": "MJD",
+                "time": "58477.584"
+            },
+            {
+                "e_magnitude": "0.026",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "16.955",
+                "u_time": "MJD",
+                "time": "58477.584"
+            },
+            {
+                "e_magnitude": "0.059",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "16.573",
+                "u_time": "MJD",
+                "time": "58477.588"
+            },
+            {
+                "e_magnitude": "0.065",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "16.441",
+                "u_time": "MJD",
+                "time": "58477.592"
+            },
+            {
+                "e_magnitude": "0.065",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "16.322",
+                "u_time": "MJD",
+                "time": "58477.596"
+            },
+            {
+                "e_magnitude": "0.017",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "16.492",
+                "u_time": "MJD",
+                "time": "58478.591"
+            },
+            {
+                "e_magnitude": "0.025",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "16.922",
+                "u_time": "MJD",
+                "time": "58478.591"
+            },
+            {
+                "e_magnitude": "0.041",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "16.657",
+                "u_time": "MJD",
+                "time": "58478.596"
+            },
+            {
+                "e_magnitude": "0.065",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "16.477",
+                "u_time": "MJD",
+                "time": "58478.6"
+            },
+            {
+                "e_magnitude": "0.056",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "16.276",
+                "u_time": "MJD",
+                "time": "58478.604"
+            },
+            {
+                "e_magnitude": "0.017",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "16.455",
+                "u_time": "MJD",
+                "time": "58479.559"
+            },
+            {
+                "e_magnitude": "0.022",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "16.957",
+                "u_time": "MJD",
+                "time": "58479.559"
+            },
+            {
+                "e_magnitude": "0.04",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "16.612",
+                "u_time": "MJD",
+                "time": "58479.564"
+            },
+            {
+                "e_magnitude": "0.053",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "16.438",
+                "u_time": "MJD",
+                "time": "58479.568"
+            },
+            {
+                "e_magnitude": "0.061",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "16.3",
+                "u_time": "MJD",
+                "time": "58479.572"
+            },
+            {
+                "e_magnitude": "0.016",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "16.478",
+                "u_time": "MJD",
+                "time": "58480.581"
+            },
+            {
+                "e_magnitude": "0.022",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "16.937",
+                "u_time": "MJD",
+                "time": "58480.581"
+            },
+            {
+                "e_magnitude": "0.042",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "16.645",
+                "u_time": "MJD",
+                "time": "58480.586"
+            },
+            {
+                "e_magnitude": "0.048",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "16.422",
+                "u_time": "MJD",
+                "time": "58480.59"
+            },
+            {
+                "e_magnitude": "0.067",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "16.28",
+                "u_time": "MJD",
+                "time": "58480.594"
+            },
+            {
+                "e_magnitude": "0.015",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "16.5",
+                "u_time": "MJD",
+                "time": "58481.584"
+            },
+            {
+                "e_magnitude": "0.02",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "16.95",
+                "u_time": "MJD",
+                "time": "58481.584"
+            },
+            {
+                "e_magnitude": "0.048",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "16.661",
+                "u_time": "MJD",
+                "time": "58481.589"
+            },
+            {
+                "e_magnitude": "0.037",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "16.471",
+                "u_time": "MJD",
+                "time": "58481.593"
+            },
+            {
+                "e_magnitude": "0.09",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "v",
+                "magnitude": "16.48",
+                "u_time": "MJD",
+                "time": "58482.52"
+            },
+            {
+                "e_magnitude": "0.06",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "b",
+                "magnitude": "16.79",
+                "u_time": "MJD",
+                "time": "58482.52"
+            },
+            {
+                "e_magnitude": "0.06",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "u",
+                "magnitude": "16.19",
+                "u_time": "MJD",
+                "time": "58482.52"
+            },
+            {
+                "e_magnitude": "0.12",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "w1",
+                "magnitude": "17.52",
+                "u_time": "MJD",
+                "time": "58482.52"
+            },
+            {
+                "e_magnitude": "0.16",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "m2",
+                "magnitude": "18.66",
+                "u_time": "MJD",
+                "time": "58482.52"
+            },
+            {
+                "e_magnitude": "0.16",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "w2",
+                "magnitude": "18.97",
+                "u_time": "MJD",
+                "time": "58482.52"
+            },
+            {
+                "e_magnitude": "0.014",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "16.507",
+                "u_time": "MJD",
+                "time": "58482.579"
+            },
+            {
+                "e_magnitude": "0.019",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "16.953",
+                "u_time": "MJD",
+                "time": "58482.579"
+            },
+            {
+                "e_magnitude": "0.029",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "16.643",
+                "u_time": "MJD",
+                "time": "58482.584"
+            },
+            {
+                "e_magnitude": "0.026",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "16.468",
+                "u_time": "MJD",
+                "time": "58482.588"
+            },
+            {
+                "e_magnitude": "0.037",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "16.323",
+                "u_time": "MJD",
+                "time": "58482.592"
+            },
+            {
+                "e_magnitude": "0.014",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "16.518",
+                "u_time": "MJD",
+                "time": "58484.565"
+            },
+            {
+                "e_magnitude": "0.018",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "17.003",
+                "u_time": "MJD",
+                "time": "58484.565"
+            },
+            {
+                "e_magnitude": "0.031",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "16.654",
+                "u_time": "MJD",
+                "time": "58484.57"
+            },
+            {
+                "e_magnitude": "0.034",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "16.459",
+                "u_time": "MJD",
+                "time": "58484.574"
+            },
+            {
+                "e_magnitude": "0.042",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "16.309",
+                "u_time": "MJD",
+                "time": "58484.578"
+            },
+            {
+                "e_magnitude": "0.09",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "v",
+                "magnitude": "16.48",
+                "u_time": "MJD",
+                "time": "58485.25"
+            },
+            {
+                "e_magnitude": "0.06",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "b",
+                "magnitude": "16.86",
+                "u_time": "MJD",
+                "time": "58485.25"
+            },
+            {
+                "e_magnitude": "0.06",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "u",
+                "magnitude": "16.31",
+                "u_time": "MJD",
+                "time": "58485.25"
+            },
+            {
+                "e_magnitude": "0.12",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "w1",
+                "magnitude": "17.75",
+                "u_time": "MJD",
+                "time": "58485.25"
+            },
+            {
+                "e_magnitude": "0.14",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "m2",
+                "magnitude": "18.87",
+                "u_time": "MJD",
+                "time": "58485.25"
+            },
+            {
+                "e_magnitude": "0.16",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "w2",
+                "magnitude": "18.94",
+                "u_time": "MJD",
+                "time": "58485.25"
+            },
+            {
+                "e_magnitude": "0.012",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "16.537",
+                "u_time": "MJD",
+                "time": "58485.571"
+            },
+            {
+                "e_magnitude": "0.023",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "17.034",
+                "u_time": "MJD",
+                "time": "58485.571"
+            },
+            {
+                "e_magnitude": "0.036",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "16.673",
+                "u_time": "MJD",
+                "time": "58485.576"
+            },
+            {
+                "e_magnitude": "0.031",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "16.497",
+                "u_time": "MJD",
+                "time": "58485.58"
+            },
+            {
+                "e_magnitude": "0.045",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "16.348",
+                "u_time": "MJD",
+                "time": "58485.584"
+            },
+            {
+                "e_magnitude": "0.017",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "16.517",
+                "u_time": "MJD",
+                "time": "58486.605"
+            },
+            {
+                "e_magnitude": "0.024",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "17.033",
+                "u_time": "MJD",
+                "time": "58486.605"
+            },
+            {
+                "e_magnitude": "0.041",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "16.682",
+                "u_time": "MJD",
+                "time": "58486.609"
+            },
+            {
+                "e_magnitude": "0.058",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "16.469",
+                "u_time": "MJD",
+                "time": "58486.613"
+            },
+            {
+                "e_magnitude": "0.053",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "16.344",
+                "u_time": "MJD",
+                "time": "58486.617"
+            },
+            {
+                "e_magnitude": "0.048",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "16.49",
+                "u_time": "MJD",
+                "time": "58487.565"
+            },
+            {
+                "e_magnitude": "0.048",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "16.935",
+                "u_time": "MJD",
+                "time": "58487.565"
+            },
+            {
+                "e_magnitude": "0.088",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "16.781",
+                "u_time": "MJD",
+                "time": "58487.569"
+            },
+            {
+                "e_magnitude": "0.017",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "16.562",
+                "u_time": "MJD",
+                "time": "58489.608"
+            },
+            {
+                "e_magnitude": "0.022",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "17.035",
+                "u_time": "MJD",
+                "time": "58489.608"
+            },
+            {
+                "e_magnitude": "0.04",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "16.718",
+                "u_time": "MJD",
+                "time": "58489.612"
+            },
+            {
+                "e_magnitude": "0.043",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "16.506",
+                "u_time": "MJD",
+                "time": "58489.616"
+            },
+            {
+                "e_magnitude": "0.048",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "16.372",
+                "u_time": "MJD",
+                "time": "58489.646"
+            },
+            {
+                "e_magnitude": "0.019",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "16.544",
+                "u_time": "MJD",
+                "time": "58490.665"
+            },
+            {
+                "e_magnitude": "0.027",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "17.044",
+                "u_time": "MJD",
+                "time": "58490.665"
+            },
+            {
+                "e_magnitude": "0.052",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "16.743",
+                "u_time": "MJD",
+                "time": "58490.67"
+            },
+            {
+                "e_magnitude": "0.064",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "16.5",
+                "u_time": "MJD",
+                "time": "58490.673"
+            },
+            {
+                "e_magnitude": "0.077",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "16.337",
+                "u_time": "MJD",
+                "time": "58490.677"
+            },
+            {
+                "e_magnitude": "0.08",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "v",
+                "magnitude": "16.56",
+                "u_time": "MJD",
+                "time": "58491.77"
+            },
+            {
+                "e_magnitude": "0.05",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "b",
+                "magnitude": "17.0",
+                "u_time": "MJD",
+                "time": "58491.77"
+            },
+            {
+                "e_magnitude": "0.06",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "u",
+                "magnitude": "16.48",
+                "u_time": "MJD",
+                "time": "58491.77"
+            },
+            {
+                "e_magnitude": "0.11",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "w1",
+                "magnitude": "17.92",
+                "u_time": "MJD",
+                "time": "58491.77"
+            },
+            {
+                "e_magnitude": "0.12",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "m2",
+                "magnitude": "19.06",
+                "u_time": "MJD",
+                "time": "58491.77"
+            },
+            {
+                "e_magnitude": "0.15",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "w2",
+                "magnitude": "19.29",
+                "u_time": "MJD",
+                "time": "58491.77"
+            },
+            {
+                "e_magnitude": "0.018",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "16.61",
+                "u_time": "MJD",
+                "time": "58492.606"
+            },
+            {
+                "e_magnitude": "0.025",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "17.121",
+                "u_time": "MJD",
+                "time": "58492.606"
+            },
+            {
+                "e_magnitude": "0.027",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "16.746",
+                "u_time": "MJD",
+                "time": "58492.6071"
+            },
+            {
+                "e_magnitude": "0.007",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "16.561",
+                "u_time": "MJD",
+                "time": "58492.6085"
+            },
+            {
+                "e_magnitude": "0.005",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "16.508",
+                "u_time": "MJD",
+                "time": "58492.6093"
+            },
+            {
+                "e_magnitude": "0.09",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "v",
+                "magnitude": "16.54",
+                "u_time": "MJD",
+                "time": "58496.35"
+            },
+            {
+                "e_magnitude": "0.06",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "b",
+                "magnitude": "17.16",
+                "u_time": "MJD",
+                "time": "58496.35"
+            },
+            {
+                "e_magnitude": "0.06",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "u",
+                "magnitude": "16.62",
+                "u_time": "MJD",
+                "time": "58496.35"
+            },
+            {
+                "e_magnitude": "0.12",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "w1",
+                "magnitude": "17.78",
+                "u_time": "MJD",
+                "time": "58496.35"
+            },
+            {
+                "e_magnitude": "0.24",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "m2",
+                "magnitude": "19.61",
+                "u_time": "MJD",
+                "time": "58496.35"
+            },
+            {
+                "e_magnitude": "0.17",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "w2",
+                "magnitude": "19.42",
+                "u_time": "MJD",
+                "time": "58496.35"
+            },
+            {
+                "e_magnitude": "0.019",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "16.624",
+                "u_time": "MJD",
+                "time": "58496.641"
+            },
+            {
+                "e_magnitude": "0.026",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "17.153",
+                "u_time": "MJD",
+                "time": "58496.641"
+            },
+            {
+                "e_magnitude": "0.028",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "16.807",
+                "u_time": "MJD",
+                "time": "58496.646"
+            },
+            {
+                "e_magnitude": "0.047",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "16.57",
+                "u_time": "MJD",
+                "time": "58496.65"
+            },
+            {
+                "e_magnitude": "0.062",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "16.411",
+                "u_time": "MJD",
+                "time": "58496.654"
+            },
+            {
+                "e_magnitude": "0.037",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "16.637",
+                "u_time": "MJD",
+                "time": "58497.641"
+            },
+            {
+                "e_magnitude": "0.028",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "17.188",
+                "u_time": "MJD",
+                "time": "58497.641"
+            },
+            {
+                "e_magnitude": "0.032",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "16.696",
+                "u_time": "MJD",
+                "time": "58498.58"
+            },
+            {
+                "e_magnitude": "0.064",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "17.279",
+                "u_time": "MJD",
+                "time": "58498.58"
+            },
+            {
+                "e_magnitude": "0.052",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "16.989",
+                "u_time": "MJD",
+                "time": "58498.584"
+            },
+            {
+                "e_magnitude": "0.093",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "16.626",
+                "u_time": "MJD",
+                "time": "58498.588"
+            },
+            {
+                "e_magnitude": "0.135",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "17.349",
+                "u_time": "MJD",
+                "time": "58499.521"
+            },
+            {
+                "e_magnitude": "0.03",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "16.716",
+                "u_time": "MJD",
+                "time": "58501.516"
+            },
+            {
+                "e_magnitude": "0.052",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "17.218",
+                "u_time": "MJD",
+                "time": "58501.516"
+            },
+            {
+                "e_magnitude": "0.038",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "17.009",
+                "u_time": "MJD",
+                "time": "58501.521"
+            },
+            {
+                "e_magnitude": "0.065",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "16.587",
+                "u_time": "MJD",
+                "time": "58501.525"
+            },
+            {
+                "e_magnitude": "0.052",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "16.489",
+                "u_time": "MJD",
+                "time": "58501.529"
+            },
+            {
+                "e_magnitude": "0.037",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "16.737",
+                "u_time": "MJD",
+                "time": "58503.506"
+            },
+            {
+                "e_magnitude": "0.087",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "17.17",
+                "u_time": "MJD",
+                "time": "58503.506"
+            },
+            {
+                "e_magnitude": "0.045",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "17.026",
+                "u_time": "MJD",
+                "time": "58503.511"
+            },
+            {
+                "e_magnitude": "0.13",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "16.703",
+                "u_time": "MJD",
+                "time": "58503.516"
+            },
+            {
+                "e_magnitude": "0.022",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "16.745",
+                "u_time": "MJD",
+                "time": "58504.501"
+            },
+            {
+                "e_magnitude": "0.049",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "17.383",
+                "u_time": "MJD",
+                "time": "58504.501"
+            },
+            {
+                "e_magnitude": "0.048",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "17.01",
+                "u_time": "MJD",
+                "time": "58504.506"
+            },
+            {
+                "e_magnitude": "0.045",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "16.706",
+                "u_time": "MJD",
+                "time": "58504.51"
+            },
+            {
+                "e_magnitude": "0.052",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "16.526",
+                "u_time": "MJD",
+                "time": "58504.515"
+            },
+            {
+                "e_magnitude": "0.17",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "v",
+                "magnitude": "16.76",
+                "u_time": "MJD",
+                "time": "58504.78"
+            },
+            {
+                "e_magnitude": "0.12",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "b",
+                "magnitude": "17.36",
+                "u_time": "MJD",
+                "time": "58504.78"
+            },
+            {
+                "e_magnitude": "0.13",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "u",
+                "magnitude": "16.9",
+                "u_time": "MJD",
+                "time": "58504.78"
+            },
+            {
+                "e_magnitude": "0.13",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "w1",
+                "magnitude": "18.27",
+                "u_time": "MJD",
+                "time": "58504.78"
+            },
+            {
+                "e_magnitude": "0.43",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "m2",
+                "magnitude": "19.89",
+                "u_time": "MJD",
+                "time": "58504.78"
+            },
+            {
+                "e_magnitude": "0.37",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "w2",
+                "magnitude": "19.69",
+                "u_time": "MJD",
+                "time": "58504.78"
+            },
+            {
+                "e_magnitude": "0.08",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "v",
+                "magnitude": "16.61",
+                "u_time": "MJD",
+                "time": "58508.44"
+            },
+            {
+                "e_magnitude": "0.06",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "b",
+                "magnitude": "17.4",
+                "u_time": "MJD",
+                "time": "58508.44"
+            },
+            {
+                "e_magnitude": "0.07",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "u",
+                "magnitude": "17.13",
+                "u_time": "MJD",
+                "time": "58508.44"
+            },
+            {
+                "e_magnitude": "0.25",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "w1",
+                "magnitude": "18.62",
+                "u_time": "MJD",
+                "time": "58508.44"
+            },
+            {
+                "e_magnitude": "0.23",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "m2",
+                "magnitude": "20.03",
+                "u_time": "MJD",
+                "time": "58508.44"
+            },
+            {
+                "e_magnitude": "0.2",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "w2",
+                "magnitude": "19.77",
+                "u_time": "MJD",
+                "time": "58508.44"
+            },
+            {
+                "e_magnitude": "0.013",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "16.885",
+                "u_time": "MJD",
+                "time": "58511.492"
+            },
+            {
+                "e_magnitude": "0.023",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "17.539",
+                "u_time": "MJD",
+                "time": "58511.492"
+            },
+            {
+                "e_magnitude": "0.037",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "17.113",
+                "u_time": "MJD",
+                "time": "58511.497"
+            },
+            {
+                "e_magnitude": "0.025",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "16.802",
+                "u_time": "MJD",
+                "time": "58511.501"
+            },
+            {
+                "e_magnitude": "0.032",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "16.651",
+                "u_time": "MJD",
+                "time": "58511.505"
+            },
+            {
+                "e_magnitude": "0.08",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "v",
+                "magnitude": "16.74",
+                "u_time": "MJD",
+                "time": "58512.4"
+            },
+            {
+                "e_magnitude": "0.07",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "b",
+                "magnitude": "17.52",
+                "u_time": "MJD",
+                "time": "58512.4"
+            },
+            {
+                "e_magnitude": "0.08",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "u",
+                "magnitude": "17.22",
+                "u_time": "MJD",
+                "time": "58512.4"
+            },
+            {
+                "e_magnitude": "0.16",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "w1",
+                "magnitude": "18.95",
+                "u_time": "MJD",
+                "time": "58512.4"
+            },
+            {
+                "e_magnitude": "0.3",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "m2",
+                "magnitude": "20.4",
+                "u_time": "MJD",
+                "time": "58512.4"
+            },
+            {
+                "e_magnitude": "0.2",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "w2",
+                "magnitude": "19.78",
+                "u_time": "MJD",
+                "time": "58512.4"
+            },
+            {
+                "e_magnitude": "0.054",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "16.966",
+                "u_time": "MJD",
+                "time": "58513.515"
+            },
+            {
+                "e_magnitude": "0.099",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "17.519",
+                "u_time": "MJD",
+                "time": "58513.515"
+            },
+            {
+                "e_magnitude": "0.071",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "17.198",
+                "u_time": "MJD",
+                "time": "58513.52"
+            },
+            {
+                "e_magnitude": "0.098",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "16.809",
+                "u_time": "MJD",
+                "time": "58513.524"
+            },
+            {
+                "e_magnitude": "0.066",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "16.669",
+                "u_time": "MJD",
+                "time": "58513.528"
+            },
+            {
+                "e_magnitude": "0.02",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "16.904",
+                "u_time": "MJD",
+                "time": "58514.521"
+            },
+            {
+                "e_magnitude": "0.029",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "17.643",
+                "u_time": "MJD",
+                "time": "58514.521"
+            },
+            {
+                "e_magnitude": "0.047",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "17.191",
+                "u_time": "MJD",
+                "time": "58514.525"
+            },
+            {
+                "e_magnitude": "0.036",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "16.877",
+                "u_time": "MJD",
+                "time": "58514.53"
+            },
+            {
+                "e_magnitude": "0.051",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "16.64",
+                "u_time": "MJD",
+                "time": "58514.534"
+            },
+            {
+                "e_magnitude": "0.022",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "16.926",
+                "u_time": "MJD",
+                "time": "58515.617"
+            },
+            {
+                "e_magnitude": "0.037",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "17.645",
+                "u_time": "MJD",
+                "time": "58515.617"
+            },
+            {
+                "e_magnitude": "0.048",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "17.225",
+                "u_time": "MJD",
+                "time": "58515.622"
+            },
+            {
+                "e_magnitude": "0.076",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "16.864",
+                "u_time": "MJD",
+                "time": "58515.626"
+            },
+            {
+                "e_magnitude": "0.07",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "16.635",
+                "u_time": "MJD",
+                "time": "58515.631"
+            },
+            {
+                "e_magnitude": "0.09",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "v",
+                "magnitude": "16.81",
+                "u_time": "MJD",
+                "time": "58516.26"
+            },
+            {
+                "e_magnitude": "0.08",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "b",
+                "magnitude": "17.57",
+                "u_time": "MJD",
+                "time": "58516.26"
+            },
+            {
+                "e_magnitude": "0.09",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "u",
+                "magnitude": "17.34",
+                "u_time": "MJD",
+                "time": "58516.26"
+            },
+            {
+                "e_magnitude": "0.17",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "w1",
+                "magnitude": "19.02",
+                "u_time": "MJD",
+                "time": "58516.26"
+            },
+            {
+                "e_magnitude": "0.49",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "m2",
+                "magnitude": "20.98",
+                "u_time": "MJD",
+                "time": "58516.26"
+            },
+            {
+                "e_magnitude": "0.32",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "w2",
+                "magnitude": "20.32",
+                "u_time": "MJD",
+                "time": "58516.26"
+            },
+            {
+                "e_magnitude": "0.039",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "17.018",
+                "u_time": "MJD",
+                "time": "58516.537"
+            },
+            {
+                "e_magnitude": "0.027",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "17.72",
+                "u_time": "MJD",
+                "time": "58516.537"
+            },
+            {
+                "e_magnitude": "0.023",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "17.276",
+                "u_time": "MJD",
+                "time": "58516.5385"
+            },
+            {
+                "e_magnitude": "0.005",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "16.94",
+                "u_time": "MJD",
+                "time": "58516.5401"
+            },
+            {
+                "e_magnitude": "0.008",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "16.828",
+                "u_time": "MJD",
+                "time": "58516.5412"
+            },
+            {
+                "e_magnitude": "0.03",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "17.115",
+                "u_time": "MJD",
+                "time": "58525.485"
+            },
+            {
+                "e_magnitude": "0.062",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "17.905",
+                "u_time": "MJD",
+                "time": "58525.485"
+            },
+            {
+                "e_magnitude": "0.06",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "17.511",
+                "u_time": "MJD",
+                "time": "58525.49"
+            },
+            {
+                "e_magnitude": "0.05",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "16.999",
+                "u_time": "MJD",
+                "time": "58525.494"
+            },
+            {
+                "e_magnitude": "0.085",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "16.816",
+                "u_time": "MJD",
+                "time": "58525.498"
+            },
+            {
+                "e_magnitude": "0.026",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "17.24",
+                "u_time": "MJD",
+                "time": "58528.501"
+            },
+            {
+                "e_magnitude": "0.037",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "17.345",
+                "u_time": "MJD",
+                "time": "58534.527"
+            },
+            {
+                "e_magnitude": "0.078",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "18.096",
+                "u_time": "MJD",
+                "time": "58534.527"
+            },
+            {
+                "e_magnitude": "0.055",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "17.361",
+                "u_time": "MJD",
+                "time": "58534.537"
+            },
+            {
+                "e_magnitude": "0.05",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "17.033",
+                "u_time": "MJD",
+                "time": "58534.541"
+            },
+            {
+                "e_magnitude": "0.033",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "17.438",
+                "u_time": "MJD",
+                "time": "58537.493"
+            },
+            {
+                "e_magnitude": "0.063",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "18.274",
+                "u_time": "MJD",
+                "time": "58537.493"
+            },
+            {
+                "e_magnitude": "0.056",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "17.791",
+                "u_time": "MJD",
+                "time": "58537.499"
+            },
+            {
+                "e_magnitude": "0.051",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "17.419",
+                "u_time": "MJD",
+                "time": "58537.503"
+            },
+            {
+                "e_magnitude": "0.036",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "17.461",
+                "u_time": "MJD",
+                "time": "58539.493"
+            },
+            {
+                "e_magnitude": "0.074",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "18.235",
+                "u_time": "MJD",
+                "time": "58539.493"
+            },
+            {
+                "e_magnitude": "0.034",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "17.854",
+                "u_time": "MJD",
+                "time": "58539.498"
+            },
+            {
+                "e_magnitude": "0.071",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "17.437",
+                "u_time": "MJD",
+                "time": "58539.503"
+            },
+            {
+                "e_magnitude": "0.061",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "17.118",
+                "u_time": "MJD",
+                "time": "58539.508"
+            },
+            {
+                "e_magnitude": "0.03",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "17.667",
+                "u_time": "MJD",
+                "time": "58548.47"
+            },
+            {
+                "e_magnitude": "0.069",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "18.487",
+                "u_time": "MJD",
+                "time": "58548.47"
+            },
+            {
+                "e_magnitude": "0.055",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "18.067",
+                "u_time": "MJD",
+                "time": "58548.476"
+            },
+            {
+                "e_magnitude": "0.031",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "17.585",
+                "u_time": "MJD",
+                "time": "58548.481"
+            },
+            {
+                "e_magnitude": "0.035",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "17.375",
+                "u_time": "MJD",
+                "time": "58548.485"
+            },
+            {
+                "e_magnitude": "0.069",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "17.824",
+                "u_time": "MJD",
+                "time": "58556.548"
+            },
+            {
+                "e_magnitude": "0.066",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "18.571",
+                "u_time": "MJD",
+                "time": "58556.548"
+            },
+            {
+                "e_magnitude": "0.21",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "v",
+                "magnitude": "17.76",
+                "u_time": "MJD",
+                "time": "58559.69"
+            },
+            {
+                "e_magnitude": "0.24",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "b",
+                "magnitude": "18.84",
+                "u_time": "MJD",
+                "time": "58559.69"
+            },
+            {
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "u",
+                "magnitude": "19.4",
+                "u_time": "MJD",
+                "time": "58559.69",
+                "upperlimit": "true"
+            },
+            {
+                "e_magnitude": "0.45",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "w1",
+                "magnitude": "20.4",
+                "u_time": "MJD",
+                "time": "58559.69"
+            },
+            {
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "m2",
+                "magnitude": "21.0",
+                "u_time": "MJD",
+                "time": "58559.69",
+                "upperlimit": "true"
+            },
+            {
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "w2",
+                "magnitude": "20.9",
+                "u_time": "MJD",
+                "time": "58559.69",
+                "upperlimit": "true"
+            },
+            {
+                "e_magnitude": "0.127",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "17.665",
+                "u_time": "MJD",
+                "time": "58567.467"
+            },
+            {
+                "e_magnitude": "0.084",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "17.794",
+                "u_time": "MJD",
+                "time": "58567.471"
+            },
+            {
+                "e_magnitude": "0.11",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "18.798",
+                "u_time": "MJD",
+                "time": "58567.477"
+            },
+            {
+                "e_magnitude": "0.28",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "v",
+                "magnitude": "17.6",
+                "u_time": "MJD",
+                "time": "58569.78"
+            },
+            {
+                "e_magnitude": "0.32",
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "b",
+                "magnitude": "18.73",
+                "u_time": "MJD",
+                "time": "58569.78"
+            },
+            {
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "u",
+                "magnitude": "18.9",
+                "u_time": "MJD",
+                "time": "58569.78",
+                "upperlimit": "true"
+            },
+            {
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "m2",
+                "magnitude": "20.7",
+                "u_time": "MJD",
+                "time": "58569.78",
+                "upperlimit": "true"
+            },
+            {
+                "telescope": "Swift",
+                "source": "1",
+                "system": "Vega",
+                "band": "w2",
+                "magnitude": "20.4",
+                "u_time": "MJD",
+                "time": "58569.78",
+                "upperlimit": "true"
+            },
+            {
+                "e_magnitude": "0.047",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "Vega",
+                "band": "V",
+                "magnitude": "18.282",
+                "u_time": "MJD",
+                "time": "58570.518"
+            },
+            {
+                "e_magnitude": "0.103",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "Vega",
+                "band": "B",
+                "magnitude": "19.126",
+                "u_time": "MJD",
+                "time": "58570.518"
+            },
+            {
+                "e_magnitude": "0.377",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "18.893",
+                "u_time": "MJD",
+                "time": "58570.5198"
+            },
+            {
+                "e_magnitude": "0.038",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "18.174",
+                "u_time": "MJD",
+                "time": "58570.5214"
+            },
+            {
+                "e_magnitude": "0.041",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "18.119",
+                "u_time": "MJD",
+                "time": "58570.5227"
+            },
+            {
+                "e_magnitude": "0.089",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "17.733",
+                "u_time": "MJD",
+                "time": "58572.473"
+            },
+            {
+                "e_magnitude": "0.071",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "20.468",
+                "u_time": "MJD",
+                "time": "58728.849"
+            },
+            {
+                "e_magnitude": "0.063",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "19.316",
+                "u_time": "MJD",
+                "time": "58728.853"
+            },
+            {
+                "e_magnitude": "0.077",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "19.245",
+                "u_time": "MJD",
+                "time": "58729.831"
+            },
+            {
+                "e_magnitude": "0.064",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "20.728",
+                "u_time": "MJD",
+                "time": "58732.793"
+            },
+            {
+                "e_magnitude": "0.054",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "19.517",
+                "u_time": "MJD",
+                "time": "58732.798"
+            },
+            {
+                "e_magnitude": "0.067",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "19.279",
+                "u_time": "MJD",
+                "time": "58732.802"
+            },
+            {
+                "e_magnitude": "0.103",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "19.721",
+                "u_time": "MJD",
+                "time": "58749.719"
+            },
+            {
+                "e_magnitude": "0.095",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "19.332",
+                "u_time": "MJD",
+                "time": "58749.724"
+            },
+            {
+                "e_magnitude": "0.084",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "19.769",
+                "u_time": "MJD",
+                "time": "58752.858"
+            },
+            {
+                "e_magnitude": "0.089",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "19.504",
+                "u_time": "MJD",
+                "time": "58752.863"
+            },
+            {
+                "e_magnitude": "0.115",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "19.391",
+                "u_time": "MJD",
+                "time": "58756.844"
+            },
+            {
+                "e_magnitude": "0.146",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "19.787",
+                "u_time": "MJD",
+                "time": "58757.692"
+            },
+            {
+                "e_magnitude": "0.121",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "21.108",
+                "u_time": "MJD",
+                "time": "58758.706"
+            },
+            {
+                "e_magnitude": "0.069",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "19.499",
+                "u_time": "MJD",
+                "time": "58758.711"
+            },
+            {
+                "e_magnitude": "0.082",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "19.262",
+                "u_time": "MJD",
+                "time": "58758.716"
+            },
+            {
+                "e_magnitude": "0.118",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "19.392",
+                "u_time": "MJD",
+                "time": "58764.67"
+            },
+            {
+                "e_magnitude": "0.14",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "21.049",
+                "u_time": "MJD",
+                "time": "58782.834"
+            },
+            {
+                "e_magnitude": "0.129",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "21.318",
+                "u_time": "MJD",
+                "time": "58787.757"
+            },
+            {
+                "e_magnitude": "0.076",
+                "telescope": "TNT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "19.687",
+                "u_time": "MJD",
+                "time": "58787.762"
+            },
+            {
+                "e_magnitude": "0.095",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "AB",
+                "band": "g",
+                "magnitude": "21.33",
+                "u_time": "MJD",
+                "time": "58809.647"
+            },
+            {
+                "e_magnitude": "0.062",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "AB",
+                "band": "r",
+                "magnitude": "19.998",
+                "u_time": "MJD",
+                "time": "58809.655"
+            },
+            {
+                "e_magnitude": "0.061",
+                "telescope": "LJT",
+                "source": "1",
+                "system": "AB",
+                "band": "i",
+                "magnitude": "20.71",
+                "u_time": "MJD",
+                "time": "58809.658"
+            }
+        ],
+        "redshift": [
+            {
+                "source": "1",
+                "value": "0.0612"
+            }
+        ],
+        "name": "SN2018hti",
+        "alias": [
+            {
+                "source": "1",
+                "value": "SN2018hti"
+            }
+        ]
+    }
+}
